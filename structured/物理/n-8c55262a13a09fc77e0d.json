@@ -1,0 +1,554 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-c3b14d69f8de36f38e67"
+      ],
+      "text": "重力是由于地球的吸引而使物体受到的力，方向竖直向下。原文提醒：重力不是物体受到的万有引力。",
+      "title": "重力",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-c3b14d69f8de36f38e67"
+      ],
+      "text": "物体的各部分都受到重力作用，从效果上看，可以认为各部分受到的重力作用集中于一点，这一点叫作重心。重心位置不一定在物体上。",
+      "title": "重心",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-b4100c169ef391b240d7"
+      ],
+      "text": "发生形变的物体要恢复原状，对与它接触的物体产生的力称为弹力。产生条件为物体间直接接触，且接触处发生弹性形变。",
+      "title": "弹力及其产生条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-e73c0e41da6f0dd623d2"
+      ],
+      "text": "静摩擦力的产生条件为接触面粗糙、接触面上有压力，且物体间有相对运动趋势。方向与相对运动趋势方向相反。",
+      "title": "静摩擦力",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-e73c0e41da6f0dd623d2"
+      ],
+      "text": "滑动摩擦力的产生条件为接触面粗糙、接触面上有压力，且物体间有相对运动。方向与相对运动方向相反。",
+      "title": "滑动摩擦力",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-c3b14d69f8de36f38e67"
+      ],
+      "text": "重力大小的公式为 $G=mg$。海拔越高 $g$ 越小；纬度越高 $g$ 越大。",
+      "title": "重力大小与重力加速度的变化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-b4100c169ef391b240d7"
+      ],
+      "text": "弹力方向总是与施力物体形变的方向相反。面与面接触时垂直公共接触面；点与面接触时过点垂直于面；点与点接触时垂直于切面。轻绳弹力沿绳收缩方向；轻杆弹力可沿杆，也可不沿杆。",
+      "title": "弹力方向与常见模型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-654bf01e26815779cb52"
+      ],
+      "text": "弹簧串联时，$\\dfrac{1}{k_{\\text{串}}}=\\dfrac{1}{k_1}+\\dfrac{1}{k_2}+\\cdots+\\dfrac{1}{k_n}$。串联后弹簧的等效劲度系数更小。",
+      "title": "串联弹簧的等效劲度系数",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-654bf01e26815779cb52"
+      ],
+      "text": "弹簧并联时，$k_{\\text{并}}=k_1+k_2+\\cdots+k_n$。并联后弹簧的等效劲度系数更大。",
+      "title": "并联弹簧的等效劲度系数",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-e73c0e41da6f0dd623d2"
+      ],
+      "text": "存在静摩擦力时，其大小范围为 $0<f_{\\text{静}}\\leqslant f_{\\max}$。",
+      "title": "静摩擦力的大小范围",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-e73c0e41da6f0dd623d2"
+      ],
+      "text": "滑动摩擦力大小为 $f_{\\text{滑}}=\\mu F_{\\mathrm N}$。",
+      "title": "滑动摩擦力的大小",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-e73c0e41da6f0dd623d2"
+      ],
+      "text": "有摩擦力一定有弹力，有弹力不一定有摩擦力。",
+      "title": "摩擦力与弹力的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-668edf086bd2a19d0e14"
+      ],
+      "text": "滑块放在粗糙水平面上，作用在滑块上的水平力 $F$ 从 $0$ 逐渐增大。当滑块开始滑动时，所受摩擦力由静摩擦力突变为滑动摩擦力，方向不变。",
+      "title": "摩擦力的“静→动”突变",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-668edf086bd2a19d0e14"
+      ],
+      "text": "滑块以 $v_0$ 冲上斜面做减速运动，速度减为 $0$ 后静止在斜面上，滑动摩擦力突变为静摩擦力，方向相反。",
+      "title": "摩擦力的“动→静”突变",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-668edf086bd2a19d0e14"
+      ],
+      "text": "在水平力 $F$ 作用下滑块静止于斜面上，$F$ 突然增大时若滑块仍静止，则所受静摩擦力可能在大小或方向上发生突变。",
+      "title": "摩擦力的“静→静”突变",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l11",
+      "source_node_ids": [
+        "n-668edf086bd2a19d0e14"
+      ],
+      "text": "水平传送带与滑块均向右运动，传送带速度 $v_1$ 大于滑块速度 $v_2$ 时，滑块所受滑动摩擦力方向水平向右；传送带突然被卡住时，滑块所受滑动摩擦力方向突变为向左。",
+      "title": "摩擦力的“动→动”突变",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-c3b14d69f8de36f38e67"
+      ],
+      "text": "用悬挂法确定不规则薄板形物体的重心。原文未展开操作步骤。",
+      "title": "悬挂法确定重心",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-b4100c169ef391b240d7"
+      ],
+      "text": "适用于形变较明显的情况。根据物体间直接接触、接触处发生弹性形变这两个弹力产生条件直接判断。",
+      "title": "条件法判断弹力有无",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-b4100c169ef391b240d7"
+      ],
+      "text": "适用于形变不明显的情况。假设两个物体间不存在弹力，若运动状态不变，假设成立；若运动状态改变，则存在弹力。",
+      "title": "假设法判断弹力有无",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-b4100c169ef391b240d7"
+      ],
+      "text": "适用于物体运动状态已知的情况。运用牛顿第二定律或共点力的平衡条件判断弹力有无。",
+      "title": "状态法判断弹力有无",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-b4100c169ef391b240d7"
+      ],
+      "text": "适用于形变不明显的情况。用易产生明显形变的物体替换形变不明显的物体，若发生形变，则有弹力。",
+      "title": "替换法判断弹力有无",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-4919ac3a73b54cea7840"
+      ],
+      "text": "根据物体是否直接接触并发生挤压、接触面是否粗糙、有无相对运动趋势，判断静摩擦力的有无及方向。",
+      "title": "条件法判断静摩擦力",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-4919ac3a73b54cea7840"
+      ],
+      "text": "假设物体间接触面光滑。若不发生相对滑动，则无相对运动趋势、无静摩擦力；若发生相对滑动，则有相对运动趋势、有静摩擦力，方向与相对运动趋势方向相反。",
+      "title": "假设法判断静摩擦力",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-4919ac3a73b54cea7840"
+      ],
+      "text": "先判断物体的运动状态，再通过受力分析列方程：$a=0$ 时列平衡方程；$a\\neq 0$ 时运用 $F_{\\text{合}}=ma$。最后确定静摩擦力的有无及方向。",
+      "title": "状态法判断静摩擦力",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m9",
+      "source_node_ids": [
+        "n-4919ac3a73b54cea7840"
+      ],
+      "text": "先确定受力较少的物体受到的静摩擦力方向，再根据牛顿第三定律确定另一物体受到的静摩擦力方向。",
+      "title": "转换对象法判断静摩擦力方向",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m10",
+      "source_node_ids": [
+        "n-e73c0e41da6f0dd623d2"
+      ],
+      "text": "计算静摩擦力或滑动摩擦力时，平衡状态下运用力的平衡条件，非平衡状态下运用牛顿第二定律。",
+      "title": "根据运动状态计算摩擦力",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-c3b14d69f8de36f38e67"
+      ],
+      "from": "c1",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c3b14d69f8de36f38e67"
+      ],
+      "from": "l1",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c3b14d69f8de36f38e67"
+      ],
+      "from": "m1",
+      "to": "c2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b4100c169ef391b240d7"
+      ],
+      "from": "l2",
+      "to": "c3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b4100c169ef391b240d7"
+      ],
+      "from": "m2",
+      "to": "c3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b4100c169ef391b240d7"
+      ],
+      "from": "m3",
+      "to": "c3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b4100c169ef391b240d7"
+      ],
+      "from": "m4",
+      "to": "c3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b4100c169ef391b240d7"
+      ],
+      "from": "m5",
+      "to": "c3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e73c0e41da6f0dd623d2"
+      ],
+      "from": "l5",
+      "to": "c4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e73c0e41da6f0dd623d2"
+      ],
+      "from": "l6",
+      "to": "c5",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e73c0e41da6f0dd623d2"
+      ],
+      "from": "l7",
+      "to": "c3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e73c0e41da6f0dd623d2"
+      ],
+      "from": "l7",
+      "to": "c4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e73c0e41da6f0dd623d2"
+      ],
+      "from": "l7",
+      "to": "c5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4919ac3a73b54cea7840"
+      ],
+      "from": "m6",
+      "to": "c4",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4919ac3a73b54cea7840"
+      ],
+      "from": "m7",
+      "to": "c4",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4919ac3a73b54cea7840"
+      ],
+      "from": "m8",
+      "to": "c4",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4919ac3a73b54cea7840"
+      ],
+      "from": "m9",
+      "to": "c4",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e73c0e41da6f0dd623d2"
+      ],
+      "from": "m10",
+      "to": "c4",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e73c0e41da6f0dd623d2"
+      ],
+      "from": "m10",
+      "to": "c5",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-668edf086bd2a19d0e14"
+      ],
+      "from": "l8",
+      "to": "c4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-668edf086bd2a19d0e14"
+      ],
+      "from": "l8",
+      "to": "c5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-668edf086bd2a19d0e14"
+      ],
+      "from": "l9",
+      "to": "c4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-668edf086bd2a19d0e14"
+      ],
+      "from": "l9",
+      "to": "c5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-668edf086bd2a19d0e14"
+      ],
+      "from": "l10",
+      "to": "c4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-668edf086bd2a19d0e14"
+      ],
+      "from": "l11",
+      "to": "c5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f6aa801aa7ae037ba3f9"
+      ],
+      "from": "n-f6aa801aa7ae037ba3f9",
+      "to": "c1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f6aa801aa7ae037ba3f9"
+      ],
+      "from": "n-f6aa801aa7ae037ba3f9",
+      "to": "c2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c318fd035746a2dd2e93"
+      ],
+      "from": "n-c318fd035746a2dd2e93",
+      "to": "c3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c373a86ab0a3d13ca5bc"
+      ],
+      "from": "n-c373a86ab0a3d13ca5bc",
+      "to": "c4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c373a86ab0a3d13ca5bc"
+      ],
+      "from": "n-c373a86ab0a3d13ca5bc",
+      "to": "c5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3081885ae77d150f14a8"
+      ],
+      "from": "n-3081885ae77d150f14a8",
+      "to": "c4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4f060d3c2efc7cdadc80"
+      ],
+      "from": "n-4f060d3c2efc7cdadc80",
+      "to": "c3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4f060d3c2efc7cdadc80"
+      ],
+      "from": "n-4f060d3c2efc7cdadc80",
+      "to": "c4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6b721f6a5d6d8db1e0d4"
+      ],
+      "from": "n-6b721f6a5d6d8db1e0d4",
+      "to": "c5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-8c55262a13a09fc77e0d",
+  "source_digest": "2fcbbeebd9fce43d8830753a5ca1d441205f3b1757e55af2585e2ae8b13c4ee9",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

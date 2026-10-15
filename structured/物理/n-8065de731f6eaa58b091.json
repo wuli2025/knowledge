@@ -1,0 +1,265 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-caab00010d4564e1911b"
+      ],
+      "text": "打点计时器固定在铁架台上并接电源，纸带竖直穿过打点计时器，下端通过夹子连接重物。纸带上从起始点 $0$ 到点 $1、2、3$ 的距离分别为 $h_1、h_2、h_3$。",
+      "title": "验证机械能守恒定律的实验装置与纸带记录",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-e0f8ea85099ff3c3f523"
+      ],
+      "text": "重物和纸带下落时需克服空气阻力、打点计时器阻力等做功，导致动能的增加量 $\\Delta E_{\\mathrm{k}}$ 稍小于重力势能的减少量 $\\Delta E_{\\mathrm{p}}$，即 $\\Delta E_{\\mathrm{k}}<\\Delta E_{\\mathrm{p}}$。",
+      "title": "实验的系统误差",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-0ce6622da27b245e5ec8"
+      ],
+      "text": "本实验在长度测量时会产生偶然误差。",
+      "title": "实验的偶然误差",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-caab00010d4564e1911b"
+      ],
+      "text": "求出重物重力势能的减少量和对应过程动能的增加量；在实验误差允许范围内，若二者相等，说明机械能守恒，从而验证机械能守恒定律。",
+      "title": "机械能守恒的实验验证判据",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-9ed904b4b1697f4d78c6"
+      ],
+      "text": "在细线连接小球和拉力传感器的实验中，细线与竖直方向的夹角为 $\\theta$，有 $T_{\\max}-mg=\\dfrac{mv^2}{l}$、$T_{\\min}=mg\\cos\\theta$。若机械能守恒，则 $mg(l-l\\cos\\theta)=\\dfrac{1}{2}mv^2$，从而得到 $T_{\\max}=3mg-2T_{\\min}$。",
+      "title": "机械能守恒时细线拉力最大值与最小值的关系",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-0b3cf633e115a5022e08"
+      ],
+      "text": "使打点计时器的两限位孔在同一竖直线上，以减小摩擦力；纸带沿竖直方向拉直。",
+      "title": "安装打点计时器和纸带",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-868bc6b8011c87fe5638"
+      ],
+      "text": "选用密度大、体积小的重物。",
+      "title": "选择重物",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-aedc7feb65464bfeb76a"
+      ],
+      "text": "先接通电源，让打点计时器正常工作后再松开纸带，让重物从靠近打点计时器处下落。",
+      "title": "接通电源与释放纸带的操作顺序",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-65abc9739a0e0996aca2"
+      ],
+      "text": "根据纸带上测得的数据，利用 $v_n=\\dfrac{h_{n+1}-h_{n-1}}{2T}$ 计算速度。本实验中不能用 $v=gt$ 或 $v=\\sqrt{2gh}$ 计算速度。",
+      "title": "利用纸带数据计算速度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-17627eed2e0b503efc4f"
+      ],
+      "text": "选择开始的两点间距接近 $2\\ \\mathrm{mm}$ 的一条纸带，选取打的第一个点为起始点。在实验误差允许范围内，若满足 $mgh_n=\\dfrac{1}{2}mv_n^2$，则机械能守恒定律得到验证。",
+      "title": "利用起始点和第 $n$ 个点验证机械能守恒",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-7c2524042ab3c89cbb67"
+      ],
+      "text": "任取两点 $A、B$，在实验误差允许范围内，若满足 $mgh_{AB}=\\dfrac{1}{2}mv_B^2-\\dfrac{1}{2}mv_A^2$，则机械能守恒定律得到验证。",
+      "title": "利用任意两点验证机械能守恒",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-b3b7a2d7730a5bf4ddbf"
+      ],
+      "text": "在实验误差允许范围内，若 $\\dfrac{1}{2}v^2-h$ 图线是一条过原点且斜率为 $g$ 的倾斜直线，则机械能守恒定律得到验证。",
+      "title": "利用图像法验证机械能守恒",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-e0f8ea85099ff3c3f523"
+      ],
+      "text": "调整器材的安装，尽可能减小阻力等，以减小本实验的系统误差。",
+      "title": "减小系统误差",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m9",
+      "source_node_ids": [
+        "n-0ce6622da27b245e5ec8"
+      ],
+      "text": "测下落距离时都从起始点量起，一次将各点对应的下落高度测量完；或者多次测量取平均值，以减小误差。",
+      "title": "减小长度测量的偶然误差",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m10",
+      "source_node_ids": [
+        "n-9ed904b4b1697f4d78c6"
+      ],
+      "text": "细线一端连接固定在支架上的拉力传感器，另一端连接小球；拉力传感器连接数据采集器，数据采集器连接计算机。改变细线与竖直方向的夹角 $\\theta$，将验证转化为研究细线拉力最大值与最小值的关系图像，依据 $T_{\\max}=3mg-2T_{\\min}$ 验证机械能守恒。图像纵轴为 $T_{\\max}/\\mathrm{N}$，横轴为 $T_{\\min}/\\mathrm{N}$。",
+      "title": "利用数据采集器与拉力关系图像验证机械能守恒",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-caab00010d4564e1911b"
+      ],
+      "from": "c1",
+      "to": "l1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0b3cf633e115a5022e08",
+        "n-caab00010d4564e1911b"
+      ],
+      "from": "m1",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-aedc7feb65464bfeb76a",
+        "n-caab00010d4564e1911b"
+      ],
+      "from": "m3",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-65abc9739a0e0996aca2",
+        "n-17627eed2e0b503efc4f"
+      ],
+      "from": "m4",
+      "to": "m5",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-65abc9739a0e0996aca2",
+        "n-7c2524042ab3c89cbb67"
+      ],
+      "from": "m4",
+      "to": "m6",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-65abc9739a0e0996aca2",
+        "n-b3b7a2d7730a5bf4ddbf"
+      ],
+      "from": "m4",
+      "to": "m7",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-17627eed2e0b503efc4f",
+        "n-caab00010d4564e1911b"
+      ],
+      "from": "m5",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7c2524042ab3c89cbb67",
+        "n-caab00010d4564e1911b"
+      ],
+      "from": "m6",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b3b7a2d7730a5bf4ddbf",
+        "n-caab00010d4564e1911b"
+      ],
+      "from": "m7",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e0f8ea85099ff3c3f523"
+      ],
+      "from": "m8",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0ce6622da27b245e5ec8"
+      ],
+      "from": "m9",
+      "to": "c3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9ed904b4b1697f4d78c6"
+      ],
+      "from": "m10",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-8065de731f6eaa58b091",
+  "source_digest": "2d730befcf0764f6e2a4b9e35033a04627155bd7bc1f75b5b9d7dc46a5d4a612",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

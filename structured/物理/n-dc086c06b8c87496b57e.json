@@ -1,0 +1,364 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-f454c51c898a3d6b1fff"
+      ],
+      "text": "自由电荷定向移动形成电流。通过导体横截面的电荷量跟通过这些电荷量所用时间的比值叫电流，定义式为$I=\\dfrac{q}{t}$。原文指出$I$与$q$、$t$无关，定义式适用于一切电路。",
+      "title": "电流及其定义式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-a07f0d354b6e7cfa57fe"
+      ],
+      "text": "在电阻定律$R=\\rho\\dfrac{l}{S}$中，$\\rho$是导体的电阻率。在国际单位制中，电阻率的单位是欧·米，符号为$\\Omega\\cdot\\mathrm{m}$。",
+      "title": "电阻率",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-e38f16027395b092fa81"
+      ],
+      "text": "电阻的定义式为$R=\\dfrac{U}{I}$，原文指出$R$与$U$、$I$均无关，适用于纯电阻电路。决定式为$R=\\rho\\dfrac{l}{S}$，说明$R$由$\\rho$、$l$、$S$共同决定，适用于粗细均匀的金属导体和浓度均匀的电解质溶液。",
+      "title": "电阻的定义式与决定式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-8539261eceb0025aeda5"
+      ],
+      "text": "伏安特性曲线采用纵轴为$I$、横轴为$U$的坐标系。原图中过原点的直线$A$、$B$对应线性元件，过原点的弯曲曲线$C$对应非线性元件。",
+      "title": "伏安特性曲线与元件分类",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-11fce5ab053792c11d66"
+      ],
+      "text": "原文列举的纯电阻电路实例包括白炽灯、电炉、电饭锅、电热毯、电熨斗及转子被卡住的电动机等；其电功等于电热，电功率等于热功率。",
+      "title": "纯电阻电路",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-11fce5ab053792c11d66"
+      ],
+      "text": "原文列举的非纯电阻电路实例包括正常工作的电动机、电解槽、日光灯等；其电功转化为其他形式的能量和电热，电功率大于热功率。",
+      "title": "非纯电阻电路",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-01e94e836c9ca14e1ac1",
+        "n-f454c51c898a3d6b1fff"
+      ],
+      "text": "导体中的电流跟导体两端的电压成正比，跟导体的电阻成反比，表达式为$I=\\dfrac{U}{R}$。原文将其列为电流的决定式，指出$I$与$U$、$R$有关，适用于纯电阻电路和电解质溶液导电。",
+      "title": "欧姆定律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-32a1ffaced75b47a5785",
+        "n-f454c51c898a3d6b1fff"
+      ],
+      "text": "电流的微观表达式为$I=neSv$，其中$n$为导体单位体积内的自由电子数，$e$为电子的电荷量，$S$为导体横截面积，$v$为自由电子定向移动的平均速率。原文指出$I$与$n$、$e$、$S$、$v$有关，并将适用范围列为一切电路。",
+      "title": "电流的微观表达式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-a07f0d354b6e7cfa57fe",
+        "n-e38f16027395b092fa81"
+      ],
+      "text": "同种材料的导体，其电阻$R$与长度$l$成正比，与横截面积$S$成反比；导体电阻还与材料有关。公式为$R=\\rho\\dfrac{l}{S}$，适用于粗细均匀的金属导体和浓度均匀的电解质溶液。",
+      "title": "电阻定律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-185a0bfb540c87efba8e"
+      ],
+      "text": "串联电路中，电流为$I=I_1=I_2=\\cdots=I_n$；电压为$U=U_1+U_2+\\cdots+U_n$，且$U_1:U_2:U_3:\\cdots=R_1:R_2:R_3:\\cdots$；电阻为$R=R_1+R_2+\\cdots+R_n$；功率分配为$P_1:P_2:P_3:\\cdots=R_1:R_2:R_3:\\cdots$；总功率为$P=P_1+P_2+P_3+\\cdots+P_n$。",
+      "title": "串联电路的特点",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-185a0bfb540c87efba8e"
+      ],
+      "text": "并联电路中，电流为$I=I_1+I_2+\\cdots+I_n$，且$I_1:I_2:I_3:\\cdots=\\dfrac{1}{R_1}:\\dfrac{1}{R_2}:\\dfrac{1}{R_3}:\\cdots$；电压为$U=U_1=U_2=\\cdots=U_n$；电阻满足$\\dfrac{1}{R}=\\dfrac{1}{R_1}+\\dfrac{1}{R_2}+\\cdots+\\dfrac{1}{R_n}$；功率分配为$P_1:P_2:P_3:\\cdots=\\dfrac{1}{R_1}:\\dfrac{1}{R_2}:\\dfrac{1}{R_3}:\\cdots$；总功率为$P=P_1+P_2+P_3+\\cdots+P_n$。",
+      "title": "并联电路的特点",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-11fce5ab053792c11d66"
+      ],
+      "text": "纯电阻电路中，电功与电热满足$W=Q=UIt=I^2Rt=\\dfrac{U^2}{R}t$；电功率与热功率满足$P_{\\text{电}}=P_{\\text{热}}=UI=I^2R=\\dfrac{U^2}{R}$。",
+      "title": "纯电阻电路的电功与功率关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-11fce5ab053792c11d66"
+      ],
+      "text": "非纯电阻电路中，电功满足$W=UIt=E_{\\text{其他}}+Q$，电热为$Q=I^2Rt$；电功率与热功率满足$P_{\\text{电}}=UI>P_{\\text{热}}$，$P_{\\text{热}}=I^2R$。",
+      "title": "非纯电阻电路的电功与功率关系",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-32a1ffaced75b47a5785"
+      ],
+      "text": "建立粗细均匀导体的微观模型：横截面积为$S$，单位体积内自由电子数为$n$，电子电荷量为$e$，加上电压后自由电子定向移动的平均速率为$v$。时间$t$内通过横截面的总电荷量为$q=nvtSe$，代入电流定义式得到$I=\\dfrac{q}{t}=neSv$。",
+      "title": "电流微观表达式的推导",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-e38f16027395b092fa81"
+      ],
+      "text": "利用电阻定义式$R=\\dfrac{U}{I}$测量电阻，即伏安法。原文列出的适用范围为纯电阻电路。",
+      "title": "伏安法测电阻",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-8539261eceb0025aeda5"
+      ],
+      "text": "在纵轴$I$、横轴$U$的伏安特性图像中，线性元件的直线斜率代表$\\dfrac{1}{R}$；原图中$B$的斜率大于$A$，故$R_A>R_B$。对非线性元件$C$，$R_C=\\dfrac{U}{I}\\ne\\dfrac{\\Delta U}{\\Delta I}$；$R_C$的倒数等于该点与原点连线的斜率，而不是切线斜率。",
+      "title": "利用伏安特性曲线判断电阻",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-e61b7a13f6919a2ba0f4"
+      ],
+      "text": "将内阻为$R_g$的表头与大电阻$R$串联，利用串联分压改装成电压表。改装后的量程为$U=I_g(R_g+R)$，量程倍数关系为$n=1+\\dfrac{R}{R_g}$，接入电阻为$R=(n-1)R_g$，总内阻为$R_V=nR_g$。",
+      "title": "表头改装成电压表",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-e61b7a13f6919a2ba0f4"
+      ],
+      "text": "将内阻为$R_g$的表头与小电阻$R$并联，利用并联分流改装成电流表。改装后的量程为$I=\\dfrac{R+R_g}{R}I_g$，量程倍数关系为$n=1+\\dfrac{R_g}{R}$，接入电阻为$R=\\dfrac{R_g}{n-1}$，总内阻为$R_A=\\dfrac{R_g}{n}$。",
+      "title": "表头改装成电流表",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-e61b7a13f6919a2ba0f4"
+      ],
+      "text": "按原文校准电路，将改装电压表与标准电压表并联，接在滑动变阻器的部分电阻两端；滑动变阻器与电源、开关组成供电电路。",
+      "title": "改装电压表的校准电路连接",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-e61b7a13f6919a2ba0f4"
+      ],
+      "text": "按原文校准电路，将改装电流表与标准电流表、保护电阻串联，接在滑动变阻器的部分电阻两端；滑动变阻器与电源、开关组成供电电路。",
+      "title": "改装电流表的校准电路连接",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-32a1ffaced75b47a5785"
+      ],
+      "from": "m1",
+      "to": "c1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-32a1ffaced75b47a5785"
+      ],
+      "from": "m1",
+      "to": "l2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a07f0d354b6e7cfa57fe"
+      ],
+      "from": "l3",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e38f16027395b092fa81"
+      ],
+      "from": "c3",
+      "to": "l3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e38f16027395b092fa81"
+      ],
+      "from": "m2",
+      "to": "c3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8539261eceb0025aeda5"
+      ],
+      "from": "m3",
+      "to": "c4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e61b7a13f6919a2ba0f4",
+        "n-185a0bfb540c87efba8e"
+      ],
+      "from": "m4",
+      "to": "l4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e61b7a13f6919a2ba0f4",
+        "n-185a0bfb540c87efba8e"
+      ],
+      "from": "m5",
+      "to": "l5",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e61b7a13f6919a2ba0f4"
+      ],
+      "from": "m6",
+      "to": "m4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e61b7a13f6919a2ba0f4"
+      ],
+      "from": "m7",
+      "to": "m5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-11fce5ab053792c11d66"
+      ],
+      "from": "l6",
+      "to": "c5",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-11fce5ab053792c11d66"
+      ],
+      "from": "l7",
+      "to": "c6",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-bd960c0714b2d6de2e12"
+      ],
+      "from": "n-bd960c0714b2d6de2e12",
+      "to": "l3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-32624ea738f2616430f6"
+      ],
+      "from": "n-32624ea738f2616430f6",
+      "to": "c2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-32624ea738f2616430f6",
+        "n-32a1ffaced75b47a5785"
+      ],
+      "from": "n-32624ea738f2616430f6",
+      "to": "l2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-be2ac745bde7a3eb6284"
+      ],
+      "from": "n-be2ac745bde7a3eb6284",
+      "to": "m4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-be2ac745bde7a3eb6284",
+        "n-e61b7a13f6919a2ba0f4"
+      ],
+      "from": "n-be2ac745bde7a3eb6284",
+      "to": "m5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2a1cdd60fda192a48180",
+        "n-11fce5ab053792c11d66"
+      ],
+      "from": "n-2a1cdd60fda192a48180",
+      "to": "l7",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-dc086c06b8c87496b57e",
+  "source_digest": "e7ddd54b6034e6b9fe354547f82a49f72e0ab3ff3e7fd61b560034be70002ce8",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

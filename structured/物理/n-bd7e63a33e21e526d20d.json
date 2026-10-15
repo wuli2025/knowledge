@@ -1,0 +1,400 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-5ef68d3f5f9d5e9da908"
+      ],
+      "text": "功率描述力做功的快慢，分为平均功率和瞬时功率。",
+      "title": "功率",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-5ef68d3f5f9d5e9da908"
+      ],
+      "text": "平均功率为$\\overline{P}=\\dfrac{W}{t}$。当$F$为恒力时，也可用$\\overline{P}=F\\cdot\\overline{v}_F$，其中$\\overline{v}_F$为沿$F$方向的平均速度。",
+      "title": "平均功率",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-5ef68d3f5f9d5e9da908"
+      ],
+      "text": "瞬时功率为$P=Fv\\cos\\alpha$，其中$v$为该时刻的瞬时速度大小；也可写为$P=F\\cdot v_F$，其中$v_F$为速度$v$在力$F$方向的分速度。",
+      "title": "瞬时功率",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-d9d2b34c36990dabca0f"
+      ],
+      "text": "平均力法中的平均力，是力关于位移的平均值。",
+      "title": "平均力法中的平均力",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-d378674ccbb2c2d8b1f3"
+      ],
+      "text": "恒力做功可用$W=Fl\\cos\\alpha$计算，其中$l$为位移大小，$\\alpha$为力与位移方向的夹角。该式可用于计算功的多少和判断功的正负。",
+      "title": "恒力做功公式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-1cc400256e55729b71e7"
+      ],
+      "text": "合力做的功等于各个力做功的代数和：$W_{\\text{合}}=W_1+W_2+W_3+\\cdots$。",
+      "title": "合力功与各力功的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-1cc400256e55729b71e7"
+      ],
+      "text": "动能定理给出合力做功与初、末动能的关系：$W_{\\text{合}}=E_{\\mathrm{k}2}-E_{\\mathrm{k}1}$。",
+      "title": "动能定理",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-cdbbfa3a16debaf2a0ad"
+      ],
+      "text": "摩擦力可以做正功，也可以做负功，还可以不做功。摩擦力做功与路径有关。",
+      "title": "摩擦力做功的特点",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-cdbbfa3a16debaf2a0ad"
+      ],
+      "text": "互为相互作用力的一对静摩擦力所做功的代数和为$0$，即$W_1+W_2=0$。",
+      "title": "一对静摩擦力做功的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-cdbbfa3a16debaf2a0ad"
+      ],
+      "text": "相互摩擦的系统内，一对滑动摩擦力所做功的代数和为负值，系统因摩擦而损失的机械能转化为内能：$W_1+W_2=-Q$，其中$Q$为摩擦过程中产生的内能。",
+      "title": "一对滑动摩擦力做功与内能的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-f3cc9e3dc6af6ac7b333"
+      ],
+      "text": "恒定功率启动时，随着速度增大，牵引力减小，原文表示为$F=\\dfrac{P_{\\text{额}}}{v\\uparrow}(\\downarrow)$；加速度随之减小，原文表示为$a=\\dfrac{F\\downarrow-F_{\\text{阻}}}{m}(\\downarrow)$。当$a=0$，即$F=F_{\\text{阻}}$时，速度达到最大值$v_{\\mathrm{m}}$，此后保持$v_{\\mathrm{m}}$匀速运动。对应图像中功率恒定，牵引力随时间减小后保持不变，速度随时间增大且斜率逐渐减小，随后保持不变。",
+      "title": "恒定功率启动的变化规律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-58c00a55e8c60b179dcc"
+      ],
+      "text": "恒定加速度启动的匀加速阶段，$a_{\\text{定}}=\\dfrac{F_0-F_{\\text{阻}}}{m}$，牵引力$F_0$一定。功率随速度增大而增大，原文表示为$P=F_0v\\uparrow(\\uparrow)$。当$P=P_{\\text{额}}$时，仍有$a_{\\text{定}}=\\dfrac{F_0-F_{\\text{阻}}}{m}\\ne0$，速度继续增大。随后牵引力和加速度减小，原文表示为$F=\\dfrac{P_{\\text{额}}}{v\\uparrow}(\\downarrow)$、$a=\\dfrac{F\\downarrow-F_{\\text{阻}}}{m}(\\downarrow)$；当$a=0$时，速度达到最大值$v_{\\mathrm{m}}$，此后匀速。图像中功率先随时间线性增大后保持额定值，牵引力先恒定后减小至阻力大小，速度先线性增大后斜率逐渐减小，最终保持不变。",
+      "title": "恒定加速度启动的阶段规律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-d382dc803af272416910"
+      ],
+      "text": "在原文讨论的机车启动过程中，无论哪种启动方式，最大速度都等于匀速运动时的速度：$v_{\\mathrm{m}}=\\dfrac{P_{\\text{额}}}{F_{\\text{阻}}}$。",
+      "title": "机车的最大速度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-d382dc803af272416910"
+      ],
+      "text": "机车以恒定加速度启动时，匀加速过程结束时功率最大，但速度尚未达到最大值：$v_1=\\dfrac{P_{\\text{额}}}{F_0}<v_{\\mathrm{m}}=\\dfrac{P_{\\text{额}}}{F_{\\text{阻}}}$。",
+      "title": "匀加速阶段结束时的速度",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-d378674ccbb2c2d8b1f3"
+      ],
+      "text": "先进行受力分析，找出力；再进行运动分析，找出位移；确定力与位移方向的夹角；最后利用$W=Fl\\cos\\alpha$计算功的多少并判断功的正负。适用于恒力做功。",
+      "title": "恒力做功的分析步骤",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-d9d2b34c36990dabca0f"
+      ],
+      "text": "利用动能定理计算变力做功。原文示例为：用力$F$将长为$l$的悬线所悬挂、质量为$m$的小球，从最低点$A$缓慢拉到悬线与竖直方向夹角为$\\theta$的$B$处，有$W_F-mgl(1-\\cos\\theta)=0$，得到$W_F=mgl(1-\\cos\\theta)$。",
+      "title": "变力做功的动能定理法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-d9d2b34c36990dabca0f"
+      ],
+      "text": "将运动过程分成微小段，累加各段做功。原文示例为质量为$m$的木块在水平面内做半径为$R$的圆周运动，运动一周克服摩擦力做功为$W_f=f\\cdot\\Delta x_1+f\\cdot\\Delta x_2+f\\cdot\\Delta x_3+\\cdots=f\\cdot2\\pi R$。",
+      "title": "变力做功的微元法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-d9d2b34c36990dabca0f"
+      ],
+      "text": "力的功率恒定时，可用功率与时间的乘积求功。原文示例为汽车以恒定功率$P$在水平路面上运动$t$时间，牵引力做功$W_F=Pt$。",
+      "title": "变力做功的功率法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-d9d2b34c36990dabca0f"
+      ],
+      "text": "原文示例中，物块沿水平面由$A$移至$B$，绳经高为$h$的定滑轮，自由端受向下的恒力$F$，绳与水平面的夹角分别为$\\alpha$、$\\beta$。通过等效转换计算绳子对物块做的功：$W=F\\cdot\\left(\\dfrac{h}{\\sin\\alpha}-\\dfrac{h}{\\sin\\beta}\\right)$。",
+      "title": "变力做功的等效转换法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-d9d2b34c36990dabca0f"
+      ],
+      "text": "用力关于位移的平均值计算功。原文示例为弹簧从伸长量$x_1$继续拉至伸长量$x_2$，克服弹力做功$W=\\dfrac{kx_1+kx_2}{2}\\cdot(x_2-x_1)$。",
+      "title": "变力做功的平均力法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-d9d2b34c36990dabca0f"
+      ],
+      "text": "水平拉力$F$拉物体在水平面上运动，位移为$x_0$时，$F-x$图线与横轴所围面积表示拉力所做的功。原图纵轴为$F/\\mathrm{N}$，横轴为$x/\\mathrm{m}$，图线为从原点$O$至$(x_0,F_0)$的直线。",
+      "title": "变力做功的图像法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-1cc400256e55729b71e7"
+      ],
+      "text": "先求合力$F_{\\text{合}}$，再用$W_{\\text{合}}=F_{\\text{合}}l\\cos\\alpha$求合力做功。适用于合力为恒力的情形。",
+      "title": "先求合力再求功",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m9",
+      "source_node_ids": [
+        "n-1cc400256e55729b71e7"
+      ],
+      "text": "先求各个力做的功$W_1$、$W_2$、$W_3$、……，再用$W_{\\text{合}}=W_1+W_2+W_3+\\cdots$求合力做功。原文指出该方法适用于多阶段运动过程。",
+      "title": "各力做功求和法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m10",
+      "source_node_ids": [
+        "n-1cc400256e55729b71e7"
+      ],
+      "text": "已知初、末状态的动能时，利用动能定理$W_{\\text{合}}=E_{\\mathrm{k}2}-E_{\\mathrm{k}1}$求合力做的功。",
+      "title": "由动能变化求合力功",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m11",
+      "source_node_ids": [
+        "n-128d4ca1163be836249e"
+      ],
+      "text": "在原文半圆柱与圆柱的装置中，$A$缓慢移动，可视为动态平衡。运用整体法确定地面对$A$的支持力大小，从而确定滑动摩擦力的大小及变化情况。",
+      "title": "缓慢运动中的整体法与动态平衡",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m12",
+      "source_node_ids": [
+        "n-d382dc803af272416910"
+      ],
+      "text": "机车以恒定功率启动时，牵引力做功$W=P_{\\text{额}}t$。由动能定理列出$P_{\\text{额}}t-F_{\\text{阻}}x=\\Delta E_{\\mathrm{k}}$，用于求解恒定功率启动过程的位移大小或运动时间。",
+      "title": "恒定功率启动的位移与时间求解",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-5ef68d3f5f9d5e9da908"
+      ],
+      "from": "c1",
+      "to": "c2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5ef68d3f5f9d5e9da908"
+      ],
+      "from": "c1",
+      "to": "c3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d378674ccbb2c2d8b1f3"
+      ],
+      "from": "m1",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d9d2b34c36990dabca0f",
+        "n-1cc400256e55729b71e7"
+      ],
+      "from": "m2",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d9d2b34c36990dabca0f"
+      ],
+      "from": "m6",
+      "to": "c4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1cc400256e55729b71e7",
+        "n-d378674ccbb2c2d8b1f3"
+      ],
+      "from": "m8",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1cc400256e55729b71e7"
+      ],
+      "from": "m9",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1cc400256e55729b71e7"
+      ],
+      "from": "m10",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-128d4ca1163be836249e"
+      ],
+      "from": "m11",
+      "to": "n-128d4ca1163be836249e",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d382dc803af272416910",
+        "n-1cc400256e55729b71e7"
+      ],
+      "from": "m12",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d382dc803af272416910",
+        "n-d9d2b34c36990dabca0f"
+      ],
+      "from": "m12",
+      "to": "m4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d382dc803af272416910",
+        "n-f3cc9e3dc6af6ac7b333"
+      ],
+      "from": "l7",
+      "to": "l9",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d382dc803af272416910",
+        "n-58c00a55e8c60b179dcc"
+      ],
+      "from": "l8",
+      "to": "l9",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d382dc803af272416910",
+        "n-58c00a55e8c60b179dcc"
+      ],
+      "from": "l8",
+      "to": "l10",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-42f3665a5a4bce2a0037"
+      ],
+      "from": "n-42f3665a5a4bce2a0037",
+      "to": "c3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-940a3771567049267811",
+        "n-d382dc803af272416910"
+      ],
+      "from": "n-940a3771567049267811",
+      "to": "l9",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-bd7e63a33e21e526d20d",
+  "source_digest": "5483a7c3bc146f2737c0918d6e45d4860952258eec846623278867e95b2ee969",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

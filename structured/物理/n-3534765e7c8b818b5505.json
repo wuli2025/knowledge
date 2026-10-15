@@ -1,0 +1,225 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-d0cc75220587d53c8546"
+      ],
+      "text": "追及相遇问题的物理本质是研究两个物体的时空关系。",
+      "title": "追及相遇问题",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-d0cc75220587d53c8546"
+      ],
+      "text": "相遇是指两个物体在同一时刻处于同一位置。",
+      "title": "相遇",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-ecfe78ad21d56bcfbed3"
+      ],
+      "text": "若两物体同时运动同时停止，则运动时间 $t$ 相同；若两物体运动有先后顺序，则 $t_{\\text{先}}=t_{\\text{后}}+t_0$，其中 $t_0$ 为开始运动的时间差。",
+      "title": "运动时间关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-ecfe78ad21d56bcfbed3",
+        "n-58f82a84a472fa5aa280"
+      ],
+      "text": "分析追及相遇问题时，速度相同是判断两物体间距离最大或最小、能否追上或相撞的临界条件。",
+      "title": "速度相同的临界条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-53ca34e659a6210941c4"
+      ],
+      "text": "在同一坐标系中画出两物体的 $x-t$ 图像，图线相交即代表两物体相遇。",
+      "title": "位置—时间图像的相遇判据",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-df1da618b58dfbcba514"
+      ],
+      "text": "抓住“两物体能否同时到达空间某位置”这一关键，认真审题，挖掘隐含条件，建立物体运动关系的情境图。",
+      "title": "情境分析法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-01304db632ff927007ab"
+      ],
+      "text": "设从开始到相遇的时间为 $t$，根据条件列位移关系方程；得到关于 $t$ 的一元二次方程后，用判别式进行讨论。",
+      "title": "函数分析法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-53ca34e659a6210941c4"
+      ],
+      "text": "在同一坐标系中画出两物体的运动学图像：对于 $x-t$ 图像，通过图线是否相交判断相遇；对于 $v-t$ 图像，利用图线与坐标轴围成的面积进行分析；对于 $a-t$ 图像，可转换为 $v-t$ 图像进行分析。",
+      "title": "图像分析法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-403f3927c38550385e90"
+      ],
+      "text": "以其中一个物体为参考系，确定另一个物体的相对初速度和相对加速度，把研究两个物体的运动问题转换为研究一个物体的运动问题。",
+      "title": "相对运动分析法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-ecfe78ad21d56bcfbed3"
+      ],
+      "text": "借助两物体运动示意图确定两物体的位移关系；注意两物体是否从同一地点出发，若不是，还要考虑初始位置之间的距离。",
+      "title": "借助示意图确定位移关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-58f82a84a472fa5aa280"
+      ],
+      "text": "分析两物体的运动过程，画出运动示意图或 $v-t$ 图像，挖掘隐含条件，找出临界条件，确定速度、时间、位移关系，再列方程求解。注意抓住速度相同这一临界条件，用好时间关系和位移关系，可通过画示意图寻找关系。",
+      "title": "追及相遇问题的解题流程",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-d0cc75220587d53c8546"
+      ],
+      "from": "c1",
+      "to": "c2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-df1da618b58dfbcba514"
+      ],
+      "from": "m1",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-01304db632ff927007ab"
+      ],
+      "from": "m2",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-53ca34e659a6210941c4"
+      ],
+      "from": "m3",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-53ca34e659a6210941c4"
+      ],
+      "from": "l3",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-403f3927c38550385e90"
+      ],
+      "from": "m4",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ecfe78ad21d56bcfbed3"
+      ],
+      "from": "m5",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-58f82a84a472fa5aa280"
+      ],
+      "from": "m6",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-58f82a84a472fa5aa280",
+        "n-ecfe78ad21d56bcfbed3"
+      ],
+      "from": "m6",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-58f82a84a472fa5aa280",
+        "n-ecfe78ad21d56bcfbed3"
+      ],
+      "from": "m6",
+      "to": "m5",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-cb9e161790067c4411d9"
+      ],
+      "from": "n-cb9e161790067c4411d9",
+      "to": "c1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e41496ddff3175b12030",
+        "n-53ca34e659a6210941c4"
+      ],
+      "from": "n-e41496ddff3175b12030",
+      "to": "m3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-3534765e7c8b818b5505",
+  "source_digest": "364cbde935489762bd502ed3a183cc642994f46762e487387d1660ce5a37983b",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

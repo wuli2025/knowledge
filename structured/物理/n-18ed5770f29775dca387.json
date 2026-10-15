@@ -1,0 +1,368 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-ffce3470b5ddfa416d53"
+      ],
+      "text": "来自两个光源的光在一些位置相互加强，在另一些位置相互削弱，在挡板后面的屏上形成明暗相间的条纹。",
+      "title": "光的干涉现象",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-e03f02dd6a7e367ad6c9"
+      ],
+      "text": "相干光源$S_1$、$S_2$发出的光到屏上$P'$点的路程差为$\\Delta r=r_2-r_1$。图中双缝间距为$d$，双缝到屏的距离为$l$。",
+      "title": "双缝干涉的路程差",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-d365dbd4ef59fbbc1aea"
+      ],
+      "text": "竖直肥皂薄膜在重力作用下形成上薄下厚的楔形。光照射薄膜时，从前表面$AA'$和后表面$BB'$反射回来的两列频率相同的光波叠加，形成薄膜干涉。应用包括增透膜和检查光学平面的平滑度。",
+      "title": "薄膜干涉",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-3eacc3de6baa6823a78b"
+      ],
+      "text": "光照射到狭缝或障碍物上时，绕过缝的边缘或障碍物而偏离直线传播的现象。应用包括衍射光栅、X射线晶体衍射实验。",
+      "title": "光的衍射",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-3bed93073408e5578755"
+      ],
+      "text": "自然光包含在垂直于传播方向上沿一切方向振动的光，而且沿各个方向振动的光波强度都相同。",
+      "title": "自然光",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-3bed93073408e5578755"
+      ],
+      "text": "偏振光是在垂直于光传播方向的平面上，只沿某个特定方向振动的光。",
+      "title": "偏振光",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-a7b41275f22f435c960b"
+      ],
+      "text": "两列光波的频率相同、相位差恒定。",
+      "title": "光的干涉条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-e03f02dd6a7e367ad6c9"
+      ],
+      "text": "在原文双缝干涉装置中，当$\\Delta r=\\pm n\\lambda$（$n=0,1,2,\\cdots$）时，屏上$P'$处出现亮条纹；当$\\Delta r=\\pm(2n+1)\\dfrac{\\lambda}{2}$（$n=0,1,2,\\cdots$）时，出现暗条纹。",
+      "title": "双缝干涉明暗条纹条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-1a8595743e2410c35c1a"
+      ],
+      "text": "双缝干涉条纹中心间距为$\\Delta x=\\dfrac{L}{d}\\lambda$。用同一双缝干涉装置，按红、橙、黄、绿、青、蓝、紫的顺序，条纹中心间距由大到小。",
+      "title": "双缝干涉条纹中心间距",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-f1737889b829c9a702d5"
+      ],
+      "text": "原文给出亮条纹处光程差$s_1=2d_1=n\\lambda\\ (n=0,1,2,3,\\cdots)$，暗条纹处光程差$s_2=2d_2=(2n+1)\\dfrac{\\lambda}{2}\\ (n=0,1,2,3,\\cdots)$；由此得到$2\\Delta d=2(d_2-d_1)=\\dfrac{\\lambda}{2}$，相邻亮条纹间距$\\Delta x=2\\Delta x'=\\dfrac{2\\Delta d}{\\tan\\theta}=\\dfrac{\\lambda}{2\\tan\\theta}$。其中$\\theta$为斜劈夹角，$d_1$、$d_2$为两处厚度，$\\Delta x'$为两处水平距离。【待核对】原文未说明上述光程差表达式及亮暗判据所需的介质、入射与反射条件，保留原式。",
+      "title": "斜劈薄膜干涉条纹间距",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-3eacc3de6baa6823a78b"
+      ],
+      "text": "障碍物或狭缝的尺寸足够小，即与光的波长相近或比光的波长还小，才能发生明显衍射。",
+      "title": "发生明显衍射的条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-b462f3a0df5e73815c47"
+      ],
+      "text": "原文单色光照射狭缝的图示中，屏上形成中央较宽的亮条纹及两侧较暗的条纹。",
+      "title": "单缝衍射图样特征",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-3bed93073408e5578755"
+      ],
+      "text": "自然光通过偏振片$P$后成为沿竖直方向振动的偏振光；再通过透振方向与之垂直的偏振片$Q$，光屏呈暗。",
+      "title": "偏振片对光的作用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-3bed93073408e5578755"
+      ],
+      "text": "光的偏振说明光是一种横波。",
+      "title": "偏振与光的横波性质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-1a8595743e2410c35c1a"
+      ],
+      "text": "按红、橙、黄、绿、青、蓝、紫的顺序，频率由低到高；同一个介质中的波长由大到小，折射率由小到大，速度由大到小。原文给出$n=\\dfrac{c}{v}$。",
+      "title": "各种色光的频率、波长、折射率和速度比较",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-1a8595743e2410c35c1a"
+      ],
+      "text": "按红、橙、黄、绿、青、蓝、紫的顺序，同一介质向真空（或近似空气）出射时的临界角由大到小，通过同一棱镜的偏折角由小到大。这里临界角公式为 $\\sin C=\\dfrac{1}{n}$，$n=c/v$ 是该介质对相应色光的绝对折射率。",
+      "title": "各种色光的临界角和棱镜偏折角比较",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l11",
+      "source_node_ids": [
+        "n-1a8595743e2410c35c1a"
+      ],
+      "text": "按红、橙、黄、绿、青、蓝、紫的顺序，光子的能量由小到大，原文给出$E=h\\nu$；同一个介质中光子的动量由小到大，原文给出$p=\\dfrac{h}{\\lambda}$。【待核对】原文对介质中光子动量公式的适用约定未作说明，保留原式。",
+      "title": "各种色光的光子能量和动量比较",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-a7b41275f22f435c960b"
+      ],
+      "text": "将同一列光波分解为两列光波，可以得到相干光源。",
+      "title": "获得相干光源",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-e03f02dd6a7e367ad6c9"
+      ],
+      "text": "确定两列相干光到屏上待考查点的路程差$\\Delta r=r_2-r_1$，再对照原文亮条纹条件$\\Delta r=\\pm n\\lambda$和暗条纹条件$\\Delta r=\\pm(2n+1)\\dfrac{\\lambda}{2}$，判断该点是否满足相应条件，其中$n=0,1,2,\\cdots$。",
+      "title": "用路程差判断双缝干涉条纹",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-f1737889b829c9a702d5"
+      ],
+      "text": "按原文推导，先联立相邻亮、暗条纹处的光程差式，得到$2\\Delta d=2(d_2-d_1)=\\dfrac{\\lambda}{2}$；再利用斜劈几何关系，将相邻亮、暗条纹的水平距离加倍，得到相邻亮条纹间距$\\Delta x=2\\Delta x'=\\dfrac{2\\Delta d}{\\tan\\theta}=\\dfrac{\\lambda}{2\\tan\\theta}$。【待核对】所用光程差式和亮暗判据的适用条件原文未交代。",
+      "title": "结合厚度差与斜劈几何求条纹间距",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-e43200b65727cec60e04"
+      ],
+      "text": "在水平标准工件上放置矩形平行薄玻璃板，并在右侧垫入粗细均匀的直金属丝，形成楔形空气膜。用波长为$\\lambda$的光沿垂直标准工件方向照射，测量相邻亮条纹中心间距$\\Delta x$及金属丝接触点到楔形顶点的距离$L$，利用薄膜干涉原理测量金属丝直径。这里只整理题干给出的测量设置，不将选项中的表达式作为结论。",
+      "title": "薄膜干涉测量金属丝直径的实验设置",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-a7b41275f22f435c960b"
+      ],
+      "from": "l1",
+      "to": "c1",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a7b41275f22f435c960b"
+      ],
+      "from": "m1",
+      "to": "l1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e03f02dd6a7e367ad6c9"
+      ],
+      "from": "c2",
+      "to": "l2",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e03f02dd6a7e367ad6c9"
+      ],
+      "from": "m2",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d365dbd4ef59fbbc1aea"
+      ],
+      "from": "c3",
+      "to": "c1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f1737889b829c9a702d5"
+      ],
+      "from": "l4",
+      "to": "c3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f1737889b829c9a702d5"
+      ],
+      "from": "m3",
+      "to": "l4",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e43200b65727cec60e04"
+      ],
+      "from": "m4",
+      "to": "c3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3eacc3de6baa6823a78b"
+      ],
+      "from": "l5",
+      "to": "c4",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b462f3a0df5e73815c47"
+      ],
+      "from": "l6",
+      "to": "c4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3bed93073408e5578755"
+      ],
+      "from": "l7",
+      "to": "c5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3bed93073408e5578755"
+      ],
+      "from": "l7",
+      "to": "c6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3bed93073408e5578755"
+      ],
+      "from": "l8",
+      "to": "c6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e43200b65727cec60e04",
+        "n-1a8595743e2410c35c1a"
+      ],
+      "from": "n-e43200b65727cec60e04",
+      "to": "l3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e43200b65727cec60e04"
+      ],
+      "from": "n-e43200b65727cec60e04",
+      "to": "c3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e43200b65727cec60e04"
+      ],
+      "from": "n-e43200b65727cec60e04",
+      "to": "m4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5333b36c6e456c2750b9",
+        "n-b462f3a0df5e73815c47"
+      ],
+      "from": "n-5333b36c6e456c2750b9",
+      "to": "l6",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5333b36c6e456c2750b9",
+        "n-1a8595743e2410c35c1a"
+      ],
+      "from": "n-5333b36c6e456c2750b9",
+      "to": "l3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-18ed5770f29775dca387",
+  "source_digest": "252ae403b3dd91e25c7ab5c94933088c45ce8b09936a0b7b4484b6d682b6066d",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

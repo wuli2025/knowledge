@@ -1,0 +1,446 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-b9869d71a113b01ce49e"
+      ],
+      "text": "天文单位是量度太阳系内天体与太阳距离的长度单位，用符号 $\\mathrm{AU}$ 表示。原文以地球公转轨道的半径作粗略说明，并指出天文学中有严格定义。",
+      "title": "天文单位",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-669f56e4eef6b0e065bc"
+      ],
+      "text": "万有引力定律中的 $G$ 为引力常量，$G=6.67\\times10^{-11}\\ \\mathrm{N\\cdot m^2/kg^2}$，由卡文迪什（也称卡文迪许）利用扭秤测出。",
+      "title": "引力常量",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-0633b24fcc09a450786b",
+        "n-6d53625a73e7e8504b17"
+      ],
+      "text": "中心天体半径 $R$ 与轨道半径 $r$ 应区分；只有在中心天体表面附近做圆周运动时，才有 $r\\approx R$。体积公式 $V=\\dfrac43\\pi R^3$ 中的 $R$ 只能是中心天体的半径。",
+      "title": "中心天体半径与轨道半径",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-0633b24fcc09a450786b"
+      ],
+      "text": "天体平均密度由质量与体积之比确定：$\\rho=\\dfrac MV$；球形天体体积为 $V=\\dfrac43\\pi R^3$。",
+      "title": "天体平均密度",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-74df90b6a87163acb274"
+      ],
+      "text": "所有行星绕太阳运动的轨道都是椭圆，太阳处在椭圆的一个焦点上；行星运动的轨道必有近日点和远日点。",
+      "title": "开普勒第一定律（轨道定律）",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-74df90b6a87163acb274"
+      ],
+      "text": "对任意一个行星来说，它与太阳的连线在相等的时间内扫过的面积相等。",
+      "title": "开普勒第二定律（面积定律）",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-74df90b6a87163acb274"
+      ],
+      "text": "所有行星轨道的半长轴的三次方跟它的公转周期的二次方的比都相等，即 $\\frac{a^3}{T^2}=k$。同一中心天体 $k$ 值相同，不同中心天体 $k$ 值一般不同。",
+      "title": "开普勒第三定律（周期定律）",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-74df90b6a87163acb274",
+        "n-1361f1ce867b6c4678d5"
+      ],
+      "text": "原文近日点和远日点的比较给出 $\\frac{v_1}{v_2}=\\frac{r_2}{r_1}$；近日点速度最大，远日点速度最小。该速度比按原文图示用于近日点与远日点。",
+      "title": "近日点与远日点的速度关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-669f56e4eef6b0e065bc"
+      ],
+      "text": "表达式为 $F=G\\frac{m_1m_2}{r^2}$。原文列出的适用条件为：两个质点间的相互作用；对于两个质量分布均匀的球体，$r$ 为两球心间的距离；对于质点与质量分布均匀的球体，$r$ 为质点到球心的距离。【待核对】原文适用条件未明确球体是否重叠及质点相对球体的内外位置；球体内部的情况另见原文推论。",
+      "title": "万有引力定律及适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-669f56e4eef6b0e065bc"
+      ],
+      "text": "在匀质球壳的空腔内任意位置处，质点受到的万有引力的合力为 $0$，即 $\\sum F=0$。",
+      "title": "匀质球壳空腔内的引力",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-669f56e4eef6b0e065bc"
+      ],
+      "text": "在总质量为 $M$、半径为 $R$ 的匀质球体内部，距球心 $r$ 处的质点受到的万有引力等于半径为 $r$ 的内部球体对它的引力：$F'=G\\frac{M'm}{r^2}$。由 $\\frac{M'}{M}=\\frac{r^3}{R^3}$，得 $F'=G\\frac{Mm}{R^3}r$。",
+      "title": "匀质球体内部的引力",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-3ed17c855e62e7ae226d"
+      ],
+      "text": "万有引力产生两个效果：提供物体随地球自转所需的向心力，以及产生物体的重力。图示中万有引力指向地心，向心力指向物体所在纬度圆的圆心。在赤道上：$G\\frac{Mm}{R^2}=mg_1+m\\omega^2R$；在两极上：$G\\frac{Mm}{R^2}=mg_2$。",
+      "title": "万有引力与重力的关系",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-1361f1ce867b6c4678d5",
+        "n-74df90b6a87163acb274"
+      ],
+      "text": "比较近日点与远日点的速度时，利用相等时间内扫过面积相等，列 $\\frac{1}{2}\\Delta l_1r_1=\\frac{1}{2}\\Delta l_2r_2$，即 $\\frac{1}{2}v_1\\Delta t\\cdot r_1=\\frac{1}{2}v_2\\Delta t\\cdot r_2$，得到 $\\frac{v_1}{v_2}=\\frac{r_2}{r_1}$。",
+      "title": "用面积定律比较近远日点速度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-74df90b6a87163acb274",
+        "n-b9869d71a113b01ce49e"
+      ],
+      "text": "对于绕同一中心天体运动的天体，利用 $\\frac{a^3}{T^2}=k$ 且 $k$ 相同的条件，根据轨道半长轴与公转周期之间的关系进行比较或求未知周期。原文典例以火星与地球的公转为应用情境。",
+      "title": "用周期定律比较轨道与周期",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-0633b24fcc09a450786b",
+        "n-6d53625a73e7e8504b17"
+      ],
+      "text": "利用环绕天体的圆周运动，令万有引力提供所需向心力，即 $F_{\\text{供}}=F_{\\text{需}}$，由轨道半径及线速度、角速度或周期估算中心天体质量，再结合体积求平均密度。此法估算的只是中心天体的质量；须区分中心天体半径 $R$ 与轨道半径 $r$。",
+      "title": "利用环绕天体运动估算质量和密度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-0633b24fcc09a450786b"
+      ],
+      "text": "环绕天体做圆周运动时，由 $G\\dfrac{Mm}{r^2}=m\\dfrac{v^2}{r}$，得 $M=\\dfrac{rv^2}{G}$；求质量需要 $(r,v)$。结合中心天体半径 $R$，有 $\\rho=\\dfrac{3rv^2}{4\\pi GR^3}$；求密度需要 $(r,v,R)$。",
+      "title": "利用轨道半径和线速度计算",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-0633b24fcc09a450786b"
+      ],
+      "text": "环绕天体做圆周运动时，由 $G\\dfrac{Mm}{r^2}=m\\omega^2r$，得 $M=\\dfrac{r^3\\omega^2}{G}$；求质量需要 $(r,\\omega)$。结合中心天体半径 $R$，有 $\\rho=\\dfrac{3r^3\\omega^2}{4\\pi GR^3}$；求密度需要 $(r,\\omega,R)$。",
+      "title": "利用轨道半径和角速度计算",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-0633b24fcc09a450786b"
+      ],
+      "text": "环绕天体做圆周运动时，由 $G\\dfrac{Mm}{r^2}=m\\dfrac{4\\pi^2}{T^2}r$，得 $M=\\dfrac{4\\pi^2r^3}{GT^2}$；求质量需要 $(r,T)$。结合中心天体半径 $R$，有 $\\rho=\\dfrac{3\\pi r^3}{GT^2R^3}$；求密度需要 $(r,T,R)$。",
+      "title": "利用轨道半径和周期计算",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-0633b24fcc09a450786b",
+        "n-6d53625a73e7e8504b17"
+      ],
+      "text": "当 $r=R$ 时，已知环绕天体的周期 $T$ 或角速度 $\\omega$ 即可求出中心天体的平均密度。中心天体表面附近的圆周运动可取 $r\\approx R$。",
+      "title": "利用近表面环绕运动估算密度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-0633b24fcc09a450786b",
+        "n-3ed17c855e62e7ae226d"
+      ],
+      "text": "在可将表面重力等同于万有引力的条件下，利用 $mg=G\\dfrac{Mm}{R^2}$，得 $M=\\dfrac{gR^2}{G}$，以及 $\\rho=\\dfrac{3g}{4\\pi GR}$。若考虑自转，应结合万有引力与重力的关系判断该等式是否适用。",
+      "title": "利用表面重力加速度计算质量和密度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m9",
+      "source_node_ids": [
+        "n-0633b24fcc09a450786b"
+      ],
+      "text": "可通过自由落体、竖直上抛、平抛运动等求出中心天体表面的重力加速度 $g$，再用于天体质量与平均密度的计算。",
+      "title": "通过物体运动获取表面重力加速度",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-74df90b6a87163acb274",
+        "n-1361f1ce867b6c4678d5"
+      ],
+      "from": "l2",
+      "to": "m1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1361f1ce867b6c4678d5"
+      ],
+      "from": "m1",
+      "to": "l4",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-74df90b6a87163acb274",
+        "n-b9869d71a113b01ce49e"
+      ],
+      "from": "l3",
+      "to": "m2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b9869d71a113b01ce49e"
+      ],
+      "from": "n-b9869d71a113b01ce49e",
+      "to": "l3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b9869d71a113b01ce49e"
+      ],
+      "from": "n-b9869d71a113b01ce49e",
+      "to": "c1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-669f56e4eef6b0e065bc"
+      ],
+      "from": "l5",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-669f56e4eef6b0e065bc"
+      ],
+      "from": "l5",
+      "to": "l6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-669f56e4eef6b0e065bc"
+      ],
+      "from": "l5",
+      "to": "l7",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0633b24fcc09a450786b"
+      ],
+      "from": "l5",
+      "to": "m3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0633b24fcc09a450786b"
+      ],
+      "from": "m3",
+      "to": "m4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0633b24fcc09a450786b"
+      ],
+      "from": "m3",
+      "to": "m5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0633b24fcc09a450786b"
+      ],
+      "from": "m3",
+      "to": "m6",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0633b24fcc09a450786b"
+      ],
+      "from": "m3",
+      "to": "m7",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0633b24fcc09a450786b",
+        "n-6d53625a73e7e8504b17"
+      ],
+      "from": "c3",
+      "to": "m3",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0633b24fcc09a450786b"
+      ],
+      "from": "c4",
+      "to": "m3",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0633b24fcc09a450786b"
+      ],
+      "from": "c4",
+      "to": "m8",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0633b24fcc09a450786b",
+        "n-3ed17c855e62e7ae226d"
+      ],
+      "from": "l8",
+      "to": "m8",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0633b24fcc09a450786b"
+      ],
+      "from": "m9",
+      "to": "m8",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-98920b50499007ff3e31",
+        "n-0633b24fcc09a450786b"
+      ],
+      "from": "n-98920b50499007ff3e31",
+      "to": "m9",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-98920b50499007ff3e31",
+        "n-0633b24fcc09a450786b"
+      ],
+      "from": "n-98920b50499007ff3e31",
+      "to": "m7",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d1dccc6579dbddaf0eb4",
+        "n-669f56e4eef6b0e065bc"
+      ],
+      "from": "n-d1dccc6579dbddaf0eb4",
+      "to": "l7",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d1dccc6579dbddaf0eb4",
+        "n-669f56e4eef6b0e065bc"
+      ],
+      "from": "n-d1dccc6579dbddaf0eb4",
+      "to": "l5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d21870c54dfbea747058",
+        "n-3ed17c855e62e7ae226d"
+      ],
+      "from": "n-d21870c54dfbea747058",
+      "to": "l8",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d21870c54dfbea747058",
+        "n-0633b24fcc09a450786b"
+      ],
+      "from": "n-d21870c54dfbea747058",
+      "to": "m6",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-047a19014f9169a438c9",
+        "n-3ed17c855e62e7ae226d"
+      ],
+      "from": "n-047a19014f9169a438c9",
+      "to": "l8",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-630d4df39bf779656579",
+  "source_digest": "5063c3781327ba8ce70fb102c35b18ab29a87c9a93a7d85bf903eb523815883c",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

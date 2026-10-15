@@ -1,0 +1,483 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-7e2c8c46698d7fb72364"
+      ],
+      "text": "水平、竖直弹簧振子做简谐运动的条件均为：弹簧质量忽略不计，无摩擦等阻力，且运动在弹簧弹性限度内。",
+      "title": "弹簧振子模型及适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-7e2c8c46698d7fb72364"
+      ],
+      "text": "水平弹簧振子的回复力由弹簧弹力提供，平衡位置在弹簧原长处；竖直弹簧振子的回复力由弹力与重力的合力提供，平衡位置在 $kx_0=mg$ 处。回复力指向平衡位置。",
+      "title": "弹簧振子的回复力与平衡位置",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-07348bf6f32f1969de95"
+      ],
+      "text": "简谐运动的位移—时间图像反映一个质点振动的位移随时间变化的规律，不是质点的运动轨迹；图线为正弦或余弦曲线。",
+      "title": "简谐运动图像",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-31daf469c22d9884df83",
+        "n-abd8e885a830beb6ac90"
+      ],
+      "text": "单摆是理想化模型。原文列出的条件为：摆线为不可伸缩的轻质细线，不计空气阻力，最大摆角 $\\theta_{\\mathrm{m}}\\leq5^\\circ$。",
+      "title": "单摆模型及简谐运动条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-c15b1687de75e083b224"
+      ],
+      "text": "受迫振动是系统在驱动力作用下的振动。",
+      "title": "受迫振动",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-7090b9b3a510ae797c4b"
+      ],
+      "text": "简谐运动的周期或频率由系统本身性质决定，称为固有周期 $T_0$ 或固有频率 $f_0$。",
+      "title": "固有周期与固有频率",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c7",
+      "source_node_ids": [
+        "n-9fac24eea95edbdab478"
+      ],
+      "text": "当驱动力的频率等于系统的固有频率时，受迫振动的振幅最大，这种现象称为共振。",
+      "title": "共振",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c8",
+      "source_node_ids": [
+        "n-9fac24eea95edbdab478"
+      ],
+      "text": "共振曲线表示振幅 $A$ 随驱动力频率 $f$ 的变化；在 $f=f_0$ 时曲线达到峰值，振幅为 $A_{\\mathrm{m}}$。",
+      "title": "共振曲线",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-3ed52e7829dfd882bf3a",
+        "n-f8f266cb49c40f4f4dcc"
+      ],
+      "text": "简谐运动的动力学表达式为 $F=-kx$，其中“$-$”表示回复力方向与位移方向相反。",
+      "title": "简谐运动的动力学表达式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-3ed52e7829dfd882bf3a"
+      ],
+      "text": "简谐运动的运动学表达式为 $x=A\\sin(\\omega t+\\varphi)$，其中 $A$ 代表振幅，$\\omega=2\\pi f$ 表示简谐运动的快慢。",
+      "title": "简谐运动的运动学表达式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-7e2c8c46698d7fb72364"
+      ],
+      "text": "在弹簧质量忽略不计、无摩擦等阻力且在弹簧弹性限度内的条件下，水平、竖直弹簧振子的周期均为 $T=2\\pi\\sqrt{\\frac{m}{k}}$，与振幅无关。其中 $m$ 为振子的质量，$k$ 为弹簧的劲度系数。",
+      "title": "弹簧振子的周期",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-7e2c8c46698d7fb72364"
+      ],
+      "text": "在原文所列简谐运动条件下，水平弹簧振子的弹性势能与动能相互转化，系统机械能守恒；竖直弹簧振子的弹性势能、重力势能与动能相互转化，系统机械能守恒。",
+      "title": "弹簧振子的能量转化与守恒",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-f8f266cb49c40f4f4dcc"
+      ],
+      "text": "简谐运动的振幅越大，系统能量越大；运动过程中动能和势能相互转化，系统机械能守恒。",
+      "title": "简谐运动的能量特征",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-f8f266cb49c40f4f4dcc"
+      ],
+      "text": "简谐运动的位移、回复力、加速度和速度均随时间周期性变化，变化周期为 $T$；动能和势能也随时间周期性变化，周期为 $\\frac{T}{2}$。",
+      "title": "简谐运动各物理量的周期性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-f8f266cb49c40f4f4dcc"
+      ],
+      "text": "相隔 $\\Delta t=\\left(n+\\frac{1}{2}\\right)T$（$n=0,1,2,\\cdots$）的两个时刻，物体的位置关于平衡位置对称，位移、速度及加速度均大小相等、方向相反，动能、势能均相等。",
+      "title": "简谐运动相隔奇数个半周期的对称性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-f8f266cb49c40f4f4dcc"
+      ],
+      "text": "物体来回通过相同的两点间所用时间相等，如 $t_{BC}=t_{CB}$；经过关于平衡位置对称的等长的两段距离所用时间相等，如 $t_{BC}=t_{B'C'}$。",
+      "title": "简谐运动的时间对称性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-31daf469c22d9884df83"
+      ],
+      "text": "单摆的回复力由摆球重力沿垂直于摆线方向的分力提供。原式为 $F_{\\text{回}}=mg\\sin\\theta\\approx-\\frac{mg}{l}x=-kx$，原文说明负号表示回复力方向与位移方向相反。【待核对】原式中 $mg\\sin\\theta$ 与后续带负号表达式的符号约定未明确。适用条件包括最大摆角 $\\theta_{\\mathrm{m}}\\leq5^\\circ$。",
+      "title": "单摆的回复力",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-31daf469c22d9884df83"
+      ],
+      "text": "单摆的向心力由摆线张力和摆球重力沿摆线方向分力的合力提供，$F_{\\text{向}}=F_{\\mathrm{T}}-mg\\cos\\theta$。",
+      "title": "单摆的向心力",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l11",
+      "source_node_ids": [
+        "n-31daf469c22d9884df83"
+      ],
+      "text": "摆球在最高点时，$F_{\\text{向}}=\\frac{mv^2}{l}=0$，$F_{\\mathrm{T}}=mg\\cos\\theta_{\\mathrm{m}}$；在最低点时，$F_{\\text{向}}=\\frac{mv_{\\max}^2}{l}$，向心力最大，$F_{\\mathrm{T}}=mg+m\\frac{v_{\\max}^2}{l}$。",
+      "title": "单摆最高点与最低点的受力",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l12",
+      "source_node_ids": [
+        "n-abd8e885a830beb6ac90",
+        "n-31daf469c22d9884df83"
+      ],
+      "text": "单摆做简谐运动的周期为 $T=2\\pi\\sqrt{\\frac{l}{g}}$，与振幅 $A$、摆球质量 $m$ 无关，$g$ 为单摆所处位置的重力加速度。原文所列简谐运动条件为轻质不可伸缩细线、不计空气阻力、最大摆角 $\\theta_{\\mathrm{m}}\\leq5^\\circ$。",
+      "title": "单摆的周期",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l13",
+      "source_node_ids": [
+        "n-c15b1687de75e083b224",
+        "n-7090b9b3a510ae797c4b"
+      ],
+      "text": "受迫振动的周期或频率由驱动力决定，即 $T=T_{\\text{驱}}$ 或 $f=f_{\\text{驱}}$；受迫振动的频率与系统的固有频率无关。",
+      "title": "受迫振动的周期与频率",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l14",
+      "source_node_ids": [
+        "n-9fac24eea95edbdab478",
+        "n-7090b9b3a510ae797c4b"
+      ],
+      "text": "共振条件为驱动力频率等于固有频率，即 $T_{\\text{驱}}=T_0$ 或 $f_{\\text{驱}}=f_0$；此时受迫振动的振幅最大，振动物体获得的能量最大。",
+      "title": "共振条件及特征",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l15",
+      "source_node_ids": [
+        "n-7090b9b3a510ae797c4b"
+      ],
+      "text": "简谐运动系统的机械能不变；受迫振动的能量由产生驱动力的物体提供。",
+      "title": "简谐运动与受迫振动的能量特点",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-07348bf6f32f1969de95"
+      ],
+      "text": "利用简谐运动的位移—时间图像，获取振幅 $A$、周期 $T$、各时刻质点的位置及某段时间内的路程；判断各时刻回复力、加速度、速度、位移的方向，以及某段时间内位移、回复力、加速度、速度、动能、势能的变化情况。",
+      "title": "从简谐运动图像提取信息",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-f8f266cb49c40f4f4dcc"
+      ],
+      "text": "比较不同时刻的运动状态时，可利用相隔 $\\Delta t=\\left(n+\\frac{1}{2}\\right)T$（$n=0,1,2,\\cdots$）的状态对称性；比较运动时间时，可利用来回通过相同两点间所用时间相等，以及经过关于平衡位置对称的等长两段距离所用时间相等。",
+      "title": "利用简谐运动对称性比较状态与时间",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-31daf469c22d9884df83"
+      ],
+      "text": "分析单摆受力时，分别考察垂直于摆线方向和沿摆线方向：重力沿垂直于摆线方向的分力提供回复力，张力与重力沿摆线方向分力的合力提供向心力；最高点和最低点可分别使用原文给出的向心力及张力关系。",
+      "title": "按方向分析单摆的回复力与向心力",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-6bf16b5312cbf3f8a023"
+      ],
+      "text": "在原文给定装置中，不可伸长的光滑细线穿过小铁球，两端悬挂在倾角为 $30^\\circ$ 的固定斜杆上，平衡时 $A$ 端细线与杆垂直；小铁球受到垂直纸面方向的扰动做微小摆动时，可等效为悬挂点位于小铁球重垂线与 $AB$ 交点的单摆。该等效关系限于原文给定情境。",
+      "title": "特定双线装置的等效单摆处理",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-9fac24eea95edbdab478"
+      ],
+      "text": "读取共振曲线的峰值位置：峰值对应的驱动力频率满足 $f=f_0$，可据此识别系统的固有频率；峰值纵坐标为最大振幅 $A_{\\mathrm{m}}$。",
+      "title": "从共振曲线识别固有频率与最大振幅",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-7e2c8c46698d7fb72364"
+      ],
+      "from": "c1",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7e2c8c46698d7fb72364"
+      ],
+      "from": "l3",
+      "to": "c1",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7e2c8c46698d7fb72364"
+      ],
+      "from": "l4",
+      "to": "c1",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-07348bf6f32f1969de95"
+      ],
+      "from": "m1",
+      "to": "c3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f8f266cb49c40f4f4dcc"
+      ],
+      "from": "m2",
+      "to": "l7",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f8f266cb49c40f4f4dcc"
+      ],
+      "from": "m2",
+      "to": "l8",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-31daf469c22d9884df83"
+      ],
+      "from": "l9",
+      "to": "c4",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-31daf469c22d9884df83",
+        "n-abd8e885a830beb6ac90"
+      ],
+      "from": "l12",
+      "to": "c4",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-31daf469c22d9884df83"
+      ],
+      "from": "m3",
+      "to": "l9",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-31daf469c22d9884df83"
+      ],
+      "from": "m3",
+      "to": "l10",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-31daf469c22d9884df83"
+      ],
+      "from": "m3",
+      "to": "l11",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c15b1687de75e083b224"
+      ],
+      "from": "c5",
+      "to": "l13",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9fac24eea95edbdab478"
+      ],
+      "from": "c7",
+      "to": "c5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9fac24eea95edbdab478"
+      ],
+      "from": "c7",
+      "to": "c8",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9fac24eea95edbdab478",
+        "n-7090b9b3a510ae797c4b"
+      ],
+      "from": "c7",
+      "to": "l14",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7090b9b3a510ae797c4b"
+      ],
+      "from": "l14",
+      "to": "c6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9fac24eea95edbdab478"
+      ],
+      "from": "m5",
+      "to": "c8",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-572a7ff7503719238dbc"
+      ],
+      "from": "n-572a7ff7503719238dbc",
+      "to": "c3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-572a7ff7503719238dbc"
+      ],
+      "from": "n-572a7ff7503719238dbc",
+      "to": "l2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e95e51ed653f2dddeae9",
+        "n-abd8e885a830beb6ac90"
+      ],
+      "from": "n-e95e51ed653f2dddeae9",
+      "to": "l12",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-eabcb3d134d71f66d008"
+      ],
+      "from": "n-eabcb3d134d71f66d008",
+      "to": "c8",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-eabcb3d134d71f66d008",
+        "n-abd8e885a830beb6ac90"
+      ],
+      "from": "n-eabcb3d134d71f66d008",
+      "to": "l12",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-eabcb3d134d71f66d008",
+        "n-9fac24eea95edbdab478"
+      ],
+      "from": "n-eabcb3d134d71f66d008",
+      "to": "m5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-be926f72f0abceabd961",
+  "source_digest": "13f12672c0570402a532a0ee499c1c14222d820c373426310f0ff015e5d003c2",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

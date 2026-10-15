@@ -1,0 +1,514 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-92bdee33b35785663900",
+        "n-795af8940ebb115c2fb9"
+      ],
+      "text": "光滑水平地面上，质量为 $m$ 的子弹以水平速度 $v_0$ 射向质量为 $M$、长度为 $d$ 的木块，进入深度为 $s$。过程中系统动量守恒，机械能因摩擦生热而损失，可应用能量守恒定律。",
+      "title": "子弹打木块模型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-a03cd59a7b2966800dd7"
+      ],
+      "text": "子弹嵌入木块后，两者速度相同，机械能损失最多，可类比完全非弹性碰撞。",
+      "title": "子弹嵌入木块情境",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-a03cd59a7b2966800dd7"
+      ],
+      "text": "子弹穿透木块后，两者速度不相同，机械能有损失，可类比非弹性碰撞。",
+      "title": "子弹穿透木块情境",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-c7182fd5eb5855da721b",
+        "n-b234e70d5b1110a8d91f"
+      ],
+      "text": "上表面粗糙、质量为 $M$ 的木板放在光滑水平地面上，质量为 $m$ 的滑块以初速度 $v_0$ 滑上木板。按滑块是否滑离木板分情境研究。",
+      "title": "滑块—木板模型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-b234e70d5b1110a8d91f"
+      ],
+      "text": "若滑块未滑离木板，最终二者相对静止，共同速度为 $v$。滑块相对木板的位移为 $d$，木板相对地面的位移为 $s$，二者间摩擦力为 $F_{\\mathrm f}$。该情境类似于子弹未射出木块。",
+      "title": "滑块未滑离木板情境",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-b234e70d5b1110a8d91f"
+      ],
+      "text": "若滑块滑离木板，滑离时滑块速度记为 $v_1$，木板速度记为 $v_2$，木板长度为 $L$。",
+      "title": "滑块滑离木板情境",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c7",
+      "source_node_ids": [
+        "n-271853190927831dc146",
+        "n-a770459bbad1eafbf14f"
+      ],
+      "text": "光滑水平面上，质量分别为 $m_1$、$m_2$ 的物体 $A$、$B$ 通过开始处于原长的轻弹簧连接；$A$ 以初速度 $v_0$ 运动，$B$ 初始静止。",
+      "title": "滑块—弹簧模型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c8",
+      "source_node_ids": [
+        "n-adfbe69fbc50d60e1b3e",
+        "n-0b8633c4e3d612e9fee7"
+      ],
+      "text": "质量为 $m$ 的滑块以水平初速度 $v_0$ 滑向质量为 $M$ 的曲面体，接触面和地面均光滑，曲面顶端切线竖直。滑块可能未滑出弧面，也可能从顶端滑出后继续上升，再落回曲面。",
+      "title": "滑块—斜（曲）面体模型",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-a03cd59a7b2966800dd7",
+        "n-92bdee33b35785663900"
+      ],
+      "text": "子弹嵌入木块并以共同速度 $v$ 运动时，动量守恒：$mv_0=(m+M)v$。能量守恒：$F_{\\mathrm f}s=\\frac12mv_0^2-\\frac12(M+m)v^2$。其中 $s$ 为子弹进入木块的深度，$F_{\\mathrm f}$ 为摩擦阻力。",
+      "title": "子弹嵌入木块的动量与能量关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-a03cd59a7b2966800dd7",
+        "n-92bdee33b35785663900"
+      ],
+      "text": "子弹穿透长度为 $d$ 的木块后，子弹、木块速度分别为 $v_1$、$v_2$。动量守恒：$mv_0=mv_1+Mv_2$。能量守恒：$Q=F_{\\mathrm f}d=\\frac12mv_0^2-\\left(\\frac12mv_1^2+\\frac12Mv_2^2\\right)$。",
+      "title": "子弹穿透木块的动量与能量关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-c7182fd5eb5855da721b",
+        "n-b234e70d5b1110a8d91f"
+      ],
+      "text": "光滑水平地面上的粗糙木板与滑块组成系统，若滑块未滑离木板并达到共同速度 $v$，则系统动量守恒：$mv_0=(M+m)v$；系统能量守恒：$F_{\\mathrm f}d=\\frac12mv_0^2-\\frac12(M+m)v^2$。其中 $d$ 为滑块相对木板的位移。",
+      "title": "滑块未滑离木板的动量与能量关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-c7182fd5eb5855da721b",
+        "n-b234e70d5b1110a8d91f"
+      ],
+      "text": "滑块滑离长度为 $L$ 的木板时，系统动量守恒：$mv_0=mv_1+Mv_2$；系统能量守恒：$F_{\\mathrm f}L=\\frac12mv_0^2-\\frac12mv_1^2-\\frac12Mv_2^2$。其中 $v_1$、$v_2$ 分别为滑离时滑块和木板的速度。",
+      "title": "滑块滑离木板的动量与能量关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-271853190927831dc146",
+        "n-a770459bbad1eafbf14f"
+      ],
+      "text": "在给定滑块—弹簧模型中，弹簧最短或最长时两物体瞬时速度相同，弹性势能最大，可类比完全非弹性碰撞。系统动量守恒：$m_1v_0=(m_1+m_2)v_{\\text{共}}$；系统机械能守恒：$\\frac12m_1v_0^2=\\frac12(m_1+m_2)v_{\\text{共}}^2+E_{\\mathrm{pm}}$。",
+      "title": "弹簧形变量最大时的共同速度与弹性势能",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-a770459bbad1eafbf14f"
+      ],
+      "text": "弹簧恢复原长时弹性势能为 $0$，可类比弹性碰撞。对图示状态3，系统动量守恒：$m_1v_0=m_1v_1+m_2v_{2\\max}$；系统机械能守恒：$\\frac12m_1v_0^2=\\frac12m_1v_1^2+\\frac12m_2v_{2\\max}^2$。",
+      "title": "弹簧恢复原长时的动量与机械能关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-ececc8b60a10bc79d8fd"
+      ],
+      "text": "在图示状态3（弹簧压缩后恢复原长）时：若 $m_1=m_2$，$v_2=\\frac{2m_1}{m_1+m_2}v_0=v_0$，$v_1=\\frac{m_1-m_2}{m_1+m_2}v_0=0$；若 $m_1>m_2$，$v_2=\\frac{2m_1}{m_1+m_2}v_0>v_0$，$v_1=\\frac{m_1-m_2}{m_1+m_2}v_0>0$；若 $m_1<m_2$，$v_2=\\frac{2m_1}{m_1+m_2}v_0<v_0$，$v_1=\\frac{m_1-m_2}{m_1+m_2}v_0<0$。",
+      "title": "滑块—弹簧模型中质量关系对速度的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-adfbe69fbc50d60e1b3e",
+        "n-0b8633c4e3d612e9fee7"
+      ],
+      "text": "接触面和地面均光滑、曲面顶端切线竖直的模型中，系统水平方向所受合力为 $0$，水平方向动量守恒；竖直方向动量不守恒，系统总动量不守恒。整个过程中系统机械能守恒。",
+      "title": "滑块—曲面体系统的守恒条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-0b8633c4e3d612e9fee7"
+      ],
+      "text": "滑块上升到最大高度时，其水平分速度与斜（曲）面体速度相同，为 $v_{\\text{共}}$，且竖直分速度 $v_y=0$。水平方向动量守恒：$mv_0=(M+m)v_{\\text{共}}$；机械能守恒：$\\frac12mv_0^2=\\frac12(M+m)v_{\\text{共}}^2+mgh$。$h$ 为滑块上升的最大高度，不一定等于轨道高度。该状态可类比完全非弹性碰撞，系统减少的动能转化为滑块的重力势能。",
+      "title": "滑块上升至最大高度时的守恒关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-0b8633c4e3d612e9fee7"
+      ],
+      "text": "滑块返回最低点，即与斜（曲）面体分离时，水平方向动量守恒：$mv_0=mv_1+Mv_2$；机械能守恒：$\\frac12mv_0^2=\\frac12mv_1^2+\\frac12Mv_2^2$，可类比弹性碰撞。$v_1$、$v_2$ 分别为滑块和斜（曲）面体的速度。",
+      "title": "滑块返回最低点时的守恒关系",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-770f28446f411410e8a6"
+      ],
+      "text": "系统水平方向不受外力时，先由动量守恒求子弹与木块的共同速度，再用 $fs=\\Delta E$ 联系阻力、进入深度与机械能损失。在阻力保持不变的题设下，对改变后的入射速度，假设子弹恰好未射穿，由动量守恒求共同速度，并用 $fd'=\\Delta E'$ 求所需深度，再与木块长度比较；所需深度大于木块长度时，子弹能射穿木块。",
+      "title": "用假设未射穿与深度比较判断穿透",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-bbe63926a73bcd4198d8"
+      ],
+      "text": "滑块—木板问题涉及滑块或木板的运动时间时，优先考虑应用动量定理。",
+      "title": "运动时间问题优先用动量定理",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-bbe63926a73bcd4198d8"
+      ],
+      "text": "滑块—木板问题涉及滑块或木板的位移时，优先考虑应用动能定理。",
+      "title": "物体位移问题优先用动能定理",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-bbe63926a73bcd4198d8"
+      ],
+      "text": "滑块—木板问题涉及滑块与木板的相对位移时，优先考虑应用系统的能量守恒或功能关系。",
+      "title": "相对位移问题优先用系统能量关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-a770459bbad1eafbf14f",
+        "n-ececc8b60a10bc79d8fd"
+      ],
+      "text": "将滑块—弹簧系统的 $v$—$t$ 图像与弹簧状态对应：状态1为初始原长；状态2为最短，两物体同速；状态3恢复原长；状态4为最长，两物体同速；状态5再次恢复原长，两物体分别恢复初速度。对最短、最长状态应用共同速度及最大弹性势能关系，对恢复原长状态应用弹性势能为零时的守恒关系。",
+      "title": "对应速度图像与弹簧关键状态",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-3eb49b8fdd322693379b"
+      ],
+      "text": "利用水平方向动量守恒，结合小球与滑块的水平速度图像，分析二者的质量关系及小球在最高点时的共同速度；再结合机械能守恒，分析小球上升的最大高度和二者分离后的运动状态。",
+      "title": "结合水平速度图像分析曲面体模型",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-a03cd59a7b2966800dd7"
+      ],
+      "from": "c1",
+      "to": "c2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a03cd59a7b2966800dd7"
+      ],
+      "from": "c1",
+      "to": "c3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a03cd59a7b2966800dd7"
+      ],
+      "from": "l1",
+      "to": "c2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a03cd59a7b2966800dd7"
+      ],
+      "from": "l2",
+      "to": "c3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b234e70d5b1110a8d91f"
+      ],
+      "from": "c4",
+      "to": "c5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b234e70d5b1110a8d91f"
+      ],
+      "from": "c4",
+      "to": "c6",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b234e70d5b1110a8d91f"
+      ],
+      "from": "c5",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b234e70d5b1110a8d91f"
+      ],
+      "from": "l3",
+      "to": "c5",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b234e70d5b1110a8d91f"
+      ],
+      "from": "l4",
+      "to": "c6",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a770459bbad1eafbf14f"
+      ],
+      "from": "l5",
+      "to": "c7",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a770459bbad1eafbf14f"
+      ],
+      "from": "l6",
+      "to": "c7",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ececc8b60a10bc79d8fd"
+      ],
+      "from": "l7",
+      "to": "c7",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0b8633c4e3d612e9fee7"
+      ],
+      "from": "l8",
+      "to": "c8",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0b8633c4e3d612e9fee7"
+      ],
+      "from": "l9",
+      "to": "c8",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0b8633c4e3d612e9fee7"
+      ],
+      "from": "l10",
+      "to": "c8",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-770f28446f411410e8a6"
+      ],
+      "from": "m1",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-bbe63926a73bcd4198d8"
+      ],
+      "from": "m2",
+      "to": "c4",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-bbe63926a73bcd4198d8"
+      ],
+      "from": "m3",
+      "to": "c4",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-bbe63926a73bcd4198d8"
+      ],
+      "from": "m4",
+      "to": "c4",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a770459bbad1eafbf14f",
+        "n-ececc8b60a10bc79d8fd"
+      ],
+      "from": "m5",
+      "to": "c7",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a770459bbad1eafbf14f",
+        "n-ececc8b60a10bc79d8fd"
+      ],
+      "from": "m5",
+      "to": "l5",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a770459bbad1eafbf14f",
+        "n-ececc8b60a10bc79d8fd"
+      ],
+      "from": "m5",
+      "to": "l6",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3eb49b8fdd322693379b"
+      ],
+      "from": "m6",
+      "to": "c8",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-770f28446f411410e8a6"
+      ],
+      "from": "n-770f28446f411410e8a6",
+      "to": "c1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-770f28446f411410e8a6"
+      ],
+      "from": "n-770f28446f411410e8a6",
+      "to": "m1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-400e50fa9fa781c1adc5"
+      ],
+      "from": "n-400e50fa9fa781c1adc5",
+      "to": "c4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-fe9ddd51acec4f6a273b"
+      ],
+      "from": "n-fe9ddd51acec4f6a273b",
+      "to": "c4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-897a0d17eb87d7bc446b"
+      ],
+      "from": "n-897a0d17eb87d7bc446b",
+      "to": "c7",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3eb49b8fdd322693379b"
+      ],
+      "from": "n-3eb49b8fdd322693379b",
+      "to": "c8",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3eb49b8fdd322693379b"
+      ],
+      "from": "n-3eb49b8fdd322693379b",
+      "to": "m6",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-4e1bbb97e3b44a7e335e",
+  "source_digest": "fca805fc49008f5bc385e0c13b2153cd66e0cd1d49231ec681d42c53b4fdfe16",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

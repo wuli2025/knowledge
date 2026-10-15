@@ -1,0 +1,251 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-6dab3dfe72ce7128f2ec"
+      ],
+      "text": "重力场、电场叠加而成的复合场称为等效重力场。",
+      "title": "等效重力场",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-6dab3dfe72ce7128f2ec"
+      ],
+      "text": "等效重力是重力、静电力的合力。",
+      "title": "等效重力",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-6dab3dfe72ce7128f2ec"
+      ],
+      "text": "等效重力加速度是等效重力与物体质量的比值，即 $g_{\\text{效}}=\\dfrac{G_{\\text{效}}}{m}$。",
+      "title": "等效重力加速度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-6dab3dfe72ce7128f2ec"
+      ],
+      "text": "物体做圆周运动时，与等效重力平行的直径和圆有两个交点：等效重力指向的一侧交点为等效“最低点”，背离等效重力方向一侧的交点为等效“最高点”。",
+      "title": "等效“最低点”与等效“最高点”",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-23cca26146e08d35350e"
+      ],
+      "text": "在匀强电场中，带电粒子所受静电力和重力都是恒力。",
+      "title": "匀强电场中静电力与重力的恒力性质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-a2d4665ed4f5034c07f5"
+      ],
+      "text": "图示静电力 $qE$ 竖直向上、重力 $mg$ 竖直向下，且 $qE>mg$ 时，等效重力 $mg'=qE-mg$ 向上，等效重力加速度为 $g'$。",
+      "title": "竖直向上静电力大于重力时的等效重力",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-6dab3dfe72ce7128f2ec",
+        "n-a2d4665ed4f5034c07f5"
+      ],
+      "text": "先确定重力和静电力的合力方向，再作与等效重力平行的直径；沿等效重力方向的一侧交点为等效“最低点”，另一侧交点为等效“最高点”。图示静电力向上且 $qE>mg$ 时，圆周顶部为等效“最低点”，底部为等效“最高点”；静电力水平向右、重力向下时，等效重力斜向右下，右下方交点为等效“最低点”，左上方交点为等效“最高点”。",
+      "title": "确定等效“最高点”和等效“最低点”",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-23cca26146e08d35350e"
+      ],
+      "text": "匀强电场中，带电粒子所受静电力和重力都是恒力，可用正交分解法分析。",
+      "title": "正交分解法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-23cca26146e08d35350e"
+      ],
+      "text": "综合运用牛顿运动定律和匀变速直线运动公式解题；受力分析要全面，特别注意重力是否需要考虑。",
+      "title": "动力学观点分析力电综合问题",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-b429236caf2e40c05d7d"
+      ],
+      "text": "运用动能定理解题时，全面分析运动过程，准确求出过程中的所有力做的功，并判断对分过程还是全过程使用动能定理。",
+      "title": "动能定理的过程选择与功的分析",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-b429236caf2e40c05d7d"
+      ],
+      "text": "运用能量守恒定律解题时，注意识别题目中出现的能量形式。",
+      "title": "能量守恒观点分析",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-91074c55d8d2e33708f4"
+      ],
+      "text": "运用动量定理解题时，注意其表达式是矢量式；在一维情况下，各个矢量必须选同一个正方向。",
+      "title": "动量定理的矢量处理",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-91074c55d8d2e33708f4"
+      ],
+      "text": "运用动量守恒定律解题时，注意其表达式是矢量式，并注意题目表述是否在某方向上动量守恒。",
+      "title": "动量守恒的方向分析",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-6dab3dfe72ce7128f2ec"
+      ],
+      "from": "c1",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6dab3dfe72ce7128f2ec"
+      ],
+      "from": "c2",
+      "to": "c3",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6dab3dfe72ce7128f2ec"
+      ],
+      "from": "c2",
+      "to": "c4",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a2d4665ed4f5034c07f5"
+      ],
+      "from": "l2",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6dab3dfe72ce7128f2ec",
+        "n-a2d4665ed4f5034c07f5"
+      ],
+      "from": "m1",
+      "to": "c2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6dab3dfe72ce7128f2ec",
+        "n-a2d4665ed4f5034c07f5"
+      ],
+      "from": "m1",
+      "to": "c4",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-23cca26146e08d35350e"
+      ],
+      "from": "l1",
+      "to": "m2",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-23cca26146e08d35350e"
+      ],
+      "from": "m3",
+      "to": "m2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-23cca26146e08d35350e"
+      ],
+      "from": "m3",
+      "to": "n-078def0e1b6fffec67fe",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b429236caf2e40c05d7d"
+      ],
+      "from": "m4",
+      "to": "n-078def0e1b6fffec67fe",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b429236caf2e40c05d7d"
+      ],
+      "from": "m5",
+      "to": "n-078def0e1b6fffec67fe",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-91074c55d8d2e33708f4"
+      ],
+      "from": "m6",
+      "to": "n-078def0e1b6fffec67fe",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-91074c55d8d2e33708f4"
+      ],
+      "from": "m7",
+      "to": "n-078def0e1b6fffec67fe",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-680172eb1e3ffd76e5a6",
+  "source_digest": "7df9ceeb8e4b578ea80345fabad5edbf243ce4cb577ba04b08953c8efd53024a",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

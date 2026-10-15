@@ -1,0 +1,345 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-140273067f7cca96dedb"
+      ],
+      "text": "光从真空射入介质时，折射率的定义式为$n=\\dfrac{\\sin\\theta_1}{\\sin\\theta_2}$，其中$\\theta_1$为真空中的入射角，$\\theta_2$为介质中的折射角。折射率的大小与介质本身和光的频率有关。",
+      "title": "折射率",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-5065323222ee21028832"
+      ],
+      "text": "入射角、折射角分别是入射光线、折射光线与法线的夹角。",
+      "title": "入射角与折射角",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-d43d64ed968861bd3151"
+      ],
+      "text": "比较两种介质时，折射率$n$较大的介质叫作光密介质，折射率$n$较小的介质叫作光疏介质。",
+      "title": "光密介质与光疏介质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-d43d64ed968861bd3151",
+        "n-48f1813bc13f3f8799b2"
+      ],
+      "text": "原文将光从光密介质射入光疏介质、入射角增大至折射角达到$90^\\circ$时，折射光完全消失、只剩反射光的现象称为全反射。【待核对】原文对临界状态的表述为折射光完全消失。应用包括全反射棱镜、光导纤维等。",
+      "title": "全反射",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-fa76d42e2435d4859b76"
+      ],
+      "text": "折射角为$90^\\circ$时的入射角叫作临界角$C$。原文将此状态表述为“刚好发生全反射”【待核对】。",
+      "title": "临界角",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-a0d810dcc06e581a65f4"
+      ],
+      "text": "光从介质1射向介质2时，$\\dfrac{\\sin\\theta_1}{\\sin\\theta_2}=n_{12}$，其中$\\theta_1$为入射角，$\\theta_2$为折射角。原文称$n_{12}$是只与两种介质性质有关的比例常数；该表述未注明光的频率条件【待核对】。图示中折射与反射同时发生。",
+      "title": "折射定律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-140273067f7cca96dedb"
+      ],
+      "text": "折射率与传播速度的关系为$n=\\dfrac{c}{v}$。原文给出：因$v<c$，故$n>1$。",
+      "title": "折射率与速度的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-140273067f7cca96dedb"
+      ],
+      "text": "同一种介质中，频率越大的光折射率越大，传播速度越小；同一种光在不同介质中，波速、波长一般不同，但频率相同。",
+      "title": "折射率、传播速度与频率的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-5065323222ee21028832"
+      ],
+      "text": "在光的反射与折射现象中，光路都是可逆的。",
+      "title": "光路可逆性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-5b415a90f8f8a941caf3",
+        "n-01d2693ad1a9cdb06e0c"
+      ],
+      "text": "原文给出的全反射条件为：光从光密介质射入光疏介质，且入射角大于或等于临界角$C$。【待核对】原文将等于临界角的情形纳入全反射条件。",
+      "title": "全反射的条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-fa76d42e2435d4859b76",
+        "n-140273067f7cca96dedb"
+      ],
+      "text": "当光从折射率为 $n$ 的介质射向真空（或近似为空气）时，临界角满足 $\\sin C=\\dfrac{1}{n}$。这里 $n=c/v$ 是该介质的绝对折射率；该式不能不加区分地用于任意两种介质的界面。",
+      "title": "临界角公式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-84b7e0610ebe7b64d55d"
+      ],
+      "text": "光从光密介质射入光疏介质，在入射角增大的过程中，折射光的能量减少，反射光的能量增加；发生全反射时，反射光的能量最强。",
+      "title": "全反射过程中反射光与折射光的能量变化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-d43d64ed968861bd3151"
+      ],
+      "text": "原文图示中，光从光疏介质射入光密介质时，折射光靠近法线；光从光密介质射入光疏介质时，折射光远离法线。",
+      "title": "折射光相对法线的偏折",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-5065323222ee21028832"
+      ],
+      "text": "根据题意画出光路图；利用几何关系确定边、角关系，注意入射角和折射角均以法线为基准；再利用$n=\\dfrac{\\sin\\theta_1}{\\sin\\theta_2}$、$n=\\dfrac{c}{v}$等公式求解。",
+      "title": "折射问题的光路与几何分析",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-5065323222ee21028832"
+      ],
+      "text": "利用反射、折射光路的可逆性，辅助绘制光路图和分析几何关系。",
+      "title": "利用光路可逆性辅助分析",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-01d2693ad1a9cdb06e0c",
+        "n-5b415a90f8f8a941caf3"
+      ],
+      "text": "判断全反射时，先检查光是否从光密介质射入光疏介质，再比较入射角与临界角。原文采用入射角大于等于临界角的判断条件，等号对应的临界状态【待核对】。",
+      "title": "全反射的条件判断",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-140273067f7cca96dedb"
+      ],
+      "from": "c1",
+      "to": "l2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-140273067f7cca96dedb"
+      ],
+      "from": "c1",
+      "to": "l3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d43d64ed968861bd3151"
+      ],
+      "from": "c1",
+      "to": "c3",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5b415a90f8f8a941caf3"
+      ],
+      "from": "l5",
+      "to": "c4",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-fa76d42e2435d4859b76"
+      ],
+      "from": "c5",
+      "to": "l6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-84b7e0610ebe7b64d55d"
+      ],
+      "from": "c4",
+      "to": "l7",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d43d64ed968861bd3151"
+      ],
+      "from": "c3",
+      "to": "l8",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5065323222ee21028832"
+      ],
+      "from": "m1",
+      "to": "c2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5065323222ee21028832"
+      ],
+      "from": "m1",
+      "to": "c1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5065323222ee21028832"
+      ],
+      "from": "m1",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5065323222ee21028832"
+      ],
+      "from": "m2",
+      "to": "l4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5065323222ee21028832"
+      ],
+      "from": "m2",
+      "to": "m1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-01d2693ad1a9cdb06e0c"
+      ],
+      "from": "m3",
+      "to": "l5",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-01d2693ad1a9cdb06e0c"
+      ],
+      "from": "m3",
+      "to": "n-01d2693ad1a9cdb06e0c",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6bc54072f95aaf0df0cf"
+      ],
+      "from": "n-6bc54072f95aaf0df0cf",
+      "to": "c1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6bc54072f95aaf0df0cf",
+        "n-140273067f7cca96dedb"
+      ],
+      "from": "n-6bc54072f95aaf0df0cf",
+      "to": "l2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-38c60dd81fb451b614d7"
+      ],
+      "from": "n-38c60dd81fb451b614d7",
+      "to": "c4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-38c60dd81fb451b614d7",
+        "n-140273067f7cca96dedb"
+      ],
+      "from": "n-38c60dd81fb451b614d7",
+      "to": "l3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ea62cdb288892e499665"
+      ],
+      "from": "n-ea62cdb288892e499665",
+      "to": "c1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2f53da9f81bb04fc2513",
+        "n-d43d64ed968861bd3151"
+      ],
+      "from": "n-2f53da9f81bb04fc2513",
+      "to": "c4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-00f03528042615aa103b",
+  "source_digest": "2479c54442a6e4ac98ab4644fc74223177f191d4364d45efa8ef64f24195be4d",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

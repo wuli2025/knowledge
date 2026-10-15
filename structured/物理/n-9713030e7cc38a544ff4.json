@@ -1,0 +1,433 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-839cad5b67ef37ede838"
+      ],
+      "text": "原文变轨模型由内侧圆轨道Ⅰ、椭圆轨道Ⅱ和外侧圆轨道Ⅲ组成。椭圆轨道Ⅱ在近地点$A$与圆轨道Ⅰ相切，在远地点$B$与圆轨道Ⅲ相切。",
+      "title": "卫星变轨的相切轨道模型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-486f4d0c1cbe14aee22a"
+      ],
+      "text": "质量分别为$m_1$、$m_2$的两颗星相距$L$，分别以$r_1$、$r_2$为半径绕连线上的$O$点做圆周运动，相互引力均指向对方，$r_1+r_2=L$。",
+      "title": "双星圆周运动模型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-350f3663c2e865b72eec"
+      ],
+      "text": "原文列举的多星模型包括：等质量三星共线且中央星体位于圆心；等质量三星位于等边三角形顶点；等质量四星位于正方形顶点；等边三角形顶点上的三颗等质量星体绕中心另一星体运动。各模型须区分星体间距与轨道半径。",
+      "title": "多星圆周运动模型",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-839cad5b67ef37ede838"
+      ],
+      "text": "在原文相切轨道模型中，圆轨道Ⅰ上的卫星在$A$点点火加速，离心进入椭圆轨道Ⅱ；在椭圆轨道Ⅱ的$B$点再次点火加速，进入圆轨道Ⅲ。",
+      "title": "两次加速升轨原理",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-839cad5b67ef37ede838"
+      ],
+      "text": "对原文内圆Ⅰ、椭圆Ⅱ、外圆Ⅲ模型：$A$点圆轨道满足$G\\dfrac{Mm}{r_{\\mathrm{Ⅰ}}^2}=m\\dfrac{v_{A\\mathrm{Ⅰ}}^2}{r_{\\mathrm{Ⅰ}}}$，椭圆轨道满足$G\\dfrac{Mm}{r_{\\mathrm{Ⅰ}}^2}<m\\dfrac{v_{A\\mathrm{Ⅱ}}^2}{r_{\\mathrm{Ⅰ}}}$，故$v_{A\\mathrm{Ⅰ}}<v_{A\\mathrm{Ⅱ}}$。$B$点椭圆轨道满足$G\\dfrac{Mm}{r_{\\mathrm{Ⅲ}}^2}>m\\dfrac{v_{B\\mathrm{Ⅱ}}^2}{r_{\\mathrm{Ⅲ}}}$，圆轨道满足$G\\dfrac{Mm}{r_{\\mathrm{Ⅲ}}^2}=m\\dfrac{v_{B\\mathrm{Ⅲ}}^2}{r_{\\mathrm{Ⅲ}}}$，故$v_{B\\mathrm{Ⅱ}}<v_{B\\mathrm{Ⅲ}}$。结合圆轨道关系$G\\dfrac{Mm}{r^2}=m\\dfrac{v^2}{r}$，得到$v_{B\\mathrm{Ⅱ}}<v_{B\\mathrm{Ⅲ}}<v_{A\\mathrm{Ⅰ}}<v_{A\\mathrm{Ⅱ}}$。",
+      "title": "相切变轨模型中的速度关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-839cad5b67ef37ede838"
+      ],
+      "text": "根据牛顿第二定律，原文轨道运动中的加速度为$a=\\dfrac{F}{m}=\\dfrac{GM}{r^2}$。对原文相切轨道模型，有$a_{\\mathrm{Ⅰ}A}=a_{\\mathrm{Ⅱ}A}>a_{\\mathrm{Ⅱ}B}=a_{\\mathrm{Ⅲ}B}$。",
+      "title": "轨道加速度与距离的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-839cad5b67ef37ede838"
+      ],
+      "text": "根据开普勒第三定律，$\\dfrac{r^3}{T^2}=k$，其中椭圆轨道的$r$指半长轴。对原文绕同一中心天体的内圆Ⅰ、椭圆Ⅱ、外圆Ⅲ，有$T_{\\mathrm{Ⅰ}}<T_{\\mathrm{Ⅱ}}<T_{\\mathrm{Ⅲ}}$。",
+      "title": "变轨模型中的周期关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-839cad5b67ef37ede838"
+      ],
+      "text": "原文模型中，卫星在同一圆或椭圆轨道上运行时机械能不变；在$A$点和$B$点点火加速时，有其他能转化为机械能，故$E_{\\mathrm{Ⅰ}}<E_{\\mathrm{Ⅱ}}<E_{\\mathrm{Ⅲ}}$。",
+      "title": "轨道机械能与加速变轨",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-486f4d0c1cbe14aee22a"
+      ],
+      "text": "原文双星模型中，两星转动方向、周期、角速度相同，运动半径一般不等，满足$r_1+r_2=L$，$T=\\dfrac{2\\pi}{\\omega}$。",
+      "title": "双星的运动特点",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-486f4d0c1cbe14aee22a"
+      ],
+      "text": "两星之间的相互引力分别提供各自圆周运动的向心力：$\\dfrac{Gm_1m_2}{L^2}=m_1\\omega^2r_1$，$\\dfrac{Gm_1m_2}{L^2}=m_2\\omega^2r_2$。两星运动半径与质量满足$\\dfrac{r_1}{r_2}=\\dfrac{m_2}{m_1}$。",
+      "title": "双星受力与质量半径关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-486f4d0c1cbe14aee22a"
+      ],
+      "text": "对间距为$L$、质量分别为$m_1$和$m_2$的原文双星圆周运动模型，周期为$T=2\\pi\\sqrt{\\dfrac{L^3}{G(m_1+m_2)}}$，总质量为$m_1+m_2=\\dfrac{4\\pi^2L^3}{GT^2}$。",
+      "title": "双星周期与总质量关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-350f3663c2e865b72eec"
+      ],
+      "text": "三颗质量均为$m$的星体共线，中央星体位于圆心，两侧星体相距$L$，各以半径$r$绕中央星体运动。对一颗侧边星体，$\\dfrac{Gm^2}{r^2}+\\dfrac{Gm^2}{(2r)^2}=ma_{\\mathrm{n}}$，轨道半径$r=\\dfrac{L}{2}$。",
+      "title": "等质量共线三星的受力与半径",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-350f3663c2e865b72eec"
+      ],
+      "text": "三颗质量均为$m$的星体位于边长为$L$的等边三角形顶点，绕三角形中心做圆周运动。每颗星体满足$\\dfrac{Gm^2}{L^2}\\times\\cos30^\\circ\\times2=ma_{\\mathrm{n}}$，轨道半径$r=\\dfrac{L}{2\\cos30^\\circ}$。",
+      "title": "等边三角形三星的受力与半径",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l11",
+      "source_node_ids": [
+        "n-350f3663c2e865b72eec"
+      ],
+      "text": "四颗质量均为$m$的星体位于边长为$L$的正方形顶点，绕中心$O$做圆周运动。每颗星体满足$\\dfrac{Gm^2}{L^2}\\times2\\cos45^\\circ+\\dfrac{Gm^2}{(\\sqrt{2}L)^2}=ma_{\\mathrm{n}}$，轨道半径$r=\\dfrac{\\sqrt{2}}{2}L$。",
+      "title": "正方形四星的受力与半径",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l12",
+      "source_node_ids": [
+        "n-350f3663c2e865b72eec"
+      ],
+      "text": "三颗质量均为$m$的星体位于边长为$L$的等边三角形顶点，中心$O$处有质量为$M$的星体，三颗外围星体绕中心做圆周运动。每颗外围星体满足$\\dfrac{Gm^2}{L^2}\\times2\\cos30^\\circ+\\dfrac{GMm}{\\left(\\dfrac{\\sqrt{3}}{3}L\\right)^2}=ma_{\\mathrm{n}}$，轨道半径$r=\\dfrac{L}{2\\cos30^\\circ}$。",
+      "title": "三角形加中心星体模型的受力与半径",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l13",
+      "source_node_ids": [
+        "n-f266d3a4ff7ea7712794"
+      ],
+      "text": "题干给出的引力势能表达式为$E_{\\mathrm{p}}=-\\dfrac{GMm}{R}$，其中$R$为地心到飞船的距离，$M$为地球质量，$m$为飞船质量，$G$为引力常量。【待核对】原文称其为“引力势能大小的表达式”，但所给表达式带负号，此处保留原式。",
+      "title": "题干给定的引力势能表达式",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-839cad5b67ef37ede838"
+      ],
+      "text": "比较相切变轨模型中的速度时，先在$A$、$B$两个交会点分别比较圆轨道与椭圆轨道的速度，再用圆轨道关系$G\\dfrac{Mm}{r^2}=m\\dfrac{v^2}{r}$比较内、外圆轨道速度，最后联立各大小关系。",
+      "title": "分交会点比较并联立速度关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-839cad5b67ef37ede838"
+      ],
+      "text": "分析原文变轨模型时，分别用$a=\\dfrac{F}{m}=\\dfrac{GM}{r^2}$比较加速度，用$\\dfrac{r^3}{T^2}=k$比较周期，并将椭圆的$r$取为半长轴；分析机械能时，区分同一轨道上的运行过程与交会点点火加速过程。",
+      "title": "按距离、半长轴和能量转化分析变轨",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-486f4d0c1cbe14aee22a"
+      ],
+      "text": "分析双星圆周运动时，分别以两星为研究对象，用相互引力作为各自向心力列式，并结合相同角速度及$r_1+r_2=L$。可利用$\\dfrac{r_1}{r_2}=\\dfrac{m_2}{m_1}$处理质量与半径关系，利用$m_1+m_2=\\dfrac{4\\pi^2L^3}{GT^2}$联系间距、周期与总质量。",
+      "title": "双星分别列式与共同运动条件联立",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-350f3663c2e865b72eec"
+      ],
+      "text": "对原文列举的对称多星模型，先由几何位置确定轨道半径，再对所研究星体受到的各引力求合力，以合力等于$ma_{\\mathrm{n}}$列式。共线模型直接相加；等边三角形、正方形模型利用原文对应的$\\cos30^\\circ$、$\\cos45^\\circ$合成引力；存在中心星体时再计入中心星体的引力。",
+      "title": "多星模型的几何半径与引力合成",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-839cad5b67ef37ede838"
+      ],
+      "from": "c1",
+      "to": "l1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-839cad5b67ef37ede838"
+      ],
+      "from": "c1",
+      "to": "l2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-839cad5b67ef37ede838"
+      ],
+      "from": "c1",
+      "to": "l3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-839cad5b67ef37ede838"
+      ],
+      "from": "c1",
+      "to": "l4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-839cad5b67ef37ede838"
+      ],
+      "from": "c1",
+      "to": "l5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-839cad5b67ef37ede838"
+      ],
+      "from": "m1",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-839cad5b67ef37ede838"
+      ],
+      "from": "m2",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-839cad5b67ef37ede838"
+      ],
+      "from": "m2",
+      "to": "l4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-839cad5b67ef37ede838"
+      ],
+      "from": "m2",
+      "to": "l5",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-486f4d0c1cbe14aee22a"
+      ],
+      "from": "c2",
+      "to": "l6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-486f4d0c1cbe14aee22a"
+      ],
+      "from": "c2",
+      "to": "l7",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-486f4d0c1cbe14aee22a"
+      ],
+      "from": "c2",
+      "to": "l8",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-486f4d0c1cbe14aee22a"
+      ],
+      "from": "m3",
+      "to": "l6",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-486f4d0c1cbe14aee22a"
+      ],
+      "from": "m3",
+      "to": "l7",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-486f4d0c1cbe14aee22a"
+      ],
+      "from": "m3",
+      "to": "l8",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-350f3663c2e865b72eec"
+      ],
+      "from": "c3",
+      "to": "l9",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-350f3663c2e865b72eec"
+      ],
+      "from": "c3",
+      "to": "l10",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-350f3663c2e865b72eec"
+      ],
+      "from": "c3",
+      "to": "l11",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-350f3663c2e865b72eec"
+      ],
+      "from": "c3",
+      "to": "l12",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-350f3663c2e865b72eec"
+      ],
+      "from": "m4",
+      "to": "c3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b8ff0860ebbf82e36819",
+        "n-839cad5b67ef37ede838"
+      ],
+      "from": "n-b8ff0860ebbf82e36819",
+      "to": "l3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b8ff0860ebbf82e36819",
+        "n-839cad5b67ef37ede838"
+      ],
+      "from": "n-b8ff0860ebbf82e36819",
+      "to": "l4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f266d3a4ff7ea7712794",
+        "n-839cad5b67ef37ede838"
+      ],
+      "from": "n-f266d3a4ff7ea7712794",
+      "to": "c1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f266d3a4ff7ea7712794"
+      ],
+      "from": "n-f266d3a4ff7ea7712794",
+      "to": "l13",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5c3dd011cee6078e8280",
+        "n-486f4d0c1cbe14aee22a"
+      ],
+      "from": "n-5c3dd011cee6078e8280",
+      "to": "c2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-cb87558aedccf377668a",
+        "n-486f4d0c1cbe14aee22a"
+      ],
+      "from": "n-cb87558aedccf377668a",
+      "to": "c2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-9713030e7cc38a544ff4",
+  "source_digest": "92d7ee580f25f78958a3cca184864649897d304b1cc753b813f42756c54389af",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

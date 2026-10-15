@@ -1,0 +1,278 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-c3ac575f1378076324d4"
+      ],
+      "text": "打点计时器是计时仪器，接频率为 $50\\ \\mathrm{Hz}$ 的交流电源，每隔 $0.02\\ \\mathrm{s}$ 打一次点，包括电磁打点计时器和电火花计时器。",
+      "title": "打点计时器",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-c3ac575f1378076324d4"
+      ],
+      "text": "部件包括振针、限位孔、永久磁体、线圈、复写纸、纸带、振片；工作条件为低压交流电源。",
+      "title": "电磁打点计时器",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-c3ac575f1378076324d4"
+      ],
+      "text": "部件包括脉冲输出开关、墨粉纸盘、纸带；工作条件为 $220\\ \\mathrm{V}$ 交流电源。",
+      "title": "电火花计时器",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-f8ef90adbf18b5bb5e35"
+      ],
+      "text": "计时点是打点计时器在纸带上打下的点。",
+      "title": "计时点",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-f8ef90adbf18b5bb5e35"
+      ],
+      "text": "计数点是为测量和计算而在纸带上人为选取的点，应与计时点区分。",
+      "title": "计数点",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-c3ac575f1378076324d4"
+      ],
+      "text": "将纸带跟小车连接并穿过打点计时器，纸带上的点记录小车的运动时间和在不同时刻的位置信息。",
+      "title": "纸带记录的运动信息",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-5cb65acbccfced1e31a9"
+      ],
+      "text": "匀变速直线运动某段时间中间时刻的瞬时速度等于这段时间的平均速度，即 $v_n=\\dfrac{x_n+x_{n+1}}{2T}$。",
+      "title": "匀变速直线运动的中间时刻速度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-d683e1cd3bededf79976"
+      ],
+      "text": "$0、1、2、\\cdots$ 为时间间隔相等的各计数点，$x_1、x_2、x_3、\\cdots$ 为相邻两计数点间的距离。若 $\\Delta x=x_2-x_1=x_3-x_2=x_4-x_3=C$（常量），则与纸带相连的物体做匀变速直线运动。",
+      "title": "等时间间隔的位移差判据",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-b81c7252c1ceef4fa0e1"
+      ],
+      "text": "$v-t$ 图像中，图线的斜率等于物体的加速度。",
+      "title": "速度—时间图像斜率的意义",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-b33df9c70edbf81c9f6e",
+        "n-f8ef90adbf18b5bb5e35"
+      ],
+      "text": "细绳、纸带与长木板平行；释放前小车应靠近打点计时器。实验时先接通电源，后释放小车；实验后先断开电源，后取下纸带。小车到达滑轮前应让其停止运动，防止碰撞或掉下桌面。悬挂槽码要适当，避免纸带打出的点太少或过于密集。本实验不需要平衡摩擦力，也不需要满足悬挂槽码质量远小于小车质量。",
+      "title": "实验操作与注意事项",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-8c1c90a7efa2d82491bf"
+      ],
+      "text": "使用频率为 $50\\ \\mathrm{Hz}$ 的交流电源时，每 $5$ 个点取一个计数点，或每隔 $4$ 个点取一个计数点，时间间隔均为 $0.1\\ \\mathrm{s}$。",
+      "title": "计数点选取与时间间隔确定",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-d683e1cd3bededf79976"
+      ],
+      "text": "选取时间间隔相等的计数点，测量相邻计数点间的距离，比较连续各段距离之差。若 $\\Delta x=x_2-x_1=x_3-x_2=x_4-x_3=C$（常量），则判断与纸带相连的物体做匀变速直线运动。",
+      "title": "由纸带判断匀变速直线运动",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-5cb65acbccfced1e31a9"
+      ],
+      "text": "对匀变速直线运动，利用某段时间中间时刻的瞬时速度等于该段时间平均速度的关系，由纸带按 $v_n=\\dfrac{x_n+x_{n+1}}{2T}$ 求计数点对应的瞬时速度。",
+      "title": "由纸带求瞬时速度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-b81c7252c1ceef4fa0e1"
+      ],
+      "text": "对纸带上的七个计数点，六段相邻计数点间的距离依次为 $x_1、x_2、x_3、x_4、x_5、x_6$。用逐差法计算：$a_1=\\dfrac{x_4-x_1}{3T^2}$，$a_2=\\dfrac{x_5-x_2}{3T^2}$，$a_3=\\dfrac{x_6-x_3}{3T^2}$，再取平均：$a=\\dfrac{a_1+a_2+a_3}{3}=\\dfrac{(x_4+x_5+x_6)-(x_1+x_2+x_3)}{9T^2}$。",
+      "title": "逐差法求加速度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-b81c7252c1ceef4fa0e1"
+      ],
+      "text": "先根据公式 $v_n=\\dfrac{x_n+x_{n+1}}{2T}$ 求出所选各计数点对应的瞬时速度，再作出 $v-t$ 图像，利用图线斜率求物体的加速度。",
+      "title": "图像法求加速度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-c8532e513396ba3369f6"
+      ],
+      "text": "利用平均速度代替某计数点对应的瞬时速度会带来系统误差。为减小误差，应取以该计数点为中心的较小位移 $\\Delta x$ 来求平均速度。",
+      "title": "减小平均速度代替瞬时速度的误差",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-c8532e513396ba3369f6"
+      ],
+      "text": "分段测量计数点间的距离会带来误差。可一次测出各计数点到起始计数点的距离，再分别计算出各计数点间的距离，以减小此误差。",
+      "title": "减小距离测量误差",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m9",
+      "source_node_ids": [
+        "n-c8532e513396ba3369f6"
+      ],
+      "text": "为减小作图时产生的偶然误差，应选取合适的坐标单位，利用坐标纸作图。",
+      "title": "减小作图误差",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-c3ac575f1378076324d4"
+      ],
+      "from": "c1",
+      "to": "c2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c3ac575f1378076324d4"
+      ],
+      "from": "c1",
+      "to": "c3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f8ef90adbf18b5bb5e35"
+      ],
+      "from": "c4",
+      "to": "c5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c3ac575f1378076324d4"
+      ],
+      "from": "c1",
+      "to": "c6",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8c1c90a7efa2d82491bf",
+        "n-f8ef90adbf18b5bb5e35"
+      ],
+      "from": "m2",
+      "to": "c5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d683e1cd3bededf79976"
+      ],
+      "from": "m3",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5cb65acbccfced1e31a9"
+      ],
+      "from": "m4",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b81c7252c1ceef4fa0e1"
+      ],
+      "from": "m6",
+      "to": "m4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b81c7252c1ceef4fa0e1"
+      ],
+      "from": "m6",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b81c7252c1ceef4fa0e1"
+      ],
+      "from": "m5",
+      "to": "m6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c8532e513396ba3369f6",
+        "n-b81c7252c1ceef4fa0e1"
+      ],
+      "from": "m9",
+      "to": "m6",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-cbab79b1b0455f3f1c39",
+  "source_digest": "e9fc9af78ae282ebe4edb46d9b6460ae68726fa85da1d03a417458bb9d6bee8f",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

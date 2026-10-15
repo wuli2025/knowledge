@@ -1,0 +1,285 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-eba5099aef692f25d892"
+      ],
+      "text": "基础情境为单匝正方形线框，质量为$m$，边长为$L$，总电阻为$R$，摩擦力忽略不计，$ab$边以速度$v_0$进入匀强磁场。原文分别讨论水平平动、竖直平动和沿斜面平动切割。",
+      "title": "线框平动切割模型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-eba5099aef692f25d892"
+      ],
+      "text": "正方形线框水平向右进入磁场，磁场方向垂直纸面向里；进入磁场的边为$ab$边。",
+      "title": "水平平动切割",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-eba5099aef692f25d892"
+      ],
+      "text": "正方形线框竖直向下进入磁场，磁场方向垂直纸面向里；下边为$ab$边。",
+      "title": "竖直平动切割",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-eba5099aef692f25d892"
+      ],
+      "text": "正方形线框沿倾角为$\\theta$的斜面向下运动，$ab$边平行于磁场边界$MN$，磁场方向垂直斜面向上。",
+      "title": "斜向平动切割",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-eba5099aef692f25d892"
+      ],
+      "text": "在水平平动切割的基础情境中，$ab$边进入磁场瞬间的加速度为$a=\\dfrac{B^2L^2v_0}{mR}$，取水平向左为正方向。进入磁场过程为加速度减小的减速直线运动；完全进入磁场后做匀速直线运动，$a=0$。",
+      "title": "水平进入磁场的运动规律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-eba5099aef692f25d892"
+      ],
+      "text": "在竖直平动切割的基础情境中，$ab$边进入磁场瞬间的加速度为$a=g-\\dfrac{B^2L^2v_0}{mR}$，取竖直向下为正方向。进入过程中：$mg=F_{\\text{安}}$时做匀速直线运动；$mg>F_{\\text{安}}$时做加速度减小的加速直线运动；$mg<F_{\\text{安}}$时做加速度减小的减速直线运动。完全进入磁场后做匀加速直线运动，$a=g$。",
+      "title": "竖直进入磁场的运动规律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-eba5099aef692f25d892"
+      ],
+      "text": "在斜向平动切割的基础情境中，$ab$边进入磁场瞬间的加速度为$a=g\\sin\\theta-\\dfrac{B^2L^2v_0}{mR}$，取沿斜面向下为正方向。进入过程中：$mg\\sin\\theta=F_{\\text{安}}$时做匀速直线运动；$mg\\sin\\theta>F_{\\text{安}}$时做加速度减小的加速直线运动；$mg\\sin\\theta<F_{\\text{安}}$时做加速度减小的减速直线运动。完全进入磁场后做匀加速直线运动，$a=g\\sin\\theta$。",
+      "title": "沿斜面进入磁场的运动规律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-eba5099aef692f25d892"
+      ],
+      "text": "在原文忽略摩擦的基础情境中，水平平动切割时，动能减少量等于线框产生的热量；竖直平动切割和斜向平动切割时，机械能减少量等于线框产生的热量。",
+      "title": "线框切割过程的能量关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-eba5099aef692f25d892"
+      ],
+      "text": "对于原文单匝正方形线框进入匀强磁场的过程，由法拉第电磁感应定律有$\\overline{E}=\\dfrac{\\Delta\\Phi}{\\Delta t}=\\dfrac{BL^2}{\\Delta t}$。",
+      "title": "进入过程的平均感应电动势",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-eba5099aef692f25d892"
+      ],
+      "text": "原文在线框总电阻为$R$的进入过程中，应用闭合电路欧姆定律得到$\\overline{I}=\\dfrac{\\overline{E}}{R}$。",
+      "title": "平均感应电流与平均电动势的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-eba5099aef692f25d892"
+      ],
+      "text": "对于原文单匝正方形线框进入匀强磁场的过程，穿过横截面的电荷量$q=\\overline{I}\\Delta t$，推导得$q=\\dfrac{\\Delta\\Phi}{R}=\\dfrac{BL^2}{R}$，其中线框边长为$L$，总电阻为$R$。",
+      "title": "进入过程通过横截面的电荷量",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-243dc311bf8e3d577d1a"
+      ],
+      "text": "原文情境变式的过程分解为：进磁场时磁通量增加；在磁场中时磁通量不变；出磁场时磁通量减少。该情境中线框沿运动方向长为$2L$，磁场区域宽度$d>2L$。",
+      "title": "穿越磁场各阶段的磁通量变化",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-eba5099aef692f25d892"
+      ],
+      "text": "计算进入过程通过线框横截面的电荷量时，先用法拉第电磁感应定律写出$\\overline{E}=\\dfrac{\\Delta\\Phi}{\\Delta t}=\\dfrac{BL^2}{\\Delta t}$，再用闭合电路欧姆定律写出$\\overline{I}=\\dfrac{\\overline{E}}{R}$，最后代入$q=\\overline{I}\\Delta t$，得到$q=\\dfrac{\\Delta\\Phi}{R}=\\dfrac{BL^2}{R}$。该表达式对应原文单匝、边长为$L$、总电阻为$R$的正方形线框进入匀强磁场的过程。",
+      "title": "由磁通量变化计算电荷量",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-243dc311bf8e3d577d1a"
+      ],
+      "text": "先梳理线框电阻、长宽、磁场区域宽度和初速度，再明确需要分析的电流方向、安培力大小、速度大小及焦耳热。原文情境变式列出的关键条件为：两线框电阻分别为$R$和$2R$，长均为$2L$，宽均为$L$，磁场区域宽度$d>2L$，初速度$v_0=\\dfrac{4B^2L^3}{mR}$。",
+      "title": "梳理线框问题的关键条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-243dc311bf8e3d577d1a",
+        "n-dc54bb0dff1c74ca537f"
+      ],
+      "text": "将线框穿越磁场分为进磁场、在磁场中、出磁场等阶段，结合各阶段磁通量的变化，分别进行受力分析、运动过程分析、能量和动量分析，找准每个阶段的物理规律和相关物理量。",
+      "title": "分阶段分析线框运动",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-dc54bb0dff1c74ca537f"
+      ],
+      "text": "线框往往不能看成质点，应画出运动过程示意图，尤其要标明各阶段线框和磁场边界的相对位置关系。",
+      "title": "用示意图确定线框与磁场边界的位置",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-eba5099aef692f25d892"
+      ],
+      "from": "c1",
+      "to": "c2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-eba5099aef692f25d892"
+      ],
+      "from": "c1",
+      "to": "c3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-eba5099aef692f25d892"
+      ],
+      "from": "c1",
+      "to": "c4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-eba5099aef692f25d892"
+      ],
+      "from": "l1",
+      "to": "c2",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-eba5099aef692f25d892"
+      ],
+      "from": "l2",
+      "to": "c3",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-eba5099aef692f25d892"
+      ],
+      "from": "l3",
+      "to": "c4",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-eba5099aef692f25d892"
+      ],
+      "from": "l4",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-eba5099aef692f25d892"
+      ],
+      "from": "m1",
+      "to": "l5",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-eba5099aef692f25d892"
+      ],
+      "from": "m1",
+      "to": "l6",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-eba5099aef692f25d892"
+      ],
+      "from": "m1",
+      "to": "l7",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-243dc311bf8e3d577d1a"
+      ],
+      "from": "m2",
+      "to": "n-243dc311bf8e3d577d1a",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-243dc311bf8e3d577d1a"
+      ],
+      "from": "m3",
+      "to": "n-243dc311bf8e3d577d1a",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-243dc311bf8e3d577d1a"
+      ],
+      "from": "m3",
+      "to": "l8",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-dc54bb0dff1c74ca537f"
+      ],
+      "from": "m4",
+      "to": "m3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-eba5099aef692f25d892",
+  "source_digest": "8655c98d2a31ee3ff24e9412bfeb9967f5c7a453440d339e625e0fc314ac57ae",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

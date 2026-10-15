@@ -1,0 +1,211 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-ae66d2a4ee69d8fc853e"
+      ],
+      "text": "物体由于运动而具有的能量。表达式为 $E_{\\mathrm{k}}=\\dfrac{1}{2}mv^2$，单位为焦耳，符号是 $\\mathrm{J}$。动能是标量。",
+      "title": "动能",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-ae66d2a4ee69d8fc853e"
+      ],
+      "text": "动能的变化量为 $\\Delta E_{\\mathrm{k}}=\\dfrac{1}{2}mv_2^2-\\dfrac{1}{2}mv_1^2$。",
+      "title": "动能的变化量",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-c67505a61c9c50a8be13"
+      ],
+      "text": "合力在一个过程中对物体做的功，等于物体在这个过程中动能的变化。表达式为 $W=E_{\\mathrm{k}2}-E_{\\mathrm{k}1}$。既适用于直线运动，也适用于曲线运动；既适用于恒力做功，也适用于变力做功；各种性质的力既可以同时作用，也可以分段作用。",
+      "title": "动能定理",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-cd659981294954f7a721"
+      ],
+      "text": "先确定研究对象和研究过程；分析运动性质及特点，明确初、末动能；分析物体受到几个力、各力是恒力还是变力，以及各力是否做功、做正功还是负功；分阶段或对全过程列动能定理方程，解方程并检验结果。动能是标量，动能定理是标量式，解题时不能分解动能。",
+      "title": "应用动能定理解题的一般步骤",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-d9b253c2e917bd4f8ff3"
+      ],
+      "text": "$v-t$ 图线与横轴围成的面积表示位移。原文所列依据为 $x=vt$。",
+      "title": "利用速度—时间图像分析位移",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-d9b253c2e917bd4f8ff3"
+      ],
+      "text": "$a-t$ 图线与横轴围成的面积表示速度的变化量。原文所列依据为 $\\Delta v=at$。",
+      "title": "利用加速度—时间图像分析速度变化量",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-d9b253c2e917bd4f8ff3"
+      ],
+      "text": "$F-x$ 图线与横轴围成的面积表示功。原文所列依据为 $W=Fx$。",
+      "title": "利用力—位移图像分析功",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-d9b253c2e917bd4f8ff3"
+      ],
+      "text": "$E_{\\mathrm{k}}-x$ 图线的斜率表示合力。原文所列依据为 $F_{\\text{合}}x=E_{\\mathrm{k}}-E_{\\mathrm{k}0}$。",
+      "title": "利用动能—位移图像分析合力",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-d9b253c2e917bd4f8ff3"
+      ],
+      "text": "$P-t$ 图线与横轴围成的面积表示功。原文所列依据为 $W=Pt$。",
+      "title": "利用功率—时间图像分析功",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-f05924998e562b8cbb2c"
+      ],
+      "text": "在题述物块沿固定斜面上滑再下滑的过程中，结合动能随路程变化的图像划分阶段：上滑过程重力、摩擦力均做负功；动能为 $0$ 时速度为 $0$，物块上滑到最高处；下滑过程重力做正功，摩擦力做负功。",
+      "title": "斜面往返运动的分阶段做功分析",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-ae66d2a4ee69d8fc853e"
+      ],
+      "from": "c1",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ae66d2a4ee69d8fc853e",
+        "n-c67505a61c9c50a8be13"
+      ],
+      "from": "c2",
+      "to": "l1",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-cd659981294954f7a721"
+      ],
+      "from": "m1",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d9b253c2e917bd4f8ff3",
+        "n-c67505a61c9c50a8be13"
+      ],
+      "from": "m5",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f05924998e562b8cbb2c",
+        "n-cd659981294954f7a721"
+      ],
+      "from": "m7",
+      "to": "m1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f05924998e562b8cbb2c"
+      ],
+      "from": "n-f05924998e562b8cbb2c",
+      "to": "m7",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d9b253c2e917bd4f8ff3",
+        "n-16ea839806ff1fdfd091"
+      ],
+      "from": "n-16ea839806ff1fdfd091",
+      "to": "m2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d9b253c2e917bd4f8ff3",
+        "n-16ea839806ff1fdfd091"
+      ],
+      "from": "n-16ea839806ff1fdfd091",
+      "to": "m3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d9b253c2e917bd4f8ff3",
+        "n-16ea839806ff1fdfd091"
+      ],
+      "from": "n-16ea839806ff1fdfd091",
+      "to": "m4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d9b253c2e917bd4f8ff3",
+        "n-16ea839806ff1fdfd091"
+      ],
+      "from": "n-16ea839806ff1fdfd091",
+      "to": "m5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d9b253c2e917bd4f8ff3",
+        "n-16ea839806ff1fdfd091"
+      ],
+      "from": "n-16ea839806ff1fdfd091",
+      "to": "m6",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-39e78134c6ee7aa31225",
+  "source_digest": "3ff1c03e8c6bc16ffdcc4c32c5b5e5d417e29616539b76beec4965d1448a7531",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

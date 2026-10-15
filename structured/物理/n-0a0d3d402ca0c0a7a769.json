@@ -1,0 +1,394 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-43c48c8307aba98bc945"
+      ],
+      "text": "匀变速直线运动的加速度不变且不为$0$；速度随时间均匀变化，相同时间内速度变化量相同，速度变化量方向与加速度方向相同。",
+      "title": "匀变速直线运动",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-b5d55382eb55c08476a3"
+      ],
+      "text": "物体做匀减速直线运动，速度减为$0$后立即停止运动，加速度$a$突然消失。",
+      "title": "刹车类运动",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-b5d55382eb55c08476a3"
+      ],
+      "text": "例如沿光滑斜面上滑的物体，到最高点后仍能以原加速度匀加速返回，全过程加速度大小、方向均不变。",
+      "title": "双向可逆类运动",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-e754fbb153cd8bd0eaa6",
+        "n-41e0e82690320d2eb0d1"
+      ],
+      "text": "匀变速直线运动中，$v=v_0+at$，不涉及位移。该式为矢量式，使用时要注意方向性。",
+      "title": "速度与时间关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-e754fbb153cd8bd0eaa6",
+        "n-41e0e82690320d2eb0d1"
+      ],
+      "text": "匀变速直线运动中，$x=v_0t+\\dfrac12at^2$，不涉及末速度。该式为矢量式，使用时要注意方向性。",
+      "title": "位移与时间关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-e754fbb153cd8bd0eaa6",
+        "n-41e0e82690320d2eb0d1"
+      ],
+      "text": "匀变速直线运动中，$v^2-v_0^2=2ax$，不涉及时间。原文将其与速度、位移的时间关系一并称为矢量式，使用时要注意方向性。",
+      "title": "速度与位移关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-6632cbc3fecca3d043f3",
+        "n-41e0e82690320d2eb0d1"
+      ],
+      "text": "$\\bar v=\\frac{x}{t}$对任何性质的运动都适用。匀变速直线运动中，$\\bar v=\\dfrac{x}{t}=\\dfrac{v_0+v}{2}=v_{\\frac t2}$，其中$v_{\\frac t2}$为中间时刻速度；端点速度平均值与中间时刻速度的关系只适用于匀变速直线运动。",
+      "title": "平均速度与中间时刻速度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-6632cbc3fecca3d043f3"
+      ],
+      "text": "原文给出匀变速直线运动的中间位置速度：$v_{\\frac x2}=\\sqrt{\\dfrac{v_0^2+v^2}{2}}$。【待核对】原文未说明此处速度的符号约定及运动反向时的适用范围。",
+      "title": "中间位置速度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-6632cbc3fecca3d043f3"
+      ],
+      "text": "原文指出，无论是匀加速直线运动还是匀减速直线运动，均有$v_{\\frac x2}>v_{\\frac t2}$。【待核对】原文未说明比较中的速度符号约定及适用范围。",
+      "title": "中间位置速度与中间时刻速度的比较",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-6632cbc3fecca3d043f3"
+      ],
+      "text": "匀变速直线运动中，任意两个连续相等时间间隔$T$内的位移之差$\\Delta x$相等，即$\\Delta x=x_2-x_1=x_3-x_2=\\cdots=x_n-x_{n-1}=aT^2$。第$m$个时间$T$内位移与第$n$个时间$T$内位移之差为$x_m-x_n=(m-n)aT^2$。",
+      "title": "相等时间间隔内的位移差",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-c80468910da8be01c20e"
+      ],
+      "text": "初速度为$0$的匀加速直线运动中，$T$末、$2T$末、$3T$末……$nT$末的速度之比为$v_1:v_2:v_3:\\cdots:v_n=1:2:3:\\cdots:n$。",
+      "title": "从静止开始的等时刻速度比",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-c80468910da8be01c20e"
+      ],
+      "text": "初速度为$0$的匀加速直线运动中，前$T$、前$2T$、前$3T$……前$nT$的位移之比为$x_1:x_2:x_3:\\cdots:x_n=1:4:9:\\cdots:n^2$。",
+      "title": "从静止开始的累计位移比",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-c80468910da8be01c20e"
+      ],
+      "text": "初速度为$0$的匀加速直线运动中，从静止开始第一个$T$内、第二个$T$内、第三个$T$内……第$n$个$T$内的位移之比为$x'_1:x'_2:x'_3:\\cdots:x'_n=1:3:5:\\cdots:(2n-1)$。",
+      "title": "连续相等时间内的位移比",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l11",
+      "source_node_ids": [
+        "n-c80468910da8be01c20e"
+      ],
+      "text": "初速度为$0$的匀加速直线运动中，从静止开始通过前$x$位移、前$2x$位移、前$3x$位移……前$nx$位移所用时间之比为$t_1:t_2:t_3:\\cdots:t_n=1:\\sqrt{2}:\\sqrt{3}:\\cdots:\\sqrt{n}$。",
+      "title": "通过累计位移的时间比",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l12",
+      "source_node_ids": [
+        "n-c80468910da8be01c20e"
+      ],
+      "text": "初速度为$0$的匀加速直线运动中，从初位置开始第一段$x$、第二段$x$、第三段$x$……第$n$段$x$所用时间之比为$t'_1:t'_2:t'_3:\\cdots:t'_n=1:(\\sqrt{2}-1):(\\sqrt{3}-\\sqrt{2}):\\cdots:(\\sqrt{n}-\\sqrt{n-1})$。",
+      "title": "通过连续相等位移的时间比",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-41e0e82690320d2eb0d1",
+        "n-e754fbb153cd8bd0eaa6"
+      ],
+      "text": "根据所涉及的物理量选用基本公式：不涉及位移时用$v=v_0+at$；不涉及末速度时用$x=v_0t+\\dfrac12at^2$；不涉及时间时用$v^2-v_0^2=2ax$。使用时注意各物理量的方向性。",
+      "title": "基本公式法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-41e0e82690320d2eb0d1"
+      ],
+      "text": "利用平均速度联系位移与时间。$\\bar v=\\frac{x}{t}$对任何性质的运动都适用；$\\bar v=\\frac{v_0+v}{2}=v_{\\frac{t}{2}}$只适用于匀变速直线运动。",
+      "title": "平均速度法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-41e0e82690320d2eb0d1",
+        "n-c80468910da8be01c20e"
+      ],
+      "text": "利用速度、位移和时间的比例关系处理运动问题，适用于初速度为$0$的匀加速直线运动与末速度为$0$的匀减速直线运动。",
+      "title": "比例法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-41e0e82690320d2eb0d1"
+      ],
+      "text": "把末速度为$0$的匀减速直线运动转换为反向的初速度为$0$的匀加速直线运动。",
+      "title": "逆向思维法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-41e0e82690320d2eb0d1"
+      ],
+      "text": "利用$\\Delta x=aT^2$或$x_m-x_n=(m-n)aT^2$，解决连续相等时间间隔的匀变速直线运动问题，以及实验中获取的匀变速直线运动的纸带类问题。",
+      "title": "位移差法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-41e0e82690320d2eb0d1"
+      ],
+      "text": "以$v-t$图像为例：利用围成的面积计算位移，利用斜率求加速度，比较不同时刻速度的大小。",
+      "title": "图像法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-b5d55382eb55c08476a3"
+      ],
+      "text": "求解刹车类问题时，先确定物体速度减为$0$所需要的时间；注意物体速度为$0$后立即停止运动，加速度$a$突然消失。",
+      "title": "刹车类问题的停止时间判断",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-b5d55382eb55c08476a3"
+      ],
+      "text": "双向可逆类问题中，全过程加速度大小、方向均不变，可对全过程列式；选好正方向，并注意$x$、$v$、$a$等矢量的正、负号。",
+      "title": "双向可逆类问题的全过程列式",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-e754fbb153cd8bd0eaa6"
+      ],
+      "from": "c1",
+      "to": "l1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e754fbb153cd8bd0eaa6"
+      ],
+      "from": "c1",
+      "to": "l2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e754fbb153cd8bd0eaa6"
+      ],
+      "from": "c1",
+      "to": "l3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-41e0e82690320d2eb0d1"
+      ],
+      "from": "m1",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-41e0e82690320d2eb0d1"
+      ],
+      "from": "m1",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-41e0e82690320d2eb0d1"
+      ],
+      "from": "m1",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-41e0e82690320d2eb0d1"
+      ],
+      "from": "m2",
+      "to": "l4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6632cbc3fecca3d043f3"
+      ],
+      "from": "l6",
+      "to": "l4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6632cbc3fecca3d043f3"
+      ],
+      "from": "l6",
+      "to": "l5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-41e0e82690320d2eb0d1"
+      ],
+      "from": "m5",
+      "to": "l7",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-41e0e82690320d2eb0d1",
+        "n-c80468910da8be01c20e"
+      ],
+      "from": "m3",
+      "to": "l8",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-41e0e82690320d2eb0d1",
+        "n-c80468910da8be01c20e"
+      ],
+      "from": "m3",
+      "to": "l9",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-41e0e82690320d2eb0d1",
+        "n-c80468910da8be01c20e"
+      ],
+      "from": "m3",
+      "to": "l10",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-41e0e82690320d2eb0d1",
+        "n-c80468910da8be01c20e"
+      ],
+      "from": "m3",
+      "to": "l11",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-41e0e82690320d2eb0d1",
+        "n-c80468910da8be01c20e"
+      ],
+      "from": "m3",
+      "to": "l12",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-41e0e82690320d2eb0d1"
+      ],
+      "from": "m4",
+      "to": "m3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b5d55382eb55c08476a3"
+      ],
+      "from": "m7",
+      "to": "c2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b5d55382eb55c08476a3"
+      ],
+      "from": "m8",
+      "to": "c3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-0a0d3d402ca0c0a7a769",
+  "source_digest": "fe6da85ae94442d9f87bcd82425064ddce15f755a064c03c091d4ff2d26212fe",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

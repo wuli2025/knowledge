@@ -1,0 +1,399 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-9847b46cd69ebd498e7a"
+      ],
+      "text": "速度、加速度相同的连接体。原文列举的类型包括物物叠放、绳连接和杆连接；所示物物接触情形包括水平面上并排、上下叠放以及斜面上的组合。",
+      "title": "共速连接体",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-008389a337a512ae1339"
+      ],
+      "text": "各部分速度存在关联的连接体，原文列举绳关联和杆关联。不同连接形式对应不同的速度约束。",
+      "title": "关联速度连接体",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-008389a337a512ae1339"
+      ],
+      "text": "原文所示轻绳跨过定滑轮连接两物体的三种情形中，两物体速度、加速度大小相等，方向不同：水平桌面物块与悬挂物块相连、两物体分别悬挂于定滑轮两侧、斜面物块与悬挂物块相连。",
+      "title": "定滑轮绳关联的运动约束",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-008389a337a512ae1339"
+      ],
+      "text": "对于一端沿竖直墙面下滑、另一端沿水平地面运动的杆，两端沿杆方向的分速度大小相等。",
+      "title": "杆两端沿杆方向的分速度关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-008389a337a512ae1339"
+      ],
+      "text": "原文所示杆 $AB$ 绕固定点 $O$ 转动时，两端角速度相同。",
+      "title": "绕固定点转动的杆的角速度关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-67232f0ac1779f6efb26"
+      ],
+      "text": "一起加速运动的两物体系统，力 $F$ 作用于质量为 $m_1$ 的物体上时，两物体间的相互作用力为 $F_{12}=\\dfrac{m_2F}{m_1+m_2}$。原文适用范围为并排的物体系统沿水平面、斜面或竖直方向运动；若有摩擦，两物体与各接触面间的动摩擦因数必须相同，即阻力与质量成正比。连接物为轻绳、轻杆或轻弹簧时，此结论不变。",
+      "title": "连接体中力的分配规律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-c84efcb332fc9c633094"
+      ],
+      "text": "接触与脱离的临界条件为弹力 $F_{\\mathrm N}=0$。",
+      "title": "接触与脱离的临界条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-c84efcb332fc9c633094"
+      ],
+      "text": "相对滑动的临界条件为静摩擦力达到最大值。",
+      "title": "相对滑动的临界条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-c84efcb332fc9c633094"
+      ],
+      "text": "绳子断裂的临界条件为绳中张力等于它所能承受的最大张力。",
+      "title": "绳子断裂的临界条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-c84efcb332fc9c633094"
+      ],
+      "text": "绳子松弛的临界条件为 $F_{\\mathrm T}=0$。",
+      "title": "绳子松弛的临界条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-c84efcb332fc9c633094"
+      ],
+      "text": "物体达到最终速度（收尾速度）时，其所受合力为零。",
+      "title": "收尾速度的临界条件",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-1144c05b6542b8d0777c"
+      ],
+      "text": "若连接体内各物体具有相同的加速度，可以把它们看成一个整体，分析整体受到的外力，应用牛顿第二定律求加速度。",
+      "title": "整体法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-1144c05b6542b8d0777c"
+      ],
+      "text": "若连接体内各物体的加速度不相同，或者要求系统内两物体之间的作用力，需要把物体从系统中隔离出来，应用牛顿第二定律列式求解。",
+      "title": "隔离法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-1144c05b6542b8d0777c"
+      ],
+      "text": "若连接体内各物体具有相同的加速度，且要求物体之间的作用力，可以先用整体法求加速度，再用隔离法选取合适的研究对象，应用牛顿第二定律及已知力求未知力；也可以先隔离某一物体计算加速度，再对整体应用牛顿第二定律及已知力求未知力。",
+      "title": "整体法与隔离法交替运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-b49e85899d1bb74690dc"
+      ],
+      "text": "根据题目用语辨别问题：“刚好”“恰好”“正好”提示存在临界点；“取值范围”“多久时间”“多大距离”提示存在起止点，对应临界状态；“最大”“最小”“至多”“至少”提示存在极值，极值点往往是临界点；“最终加速度”“稳定速度”提示求收尾加速度或收尾速度。",
+      "title": "临界极值问题的关键词辨别",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-817e917a6eb3ceb3697c"
+      ],
+      "text": "把物理问题或过程推向极端，使临界现象或状态暴露出来，以解决临界极值问题。",
+      "title": "极限法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-817e917a6eb3ceb3697c"
+      ],
+      "text": "临界问题存在多种可能，特别是非此即彼的两种可能时，或变化过程中可能出现也可能不出现临界条件时，往往用假设法解决。",
+      "title": "假设法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-817e917a6eb3ceb3697c"
+      ],
+      "text": "将物理过程转化为函数关系式，根据函数关系式解出临界条件。",
+      "title": "函数法",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-9847b46cd69ebd498e7a"
+      ],
+      "from": "n-5fc2174bbebacdc273c0",
+      "to": "c1",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-008389a337a512ae1339"
+      ],
+      "from": "n-5fc2174bbebacdc273c0",
+      "to": "c2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-008389a337a512ae1339"
+      ],
+      "from": "c2",
+      "to": "l1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-008389a337a512ae1339"
+      ],
+      "from": "c2",
+      "to": "l2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-008389a337a512ae1339"
+      ],
+      "from": "c2",
+      "to": "l3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9847b46cd69ebd498e7a",
+        "n-1144c05b6542b8d0777c"
+      ],
+      "from": "m1",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1144c05b6542b8d0777c"
+      ],
+      "from": "m3",
+      "to": "m1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1144c05b6542b8d0777c"
+      ],
+      "from": "m3",
+      "to": "m2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-95865b86f01b648a8b02",
+        "n-1144c05b6542b8d0777c"
+      ],
+      "from": "n-f1725f02d0dd759fab87",
+      "to": "m1",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-95865b86f01b648a8b02",
+        "n-1144c05b6542b8d0777c"
+      ],
+      "from": "n-f1725f02d0dd759fab87",
+      "to": "m2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1144c05b6542b8d0777c"
+      ],
+      "from": "n-f1725f02d0dd759fab87",
+      "to": "m3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c84efcb332fc9c633094"
+      ],
+      "from": "n-c84efcb332fc9c633094",
+      "to": "l5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c84efcb332fc9c633094"
+      ],
+      "from": "n-c84efcb332fc9c633094",
+      "to": "l6",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c84efcb332fc9c633094"
+      ],
+      "from": "n-c84efcb332fc9c633094",
+      "to": "l7",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c84efcb332fc9c633094"
+      ],
+      "from": "n-c84efcb332fc9c633094",
+      "to": "l8",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c84efcb332fc9c633094"
+      ],
+      "from": "n-c84efcb332fc9c633094",
+      "to": "l9",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b49e85899d1bb74690dc"
+      ],
+      "from": "m4",
+      "to": "n-766344bc421dcc4f79db",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-817e917a6eb3ceb3697c"
+      ],
+      "from": "m5",
+      "to": "n-766344bc421dcc4f79db",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-817e917a6eb3ceb3697c"
+      ],
+      "from": "m6",
+      "to": "n-766344bc421dcc4f79db",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-817e917a6eb3ceb3697c"
+      ],
+      "from": "m7",
+      "to": "n-766344bc421dcc4f79db",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7474cdcab4bbdb2a56bd",
+        "n-67232f0ac1779f6efb26"
+      ],
+      "from": "n-7474cdcab4bbdb2a56bd",
+      "to": "l4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7474cdcab4bbdb2a56bd",
+        "n-c84efcb332fc9c633094"
+      ],
+      "from": "n-7474cdcab4bbdb2a56bd",
+      "to": "l7",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d8c888cb3ef20527e972",
+        "n-c84efcb332fc9c633094"
+      ],
+      "from": "n-d8c888cb3ef20527e972",
+      "to": "l5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-20ddf734ff0be6aa4a61",
+        "n-008389a337a512ae1339"
+      ],
+      "from": "n-20ddf734ff0be6aa4a61",
+      "to": "l1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-28c2a20d2e6dd4a0e03a",
+  "source_digest": "18fe476bdaca082af4ad3fee8029fb81854cc67310662a4ceb686cc3a8971502",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

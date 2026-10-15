@@ -1,0 +1,350 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-6b46cf53e6f06fd4709e",
+        "n-d6c32a40f0fc9bf2b5cf"
+      ],
+      "text": "动力学中的两类基本问题是由受力求运动情况和由运动情况求受力。物体的受力通过 $F=ma$ 与加速度相联系，加速度通过运动学公式与物体的运动情况相联系。",
+      "title": "动力学中的两类基本问题",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-6b46cf53e6f06fd4709e"
+      ],
+      "text": "加速度是联系物体受力与运动情况的桥梁。",
+      "title": "加速度的桥梁作用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-792e36faa8de625d7682"
+      ],
+      "text": "超重表现为视重大于实重，加速度方向向上。",
+      "title": "超重",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-792e36faa8de625d7682"
+      ],
+      "text": "失重表现为视重小于实重，加速度方向向下。",
+      "title": "失重",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-792e36faa8de625d7682"
+      ],
+      "text": "完全失重表现为视重等于 $0$，竖直向下的加速度等于 $g$。",
+      "title": "完全失重",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-d6c32a40f0fc9bf2b5cf"
+      ],
+      "text": "物体的受力与加速度通过 $F=ma$ 相联系。",
+      "title": "牛顿第二定律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-792e36faa8de625d7682"
+      ],
+      "text": "超重时，加速度方向向上，原理为 $F-mg=ma$。",
+      "title": "超重的动力学关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-792e36faa8de625d7682"
+      ],
+      "text": "失重时，加速度方向向下，原理为 $mg-F=ma$。",
+      "title": "失重的动力学关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-792e36faa8de625d7682"
+      ],
+      "text": "完全失重时，竖直向下的加速度等于 $g$，原理为 $F=0$。",
+      "title": "完全失重的动力学关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-b273424021cc7291c7b1"
+      ],
+      "text": "$v-t$ 图像的斜率表示加速度，面积表示位移。",
+      "title": "速度—时间图像的斜率与面积",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-b273424021cc7291c7b1"
+      ],
+      "text": "$a-t$ 图像的面积表示速度的变化量。",
+      "title": "加速度—时间图像的面积",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-b273424021cc7291c7b1"
+      ],
+      "text": "$v^2-x$ 图像的斜率表示加速度的 $2$ 倍。",
+      "title": "速度平方—位移图像的斜率",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-b273424021cc7291c7b1"
+      ],
+      "text": "$F-a$ 图像的斜率表示物体的质量。【待核对】原文未在本条中明确 $F$ 的含义及适用条件。",
+      "title": "力—加速度图像的斜率",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-b273424021cc7291c7b1"
+      ],
+      "text": "$F-t$ 图像的面积表示力的冲量或动量的变化量。【待核对】原文未在本条中区分力的冲量与动量变化量所对应的力及适用条件。",
+      "title": "力—时间图像的面积",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-b273424021cc7291c7b1"
+      ],
+      "text": "$F-x$ 图像的面积表示力做的功或动能的变化量。【待核对】原文未在本条中明确力、位移的方向关系及面积表示动能变化量的适用条件。",
+      "title": "力—位移图像的面积",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-6b46cf53e6f06fd4709e"
+      ],
+      "text": "先作运动分析：画出运动情境图，逐一分析不同过程的运动特点，找出相邻过程的联系点。再作受力分析：逐个过程分析物体的受力，画出受力示意图，注意摩擦力、弹力可能变化。以加速度为桥梁，联系受力与运动情况。",
+      "title": "两个分析、一个桥梁",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-4c798f8bb250fad73163"
+      ],
+      "text": "分析各个过程的运动特点，明确每个过程的运动形式，注意相邻两个过程的衔接速度；分析各过程的受力，明确每个过程加速度的方向，注意不同过程各力的变化特点；灵活运用运动学公式、结论、图像以及合成法或正交分解法，结合牛顿第二定律求解加速度及其他相关量。",
+      "title": "牛顿第二定律在多过程问题中的应用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-e2fed3744cb6732b7db5"
+      ],
+      "text": "分清横、纵坐标代表的物理量及其意义；结合题意和情境，明确图像反映的物理过程；建立与图像对应的函数关系，据此读取信息或描点作图，明确斜率、与坐标轴所围面积、截距的物理意义；关注起点、截距、转折点、两图线交点，特别注意运动形式往往发生变化的临界点。",
+      "title": "动力学图像问题的分析方法",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-6b46cf53e6f06fd4709e"
+      ],
+      "from": "m1",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6b46cf53e6f06fd4709e"
+      ],
+      "from": "m1",
+      "to": "c2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d6c32a40f0fc9bf2b5cf"
+      ],
+      "from": "l1",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4c798f8bb250fad73163"
+      ],
+      "from": "m2",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-792e36faa8de625d7682"
+      ],
+      "from": "l2",
+      "to": "c3",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-792e36faa8de625d7682"
+      ],
+      "from": "l3",
+      "to": "c4",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-792e36faa8de625d7682"
+      ],
+      "from": "l4",
+      "to": "c5",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e2fed3744cb6732b7db5",
+        "n-b273424021cc7291c7b1"
+      ],
+      "from": "m3",
+      "to": "l5",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e2fed3744cb6732b7db5",
+        "n-b273424021cc7291c7b1"
+      ],
+      "from": "m3",
+      "to": "l6",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e2fed3744cb6732b7db5",
+        "n-b273424021cc7291c7b1"
+      ],
+      "from": "m3",
+      "to": "l7",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e2fed3744cb6732b7db5",
+        "n-b273424021cc7291c7b1"
+      ],
+      "from": "m3",
+      "to": "l8",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e2fed3744cb6732b7db5",
+        "n-b273424021cc7291c7b1"
+      ],
+      "from": "m3",
+      "to": "l9",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e2fed3744cb6732b7db5",
+        "n-b273424021cc7291c7b1"
+      ],
+      "from": "m3",
+      "to": "l10",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4042f875d3947f517dba",
+        "n-4c798f8bb250fad73163"
+      ],
+      "from": "n-4042f875d3947f517dba",
+      "to": "m2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-24124c6c9c48b951dff1",
+        "n-e2fed3744cb6732b7db5"
+      ],
+      "from": "n-24124c6c9c48b951dff1",
+      "to": "m3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-565b7f4312240dc62fef",
+        "n-e2fed3744cb6732b7db5"
+      ],
+      "from": "n-565b7f4312240dc62fef",
+      "to": "m3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8277d27037b0b87d7ee0",
+        "n-e2fed3744cb6732b7db5"
+      ],
+      "from": "n-8277d27037b0b87d7ee0",
+      "to": "m3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8277d27037b0b87d7ee0",
+        "n-792e36faa8de625d7682"
+      ],
+      "from": "n-8277d27037b0b87d7ee0",
+      "to": "c4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-7110b0082c8028999fcd",
+  "source_digest": "b5337fdb391cba7669fe0f837f710d782b2a5c59483ca7b153a0fd3698b2759d",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

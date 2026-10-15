@@ -1,0 +1,179 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-fdcff2c0b7c6df504f1b"
+      ],
+      "text": "往复运动的运动过程具有重复性、往返性，描述运动的物理量多数是变化的，重复次数往往是无限或者难以确定的。",
+      "title": "往复运动的特性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-a522f543f2313bffc737"
+      ],
+      "text": "路程是往复运动中需要关注的物理量。往复运动的路程不再与位移相等，使得利用运动学公式解题复杂烦琐。",
+      "title": "往复运动中的路程",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-a8be43c8d9dfff9e9f84"
+      ],
+      "text": "重力做功只与初、末位置有关，与路径和路程无关。",
+      "title": "重力做功与路径无关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-a8be43c8d9dfff9e9f84"
+      ],
+      "text": "滑动摩擦力（或其他阻力）做功与路程相关。原文给出克服摩擦力做的功 $W_f=fs$，其中 $s$ 为路程；原文未说明该式中 $f$ 的取值及适用条件【待核对】。",
+      "title": "克服摩擦力做功与路程的关系",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-55aab6f24e5c10b3becc"
+      ],
+      "text": "物体运动涉及多个阶段和多个过程，且题目要求计算某一中间物理量时，需分阶段列动能定理。",
+      "title": "分阶段应用动能定理",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-55aab6f24e5c10b3becc",
+        "n-4e4752b53b99e1d7d5e1"
+      ],
+      "text": "不需要研究运动的中间状态时，可以对全程列动能定理，避开每个运动过程的具体细节。动能定理只涉及物体的初、末状态，可简化运动过程的分析。",
+      "title": "全程应用动能定理",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-55aab6f24e5c10b3becc"
+      ],
+      "text": "将全过程分解为多个过程，分析每个过程的运动情况及受力情况，再根据题目问题，找到最佳过程列式求解。",
+      "title": "多过程运动的分析步骤",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-22ba008454fbe06b6bcd"
+      ],
+      "text": "分析多阶段运动时，关注各阶段衔接点承前启后的作用。",
+      "title": "关注各阶段的衔接点",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-22ba008454fbe06b6bcd"
+      ],
+      "text": "变力做功容易出错，需重点分析。",
+      "title": "重点分析变力做功",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-fdcff2c0b7c6df504f1b",
+        "n-a522f543f2313bffc737"
+      ],
+      "from": "c1",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a522f543f2313bffc737",
+        "n-a8be43c8d9dfff9e9f84"
+      ],
+      "from": "c2",
+      "to": "l2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-55aab6f24e5c10b3becc"
+      ],
+      "from": "m3",
+      "to": "m1",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-55aab6f24e5c10b3becc"
+      ],
+      "from": "m3",
+      "to": "m2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-55aab6f24e5c10b3becc"
+      ],
+      "from": "n-55aab6f24e5c10b3becc",
+      "to": "m3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-22ba008454fbe06b6bcd"
+      ],
+      "from": "n-22ba008454fbe06b6bcd",
+      "to": "m4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-22ba008454fbe06b6bcd"
+      ],
+      "from": "n-22ba008454fbe06b6bcd",
+      "to": "m5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a8be43c8d9dfff9e9f84"
+      ],
+      "from": "n-a8be43c8d9dfff9e9f84",
+      "to": "l1",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a8be43c8d9dfff9e9f84"
+      ],
+      "from": "n-a8be43c8d9dfff9e9f84",
+      "to": "l2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-ce6837051303a3600bd8",
+  "source_digest": "71727c6c12a8d8b5a50f49dc182b00505eee4de1f67744d8b1d72c1d294f50d9",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

@@ -1,0 +1,175 @@
+<!-- page 13 -->
+
+### 典例3 B
+
+两谷粒从 $O$ 点抛出后均只受重力作用，故加速度相同，A错误。两谷粒从 $O$ 运动到 $P$ 的竖直方向位移与水平方向位移均相同，设谷粒2抛出时速度方向与水平方向夹角为 $\theta$，有 $h=-v_2\sin\theta\cdot t_2+\frac12gt_2^2$，$x=v_2\cos\theta\cdot t_2$，对谷粒1有 $h=\frac12gt_1^2$，$x=v_1t_1$，可得 $t_1<t_2$，$v_2\cos\theta<v_1$，即谷粒2在最高点的速度小于 $v_1$，B正确，C错误。两谷粒从 $O$ 到 $P$ 位移相同，但 $t_1<t_2$，由平均速度的定义可知 $\bar v_1>\bar v_2$，D错误。
+
+#### 易错警示
+
+谷粒1和谷粒2同时抛出，运动轨迹相交，并不能判断谷粒1和谷粒2同时出现在 $P$ 点，所以不能判断两谷粒从 $O$ 到 $P$ 的运动时间相等。
+
+### 高考变式 ABD
+
+若两物体在空中能够相遇，竖直方向应满足 $\frac12gt^2+\left(v_2t-\frac12gt^2\right)=H$，解得 $t=\frac{H}{v_2}$，A正确。相遇时，甲水平方向位移为 $s$，可得 $t=\frac{s}{v_1}$，所以 $\frac{s}{v_1}=\frac{H}{v_2}$；若要物体乙在上升过程中与甲相遇，需满足 $\frac{v_2}{g}>\frac{H}{v_2}$，可得 $v_2>\sqrt{gH}$，B正确。若要物体乙在下降过程中与甲相遇，需满足 $\frac{v_2}{g}<\frac{H}{v_2}<2\frac{v_2}{g}$，可得 $\frac{\sqrt{2gH}}2<v_2<\sqrt{gH}$，C错误。若相遇点离地高度为 $\frac H2$，对物体甲有 $\frac H2=\frac12gt^2$，由于 $t=\frac H{v_2}$，解得 $v_2=\sqrt{gH}$，D正确。
+
+#### 一题多解
+
+物体甲、乙的加速度相同，可知甲相对乙水平方向以 $v_1$ 向右做匀速直线运动，竖直方向以 $v_2$ 向下做匀速直线运动，所以相遇时有 $t=\frac{s}{v_1}=\frac{H}{v_2}$，A正确。
+
+## 第3节 圆周运动
+
+### 典例1 A
+
+甲、乙两轮同轴传动，可得两轮角速度相等，A正确。$A$、$B$ 两点角速度相等，由于 $r_A>r_B$，根据 $a=\omega^2r$ 可得 $a_A>a_B$，B错误。甲、乙两轮角速度相等，由于 $r_{\text{甲}}:r_{\text{乙}}=5:2$，根据 $v=\omega r$ 可得 $v_{\text{甲}}:v_{\text{乙}}=5:2$，C错误。由于 $v_{\text{甲}}:v_{\text{乙}}=5:2$，且 $v_{\text{丁}}=v_{\text{甲}}$，$v_{\text{乙}}=v_{\text{丙}}$，可得 $v_{\text{丁}}:v_{\text{丙}}=5:2$；丙、丁两轮半径之比为 $3:1$，根据 $v=\omega r$ 可得 $\omega_{\text{丁}}=\frac{15}{2}\omega_{\text{丙}}$，故丙轮转1圈时，丁轮已转了 $\frac{15}{2}$ 圈，D错误。
+
+### 典例2
+
+答案　（1）① $m\omega^2l$　② 增大　（2）A　（3）① $0.05\ \mathrm m$　② $\frac{10\sqrt6}{3}\ \mathrm{rad/s}$　③ $10\ \mathrm{rad/s}$
+
+解析　（1）①设细绳与竖直方向的夹角为 $\theta$，则对题图1中小球受力分析有 $F\sin\theta=m\omega^2l\sin\theta$，解得 $F=m\omega^2l$。
+
+②对题图2中小球进行受力分析，水平方向 $F\sin\theta=m\omega^2l\sin\theta$，竖直方向有 $F\cos\theta=mg$，解得 $\omega^2=\frac{g}{l\cos\theta}=\frac gh$，可见在 $h$ 减小的情况下，角速度 $\omega$ 增大。
+
+（2）设题图甲中做圆锥摆运动的其中一个小球对应摆线与竖直方向的夹角为 $\theta$，摆球与悬点的高度差为 $h$，线速度大小为 $v$，周期为 $T$，根据牛顿第二定律有 $mg\tan\theta=m\frac{v^2}{h\tan\theta}=m\frac{4\pi^2}{T^2}h\tan\theta$，解得 $v=\sqrt{gh}\tan\theta$，$T=2\pi\sqrt{\frac hg}$，由此可知题图甲中两摆球的线速度大小不相等，周期相等，A正确，B错误；设题图乙中倒圆锥母线与竖直方向夹角为 $\alpha$，由牛顿第二定律可得 $\frac{mg}{\tan\alpha}=m\frac{v'^2}{r}=m\omega'^2r$，解得 $v'=\sqrt{\frac{gr}{\tan\alpha}}$，$\omega'=\sqrt{\frac{g}{r\tan\alpha}}$，题图乙中两球运动的轨道半径 $r$ 不同，故线速度、角速度大小均不同，C、D错误。
+
+（3）①细杆和圆环处于平衡状态，对圆环受力分析如图甲所示，得 $T_0=mg\cos\alpha=5\ \mathrm N$。
+
+[图：甲。细杆由 $O$ 斜向上延伸至 $P$，与竖直轴 $OO'$ 夹角为 $\alpha$。圆环位于 $P$ 点，受竖直向下的重力 $mg$、沿杆向上的弹簧弹力 $T_0$、垂直杆斜向左上的支持力 $N_0$。虚线椭圆表示圆周轨迹。]
+
+根据胡克定律 $F=k\Delta x$ 得 $\Delta x_0=\frac{T_0}{k}=0.05\ \mathrm m$。
+
+弹簧弹力方向沿杆向上，故弹簧处于压缩状态，弹簧此时的长度即圆环到 $O$ 点的距离 $x_1=x_0-\Delta x_0=0.05\ \mathrm m$。
+
+②若弹簧处于原长，则圆环仅受重力和支持力，其合力使圆环在水平面内做匀速圆周运动。根据牛顿第二定律得 $\frac{mg}{\tan\alpha}=m\omega_0^2r$，由几何关系得圆环此时转动的半径 $r=x_0\sin\alpha$，联立并代入数据解得 $\omega_0=\frac{10\sqrt6}{3}\ \mathrm{rad/s}$。
+
+③圆环处于细杆末端 $P$ 时，弹簧伸长量 $\Delta x'=l-x_0$，根据胡克定律得弹簧弹力 $T=k(l-x_0)=10\ \mathrm N$。
+
+对圆环受力分析如图乙所示，对各力正交分解，
+
+[图：乙。细杆 $OP$ 与竖直轴 $OO'$ 夹角为 $\alpha$，圆环位于杆末端 $P$，转动半径为 $r'$。圆环受竖直向下的重力 $mg$、沿杆指向 $O$ 的弹簧弹力 $T$、垂直杆斜向左上的支持力 $N$。]
+
+竖直方向受力平衡，有 $mg+T\cos\alpha=N\sin\alpha$，
+
+水平方向合力提供向心力，则有 $T\sin\alpha+N\cos\alpha=m\omega^2r'$。
+
+由几何关系得 $r'=l\sin\alpha$。
+
+联立并代入数据解得 $\omega=10\ \mathrm{rad/s}$。
+
+## 微专题8 圆周运动的临界极值问题
+
+### 典例1 AC
+
+设木块 $a$ 刚开始发生滑动的临界角速度为 $\omega_a$，可得 $kmg=m\omega_a^2l$，解得 $\omega_a=\sqrt{\frac{kg}{l}}$，同理可得 $b$ 刚开始发生滑动的临界角速度为 $\omega_b=\sqrt{\frac{kg}{2l}}$，$\omega_b<\omega_a$，故 $b$ 一定比 $a$ 先开始滑动，A、C正确。两木块相对圆盘滑动前，转动的角速度相同，由静摩擦力提供向心力，对 $a$ 分析可得 $f_a=m\omega^2l$，对 $b$ 分析可得 $f_b=m\omega^2\cdot2l=2m\omega^2l$，故 $f_a<f_b$，B错误。当 $\omega=\sqrt{\frac{2kg}{3l}}$ 时，$\omega<\omega_a$，$a$ 没有发生滑动，对 $a$ 分析可得 $f_a=m\omega^2l=\frac23kmg$，D错误。
+
+### 典例2 AC
+
+①假设物体 $A$、$B$ 间无细线相连，试分析物体 $A$、$B$ 相对圆盘即将滑动的临界角速度是多大？
+
+当物体 $A$ 相对圆盘即将滑动时，有 $\mu mg=m\omega_1^2r$，解得 $\omega_1=\sqrt{\frac{\mu g}{r}}$。
+
+当物体 $B$ 相对圆盘即将滑动时，有 $\frac{\mu}{2}mg=m\omega_2^2\cdot2r$，解得 $\omega_2=\sqrt{\frac{\mu g}{4r}}$。故当 $\omega<\sqrt{\frac{\mu g}{4r}}$ 时，细线中没有张力，A正确。
+
+<!-- page 14 -->
+
+②当圆盘的角速度 $\omega>\sqrt{\frac{\mu g}{4r}}$ 时，随着 $\omega$ 变大，物体 $A$ 和 $B$ 与圆盘间的摩擦力如何变化？
+
+$\omega>\sqrt{\frac{\mu g}{4r}}$ 且 $A$、$B$ 不相对圆盘滑动时，物体 $B$ 与圆盘间的摩擦力为最大静摩擦力 $f_B=\frac{\mu}{2}mg$，且保持不变。对物体 $A$，由牛顿第二定律可得 $F_T+f_A=m\omega^2r$；$F_T=F_T'$，对物体 $B$，由牛顿第二定律可得 $F_T'+\frac{\mu}{2}mg=m\omega^2\cdot2r$；联立可得 $\frac{\mu}{2}mg-f_A=m\omega^2r$，所以 $f_A$ 会随 $\omega$ 的增大而减小，当 $\omega=\sqrt{\frac{\mu g}{2r}}$ 时，$f_A=0$，B错误。
+
+③当圆盘的角速度 $\omega>\sqrt{\frac{\mu g}{2r}}$ 时，随着 $\omega$ 变大，物体 $A$ 和 $B$ 与圆盘间的摩擦力如何变化？
+
+$\omega>\sqrt{\frac{\mu g}{2r}}$ 且 $A$、$B$ 不相对圆盘滑动时，物体 $B$ 与圆盘间的摩擦力为最大静摩擦力 $f_B=\frac{\mu}{2}mg$，且保持不变。由 $\frac{\mu}{2}mg-f_A=m\omega^2r$ 可得 $f_A$ 会反向，即 $A$ 受到的摩擦力背离圆心。当物体 $A$ 与圆盘间达到最大静摩擦力时，有 $\frac{\mu}{2}mg+\mu mg=m\omega^2r$，解得 $\omega=\sqrt{\frac{3\mu g}{2r}}$，此时两物体刚好不滑动，C正确。
+
+④当圆盘的角速度 $\omega=\sqrt{\frac{3\mu g}{2r}}$ 时烧断细线，物体 $A$、$B$ 将做什么运动？
+
+当物体刚好不滑动时，在烧断细线的瞬间，$A$ 所需向心力为 $F_A=m\omega^2r=\frac32\mu mg>\mu mg$，$B$ 所需向心力为 $F_B=m\omega^2\cdot2r=3\mu mg>\frac12\mu mg$，可知两物体的最大静摩擦力都不足以提供向心力，因此 $A$ 和 $B$ 都将做离心运动，D错误。
+
+#### 一题多解 质心法巧解临界角速度
+
+质心的判断：根据 $m(-r)+m\cdot2r=(m+m)r'$ 可得 $r'=\frac r2$；当物体 $A$、$B$ 与接触面即将发生相对滑动时，可得 $\mu mg+\frac{\mu}{2}mg=(m+m)\cdot\omega^2\cdot\frac r2$，解得 $\omega=\sqrt{\frac{3\mu g}{2r}}$，故当 $\omega=\sqrt{\frac{3\mu g}{2r}}$ 时，两物体刚好不滑动。
+
+### 典例3 B
+
+由题意，小球从 $P$ 运动到 $Q$ 点，根据动能定理有 $mg\times2L=\frac12mv_Q^2-\frac12mv_P^2$，解得小球运动到最低点 $Q$ 时的速度大小为 $v_Q=\sqrt{5gL}$，A错误，B正确；小球在 $P$ 点时，根据牛顿第二定律有 $F+mg=m\frac{v_P^2}{L}$，解得此时小球受到绳的拉力为 $F=0$，C、D错误。
+
+### 进阶1 BD
+
+小球通过最高点时，若杆对小球的力为支持力，由牛顿第二定律得 $mg-F_N=m\frac{v^2}{R}$；当 $v^2=0$ 时，$mg=F_N$，结合图像可得 $mg=F_N=a$①；当 $F_N=0$ 时，$v^2=gR$，结合图像可得 $gR=b$②；联立①②可得 $g=\frac bR$，$m=\frac abR$【另解：由 $mg-F_N=m\frac{v^2}{R}$ 可得 $F_N=-\frac mRv^2+mg$，结合图像中左半部分图线可得 $\frac ab=\frac mR$，$mg=a$，即 $m=\frac abR$，$g=\frac bR$】，A错误，B正确。当 $v^2=b$ 时，小球在最高点只受重力，处于完全失重状态，D正确。当 $v^2=c>b$ 时，小球做圆周运动所需的向心力大于 $mg$，通过最高点时杆对小球的弹力方向向下，C错误。
+
+### 进阶2 AD
+
+小球下滑过程中，由机械能守恒定律可得 $mg(R-R\cos\theta)=\frac12mv^2$，推得 $v^2=-2gR\cos\theta+2gR$；结合题图乙有 $2gR=12\ \mathrm{m^2/s^2}$，解得 $R=0.6\ \mathrm m$，A正确。$\theta=\frac{\pi}{2}$ 时，$\cos\theta=0$，小球处于圆心等高处，可得圆环对小球的弹力 $F_N=m\frac{v^2}{R}=4\ \mathrm N$；小球所受合力为 $F=\sqrt{F_N^2+(mg)^2}=2\sqrt5\ \mathrm N$，B错误。$0\leqslant\theta\leqslant\frac{\pi}{2}$ 时，由牛顿第二定律可得 $mg\cos\theta-F_N=m\frac{v^2}{R}$，可知随 $\theta$ 的增大，$v$ 也增大，所以 $F_N$ 必须减小，当 $F_N=0$ 时，$mg\cos\theta=m\frac{v^2}{R}$，随后有 $F_N+mg\cos\theta=m\frac{v^2}{R}$，可知随 $\theta$ 的增大，$v$ 也增大，所以 $F_N$ 必须增大；$\frac{\pi}{2}\leqslant\theta\leqslant\pi$ 的过程中，有 $F_N-mg\cos(180^\circ-\theta)=m\frac{v^2}{R}$，可知随 $\theta$ 的增大，$v$ 也增大，所以 $F_N$ 必须增大；所以 $0\leqslant\theta\leqslant\pi$ 过程中，圆环对小球的作用力先减小后增大，C错误，D正确。
+
+### 典例4 ACD
+
+物块随圆盘在倾斜面上做匀速圆周运动，在垂直盘面方向有 $F_N=mg\cos\theta$①；在最低点，由牛顿第二定律可得 $\mu_{\min}F_N-mg\sin\theta=m\omega^2r$②；联立解得 $\mu_{\min}=\frac79\sqrt3$，A正确。物块从最低点第一次转到最高点的过程中，取最高点速度方向为正，由动量定理可得 $I_F+I_G=mv-(-mv)$，解得 $I_F+I_G=\frac23m\sqrt{6gr}$，且 $I_G\neq0$，重力冲量与合力冲量垂直，可得圆盘对物块的冲量大小 $I_F\neq\frac23m\sqrt{6gr}$，B错误。设物块在某一位置时与圆心连线的方向和重力沿圆盘向下的分力方向的夹角为 $\alpha$，由余弦定理可知 $f_1^2=G_1^2+F_n^2-2G_1F_n\cos\alpha$，其中 $G_1=mg\sin\theta$，由对称性可知 $f_2^2=G_1^2+F_n^2+2G_1F_n\cos\alpha$，且 $F_n=m\omega^2r=\frac23mg>G_1$，则 $f_1^2+f_2^2=2G_1^2+2F_n^2>m^2g^2$，C正确。物块在最高点时，由牛顿第二定律可得 $mg\sin\theta+f=m\omega^2r$，可得随着 $\omega$ 的增大，物块在最高点受到的摩擦力一定增大，D正确。
+
+### 典例5
+
+答案　$\frac83\tan\theta$
+
+解析　设题图（b）中圆与 $f_y$ 轴正方向的交点的纵坐标为 $f_1$，则有 $\left(\frac{f_1+2\ \mathrm N}{2}\right)^2=(4\ \mathrm N)^2+\left(\frac{f_1+2\ \mathrm N}{2}-2\ \mathrm N\right)^2$，解得 $f_1=8\ \mathrm N$；结合题图（a）、（b）可知，滑块运动至最高点时，所受的静摩擦力最小，方向指向圆心，大小 $f_2=2\ \mathrm N$，由牛顿第二定律得 $f_2+mg\sin\theta=m\omega^2r$；滑块运动至最低点时，所受的静摩擦力最大，方向指向圆心，大小为 $f_1=8\ \mathrm N$，由牛顿第二定律得 $f_1-mg\sin\theta=m\omega^2r$，且满足 $f_1\leqslant\mu mg\cos\theta$；联立解得滑块与圆盘之间的动摩擦因数 $\mu\geqslant\frac83\tan\theta$，则滑块与圆盘之间的动摩擦因数的最小值为 $\frac83\tan\theta$。
+
+# 第六章 万有引力与宇宙航行
+
+## 第1节 万有引力定律及其应用
+
+### 典例1
+
+答案　（1）671个　（2）D
+
+解析　（1）已知 $r_{\text{地}}=1\ \mathrm{AU}$，$r_{\text{火}}=1.5\ \mathrm{AU}$，$T_{\text{地}}=365\ \mathrm d$，由开普勒第三定
+
+<!-- page 15 -->
+
+律可得 $\frac{r_{\text{地}}^3}{T_{\text{地}}^2}=\frac{r_{\text{火}}^3}{T_{\text{火}}^2}$【点拨：圆轨道可以认为是一种特殊的椭圆轨道，开普勒第三定律也适用于圆轨道】，解得 $T_{\text{火}}=\sqrt{\frac{T_{\text{地}}^2r_{\text{火}}^3}{r_{\text{地}}^3}}\approx671\ \mathrm d$。
+
+（2）由 $\frac{GMm}{r^2}=m\left(\frac{2\pi}{T}\right)^2r$ 可知 $\frac{r^3}{T^2}=\frac{GM}{4\pi^2}$，则开普勒第三定律 $\frac{a^3}{T^2}=k$ 中的 $k=\frac{GM}{4\pi^2}$，因中继卫星的周期与地球同步卫星的周期相同，则 $\frac{M_{\text{月}}}{M_{\text{地}}}=\frac{a^3}{r^3}$，D正确。
+
+### 典例2
+
+答案　$\frac{k}{k'^2}g$　$\frac{k'^2}{k}m$
+
+解析　在月球表面有 $G\frac{M_{\text{月}}}{R_{\text{月}}^2}=g_{\text{月}}$，在地球表面有 $G\frac{M}{R^2}=g$，可得 $g_{\text{月}}=\frac{k}{k'^2}g$。则 $m_{\text{月}\max}g_{\text{月}}=mg$【点拨：无论是在月球表面还是在地表，航天员能提供的最大的支持力都是一样的】，故 $m_{\text{月}\max}=\frac{g}{g_{\text{月}}}m=\frac{k'^2}{k}m$。
+
+更多资料加ttzsk666 或关注公众号：瀚升学堂
+
+### 进阶1 C
+
+设地球的密度为 $\rho$，对“天宫一号”有 $G\frac{Mm_{\text{天}}}{(R+h)^2}=m_{\text{天}}g_1$，解得 $g_1=\frac{GM}{(R+h)^2}$，由于地球的质量 $M=\rho\cdot\frac43\pi R^3$，故“天宫一号”所在处的重力加速度 $g_1=\frac{4\pi G\rho R^3}{3(R+h)^2}$。对于潜深度为 $d$ 的“蛟龙”号有 $m'g_2=G\frac{M'm'}{(R-d)^2}$，半径等于 $R-d$ 的球体的质量 $M'=\rho\cdot\frac43\pi(R-d)^3$，故“蛟龙”号所在处的重力加速度 $g_2=\frac43\pi G\rho(R-d)$，解得 $\frac{g_2}{g_1}=\frac{(R-d)(R+h)^2}{R^3}$，C正确。
+
+### 进阶2 C
+
+飞船做匀速圆周运动时有 $G\frac{M_{\text{月}}m_{\text{飞}}}{(1.5R_{\text{月}})^2}=m_{\text{飞}}\frac{4\pi^2}{T_1^2}\cdot(1.5R_{\text{月}})$；在月球两极表面处有 $G\frac{M_{\text{月}}m}{R_{\text{月}}^2}=mg_0$，联立解得 $g_0=\frac{27\pi^2R_{\text{月}}}{2T_1^2}$，A错误。月球的第一宇宙速度 $v_1$ 满足 $mg_0=m\frac{v_1^2}{R_{\text{月}}}$，可得 $v_1=\frac{3\sqrt6\pi R_{\text{月}}}{2T_1}$，B错误。当飞船停在月球赤道的水平面上时，对飞船受力分析，由牛顿第二定律可得 $G\frac{M_{\text{月}}m_{\text{飞}}}{R_{\text{月}}^2}-F=m_{\text{飞}}\frac{4\pi^2}{T_2^2}R_{\text{月}}$，解得 $F=\pi^2m_{\text{飞}}R_{\text{月}}\left(\frac{27}{2T_1^2}-\frac4{T_2^2}\right)$，C正确。当飞船停在月球纬度 $60^\circ$ 的区域时，飞船随月球自转的运动半径为 $r=R_{\text{月}}\cos60^\circ$，随月球自转所需的向心加速度 $a=\left(\frac{2\pi}{T_2}\right)^2r$，解得 $a=\frac{2\pi^2R_{\text{月}}}{T_2^2}$，D错误。
+
+### 典例3 ACD
+
+设该行星重力加速度为 $g$，小球被抛出后做平抛运动，有 $L\cos\theta=v_0t$，$L\sin\theta=\frac12gt^2$，解得 $g=\frac{2\sqrt2v_0^2}{L}$，A正确。对环绕该行星表面运行的卫星，有 $mg=m\frac{4\pi^2}{T^2}R$，代入 $g$ 值，解得该行星的半径 $R=\frac{\sqrt2T^2v_0^2}{2\pi^2L}$，B错误。对环绕该行星表面运行的卫星，有 $G\frac{Mm}{R^2}=m\frac{4\pi^2}{T^2}R$，解得该行星的质量 $M=\frac{4\pi^2R^3}{GT^2}$，代入 $R$ 值得，$M=\frac{\sqrt2T^4v_0^6}{G\pi^4L^3}$，该行星的平均密度 $\rho=\frac MV=\frac{M}{\frac43\pi R^3}=\frac{3\pi}{GT^2}$，C、D正确。
+
+## 第2节 人造卫星 宇宙速度
+
+### 典例1 D
+
+因为太阳直径远小于金星的轨道半径，太阳直径可忽略不计，由相似三角形，根据几何关系可得 $\frac{r_{\text{地}}-r_{\text{金}}}{r_{\text{金}}}=\frac dL$，解得 $\frac{r_{\text{地}}}{r_{\text{金}}}=\frac{L+d}{L}$，A错误。太阳对行星的万有引力提供行星做匀速圆周运动的向心力，由 $G\frac{Mm}{r^2}=ma_n$ 得 $a_n=\frac{GM}{r^2}$，所以地球和金星绕太阳运动的向心加速度大小之比为 $\left(\frac{L}{L+d}\right)^2$，D正确。由 $G\frac{Mm}{r^2}=m\left(\frac{2\pi}{T}\right)^2r$ 得 $T=2\pi\sqrt{\frac{r^3}{GM}}$，所以地球和金星绕太阳运动的周期之比为 $\sqrt{\left(\frac{L+d}{L}\right)^3}$，B错误。由 $G\frac{Mm}{r^2}=m\frac{v^2}{r}$ 得 $v=\sqrt{\frac{GM}{r}}$，所以地球和金星绕太阳运动的线速度大小之比为 $\sqrt{\frac{L}{L+d}}$，C错误。
+
+### 典例2 A
+
+$\angle OAB=90^\circ$，则 $OB$ 大于 $OA$，即卫星 $B$ 做匀速圆周运动的轨道半径大于卫星 $A$ 做匀速圆周运动的轨道半径，由万有引力提供向心力有 $\frac{GMm}{r^2}=m\omega^2r$，得 $\omega=\sqrt{\frac{GM}{r^3}}$，可知 $\omega_B<\omega_A$，又 $\omega_P=\omega_B$，所以 $\omega_P<\omega_A$，由 $r_P<r_A$，$a=\omega^2r$，可知 $a_P<a_A$，A正确；卫星 $A$、$B$ 绕地心做匀速圆周运动，$P$ 点运动的圆轨迹与地轴线垂直，圆心在题图中 $O$ 点正上方，B错误；由万有引力提供向心力有 $\frac{GMm}{r^2}=\frac{mv^2}{r}$，可得 $v=\sqrt{\frac{GM}{r}}$，又 $\frac{r_A}{r_B}=\cos\theta$，解得卫星 $A$、$B$ 的线速度之比为 $\frac{v_A}{v_B}=\frac{\sqrt{r_B}}{\sqrt{r_A}}=\sqrt{\frac1{\cos\theta}}$，C错误；由万有引力提供向心力有 $\frac{GMm}{r^2}=m\frac{4\pi^2}{T^2}r$，可得 $T=\sqrt{\frac{4\pi^2}{GM}r^3}$，可得卫星 $A$、$B$ 的周期之比 $\frac{T_A}{T_B}=\frac{\sqrt{r_A^3}}{\sqrt{r_B^3}}=\sqrt{\cos^3\theta}$，D错误。
+
+### 典例3
+
+答案　$\sqrt{\frac{2GM}{R}-\frac{GM}{a}}$
+
+解析　设轨道Ⅱ的远地点为 $A$ 点，$A$ 点到地心距离为 $r_A$，根据开普勒第二定律可得 $v_PR=v_Ar_A$，从 $P$ 点运动到 $A$ 点的过程中，卫星机械能守恒，可得 $\frac12mv_P^2-\frac{GMm}{R}=\frac12mv_A^2-\frac{GMm}{r_A}$，由几何关系可得 $r_A=2a-R$，联立解得 $v_P=\sqrt{\frac{2GM}{R}-\frac{GM}{a}}$。
+
+### 典例4
+
+答案　（1）$\frac{0.82}{0.95^2}$　$\sqrt{\frac{0.82}{0.95}}$　（2）BD
+
+解析　（1）对金星表面的物体有 $G\frac{M_{\text{金}}m}{R_{\text{金}}^2}=mg_{\text{金}}$
+
+对地球表面的物体有 $G\frac{M_{\text{地}}m}{R_{\text{地}}^2}=mg$
+
+联立解得 $g_{\text{金}}=\frac{0.82}{0.95^2}g$
+
+**解法一** 对在金星表面绕金星做匀速圆周运动的卫星有

@@ -1,0 +1,75 @@
+<!-- page 97 -->
+
+**4.BC**　经时间 $t=0.5\ \mathrm{s}$，甲波沿 $x$ 轴正方向和乙波沿 $x$ 轴负方向传播的距离均为 $x=vt=2\times0.5\ \mathrm{m}=1\ \mathrm{m}$；由波形平移可知 $t=0.5\ \mathrm{s}$ 时，甲波引起质点 $P$ 振动的位移 $y_{\text{甲}}=-2\ \mathrm{cm}$，乙波引起质点 $P$ 振动的位移 $y_{\text{乙}}=0$；由波的叠加原理可得质点 $P$ 偏离平衡位置的位移为 $-2\ \mathrm{cm}$，A错误，B正确。同理可得 $t=1.0\ \mathrm{s}$ 时，质点 $P$ 偏离平衡位置位移为 $0$，即质点 $P$ 处于平衡位置，且由波的叠加原理知之后其位移将正向增大，所以 $t=1.0\ \mathrm{s}$ 时 $P$ 向 $y$ 轴正方向运动，C正确，D错误。
+
+**5.C**　机械波在同一个介质中的传播速度相同，由图（b）可知，波的周期 $T=4\ \mathrm{s}$，故三列波在介质中的传播速度 $v=\frac{\lambda}{T}=\frac{4\ \mathrm{m}}{4\ \mathrm{s}}=1\ \mathrm{m/s}$，A错误。由勾股定理可知 $AD=5\ \mathrm{m}$，$BD=5\ \mathrm{m}$，三列波传播到 $D$ 处所用的时间分别为 $t_A=\frac{AD}{v}=5\ \mathrm{s}$，$t_B=\frac{BD}{v}=5\ \mathrm{s}$，$t_C=\frac{CD}{v}=3\ \mathrm{s}$，所以 $t=2\ \mathrm{s}$ 时，$D$ 处质点还未开始振动，B错误。$t=4.5\ \mathrm{s}$ 时，$C$ 处波源产生的波已到达 $D$ 处，而 $A、B$ 处波源产生的波还没传到 $D$ 处，故此时 $D$ 处质点的振动仅由 $C$ 处波源决定，振动时间为 $\Delta t=(4.5-3)\ \mathrm{s}=1.5\ \mathrm{s}$，由图（b）可知此时 $D$ 处质点向 $y$ 轴负方向运动，C正确。$t=6\ \mathrm{s}$ 时，$A、B、C$ 三个波源产生的波均已传到 $D$ 处，此时 $A$ 处波源产生的波与 $B$ 处波源产生的波在 $D$ 处产生的位移均为 $2\ \mathrm{cm}$，$C$ 处波源产生的波在 $D$ 处产生的位移为 $-2\ \mathrm{cm}$，则 $D$ 处的质点与平衡位置的距离是 $2\ \mathrm{cm}+2\ \mathrm{cm}-2\ \mathrm{cm}=2\ \mathrm{cm}$，D错误。
+
+## 三年模拟
+
+**6.D**　由题图甲可知，该波的波长为 $\lambda=10\ \mathrm{cm}$，由题图乙可知，该波的周期为 $T=0.20\ \mathrm{s}$，故该波的波速为 $v=\frac{\lambda}{T}=50\ \mathrm{cm/s}$，A错误；由题图甲可知，再经过 $\frac14T$ 波峰传到 $M$ 点，故 $M$ 点此时正垂直纸面向外振动，而题图乙中，$t=0.10\ \mathrm{s}$ 时质点沿负方向运动，即垂直纸面向里运动，则题图乙不可能为质点 $M$ 的振动图像，B错误，D正确；$t=0.20\ \mathrm{s}$ 时质点 $P$ 由波峰（$t=0.10\ \mathrm{s}$ 时）位置刚好到达波谷的位置，结合题图甲可知，$t=0$ 时刻，质点 $Q$ 也在波谷位置，两者具有相同的垂直于纸面的位移，但波只是振动形式的传播，质点并未随波迁移，故两者始终处在纸面内的不同位置，C错误。
+
+**7.AD**　由题意知在 $t=0$ 时刻 $x=7\ \mathrm{m}$ 处的质点正沿 $y$ 轴正方向振动，由“同侧法”可知该波沿 $x$ 轴正方向传播，A正确；根据波动规律可知 $7\ \mathrm{m}=\frac{\lambda}{4}-\frac{\lambda}{12}+\frac{\lambda}{4}+\frac{\lambda}{6}$，可知波长 $\lambda=12\ \mathrm{m}$，B错误；由于 $t=1.6\ \mathrm{s}$ 时 $x=7\ \mathrm{m}$ 处的质点第二次位于平衡位置，可知 $1.6\ \mathrm{s}=\frac{T}{2}+\frac{T}{6}$，解得周期 $T=2.4\ \mathrm{s}$，则波速 $v=\frac{\lambda}{T}=5\ \mathrm{m/s}$，C错误；由“同侧法”可知 $t=0$ 时刻 $x=0$ 处质点向下振动，且 $1.6\ \mathrm{s}=\frac{T}{12}+\frac{T}{2}+\frac{T}{12}$，故从 $t=0$ 时刻开始到 $t=1.6\ \mathrm{s}$ 时间内 $x=0$ 处的质点运动路程为 $s=\frac12\ \mathrm{cm}+2A+\frac12\ \mathrm{cm}=\frac12\ \mathrm{cm}+2\times1\ \mathrm{cm}+\frac12\ \mathrm{cm}=3\ \mathrm{cm}$，D正确。
+
+**8.ABD**　从题图可知 $t=0$ 时刻，$x=-6\ \mathrm{m}$ 处的质点开始向上振动，当 $t=0.75\ \mathrm{s}$ 时刚好第一次处于波峰，则有 $\frac14T=0.75\ \mathrm{s}$，所以波源 $S_1$ 的周期为 $T=3\ \mathrm{s}$，A正确；从题图可以看出两列波的波长相等，都是 $6\ \mathrm{m}$，相等时间内两列波传播的距离之比为 $\frac{\Delta x_1}{\Delta x_2}=\frac{\lambda}{\frac32\lambda}=\frac23$，由波速公式 $v=\frac{\Delta x}{\Delta t}$，可得两列波在左右两边的介质中传播的速度之比为 $\frac{v_1}{v_2}=\frac{\Delta x_1}{\Delta x_2}=\frac23$，因为波源 $S_1$ 发出的波的传播速度为 $v_1=\frac{\lambda}{T}=2\ \mathrm{m/s}$，所以波源 $S_2$ 发出的波的传播速度为 $v_2=\frac32v_1=3\ \mathrm{m/s}$，当波源 $S_2$ 发出的波传到 $O$ 点时所用时间 $t_1=\frac{\Delta x}{v_2}=\frac{3\ \mathrm{m}}{3\ \mathrm{m/s}}=1\ \mathrm{s}$，此时波源 $S_1$ 发出的波传到的位置为 $x=(-6+v_1t_1)\ \mathrm{m}=-4\ \mathrm{m}$，之后两列波的波速均为 $v_1=2\ \mathrm{m/s}$，所以相遇的位置在 $x=-2.0\ \mathrm{m}$ 处，B、D正确；两波源的波长均为 $6\ \mathrm{m}$，由于两边的介质不同，则它们的波速不同，根据公式 $v=\lambda f$ 可知，两列波的频率不同，故两列波叠加后不能形成稳定的干涉图样，C错误。
+
+**9.BD**　若波形图如图甲所示，此时有 $\frac54\lambda_1=x_{AB}$，若波形图如图乙所示，此时有 $\frac74\lambda_2=x_{AB}$，代入数据，解得波长 $\lambda_1=\frac{24}{5}\ \mathrm{m}$ 或 $\lambda_2=\frac{24}{7}\ \mathrm{m}$，由题图可知周期 $T=4\ \mathrm{s}$，则波速 $v=\frac{\lambda}{T}$，联立解得波速 $v_1=\frac65\ \mathrm{m/s}$ 或 $v_2=\frac67\ \mathrm{m/s}$，B、D正确。
+
+[图：甲、乙两种正弦波形。甲图中 $A$ 对应波峰，$B$ 位于其右侧第二个波峰后的平衡位置，$AB=\frac54\lambda_1$；乙图中 $A$ 对应波峰，$B$ 位于其右侧第二个波谷后的平衡位置，$AB=\frac74\lambda_2$。]
+
+## 创新风向
+
+**答案 BC**　$S_1$ 产生的波 $0.1\ \mathrm{s}$ 传播 $4\ \mathrm{m}$，波速 $v=40\ \mathrm{m/s}$，两列波在同一种介质中波速相同，$S_2$ 产生的波在 $t=0.1\ \mathrm{s}$ 后在 $x=6\ \mathrm{m}$ 边界左侧的波速变得和 $S_1$ 产生的波的波速相同，两波一定在 $x=5\ \mathrm{m}$ 处相遇，相遇时间 $t=0.1\ \mathrm{s}+\frac1{40}\ \mathrm{s}=0.125\ \mathrm{s}$，A错误。$S_2$ 产生的波在 $6\ \mathrm{m}<x\leq12\ \mathrm{m}$ 间 $0.1\ \mathrm{s}$ 内传播 $6\ \mathrm{m}$，又周期 $T=0.02\ \mathrm{s}$，故波长为 $1.2\ \mathrm{m}$，B正确。$S_2$ 产生的波在 $6\ \mathrm{m}<x\leq12\ \mathrm{m}$ 间的波长为 $1.2\ \mathrm{m}$，$x=8.4\ \mathrm{m}$ 处到 $S_2$ 的距离为 $3.6\ \mathrm{m}$，即三个波长，$S_1$ 产生的波的波长在 $0<x<6\ \mathrm{m}$ 之间为 $0.8\ \mathrm{m}$，在 $0<x<6\ \mathrm{m}$ 之间有 $7.5$ 个波长，而过了 $x=6\ \mathrm{m}$ 波长变为 $1.2\ \mathrm{m}$，所以在 $6\ \mathrm{m}<x<8.4\ \mathrm{m}$ 之间有两个波长，$x=8.4\ \mathrm{m}$ 处的质点距离两个波源的波程差为 $6.5$ 个波长，该点是振动减弱点，C正确。由上述分析可知两波同时到达 $x=5\ \mathrm{m}$ 处，故 $x=5\ \mathrm{m}$ 处的质点起振方向向上，且振动加强，再根据干涉图样可知两相邻干涉加强处相距半个波长（$0.4\ \mathrm{m}$），故可知在 $0<x<6\ \mathrm{m}$ 之间有 $15$ 个加强点，D错误。
+
+# 微专题 14　波的图像和振动图像的综合应用
+
+## 题型1　已知两质点的振动图像
+
+**1.C**　由题图乙、丙可得 $T=8\ \mathrm{s}$，当波向右传播时 $x_{AC}=n\lambda+\frac14\lambda$（$n=0,1,2,3,\cdots$），解得 $\lambda=\frac{80}{4n+1}\ \mathrm{m}$（$n=0,1,2,3,\cdots$），A错误。当波向左传播时 $x_{AC}=n\lambda+\frac34\lambda$（$n=0,1,2,3,\cdots$），解得 $\lambda=\frac{80}{4n+3}\ \mathrm{m}$（$n=0,1,2,3,\cdots$），B错误。由题意可得，波向左传播，又
+
+<!-- page 98 -->
+
+因为 $3\lambda<AC<4\lambda$，所以 $x_{AC}=n\lambda+\frac34\lambda$，取 $n=3$，此时 $v=\frac{\lambda}{T}=\frac{10}{4n+3}\ \mathrm{m/s}=\frac23\ \mathrm{m/s}$，设波从波源传播到 $B$ 点所用时间为 $t_1$，则 $t_1=\frac{x_{BC}}{v}=\frac{10}{\frac23}\ \mathrm{s}=15\ \mathrm{s}$，若波源位于 $C$ 点，起振方向向上，$B$ 点起振后到第 $1$ 次到达波峰所用时间为 $t_2$，则 $t_2=\frac14T=2\ \mathrm{s}$，那么从波源起振开始计时，$B$ 处质点第 $1$ 次到达波峰需要 $t=t_1+t_2=17\ \mathrm{s}$；若波源位于 $C$ 点，起振方向向下，$B$ 点起振后到第 $1$ 次到达波峰所用时间为 $t'_2$，则 $t'_2=\frac34T=6\ \mathrm{s}$，那么从波源起振开始计时，$B$ 处质点第 $1$ 次到达波峰需要 $t'=t_1+t'_2=21\ \mathrm{s}$，C正确，D错误。
+
+**2.AC**　根据题图甲可得波源的振动周期 $T=0.4\ \mathrm{s}$，振幅 $A=10\ \mathrm{cm}$，$0\sim1\ \mathrm{s}$ 内波源运动的路程 $s=\frac{t}{T}\cdot4A=10A=1\ \mathrm{m}$；$t=0.5\ \mathrm{s}$ 时波源正从平衡位置向 $y$ 轴负方向运动，A正确，B错误。该波沿 $x$ 轴正方向传播，波源与 $x_1=2\ \mathrm{m}$ 处质点间的距离 $x_1=\left(n+\frac34\right)\lambda$（$n=0,1,2,\cdots$），解得 $\lambda=\frac8{4n+3}\ \mathrm{m}$；如果波长大于 $2\ \mathrm{m}$，则一定有 $n=0$，波速一定为 $v=\frac{\lambda}{T}=\frac{20}{4n+3}\ \mathrm{m/s}=\frac{20}{3}\ \mathrm{m/s}$，C正确。由两振动图像可知，波源位于平衡位置时，平衡位置在 $x_1=2\ \mathrm{m}$ 处的质点可能处于波谷也可能处于波峰，D错误。
+
+**3.D**　由题图可知波的周期为 $0.4\ \mathrm{s}$，$Q$ 质点的振动方程为 $y=A\sin\left(\frac{2\pi}{T}t+\varphi\right)=-4\sin(5\pi t)\ \mathrm{cm}$，A错误；$0\sim0.1\ \mathrm{s}$ 内，质点 $P$ 到达波峰时有 $A=4\sin\left(5\pi t_1+\frac{\pi}{6}\right)\ \mathrm{cm}$，解得 $t_1=\frac1{15}\ \mathrm{s}$，当 $t_2=0.3\ \mathrm{s}$，$Q$ 质点到达波峰，波从质点 $P$ 处传播至质点 $Q$ 处，有 $\Delta x=v(nT+t_2-t_1)=1\ \mathrm{m}$（$n=0,1,2,3,\cdots$），则波速为 $v=\frac{30}{12n+7}\ \mathrm{m/s}$（$n=0,1,2,3,\cdots$），当该波的传播速度为 $\frac57\ \mathrm{m/s}$ 时，$n$ 不是整数，故该波的传播速度不可能为 $\frac57\ \mathrm{m/s}$，当 $n=2$ 时，该波的传播速度为 $\frac{30}{31}\ \mathrm{m/s}$，C错误，D正确；该波的波长为 $\lambda=vT=\frac{12}{12n+7}\ \mathrm{m}$（$n=0,1,2,3,\cdots$），当该波的波长为 $7.2\ \mathrm{m}$ 时，$n$ 不是整数，故该波的波长不可能为 $7.2\ \mathrm{m}$，B错误。
+
+## 题型2　已知两时刻的波的图像
+
+**1.D**　由题图可知，$\lambda=4\ \mathrm{m}$，$T=2\ \mathrm{s}$，所以 $v=\frac{\lambda}{T}=2\ \mathrm{m/s}$，A错误；由于 $P$ 点左侧先于 $Q$ 点右侧形成波形，故波源位置在矩形区域中更靠近 $P$ 点处，结合波形可确定波源平衡位置距 $P$ 点 $1\ \mathrm{m}$，B错误；$t=1.5\ \mathrm{s}$ 时，$P$ 点处于平衡位置且向上运动，故可知 $t=1.0\ \mathrm{s}$（即 $1.5\ \mathrm{s}-\frac{T}{4}$）时，$P$ 点处于波谷，又由于 $P$ 点平衡位置距波源 $1\ \mathrm{m}=\frac{\lambda}{4}$，故可推知波源此时处于平衡位置且向上运动，C错误；$t=2.5\ \mathrm{s}$ 时，平衡位置在 $P、Q$ 的两质点均在平衡位置，$t'=5.5\ \mathrm{s}-2.5\ \mathrm{s}=3\ \mathrm{s}=\frac32T$，则 $t=5.5\ \mathrm{s}$ 时两质点仍在平衡位置，故位移相同，D正确。
+
+[图：波源位于矩形区域内，$P$、$Q$ 分别标在区域左右边界，$O$ 在区域内靠近 $P$ 的位置。依次给出 $t=0$、$t=\frac{T}{4}=0.5\ \mathrm{s}$、$t=\frac{T}{2}=1\ \mathrm{s}$、$t=\frac34T=1.5\ \mathrm{s}$、$t=T=2\ \mathrm{s}$、$t=\frac54T=2.5\ \mathrm{s}$ 的波形，显示波向左右传播；起振方向向下。]
+
+**2.AC**　若波沿 $x$ 轴正方向传播，由题图可知，$nT+\frac34T=3\ \mathrm{s}$，当 $n=0$ 时，$T=4\ \mathrm{s}$，且 $t=2\ \mathrm{s}$ 时原点处的质点在平衡位置且正向 $y$ 轴正方向运动，B错误，A正确。若波沿 $x$ 轴负方向传播，由题图可知，$nT+\frac{T}{4}=3\ \mathrm{s}$，当 $n=0$ 时，$T=12\ \mathrm{s}$，且 $t=2\ \mathrm{s}$ 时原点处的质点在平衡位置且正向 $y$ 轴负方向运动，D错误，C正确。
+
+## 题型3　已知某点的振动图像和某时刻的波的图像
+
+**1.A**　由图（b）可知，周期 $T=4\ \mathrm{s}$，$t=2\ \mathrm{s}$ 时，$x=2\ \mathrm{m}$ 处的质点位于平衡位置处，下一时刻将沿 $y$ 轴负方向向下运动，故有 $(2n+1)\frac{\lambda}{2}=2\ \mathrm{m}$（$n=0,1,2,\cdots$），解得 $\lambda=\frac4{2n+1}\ \mathrm{m}$（$n=0,1,2,\cdots$），则有 $v=\frac{\lambda}{T}=\frac1{2n+1}\ \mathrm{m/s}$（$n=0,1,2,\cdots$），当 $n=2$ 时，$v=\frac15\ \mathrm{m/s}$，A正确。
+
+**2.BD**　根据题图乙写出平衡位置与坐标原点距离为 $3$ 米的质点的振动方程为 $y=\sin(\omega t+\varphi)$，代入点 $\left(0,\frac{\sqrt3}{2}\right)$ 和 $(2,0)$，解得 $\varphi=\frac{\pi}{3}$，$\omega=\frac{5\pi}{6}$，可得 $T=2.4\ \mathrm{s}$，$f=\frac5{12}\ \mathrm{Hz}$，B正确；如图所示，在波形图中标出位移为 $\frac{\sqrt3}{2}\ \mathrm{cm}$ 的质点 $P、Q$，若波沿 $x$ 轴正方向传播，$Q$ 点满足题意，则波长可能满足 $\frac13\lambda=3\ \mathrm{m}$，即 $\lambda=9\ \mathrm{m}$，若波沿 $x$ 轴负方向传播，$P$ 点满足题意，则波长可能满足 $\frac16\lambda'=3\ \mathrm{m}$，即 $\lambda'=18\ \mathrm{m}$，A错误；根据 $v=\frac{\lambda}{T}$，可得 $v=3.75\ \mathrm{m/s}$，$v'=7.5\ \mathrm{m/s}$，C错误；根据题图乙计算该质点在 $2\ \mathrm{s}$ 内运动的路程为 $s=\left(4-\frac{\sqrt3}{2}\right)\ \mathrm{cm}$，D正确。
+
+[图：正弦波形，横轴 $x/\mathrm{m}$，纵轴 $y/\mathrm{cm}$，振幅为 $1.0\ \mathrm{cm}$。波峰左侧的 $P$ 点和右侧的 $Q$ 点位移均为 $\frac{\sqrt3}{2}\ \mathrm{cm}$，图中标有原点 $O$、纵轴刻度 $1.0$、$\frac{\sqrt3}{2}$、$-1.0$。]
+
+**3.AD**　由题图乙可知，$t=0.2\ \mathrm{s}$ 时质点 $Q$ 位于平衡位置向下振动，根据“上下坡”法及题图甲可知，简谐横波沿 $x$ 轴负方向传播，A正确；由题图甲可知波长为 $12\ \mathrm{m}$，由题图乙可知周期为
+
+<!-- page 99 -->
+
+$0.4\ \mathrm{s}$，所以波速为 $v=\frac{\lambda}{T}=\frac{12}{0.4}\ \mathrm{m/s}=30\ \mathrm{m/s}$，B错误；设质点 $P$ 的振动方程为 $y=0.4\sin(5\pi t+\varphi)\ \mathrm{m}$，当 $t=0.2\ \mathrm{s}$ 时 $y=\frac{\sqrt3}{5}\ \mathrm{m}$，则 $\varphi=-\frac13\pi$，所以 $t=0$ 时质点 $P$ 的位移为 $-\frac{\sqrt3}{5}\ \mathrm{m}$，C错误；由于波速为 $30\ \mathrm{m/s}$，所以从 $t=0.2\ \mathrm{s}$ 再经 $\frac1{15}\ \mathrm{s}$ 的时间，波沿 $x$ 轴负方向传播的距离为 $x=30\times\frac1{15}\ \mathrm{m}=2\ \mathrm{m}$，根据“平移法”可知，此时质点 $P$ 处于平衡位置且向下振动，D正确。
+
+**4.AD**　由题图乙可知，在 $t=0$ 时刻质点 $Q$ 沿 $y$ 轴正方向振动，由“上下坡”法可知波沿 $x$ 轴正方向传播，由题图乙可知质点振动周期 $T=0.2\ \mathrm{s}$，则波传播周期也为 $T=0.2\ \mathrm{s}$，由题图甲及波的传播方向可知，$t=0$ 时质点 $P$ 向 $y$ 轴负方向振动，由于 $t=0.10\ \mathrm{s}=\frac{T}{2}$，故在 $t=0.10\ \mathrm{s}$ 时，质点 $P$ 向 $y$ 轴正方向运动，A正确；由题图乙可知在 $t=0.25\ \mathrm{s}$ 时质点 $Q$ 到达波峰位置，此时加速度方向沿 $y$ 轴负方向，B错误；由题图甲可知波长 $\lambda=8\ \mathrm{m}$，则波速为 $v=\frac{\lambda}{T}=\frac8{0.2}\ \mathrm{m/s}=40\ \mathrm{m/s}$，则从 $t=0.10\ \mathrm{s}$ 到 $t=0.25\ \mathrm{s}$，该波沿 $x$ 轴正方向传播了 $s=v\Delta t=40\times0.15\ \mathrm{m}=6\ \mathrm{m}$，C错误；由题意可知质点 $P$ 的振动方程为 $y=A\sin(\omega t+\varphi)=A\sin\left(\frac{2\pi}{T}t+\varphi\right)=10\sin\left(\frac{2\pi}{0.2}t+\frac{\pi}{4}+\frac{\pi}{2}\right)\ \mathrm{cm}=10\sin\left(10\pi t+\frac{3\pi}{4}\right)\ \mathrm{cm}$，将 $t=0.025\ \mathrm{s}$ 代入振动方程可知 $y=0$，即质点 $P$ 位于平衡位置，且从 $t=0.025\ \mathrm{s}$ 到 $t=0.125\ \mathrm{s}$，时间间隔为 $\Delta t=0.10\ \mathrm{s}=\frac{T}{2}$，即质点 $P$ 从平衡位置向下振动至波谷后再次返回平衡位置，则该时间间隔内质点 $P$ 通过的路程为 $2A=20\ \mathrm{cm}$，D正确。
+
+# 微专题 15　简谐运动在力学中的综合应用
+
+**1.B**　由题意可知钩码 $B$ 可以在开始位置到最低点之间做简谐运动，根据简谐运动的对称性可知，在最低点的加速度为竖直向上的 $g$，由牛顿第二定律得 $T-mg=mg$，在最低点时弹簧弹力最大，为 $T_{\max}=2mg$，则水平轻绳对物块 $A$ 的最大拉力为 $T_{\max}\cdot\cos53^\circ=1.2mg$，对物块 $A$，由平衡条件可知，竖直方向有 $N+T\cdot\sin53^\circ=3mg$，则桌面对 $A$ 的最小支持力为 $N_{\min}=1.4mg$，根据牛顿第三定律得物块 $A$ 对桌面的最小压力为 $N'=N_{\min}=1.4mg$，B正确。
+
+**2.AC**　设左侧小物块沿斜面缓慢拉下的距离为 $x$，绳拉力大小为 $T$，弹簧劲度系数为 $k$，同一时刻左、右侧小物块加速度大小相等，则对左侧小物块有 $kx+T-mg\sin\theta=ma$，对右侧小物块有 $kx+mg\sin\theta-T=ma$，联立解得 $T=mg\sin\theta$，$ma=kx$，即小物块所受的合力大小与 $x$ 成正比且总指向弹簧原长时小物块的位置，所以小物块沿斜面做简谐运动，A正确，B错误；根据简谐运动对称性可知右侧小物块在最高位置的加速度与其在最低位置的加速度大小相等，C正确；若 $\theta$ 增大，小物块受到的回复力不变，周期不变，则右侧小物块由最低位置运动到最高位置所用的时间不变，D错误。
+
+**3.AB**　用手握住 $b$ 时，$a$ 恰好不动，对 $a$ 受力分析，有 $mg\cdot\sin30^\circ=\mu mg\cos30^\circ$，解得 $\mu=\tan30^\circ=\frac{\sqrt3}{3}$，松手后，$a$ 仍然不动，则 $b$ 做简谐运动，根据对称性可知，$b$ 运动至最低点时，具有向上、大小为 $g$ 的加速度，对 $b$ 受力分析，有 $F-m_0g=m_0g$，可知弹簧产生的弹力 $F=2m_0g$，对 $a$ 受力分析，有 $F-mg\sin30^\circ\leq\mu mg\cdot\cos30^\circ$，解得 $m_0\leq\frac12m$，A正确；$b$ 运动过程中，$b$ 和轻弹簧组成的系统机械能守恒，$b$ 运动到最低点时，弹簧的弹性势能最大，$b$ 下落的距离为 $h=\frac{2m_0g}{k}$，$b$ 减少的重力势能转化为弹簧的弹性势能，$E=m_0gh=\frac{2m_0^2g^2}{k}$，B正确；当 $b$ 向下运动时，细绳的拉力逐渐增大，由于 $m、m_0$ 的大小关系未知，所以 $a$ 与斜面间的摩擦力可能一直减小，也可能先减小后增大，C错误；$b$ 向下先做加速运动，再做减速运动，即 $b$ 的加速度方向先向下再向上，根据牛顿第二定律可知，地面对斜面的支持力先小于 $(M+m+m_0)g$，再大于 $(M+m+m_0)g$，D错误。
+
+**4.AC**　设 $PQ$ 与杆之间的夹角为 $\alpha$，滑块沿杆运动时，垂直于杆方向合力为零，可得 $F\sin\alpha=mg\cos53^\circ+F_N$，其中 $F=\frac{k\cdot PQ}{\sin\alpha}$［点拨：弹性轻绳上的力在垂直于杆方向上的分力为 $F\sin\alpha=k\cdot PQ=16\ \mathrm{N}$，为定值］，所以滑块与杆之间的弹力 $F_N=10\ \mathrm{N}$，滑块与杆之间的滑动摩擦力大小 $F_f=\mu F_N=1.6\ \mathrm{N}$，大小始终不变，A正确。下滑和上滑过程中，滑块所受滑动摩擦力的方向相反，冲量为矢量，故滑动摩擦力的冲量一定不相同，B错误。滑块下滑过程，可看成简谐运动在半个周期内的运动［点拨：当滑块沿杆下滑时，假设在 $O_1$ 处滑块加速度为零，有 $mg\sin53^\circ-\mu F_N-F\cos\alpha=0$，其中 $F\cos\alpha=\frac{k\cdot PQ}{\sin\alpha}\cos\alpha=\frac{k\cdot PQ}{\tan\alpha}=k\cdot PO_1$，即 $mg\sin53^\circ-\mu F_N-k\cdot PO_1=0$；若滑块位于距 $O_1$ 沿杆向上 $\Delta x$ 处，滑块所受合力 $F_{\text{合}}=mg\sin53^\circ-\mu F_N-k\cdot(PO_1-\Delta x)=k\Delta x$，可知滑块下滑过程中做简谐运动；同理可得滑块上滑过程中做简谐运动，但需注意滑块下滑和上滑过程中受滑动摩擦力的方向相反，则下滑和上滑过程对应的平衡位置不在同一位置］，设 $P'$ 为简谐运动的最低点，平衡位置为 $O_1$，在 $O_1$ 有 $mg\sin53^\circ=k\cdot PO_1+\mu F_N$，解得 $PO_1=0.64\ \mathrm{m}$，此简谐运动的振幅 $A_1=0.64\ \mathrm{m}$，则 $PP'=2A_1=1.28\ \mathrm{m}$；滑块上滑过程，可看成另一个简谐运动在半个周期内的运动，设平衡位置为 $O_2$，$QO_2$ 与杆之间的夹角为 $\gamma$，可得 $mg\sin53^\circ+\mu F_N=\frac{k\cdot PQ}{\sin\gamma}\cdot\cos\gamma$，其中 $\frac{PQ}{\sin\gamma}\cdot\cos\gamma=PO_2$，联立解得 $PO_2=0.96\ \mathrm{m}$，此简谐运动的振幅 $A_2=PP'-PO_2=0.32\ \mathrm{m}$；由简谐运动的对称性可得滑块上滑刚好可回到 $O_1$ 处且无法下滑，故滑块从释放到静止的位移大小等于 $PO_1=0.64\ \mathrm{m}$，C正确。滑块从释放到静止，克服滑动摩擦力做功 $W_f=\mu F_N(2A_1+2A_2)=3.072\ \mathrm{J}$，D错误。
+
+# 实验 9　用单摆测量重力加速度
+
+**1.答案**　（1）ABD　（2）20.035　（3）9.87　（4）不变
+
+**解析**　（1）使用光电门测量时，光电门U形平面与被测物体经过光电门时的运动方向垂直是光电门使用的基本要求，A正确；测量摆线长度时，要保证摆线处于伸直状态，B正确；单摆是一个理想化模型，若采用质量较轻的橡胶球，空气阻力对摆球运动的影响较大，C错误；无初速度、小摆角释放的目的是保持摆球在竖直平面内运动，不形成圆锥摆，且单摆只有在摆角很小的情况下才可视为做简谐运动，使用 $T=2\pi\sqrt{\frac{l}{g}}$ 计算单摆的周期，D正确。

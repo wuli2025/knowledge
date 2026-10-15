@@ -1,0 +1,195 @@
+<!-- page 136 -->
+
+$MN$的加速度分别为$a_1=\dfrac{F-2BId}{2m}$，$a_2=\dfrac{2BId}{m}$，随着时间推移，$v_1-v_2$越来越大，回路中的感应电流越来越大，$a_1$减小，$a_2$增大，经过足够长的时间后，两棒的加速度相等，此后$v_1-v_2$保持不变，两棒做匀加速运动，所以从$0$时刻到$t$时刻的过程中，回路中始终产生顺时针方向的电流，A正确；在两棒的加速度达到相等之前，$a_1$减小，$a_2$增大，两棒的加速度大小并不是恒定的倍数关系，B错误；$t$时刻后$a_1=a_2$，解得$I=\dfrac{F}{6Bd}$，又$I=\dfrac{2Bd(v_1-v_2)}{3R}$，解得$v_1-v_2=\dfrac{FR}{4B^2d^2}$，C正确；设通过两导体棒的电荷量为$q$，对导体棒$PQ$根据动量定理有$Ft-B\bar I\cdot2d\cdot t=2mv_1-0$，对导体棒$MN$根据动量定理有$2B\cdot\bar I dt=mv_2-0$，又$\bar I t=q$，$v_1-v_2=\dfrac{FR}{4B^2d^2}$，联立得$q=\dfrac{Ft}{6Bd}-\dfrac{mFR}{12B^3d^3}$，D正确。
+
+**2.BD**　根据题意可知，安培力会带动棒$2$向右加速运动，安培力使棒$1$向右减速，最终两棒均做匀速直线运动，A错误；当两棒做匀速直线运动时有$BLv_1=2BLv_2$，此时回路中无电流，此为两棒最终稳定状态，此时$v_1=2v_2$，对棒$1$根据动量定理有$-B\bar I L\Delta t=mv_1-mv_0$，对棒$2$根据动量定理有$2B\bar I L\Delta t=2mv_2$，解得$v_1=\dfrac{2v_0}{3}$，$v_2=\dfrac{v_0}{3}$，B正确；对棒$1$根据牛顿第二定律有$BI_1L=ma_1$，对棒$2$根据牛顿第二定律有$2BI_2L=2ma_2$，因为两棒串联，所以$I_1=I_2$，解得$a_1=a_2$，C错误；由能量关系有$Q=\dfrac12mv_0^2-\left(\dfrac12mv_1^2+\dfrac12\times2mv_2^2\right)$，解得$Q=\dfrac16mv_0^2$，D正确。
+
+**3.ABD**　由题意可知，回路总电阻为$2R$，两棒均做减速运动，$t=0$时，感应电动势最大，其大小为$E=BLv_0+2BLv_0=3BLv_0$，所以感应电流最大为$I=\dfrac{E}{2R}=\dfrac{3BLv_0}{2R}$，A正确；两导体棒初始阶段都做减速运动，导体棒$b$所受安培力大于导体棒$a$所受安培力，则导体棒$b$减速时的加速度较大，故导体棒$b$先减速到速度为零，后反方向先加速运动后匀速运动，直到导体棒$a$速度大小等于导体棒$b$速度大小的两倍，两棒开始做匀速运动，B正确；由于两个导体棒接入电路的电阻都为$R$，且它们在同一回路中串联，流过的电流始终相同，设从开始运动到两棒刚开始匀速运动时间为$\Delta t$，规定初速度方向为正方向，对导体棒$a$，根据动量定理有$-B\bar I L\cdot\Delta t=mv_a-mv_0$，对导体棒$b$，根据动量定理有$-B\bar I\cdot2L\cdot\Delta t=-mv_b-mv_0$，$v_a=2v_b$，解得$v_a=\dfrac25v_0$，$v_b=\dfrac15v_0$，回路产生的总焦耳热为$Q=2\times\dfrac12mv_0^2-\dfrac12mv_a^2-\dfrac12mv_b^2=\dfrac9{10}mv_0^2$，所以导体棒$b$上产生的焦耳热为$Q_b=\dfrac12Q=\dfrac9{20}mv_0^2$，C错误；对导体棒$a$，由动量定理得$-B\bar I L\cdot\Delta t=mv_a-mv_0$，$q=\bar I\cdot\Delta t$，解得$q=\dfrac{3mv_0}{5BL}$，D正确。
+
+**4.AC**　弹簧伸展过程中，由右手定则可判定$PQ$向右运动产生的感应电流为顺时针方向，$MN$向左运动产生的感应电流也是顺时针方向，所以回路中产生顺时针方向的电流，A正确；因$MN$所受安培力$F_{\text{安}1}=2BId$，$PQ$所受安培力$F_{\text{安}2}=BI\cdot2d$，所以$F_{\text{安}1}=F_{\text{安}2}$，两导体棒与弹簧组成的系统动量守恒，$mv_{MN}-2mv_{PQ}=0$，当$PQ$的速率为$v$时，$MN$的速率为$2v$，此时$E=2Bd\cdot2v+B\cdot2dv=6Bdv$，$I=\dfrac{E}{3R}=\dfrac{2Bdv}{R}$，$MN$所受安培力$F_{\text{安}}=2BId=\dfrac{4B^2d^2v}{R}$，B错误；任意时刻$v_{MN}:v_{PQ}=2:1$，且速度方向相反，则在相同时间内$MN$和$PQ$的路程之比为$2:1$，C正确；在整个运动过程中弹簧最终恢复到原长，有$x_{MN}+x_{PQ}=L$，则$MN$左移$\dfrac23L$，$PQ$右移$\dfrac L3$，$\Delta\Phi=2B\cdot\dfrac23L\cdot d+B\cdot\dfrac L3\cdot2d=2BLd$，通过$MN$的电荷量即通过整个回路的电荷量，$q=\bar I t=\dfrac{\bar E}{3R}\cdot\Delta t=\dfrac{\Delta\Phi}{3R\Delta t}\cdot\Delta t=\dfrac{\Delta\Phi}{3R}=\dfrac{2BLd}{3R}$，D错误。
+
+### 归纳总结
+
+双杆问题中若$F_{\text{合}}=0$，则双杆组成的系统动量守恒。
+
+## 微专题31　线框模型
+
+### 题组1　不受外力的线框模型
+
+**1.D**　线框进磁场的过程中，根据“增反减同”可以判断电流方向为逆时针方向，A错误；线框出磁场的过程中，线框受到的安培力$F_{\text{安}}=BIL=B\dfrac{BLv}{R_{\text{总}}}L=\dfrac{B^2L^2v}{R_{\text{总}}}$，安培力与速度有关，是一个变力，所以线框不可能做匀减速直线运动，B错误；线框产生的焦耳热为$Q_{\text{热}}=W_{\text{克安}}$，进和出两过程线框运动距离相同，速度一直减小，出磁场过程中的安培力整体小于进磁场过程中的安培力，所以克服安培力做功不相等，焦耳热也就不相等，C错误；通过导线横截面的电荷量$q=\bar I\Delta t=\dfrac{\bar E}{R_{\text{总}}}\Delta t=\dfrac{\dfrac{\Delta\Phi}{\Delta t}}{R_{\text{总}}}\Delta t=\dfrac{\Delta\Phi}{R_{\text{总}}}$，进和出两过程中磁通量的变化量大小相等，所以通过导线横截面的电荷量相等，D正确。
+
+**2.答案**　（1）$0.015\ \mathrm N$　（2）图见解析　（3）$0.01\ \mathrm{m/s}$
+
+解析　（1）在$0\sim1\ \mathrm s$时间内，$B$随时间均匀减小，
+
+由法拉第电磁感应定律有$E=\dfrac{\Delta\Phi}{\Delta t}=\left|\dfrac{\Delta B}{\Delta t}\right|\cdot\dfrac{L^2}{2}$
+
+代入数据解得$E=0.05\ \mathrm V$
+
+电流$I_1=\dfrac ER=0.1\ \mathrm A$，由楞次定律可知电流为顺时针方向
+
+在$t=0.5\ \mathrm s$时，由题图（b）可得磁感应强度$B_1=\dfrac{0.2+0.1}{2}\ \mathrm T=0.15\ \mathrm T$
+
+安培力大小$F=I_1LB_1=0.015\ \mathrm N$
+
+（2）在$1\sim2\ \mathrm s$时间内，由题图（c）可知，电流$I_2=0.2\ \mathrm A$，方向为逆时针
+
+根据（1）的分析，类比可得$I_2=\dfrac{\Delta B_2}{\Delta t}\cdot\dfrac{L^2}{2}\cdot\dfrac1R$
+
+与$I_1$对比，$I_2$大小加倍，方向相反，故磁感应强度应增大，且变化率加倍，
+
+即在$B-t$图像中$1\sim2\ \mathrm s$时间内图线的斜率应为$0.2\ \mathrm{T/s}$，作出$B-t$图像如图
+
+[图：$B-t$图像，纵轴为$B/\mathrm T$，横轴为$t/\mathrm s$。图线从$(0,0.2)$直线下降至$(1.0,0.1)$，再直线上升至$(2.0,0.3)$。]
+
+（3）$t=2\ \mathrm s$及以后，磁感应强度$B_3=0.3\ \mathrm T$
+
+导体框运动过程中，导体框中电流$I_3=\dfrac{B_3Lv}{R}$
+
+导体框所受安培力大小$F_{\text{安}}=I_3LB_3=\dfrac{B_3^2L^2v}{R}$
+
+<!-- page 137 -->
+
+由动量定理可得$-\bar F_{\text{安}}t=-\dfrac{B_3^2L^2}{R}\bar vt=-\dfrac{B_3^2L^2}{R}\cdot\dfrac L2=mv_1-mv_0$
+
+代入数据解得$v_1=0.01\ \mathrm{m/s}$
+
+### 二级结论
+
+解决第（3）问这种涉及电磁感应的变速切割磁感线问题时，常利用动量定理解决，可利用电荷量$q$，根据$qLB=m|\Delta v|$，$q=\dfrac{\Delta\Phi}{R+r}$，快速求解。
+
+**3.答案**　（1）$\dfrac{B^2L^3}{mR_0}$　（2）$\dfrac{3B^4L^6}{25mR_0^2}$
+
+解析　（1）金属框刚进入磁场到完全穿过磁场的过程中，有$q=\bar I\cdot\Delta t$，$\bar I=\dfrac{\bar E}{4R_0}$，$\bar E=\dfrac{\Delta\Phi}{\Delta t}$，$\Delta\Phi=2BL^2$，解得此过程通过金属框的电荷量$q=\dfrac{2BL^2}{4R_0}=\dfrac{BL^2}{2R_0}$，根据动量定理有$-B\bar I L\Delta t=m\cdot\dfrac{v_0}{2}-mv_0$，可得$BLq=\dfrac12mv_0$，解得金属框的初速度$v_0=\dfrac{B^2L^3}{mR_0}$。
+
+（2）金属框的上、下边框处处与导轨始终接触良好，导轨电阻可忽略，则上、下边框被导轨短路，金属框进入磁场过程中左边框与$R_1$并联，右边框相当于电源，等效电路图如图1所示。
+
+[图：图1，三条并联支路，左支路为电阻$R_1$，中支路为电阻$R_0$，右支路为电动势$E$、内阻$R_0$的电源。]
+
+$R_1$与$R_0$并联后电阻为$\dfrac23R_0$，$R_{\text{总}1}=\dfrac53R_0$，该过程$R_1$上产生的热量与整个回路产生的热量之比$\dfrac{Q_1}{Q_{\text{总}1}}=\dfrac{I_1^2R_1}{I_{\text{总}1}^2R_{\text{总}1}}$，由电路特点知$\dfrac{I_1}{I_0}=\dfrac{R_0}{R_1}=\dfrac12$，$I_{\text{总}1}=I_1+I_0$，则$\dfrac{Q_1}{Q_{\text{总}1}}=\dfrac2{15}$，设金属框刚好完全进入磁场时的速度为$v_1$，金属框刚进入磁场到完全进入磁场过程中，由动量定理可得$-\bar F_{\text{安}1}\Delta t_1=mv_1-mv_0$，其中$\bar F_{\text{安}1}=B\bar I_1L$，$\bar I_1=\dfrac{\Delta\Phi_1}{R_{\text{总}1}\Delta t_1}=\dfrac{3BL^2}{5R_0\Delta t_1}$，解得$v_1=\dfrac{2B^2L^3}{5R_0m}$，则此过程整个回路产生的热量
+
+$Q_{\text{总}1}=\dfrac12mv_0^2-\dfrac12mv_1^2=\dfrac{21B^4L^6}{50mR_0^2}$
+
+此过程中$R_1$产生的热量$Q_1=\dfrac2{15}Q_{\text{总}1}=\dfrac{7B^4L^6}{125mR_0^2}$
+
+金属框全部在磁场中运动时，等效电路如图2所示
+
+[图：图2，电阻$R_1$与两个电动势均为$E'$、内阻均为$R_0$的电源并联，两电源极性相同。图3，将两个并联电源等效为电动势$E'$、内阻$R_{\text{内}}$的电源，与电阻$R_1$组成闭合回路。]
+
+简化电路如图3所示
+
+$R_{\text{内}}=\dfrac{R_0}{2}$
+
+$R_{\text{总}2}=R_1+R_{\text{内}}=\dfrac52R_0$
+
+该过程$R_1$上产生的热量与整个回路产生的热量之比
+
+$\dfrac{Q_2}{Q_{\text{总}2}}=\dfrac{I_{\text{总}2}^2R_1}{I_{\text{总}2}^2R_{\text{总}2}}=\dfrac45$
+
+设金属框右边框刚要出磁场时的速度为$v_2$，从金属框恰好完全进入磁场到金属框右边框刚要出磁场过程中，通过整个闭合回路的磁通量发生变化，由动量定理可得
+
+$-\bar F_{\text{安}2}\Delta t_2=mv_2-mv_1$
+
+$\bar F_{\text{安}2}=B\bar I_2L$，其中$\bar I_2=\dfrac{\Delta\Phi_2}{R_{\text{总}2}\Delta t_2}=\dfrac{2BL^2}{5R_0\Delta t_2}$
+
+解得金属框右边框到达磁场右边界时的速度$v_2=0$
+
+则此过程中整个回路产生的热量
+
+$Q_{\text{总}2}=\dfrac12mv_1^2-\dfrac12mv_2^2=\dfrac{2B^4L^6}{25mR_0^2}$
+
+此过程中$R_1$产生的热量
+
+$Q_2=\dfrac45Q_{\text{总}2}=\dfrac{8B^4L^6}{125mR_0^2}$
+
+综上，$R_1$产生的总热量
+
+$Q=Q_1+Q_2=\left(\dfrac7{125}+\dfrac8{125}\right)\dfrac{B^4L^6}{mR_0^2}=\dfrac{3B^4L^6}{25mR_0^2}$
+
+### 题组2　受外力的线框模型
+
+**1.AB**　设正方形闭合线圈匝数为$n$，边长为$L$，质量为$m$，导线的横截面积为$S$，密度为$\rho_0$，则有$m=4nLS\rho_0$，电阻$R=\rho\dfrac{4nL}{S}$，设线圈刚进入磁场时速度为$v$，则电动势$E=nBLv$，电流$I=\dfrac ER$，线圈下边所受安培力$F=nBIL$，联立上述方程解得$F=\dfrac{B^2vm}{16\rho\rho_0}$，由于两线圈从同一高度静止释放，则刚进入磁场时速度$v$相同，根据题意知两线圈质量相同，密度相同，电阻率也相同，所以两线圈刚进入磁场时所受安培力相同，由$mg-F=ma$知加速度相同，A、B正确。
+
+**2.CD**
+
+◎解题导引　正方形金属框左右两边切割磁感线产生的电动势相互抵消，所以水平边切割磁感线产生的电动势等于整个回路的总电动势，组合体匀速通过磁场，则可由合力为$0$分析$B$与$v_0$的关系。
+
+解析　组合体下底边刚进入磁场时，竖直方向的分速度$v_y=\sqrt{2gH}$，下底边切割磁感线，产生的感应电流沿逆时针方向。水平方向分速度为$v_0$，使左右两边切割磁感线产生的感应电动势相互抵消，组合体匀速通过磁场，则有$\dfrac{B^2L^2v_y}{R}=mg$，即$B$与$v_0$无关，$B^2$与$\sqrt H$成反比，A错误。当下方金属框的上面一条边进入磁场时，其下面的边离开磁场，则其产生的感应电流沿顺时针方向，B错误。通过磁场的过程中组合体动能不变，只有重力和安培力做功，根据能量守恒可知组合体克服安培力做功的功率和重力做功的功率相等，C正确。无论$H$、$v_0$、$B$怎样变化，只要组合体匀速通过磁场，其产生的焦耳热均为$Q=W_G=4mgL$，D正确。
+
+**3.答案**　（1）$\dfrac{mgR\sin\alpha}{B^2L^2\cos^2\alpha}$　$\dfrac{m^2gR^2\sin\alpha}{2B^4L^4\cos^4\alpha}$　（2）$\dfrac{mv_0R}{k_2^2L^4}$
+
+解析　（1）进出磁场区域Ⅰ时，对金属框进行受力分析，如图1所示，则$mg\sin\alpha=F_{\text{安}}\cos\alpha$
+
+$F_{\text{安}}=BIL$
+
+$I=\dfrac ER$
+
+$E=BLv\cos\alpha$
+
+联立解得$v=\dfrac{mgR\sin\alpha}{B^2L^2\cos^2\alpha}$
+
+进入磁场前，金属框做匀加速直线运动，有$v^2=2g\sin\alpha\cdot s$
+
+解得$s=\dfrac{m^2gR^2\sin\alpha}{2B^4L^4\cos^4\alpha}$
+
+<!-- page 138 -->
+
+[图：图1，倾角为$\alpha$的斜面上金属框的受力示意图，重力$mg$竖直向下，支持力$N$垂直斜面向上，安培力$F_{\text{安}}$水平向左。图2，导轨间金属框的左边为$ef$，右边为$pq$，相应磁感应强度标为$B_{ef}$、$B_{pq}$；点状符号表示磁场垂直纸面向外，$x$轴向右。]
+
+（2）因时间变化产生的感应电动势$E_1=\dfrac{\Delta\Phi}{\Delta t}=\dfrac{\Delta B}{\Delta t}L^2=k_1L^2$，方向为顺时针方向（垂直于轨道平面向下看）
+
+如图2，因$pq$与$ef$处的磁感应强度之差为$k_2L$，则切割磁感线产生的感应电动势$E_2=(B_{pq}-B_{ef})Lv_{\mathrm{Ⅱ}}=k_2L^2v_{\mathrm{Ⅱ}}$，方向为顺时针方向（垂直于轨道平面向下看）
+
+总电动势$E=E_1+E_2=k_1L^2+k_2L^2v_{\mathrm{Ⅱ}}$
+
+代入$k_1=\dfrac{mgR\sin\alpha}{k_2L^4}$得$E=\dfrac{mgR\sin\alpha}{k_2L^2}+k_2L^2v_{\mathrm{Ⅱ}}$
+
+金属框中电流$I=\dfrac ER$
+
+金属框所受安培力$F_{\text{安}}=B_{pq}IL-B_{ef}IL=k_2IL^2$，方向沿轨道向上
+
+联立解得$F_{\text{安}}=mg\sin\alpha+\dfrac{k_2^2L^4v_{\mathrm{Ⅱ}}}{R}$
+
+金属框所受合力$F_{\text{合}}=F_{\text{安}}-mg\sin\alpha=\dfrac{k_2^2L^4v_{\mathrm{Ⅱ}}}{R}$，方向沿轨道向上
+
+达到平衡时$F_{\text{合}}=0$，$v_{\mathrm{Ⅱ}}=0$
+
+从开始计时到金属框达到平衡状态的过程中，
+
+由动量定理有$\bar F_{\text{合}}\Delta t=m|\Delta v_{\mathrm{Ⅱ}}|$
+
+得$\dfrac{k_2^2L^4}{R}v_{\mathrm{Ⅱ}}\Delta t=m|\Delta v_{\mathrm{Ⅱ}}|$
+
+则有$\sum\dfrac{k_2^2L^4}{R}v_{\mathrm{Ⅱ}}\Delta t=\sum m|\Delta v_{\mathrm{Ⅱ}}|$
+
+即$\dfrac{k_2^2L^4}{R}\cdot d=mv_0$
+
+解得$d=\dfrac{mv_0R}{k_2^2L^4}$
+
+# 第十三章　交变电流　电磁波
+
+## 第1节　交变电流的产生与描述
+
+### 五年高考
+
+**1.D**　由题图可知该交变电流的周期$T=0.02\ \mathrm s$，则频率$f=\dfrac1T=50\ \mathrm{Hz}$，A错误；$\omega=\dfrac{2\pi}{T}=100\pi\ \mathrm{rad/s}$，电压表达式为$u=U_m\sin\omega t=10\sqrt2\sin(100\pi t)\ \mathrm V$，D正确；$I_m=\dfrac{U_m}{R}=\dfrac{10\sqrt2}{50}\ \mathrm A=0.2\sqrt2\ \mathrm A$，B错误；电压有效值为$10\ \mathrm V$，则电阻在$1$秒内消耗的电能$W=\dfrac{U^2}{R}t=\dfrac{10^2}{50}\times1\ \mathrm J=2\ \mathrm J$，C错误。
+
+**2.BD**　题图中线圈所在的位置是中性面，线圈从中性面位置开始计时，感应电流的瞬时值表达式为$i=i_m\sin\omega t$，$\omega t=90^\circ$时，电流最大，A错误，B正确；线圈相对磁场逆时针转动，$PQ$边相对磁场在向下切割磁感线，由右手定则可知感应电流方向由$Q$到$P$，C错误，D正确。
+
+**3.C**　该交变电流的频率为$f=\dfrac{\omega}{2\pi}=50\ \mathrm{Hz}$，A错误。图示位置为垂直于中性面的位置，穿过线圈的磁通量为零，但磁通量变化率最大，产生的感应电动势最大，B错误。由右手定则可知，线圈转到图示位置时，电流由$B\to A$；由左手定则可知，$AB$边此时受到的安培力方向向上，C正确。由于$E_m=NBS\omega$，仅线圈转速$n$加倍，即$\omega$加倍，可得电动势的最大值变为原来的$2$倍，即$E_m=20\ \mathrm V$，D错误。
+
+**4.B**　依题意，$0\sim\dfrac T2$时间内$R_1$两端电压的有效值为$\dfrac{U_0}{\sqrt3}$，设$R_1=R_2=R$，根据焦耳定律以及有效值的概念可得$Q_1=\dfrac{\left(\dfrac{U_0}{\sqrt3}\right)^2}{R}\cdot\dfrac T2+\dfrac{U_0^2}{R}\cdot\dfrac T2$，$Q_2=\dfrac{\left(\dfrac{U_0}{\sqrt2}\right)^2}{R}T$，可得$Q_1:Q_2=4:3$，B正确。
+
+### 三年模拟
+
+**5.D**　根据右手定则可知，线圈经过图甲所示位置时，线圈中电流方向为$A\to D\to C\to B$，A错误；线圈经过图甲所示位置时，穿过线圈的磁通量为零，但磁通量的变化率最大，则产生的电动势最大，B错误；发电机产生的电动势瞬时值的表达式为$e=E_m\sin\dfrac{2\pi}{T}t=220\sqrt2\sin(100\pi t)\ \mathrm V$，C错误；外电路接$R=95\ \Omega$的定值电阻时，理想电流表的示数为$I=\dfrac{E}{R+r}=\dfrac{220\sqrt2}{\sqrt2(95+5)}\ \mathrm A=2.2\ \mathrm A$，D正确。
+
+**6.D**　在题图中$t=0$时刻，两个正弦式交变电流的感应电动势的瞬时值均为零，此时线圈都在中性面位置，即线圈与磁场垂直，A错误；由题图可得两个正弦式交变电流的周期分别为$T_a=0.4\ \mathrm s$，$T_b=0.6\ \mathrm s$，故周期之比为$T_a:T_b=2:3$，根据$T=\dfrac1n$，解得线圈先后两次转速之比为$n_a:n_b=T_b:T_a=3:2$，B错误；由题图可知，图线$a$在$t=0.2\ \mathrm s$时感应电动势为零，此时线圈在中性面位置，即线圈与磁场垂直，则穿过线圈的磁通量最大，C错误；根据$E_m=NBS\omega=NBS\dfrac{2\pi}{T}$，可得$U_{am}:U_{bm}=E_{am}:E_{bm}=T_b:T_a=3:2$，由题图可知，图线$a$的电压最大值为$U_{am}=40\ \mathrm V$，故可得图线$b$的电压最大值为$U_{bm}=\dfrac{80}{3}\ \mathrm V$，D正确。
+
+**7.D**　交变电流电动势最大值$E_m=nBS\omega$，结合题图乙，可知$BS=4\times10^{-4}\ \mathrm{Wb}$，$\omega=\dfrac{2\pi}{T}=100\ \mathrm{rad/s}$，解得$E_m=(500\times4\times10^{-4}\times100)\ \mathrm V=20\ \mathrm V$，则电压表示数$U=\dfrac{E_m}{\sqrt2(r+R)}R$，解得$U=9\sqrt2\ \mathrm V$，D正确。
+
+### 易错警示
+
+我们平时所说的$220\ \mathrm V$交流电压、各种电气仪表所显示或测量的值的大小，以及各种交流用电器铭牌上所标的额定电压、电流等，都是指的有效值。
+
+**8.AD**　在图示位置穿过线圈的磁通量最大，磁通量的变化率最小，为零，故$t=0$时刻感应电动势为零，A正确；线圈转动一周，即一个周期，线圈中电流方向变化一次，B错误；$t=\dfrac T8$时刻对应线圈转过的角度为$\theta=\dfrac{\dfrac T8}{T}\times2\pi=\dfrac\pi4$，则此时穿过线圈的磁通量为

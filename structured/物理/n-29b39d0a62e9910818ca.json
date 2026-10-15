@@ -1,0 +1,257 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-ba1dbed3623bb52276c6"
+      ],
+      "text": "物体静止或做匀速直线运动，即$a=0$。",
+      "title": "平衡状态",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-7ed8a42ebf4a780547fd"
+      ],
+      "text": "一对作用力与反作用力大小相等、方向相反、作用在同一直线上，性质一定相同，同时产生、同时消失。两个力作用于不同物体，分别产生作用效果，不能抵消。",
+      "title": "作用力与反作用力",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-7ed8a42ebf4a780547fd"
+      ],
+      "text": "一对平衡力大小相等、方向相反、作用在同一直线上，作用于同一物体，使物体达到平衡；性质不一定相同，不一定同时产生、同时消失。",
+      "title": "一对平衡力",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-b6f52c30845e7484baf3",
+        "n-2cb32c2c8362d1beb479"
+      ],
+      "text": "两个物体之间的作用力和反作用力总是大小相等，方向相反，作用在同一直线上。表达式：$F=-F'$。",
+      "title": "牛顿第三定律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-92e9736a6d841af2842d",
+        "n-280fd7ec043c58c42681"
+      ],
+      "text": "共点力的平衡条件为$F_{\\text{合}}=0$或$\\begin{cases}F_{x\\text{合}}=0\\\\F_{y\\text{合}}=0\\end{cases}$。",
+      "title": "共点力的平衡条件",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-254c382c596907c957f3"
+      ],
+      "text": "把几个物体组成的整体（或系统）作为研究对象。分析相互作用的两个或两个以上物体整体的受力情况，以及外力对整体（或系统）的作用时，宜用整体法。",
+      "title": "整体法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-254c382c596907c957f3"
+      ],
+      "text": "把与周围物体分隔开来的物体作为研究对象。分析系统内各物体或一个物体各部分间的相互作用时，宜用隔离法；优先选择受力简单的研究对象。",
+      "title": "隔离法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-254c382c596907c957f3",
+        "n-20d51394f759356c06d5"
+      ],
+      "text": "较复杂的问题通常需要多次选取研究对象，交替使用整体法和隔离法；一般先整体后隔离。典例3的链接高考解题导引采用先整体分析小球$A$、$B$以求细线$a$的拉力，再隔离分析小球$B$以求细线$b$的拉力的顺序；题设不计摩擦，细线跨过定滑轮只改变力的方向，不改变力的大小。",
+      "title": "整体法与隔离法的配合使用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-8fbb9d7b6e6b6d08b8fb"
+      ],
+      "text": "先用整体法或隔离法确定研究对象；分析重力、静电力、磁场力和牵引力等；检查与研究对象接触的周围物体，分析接触力中的弹力；最后分析摩擦力，并画出受力示意图。",
+      "title": "受力分析的一般步骤",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-16e1fa21565b6c77f58c"
+      ],
+      "text": "处理平衡问题时，利用任意一个力与其余所有力的合力等大反向的关系。",
+      "title": "合成法处理平衡问题",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-16e1fa21565b6c77f58c"
+      ],
+      "text": "处理平衡问题时，采用正交分解法，使用$F_{x\\text{合}}=0$、$F_{y\\text{合}}=0$。",
+      "title": "正交分解法处理平衡问题",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-16e1fa21565b6c77f58c"
+      ],
+      "text": "处理三个共点力的平衡问题时，把表示三个力的有向线段首尾相接，构成一个闭合的三角形。",
+      "title": "矢量三角形法",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-b6f52c30845e7484baf3",
+        "n-7ed8a42ebf4a780547fd"
+      ],
+      "from": "l1",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7ed8a42ebf4a780547fd"
+      ],
+      "from": "c2",
+      "to": "c3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ba1dbed3623bb52276c6",
+        "n-92e9736a6d841af2842d"
+      ],
+      "from": "l2",
+      "to": "c1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-254c382c596907c957f3"
+      ],
+      "from": "m3",
+      "to": "m1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-254c382c596907c957f3"
+      ],
+      "from": "m3",
+      "to": "m2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8fbb9d7b6e6b6d08b8fb"
+      ],
+      "from": "m4",
+      "to": "m1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8fbb9d7b6e6b6d08b8fb"
+      ],
+      "from": "m4",
+      "to": "m2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-16e1fa21565b6c77f58c",
+        "n-92e9736a6d841af2842d"
+      ],
+      "from": "m5",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-16e1fa21565b6c77f58c",
+        "n-92e9736a6d841af2842d"
+      ],
+      "from": "m6",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-16e1fa21565b6c77f58c",
+        "n-92e9736a6d841af2842d"
+      ],
+      "from": "m7",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-20d51394f759356c06d5"
+      ],
+      "from": "n-20d51394f759356c06d5",
+      "to": "m3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-87c6cb1a6124885e77bc"
+      ],
+      "from": "n-87c6cb1a6124885e77bc",
+      "to": "c2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-87c6cb1a6124885e77bc"
+      ],
+      "from": "n-87c6cb1a6124885e77bc",
+      "to": "c3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-bbbf24d428cc73593da3",
+        "n-8fbb9d7b6e6b6d08b8fb"
+      ],
+      "from": "n-bbbf24d428cc73593da3",
+      "to": "m4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-29b39d0a62e9910818ca",
+  "source_digest": "bcc2d05b104c5226f77b4b3b1ee6f4f1d2d1e4fdccbb2a74d5b419c64438b696",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

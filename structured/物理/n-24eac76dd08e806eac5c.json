@@ -1,0 +1,215 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-d06c83e0e2efdb2e62da"
+      ],
+      "text": "摆长为摆线长与摆球半径之和。",
+      "title": "单摆的摆长",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-8acc7827e2a616ac0c8c"
+      ],
+      "text": "测量时间（单摆周期）及摆长时产生的误差属于本实验的偶然误差。",
+      "title": "偶然误差",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-8acc7827e2a616ac0c8c"
+      ],
+      "text": "本实验的系统误差主要来源于单摆模型本身。",
+      "title": "系统误差",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-1b77861f927f430c2f78"
+      ],
+      "text": "当摆角较小时，单摆做简谐运动，其运动周期 $T=2\\pi\\sqrt{\\frac{l}{g}}$，由此得到 $g=\\frac{4\\pi^2l}{T^2}$。",
+      "title": "单摆周期公式与测量重力加速度的原理",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-0b37c4e0d4e053d916c1"
+      ],
+      "text": "由单摆周期公式得 $l=\\frac{g}{4\\pi^2}T^2$。以 $l$ 为纵轴、$T^2$ 为横轴，图线应为过原点的倾斜直线；图线斜率为 $k$ 时，$g=4\\pi^2k$。",
+      "title": "摆长与周期平方的关系",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-d06c83e0e2efdb2e62da"
+      ],
+      "text": "摆线顶端不能晃动，需用夹子夹住；摆线不可伸缩；摆球应选用质量大、体积小的金属球。",
+      "title": "制作单摆",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-d06c83e0e2efdb2e62da"
+      ],
+      "text": "在摆球自然下垂时，用毫米刻度尺测量摆线长；摆长取摆线长与摆球半径之和。",
+      "title": "测量摆长",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-d06c83e0e2efdb2e62da"
+      ],
+      "text": "单摆必须在同一竖直平面内摆动，且摆角小于 $5^\\circ$。当摆球摆到平衡位置处开始计时，记录 $N$ 次全振动的时间 $t$，用 $T=\\frac{t}{N}$ 计算周期。",
+      "title": "累计计时计算周期",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-0b37c4e0d4e053d916c1"
+      ],
+      "text": "根据测出的一系列摆长 $l$ 及对应周期 $T$，作 $l-T^2$ 图像，纵轴为 $l$、横轴为 $T^2$。求出图线斜率 $k$，利用 $g=4\\pi^2k$ 求重力加速度。",
+      "title": "图像法处理实验数据",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-0b37c4e0d4e053d916c1"
+      ],
+      "text": "利用 $T=\\frac{t}{N}$ 求周期，再利用 $g=\\frac{4\\pi^2l}{T^2}$ 求一次实验的重力加速度。分别求出多次实验的重力加速度后，取平均值。",
+      "title": "公式法处理实验数据",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-8acc7827e2a616ac0c8c"
+      ],
+      "text": "多次测量取平均值，并从单摆经过平衡位置时开始计时，以减小测量时间及摆长产生的偶然误差。",
+      "title": "减小偶然误差",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-8acc7827e2a616ac0c8c"
+      ],
+      "text": "选用体积小、密度大的金属球，并使最大摆角不超过 $5^\\circ$，以减小主要来源于单摆模型本身的系统误差。",
+      "title": "减小系统误差",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-623417afa871914113f2"
+      ],
+      "text": "使用力传感器显示绳子拉力大小，根据拉力变化的周期性测出单摆周期，进而得到重力加速度大小。",
+      "title": "利用力传感器测量",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m9",
+      "source_node_ids": [
+        "n-623417afa871914113f2"
+      ],
+      "text": "将小球磁化，使用智能手机感知磁性强弱，根据磁性强弱变化的周期性测出单摆周期，进而得到重力加速度大小。",
+      "title": "利用智能手机感知磁性测量",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-d06c83e0e2efdb2e62da"
+      ],
+      "from": "c1",
+      "to": "m2",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0b37c4e0d4e053d916c1"
+      ],
+      "from": "l1",
+      "to": "l2",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0b37c4e0d4e053d916c1"
+      ],
+      "from": "m4",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0b37c4e0d4e053d916c1",
+        "n-1b77861f927f430c2f78"
+      ],
+      "from": "m5",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0b37c4e0d4e053d916c1",
+        "n-d06c83e0e2efdb2e62da"
+      ],
+      "from": "m3",
+      "to": "m5",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8acc7827e2a616ac0c8c"
+      ],
+      "from": "m6",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8acc7827e2a616ac0c8c"
+      ],
+      "from": "m7",
+      "to": "c3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8acc7827e2a616ac0c8c",
+        "n-d06c83e0e2efdb2e62da"
+      ],
+      "from": "m3",
+      "to": "m6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-24eac76dd08e806eac5c",
+  "source_digest": "26d63bb2008e635b40fae01141ea0419ca9ba63d3066328b1cba9fcac8fb0894",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

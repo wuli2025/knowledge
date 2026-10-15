@@ -1,0 +1,451 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-8294a8c8334782234bf5",
+        "n-19489079a05f1a89c81b"
+      ],
+      "text": "滑块—木板模型在水平面上的情形，可按外力作用在滑块或木板上，以及水平面光滑或粗糙进行分类。",
+      "title": "水平面上的滑块—木板模型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-0f117d7adb27a2715ade",
+        "n-98f717c7312e98cd4ff7",
+        "n-b721a3993732130effb6"
+      ],
+      "text": "滑块与木板叠放在斜面上的模型；原文情境包括物块从木板顶端下滑，以及沿斜面向上拉动木板。",
+      "title": "斜面上的滑块—木板模型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-14f4de6fc1fd2eb713ca"
+      ],
+      "text": "滑块与木板达到相同速度，或者滑块从木板上滑下，是受力和运动状态变化的转折点。",
+      "title": "滑块—木板运动的转折点",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-59cb0d9c9ca0f6a8ca4a",
+        "n-e0b3c9ecb2784579cf5c"
+      ],
+      "text": "滑块与木板相对静止时，二者可以同时相对地面静止，也可以相对地面共同加速；应区分板块之间的相对运动与板块对地面的运动。",
+      "title": "相对静止与对地运动",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-59cb0d9c9ca0f6a8ca4a"
+      ],
+      "text": "质量为$m$的滑块放在质量为$M$的木板上，水平向右的外力$F$作用于滑块。滑块与木板间的动摩擦因数为$\\mu$，木板与地面间的动摩擦因数为$\\mu'$。",
+      "title": "外力作用在滑块上的模型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-e0b3c9ecb2784579cf5c"
+      ],
+      "text": "质量为$m$的滑块放在质量为$M$的木板上，水平向右的外力$F$作用于木板。滑块与木板间的动摩擦因数为$\\mu$，木板与地面间的动摩擦因数为$\\mu'$。",
+      "title": "外力作用在木板上的模型",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-59cb0d9c9ca0f6a8ca4a"
+      ],
+      "text": "外力作用在滑块上，水平面光滑，$\\mu\\ne0,\\mu'=0$。板块对地静止时，对整体有$F=0$。板块相对静止、对地共同加速时，对整体有$F=(m+M)a$，对滑块有$F-f_{\\text{静}}=ma$，对木板有$f_{\\text{静}}=Ma$。其中$m$、$M$分别为滑块、木板质量。",
+      "title": "力作用在块上：光滑地面的相对静止阶段",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-59cb0d9c9ca0f6a8ca4a"
+      ],
+      "text": "外力作用在滑块上，水平面粗糙，$\\mu\\ne0,\\mu'\\ne0$且$\\mu mg>f'=\\mu'(m+M)g$。板块相对地面静止时，对整体有$F=f_{\\text{地静}}$。板块相对静止、对地共同加速时，对整体有$F-f'=(m+M)a$，对滑块有$F-f_{\\text{静}}=ma$，对木板有$f_{\\text{静}}-f'=Ma$。其中$m$、$M$分别为滑块、木板质量。",
+      "title": "力作用在块上：粗糙地面的相对静止阶段",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-59cb0d9c9ca0f6a8ca4a"
+      ],
+      "text": "外力作用在滑块上，$\\mu\\ne0,\\mu'=0$。原文列出的板块对地滑动临界条件为$F=0$；板块相对滑动临界条件为$f=f_{\\max}=\\mu mg$，此时$a_{\\text{临界}}=\\dfrac{\\mu mg}{M}$，外力$F=F'=\\dfrac{m}{M}\\mu(m+M)g$。原表按最大静摩擦力等于滑动摩擦力列式。",
+      "title": "力作用在块上：光滑地面的滑动临界条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-59cb0d9c9ca0f6a8ca4a"
+      ],
+      "text": "外力作用在滑块上，$\\mu\\ne0,\\mu'\\ne0$且$\\mu mg>f'=\\mu'(m+M)g$。板块对地滑动的临界条件为$F=f_{\\text{地}\\max}=f'=\\mu'(m+M)g$；板块相对滑动的临界条件为$f=f_{\\max}=\\mu mg$，此时$a_{\\text{临界}}=\\dfrac{f-f'}{M}=\\dfrac{\\mu mg-\\mu'(m+M)g}{M}$，外力$F=F'=\\dfrac{(\\mu-\\mu')(M+m)mg}{M}$。原表按最大静摩擦力等于滑动摩擦力列式。",
+      "title": "力作用在块上：粗糙地面的滑动临界条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-59cb0d9c9ca0f6a8ca4a"
+      ],
+      "text": "外力作用在滑块上，板块相对滑动。水平面光滑、$\\mu\\ne0,\\mu'=0$时，对滑块有$F-\\mu mg=ma_1$，对木板有$\\mu mg=Ma_2$。水平面粗糙、$\\mu\\ne0,\\mu'\\ne0$且$\\mu mg>f'=\\mu'(m+M)g$时，对滑块有$F-\\mu mg=ma_1$，对木板有$\\mu mg-\\mu'(m+M)g=Ma_2$。$a_1$、$a_2$分别为滑块、木板的加速度，适用于原表所示相对滑动阶段及摩擦力方向。",
+      "title": "力作用在块上：相对滑动阶段的动力学方程",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-e0b3c9ecb2784579cf5c"
+      ],
+      "text": "外力作用在木板上，水平面光滑，$\\mu\\ne0,\\mu'=0$。板块对地静止时，对整体有$F=0$。板块相对静止、对地共同加速时，对整体有$F=(m+M)a$，对滑块有$f_{\\text{静}}=ma$，对木板有$F-f_{\\text{静}}=Ma$。其中$m$、$M$分别为滑块、木板质量。",
+      "title": "力作用在板上：光滑地面的相对静止阶段",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-e0b3c9ecb2784579cf5c"
+      ],
+      "text": "外力作用在木板上，水平面粗糙，$\\mu\\ne0,\\mu'\\ne0$。板块相对地面静止时，对整体有$F=f_{\\text{地静}}$。板块相对静止、对地共同加速时，对整体有$F-f'=(m+M)a$，对滑块有$f_{\\text{静}}=ma$，对木板有$F-f_{\\text{静}}-f'=Ma$。地面滑动摩擦力$f'=\\mu'(m+M)g$，$m$、$M$分别为滑块、木板质量。",
+      "title": "力作用在板上：粗糙地面的相对静止阶段",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-e0b3c9ecb2784579cf5c"
+      ],
+      "text": "外力作用在木板上，$\\mu\\ne0,\\mu'=0$。原文列出的板块对地滑动临界条件为$F=0$；板块相对滑动临界条件为$f=f_{\\max}=\\mu mg$，此时$a_{\\text{临界}}=\\mu g$，外力$F=F'=\\mu(m+M)g$。原表按最大静摩擦力等于滑动摩擦力列式。",
+      "title": "力作用在板上：光滑地面的滑动临界条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-e0b3c9ecb2784579cf5c"
+      ],
+      "text": "外力作用在木板上，$\\mu\\ne0,\\mu'\\ne0$。板块对地滑动的临界条件为$F=f_{\\text{地}\\max}=f'=\\mu'(m+M)g$；板块相对滑动的临界条件为$f=f_{\\max}=\\mu mg$，此时$a_{\\text{临界}}=\\mu g$，外力$F=F'=(\\mu+\\mu')(m+M)g$。原表按最大静摩擦力等于滑动摩擦力列式。",
+      "title": "力作用在板上：粗糙地面的滑动临界条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-e0b3c9ecb2784579cf5c"
+      ],
+      "text": "外力作用在木板上，板块相对滑动。水平面光滑、$\\mu\\ne0,\\mu'=0$时，对滑块有$\\mu mg=ma_1$，对木板有$F-\\mu mg=Ma_2$。水平面粗糙、$\\mu\\ne0,\\mu'\\ne0$时，对滑块有$\\mu mg=ma_1$，对木板有$F-\\mu mg-\\mu'(m+M)g=Ma_2$。$a_1$、$a_2$分别为滑块、木板的加速度，适用于原表所示相对滑动阶段及摩擦力方向。",
+      "title": "力作用在板上：相对滑动阶段的动力学方程",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l11",
+      "source_node_ids": [
+        "n-59cb0d9c9ca0f6a8ca4a"
+      ],
+      "text": "原表所示力作用在滑块上的模型中，光滑地面上的共同加速度从原点随$F$线性增大；粗糙地面上从$F=f'$处开始共同加速。在$F'$处达到$a_{\\text{临界}}$并出现板块相对滑动，此后滑块加速度$a_1$沿更陡直线上升，木板加速度$a_2$保持为$a_{\\text{临界}}$。粗糙地面分类限于$\\mu\\ne0,\\mu'\\ne0$且$\\mu mg>f'=\\mu'(m+M)g$。",
+      "title": "力作用在块上：加速度—外力图像",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l12",
+      "source_node_ids": [
+        "n-e0b3c9ecb2784579cf5c"
+      ],
+      "text": "原表所示力作用在木板上的模型中，光滑地面上的共同加速度从原点随$F$线性增大；粗糙地面上从$F=f'$处开始共同加速。在$F'$处达到$a_{\\text{临界}}$并出现板块相对滑动，此后木板加速度$a_2$沿更陡直线上升，滑块加速度$a_1$保持为$a_{\\text{临界}}$。两种分类均有$\\mu\\ne0$。",
+      "title": "力作用在板上：加速度—外力图像",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-14f4de6fc1fd2eb713ca"
+      ],
+      "text": "以滑块与木板达到相同速度、或滑块从木板上滑下作为分段转折点，分别对转折前后进行受力分析，并联系前后受力情况；一般需要考虑摩擦力的突变。",
+      "title": "按转折点分段分析",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-14f4de6fc1fd2eb713ca",
+        "n-15500c2d3de6c6b17e7d"
+      ],
+      "text": "联系滑块位移、木板位移与板长。若不存在速度相同的临界点、滑块与木板分离，则确定相同时间内的位移关系，列式求解。",
+      "title": "建立位移与板长的关联",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-15500c2d3de6c6b17e7d"
+      ],
+      "text": "先确定滑块—木板模型，再用隔离法分别对滑块、木板进行受力分析，运用牛顿第二定律和运动学公式，判断是否存在速度相同的临界点。",
+      "title": "隔离分析并判断共速临界点",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-15500c2d3de6c6b17e7d"
+      ],
+      "text": "若存在速度相同的临界点，先假设速度相同后加速度相同，用整体法求系统加速度，再用隔离法求滑块与木板间摩擦力$f$及最大静摩擦力$f_{\\mathrm m}$。若$f\\leqslant f_{\\mathrm m}$，假设成立，整体列式；若$f>f_{\\mathrm m}$，假设不成立，分别列式。",
+      "title": "用摩擦力检验共速后的共同运动",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-553f12dd005570a44d07"
+      ],
+      "text": "在原题水平向右拉动木板的$a-F$图像中，按解题导引区分三个阶段：$F$较小时小物块及长木板相对地面静止；共同加速阶段小物块相对长木板静止且相对地面滑动；超过临界力后小物块相对长木板滑动。",
+      "title": "根据加速度—外力图像划分运动阶段",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-59cb0d9c9ca0f6a8ca4a"
+      ],
+      "from": "c1",
+      "to": "c5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e0b3c9ecb2784579cf5c"
+      ],
+      "from": "c1",
+      "to": "c6",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-14f4de6fc1fd2eb713ca"
+      ],
+      "from": "m1",
+      "to": "c3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-14f4de6fc1fd2eb713ca"
+      ],
+      "from": "m1",
+      "to": "m2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-15500c2d3de6c6b17e7d"
+      ],
+      "from": "m3",
+      "to": "m4",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-15500c2d3de6c6b17e7d"
+      ],
+      "from": "m4",
+      "to": "c4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-59cb0d9c9ca0f6a8ca4a"
+      ],
+      "from": "l1",
+      "to": "c5",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-59cb0d9c9ca0f6a8ca4a"
+      ],
+      "from": "l2",
+      "to": "c5",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-59cb0d9c9ca0f6a8ca4a"
+      ],
+      "from": "l3",
+      "to": "c5",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-59cb0d9c9ca0f6a8ca4a"
+      ],
+      "from": "l4",
+      "to": "c5",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-59cb0d9c9ca0f6a8ca4a"
+      ],
+      "from": "l5",
+      "to": "c5",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e0b3c9ecb2784579cf5c"
+      ],
+      "from": "l6",
+      "to": "c6",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e0b3c9ecb2784579cf5c"
+      ],
+      "from": "l7",
+      "to": "c6",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e0b3c9ecb2784579cf5c"
+      ],
+      "from": "l8",
+      "to": "c6",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e0b3c9ecb2784579cf5c"
+      ],
+      "from": "l9",
+      "to": "c6",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e0b3c9ecb2784579cf5c"
+      ],
+      "from": "l10",
+      "to": "c6",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-59cb0d9c9ca0f6a8ca4a"
+      ],
+      "from": "l11",
+      "to": "c5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e0b3c9ecb2784579cf5c"
+      ],
+      "from": "l12",
+      "to": "c6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-553f12dd005570a44d07"
+      ],
+      "from": "m5",
+      "to": "n-553f12dd005570a44d07",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-efcdc1caba8b4080e245"
+      ],
+      "from": "n-efcdc1caba8b4080e245",
+      "to": "c5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ffe4ec21da4bc695c866"
+      ],
+      "from": "n-ffe4ec21da4bc695c866",
+      "to": "c6",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-553f12dd005570a44d07"
+      ],
+      "from": "n-553f12dd005570a44d07",
+      "to": "c6",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-98f717c7312e98cd4ff7"
+      ],
+      "from": "n-98f717c7312e98cd4ff7",
+      "to": "c2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b721a3993732130effb6"
+      ],
+      "from": "n-b721a3993732130effb6",
+      "to": "c2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1a5fa5d635105eb2260a"
+      ],
+      "from": "n-1a5fa5d635105eb2260a",
+      "to": "c1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-453ce5ea5359dee6009f",
+  "source_digest": "c955a84fe2c166e46c4a271740761d0b2933e33a567de9ecee430c851f5685f2",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

@@ -1,0 +1,372 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-0a2b389ca982ea314f2d"
+      ],
+      "text": "动能的表达式为$E_{\\mathrm{k}}=\\frac{1}{2}mv^2$，单位为$\\mathrm{J}$，是标量、状态量。",
+      "title": "动能",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-0a2b389ca982ea314f2d",
+        "n-810f27304ee3bee8d77b"
+      ],
+      "text": "动量的表达式为$p=mv$，单位为$\\mathrm{kg\\cdot m/s}$，是矢量、状态量。动量具有瞬时性：式中速度为瞬时速度；具有矢量性：方向与速度方向相同；具有相对性：与参考系选取有关，一般以地面为参考系。",
+      "title": "动量及其三性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-0a2b389ca982ea314f2d",
+        "n-345997e7a84cc3e1186b",
+        "n-00e4d236728e5580f59c"
+      ],
+      "text": "恒力的冲量用$I=Ft$计算，单位为$\\mathrm{N\\cdot s}$。冲量是矢量、过程量，反映力的作用对时间的累积效应；恒力冲量的方向与力的方向相同。原文指出，冲量与参考系的选取无关。",
+      "title": "冲量及其特点",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-e084eb45e262ee9e5798"
+      ],
+      "text": "动量变化量为$\\Delta p=p_2-p_1$，应按矢量运算计算；其方向与速度的变化量方向相同。初、末动量共起点且不同方向时，$\\Delta p$由$p_1$的末端指向$p_2$的末端。",
+      "title": "动量变化量",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-0a2b389ca982ea314f2d"
+      ],
+      "text": "动能与动量的关联式为$E_{\\mathrm{k}}=\\frac{p^2}{2m}$，$p=\\sqrt{2mE_{\\mathrm{k}}}$。【待核对】原表将动量列为矢量，但关联式未明确$p$是否指动量大小，保留原式。",
+      "title": "动能与动量的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-345997e7a84cc3e1186b"
+      ],
+      "text": "作用力和反作用力的冲量总是等大反向。",
+      "title": "作用力与反作用力的冲量关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-137c03bb5fba5f4a7ccc",
+        "n-9aa4f3614bcabda125f3"
+      ],
+      "text": "物体在一个过程中所受合力的冲量等于它在这个过程始末的动量变化量。表达式为$I=F(t'-t)=\\Delta p=p'-p$。$F\\Delta t=p'-p$是矢量式，两边大小相等、方向相同，其中$F\\Delta t$为合力的冲量；合力的冲量是动量变化的原因。【待核对】原文未在上述表达式处明确变力情况下$F$的含义，保留原式。",
+      "title": "动量定理",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-9aa4f3614bcabda125f3"
+      ],
+      "text": "由$F\\Delta t=p'-p$得$F=\\frac{p'-p}{\\Delta t}=\\frac{\\Delta p}{\\Delta t}$，原文表述为物体所受的合力等于物体动量的变化率。【待核对】原文未明确有限时间间隔内$F$是否指平均合力，保留原式。",
+      "title": "合力与动量变化率",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-cb8d927b53ac529547d5"
+      ],
+      "text": "当$\\Delta p$一定时，$\\Delta t$越短，力$F$越大；$\\Delta t$越长，力$F$越小。当作用力$F$一定时，$\\Delta t$越长，$\\Delta p$越大；$\\Delta t$越短，$\\Delta p$越小。可用于解释生活现象。",
+      "title": "作用时间、力与动量变化量的关系",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-e084eb45e262ee9e5798"
+      ],
+      "text": "初、末动量在同一直线上时，先规定正方向，再将动量变化量的计算转化为代数运算。原图规定向右为正方向：初、末动量均向右且$p_2>p_1$时，$\\Delta p=p_2-p_1$；初动量向左、末动量向右时，$\\Delta p=p_2-(-p_1)=p_2+p_1$。",
+      "title": "同一直线上的动量变化量计算",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-e084eb45e262ee9e5798"
+      ],
+      "text": "初、末动量不在同一直线上时，用矢量合成计算动量变化量，遵循平行四边形定则或三角形定则。将初、末动量画成共起点矢量，动量变化量由初动量末端指向末动量末端。",
+      "title": "不同方向的动量变化量计算",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-00e4d236728e5580f59c",
+        "n-0a2b389ca982ea314f2d"
+      ],
+      "text": "利用$I=Ft$计算冲量，仅适用于恒力，无须考虑物体的运动状态。",
+      "title": "冲量的公式法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-00e4d236728e5580f59c"
+      ],
+      "text": "$F-t$图线与$t$轴所围的“面积”表示冲量；既可以计算恒力的冲量，也可以计算变力的冲量。",
+      "title": "冲量的图像法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-00e4d236728e5580f59c"
+      ],
+      "text": "若方向不变的变力大小随时间均匀变化，即力为时间的一次函数，则力$F$在某段时间$\\Delta t$内的冲量为$I=\\frac{F_1+F_2}{2}\\Delta t$。",
+      "title": "冲量的平均值法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-00e4d236728e5580f59c"
+      ],
+      "text": "根据物体动量的变化量，由$I=\\Delta p$求冲量，多用于求变力的冲量。",
+      "title": "用动量定理求冲量",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-712c994840606f405437"
+      ],
+      "text": "动量定理的表达式是矢量式，可以选定直角坐标系进行二维正交分解：$\\begin{cases}I_x=\\Delta p_x=m\\Delta v_x\\\\I_y=\\Delta p_y=m\\Delta v_y\\end{cases}$。两个方向的动量变化独立、互不干扰，可以分别对$x$方向和$y$方向应用动量定理解题。",
+      "title": "分方向应用动量定理",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-caa88032a2c743b77a8e"
+      ],
+      "text": "【待核对】原节点标题带待核对标记。沿速度$v$方向选取横截面积为$S$的一段柱状流体。作用时间$\\Delta t$内，长度$\\Delta l=v\\Delta t$，质量$\\Delta m=\\rho Sv\\Delta t$，动量$p=\\rho v^2S\\Delta t$。对这段流体应用动量定理，建立$F\\Delta t=\\Delta m\\Delta v$。原文提醒：流体垂直于速度方向上任意横截面的流量都相等。",
+      "title": "流体的柱状微元法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m9",
+      "source_node_ids": [
+        "n-caa88032a2c743b77a8e"
+      ],
+      "text": "【待核对】原节点标题带待核对标记，且模型方向使用$v$、长度等公式使用$v_0$，符号按原文保留。沿运动$v$方向选取横截面积为$S$的柱体微元。作用时间$\\Delta t$内，长度$\\Delta l=v_0\\Delta t$，体积$\\Delta V=Sv_0\\Delta t$，粒子数$N=nv_0S\\Delta t$。先对单个粒子应用动量定理，再乘以$N$计算：$F\\Delta t=Nm\\Delta v$。",
+      "title": "微粒的柱状微元法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m10",
+      "source_node_ids": [
+        "n-3c0d5fb80964c0b74b04"
+      ],
+      "text": "根据力—时间图像判断力的大小和方向，根据速度—时间图像与横轴所围面积求位移，再用功的定义分析拉力做功；利用力—时间图线与横轴所围面积分析冲量。分析减速过程时，可设速度减到零的时刻，再应用动量定理求该时刻。该例导引说明物块速度减到零后静止。",
+      "title": "结合力与速度图像分析分段运动",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-0a2b389ca982ea314f2d"
+      ],
+      "from": "l1",
+      "to": "c1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0a2b389ca982ea314f2d"
+      ],
+      "from": "l1",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-345997e7a84cc3e1186b"
+      ],
+      "from": "l2",
+      "to": "c3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-137c03bb5fba5f4a7ccc",
+        "n-9aa4f3614bcabda125f3"
+      ],
+      "from": "l3",
+      "to": "c3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-137c03bb5fba5f4a7ccc",
+        "n-9aa4f3614bcabda125f3"
+      ],
+      "from": "l3",
+      "to": "c4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9aa4f3614bcabda125f3"
+      ],
+      "from": "l4",
+      "to": "l3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-cb8d927b53ac529547d5"
+      ],
+      "from": "l5",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e084eb45e262ee9e5798"
+      ],
+      "from": "m1",
+      "to": "c4",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e084eb45e262ee9e5798"
+      ],
+      "from": "m2",
+      "to": "c4",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-00e4d236728e5580f59c"
+      ],
+      "from": "m3",
+      "to": "c3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-00e4d236728e5580f59c"
+      ],
+      "from": "m4",
+      "to": "c3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-00e4d236728e5580f59c"
+      ],
+      "from": "m5",
+      "to": "c3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-00e4d236728e5580f59c"
+      ],
+      "from": "m6",
+      "to": "c3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-00e4d236728e5580f59c"
+      ],
+      "from": "m6",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-712c994840606f405437"
+      ],
+      "from": "m7",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-caa88032a2c743b77a8e"
+      ],
+      "from": "m8",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-caa88032a2c743b77a8e"
+      ],
+      "from": "m9",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3c0d5fb80964c0b74b04"
+      ],
+      "from": "m10",
+      "to": "m4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3c0d5fb80964c0b74b04"
+      ],
+      "from": "m10",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3c0d5fb80964c0b74b04"
+      ],
+      "from": "n-3c0d5fb80964c0b74b04",
+      "to": "m10",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-ee31239ebe5aaa4c0865",
+  "source_digest": "7fd15a41bc90c3b4b10801227c7091d40b9426e0402232122a3c7e93c98d6049",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

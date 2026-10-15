@@ -1,0 +1,349 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-d04b686419db681ca078"
+      ],
+      "text": "J.J.汤姆孙在研究阴极射线时发现了电子。电子的发现说明原子不是组成物质的最小微粒。",
+      "title": "电子的发现",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-edcffeed7e545619d930"
+      ],
+      "text": "卢瑟福进行了 $\\alpha$ 粒子散射实验，并提出原子的核式结构模型。实验中，粒子源发出的 $\\alpha$ 粒子束射向金箔，通过显微镜观察荧光屏上的散射粒子。绝大多数粒子穿过金箔后基本沿原方向前进，少数发生大角度偏转，极少数偏转角度甚至大于 $90^\\circ$。",
+      "title": "α粒子散射实验",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-9224fb5a6fd31735eba5"
+      ],
+      "text": "原子的中心有一个很小的原子核，原子的全部正电荷和几乎全部质量集中在原子核里，带负电的电子在核外空间绕核旋转。",
+      "title": "原子的核式结构模型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-e3dd958dd345caedfe92"
+      ],
+      "text": "用棱镜或光栅把物质发出的光按波长（频率）展开，获得波长（频率）和强度分布的记录，称为光谱。",
+      "title": "光谱",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-e3dd958dd345caedfe92"
+      ],
+      "text": "线状谱是一条条的亮线。",
+      "title": "线状谱",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-e3dd958dd345caedfe92"
+      ],
+      "text": "连续谱是连在一起的光带。",
+      "title": "连续谱",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c7",
+      "source_node_ids": [
+        "n-e3dd958dd345caedfe92",
+        "n-e021c08be2890c04afc0"
+      ],
+      "text": "原文将巴耳末系表述为氢原子光谱在可见光区的一组谱线【待核对：可见光区的范围表述】。题干指出，从 $n>2$ 能级跃迁到 $n=2$ 能级向外辐射的光子频率处在巴耳末系。",
+      "title": "巴耳末系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c8",
+      "source_node_ids": [
+        "n-6fe338e814812bafbb52"
+      ],
+      "text": "电子绕核运动的可能轨道不是任意的；原子只能处于一系列不连续的、稳定的能量状态，称为定态。",
+      "title": "轨道量子化与定态",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c9",
+      "source_node_ids": [
+        "n-c07f27a587bab06cc67a"
+      ],
+      "text": "氢原子能级图以量子数 $n$ 和能量 $E/\\mathrm{eV}$ 标示能级：$n=1$，$E=-13.6\\ \\mathrm{eV}$；$n=2$，$E=-3.4\\ \\mathrm{eV}$；$n=3$，$E=-1.51\\ \\mathrm{eV}$；$n=4$，$E=-0.85\\ \\mathrm{eV}$；$n=5$，$E=-0.54\\ \\mathrm{eV}$；$n=\\infty$，$E=0$。图中向下箭头表示从较高能级向较低能级跃迁。",
+      "title": "氢原子的能级图",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c10",
+      "source_node_ids": [
+        "n-6b563e912a5b9d5b30ca"
+      ],
+      "text": "原子从高能级向低能级自发跃迁时，释放能量，放出光子。",
+      "title": "自发跃迁",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c11",
+      "source_node_ids": [
+        "n-6b563e912a5b9d5b30ca"
+      ],
+      "text": "原子受激从低能级向高能级跃迁时吸收能量；原文列出的激发方式包括吸收光子、碰撞和加热等。",
+      "title": "受激跃迁",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c12",
+      "source_node_ids": [
+        "n-068041fc216217f04e78"
+      ],
+      "text": "电离态对应 $n=\\infty$，$E=0$。",
+      "title": "电离态",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c13",
+      "source_node_ids": [
+        "n-068041fc216217f04e78"
+      ],
+      "text": "电离能是原子从基态或某一激发态跃迁到电离态所需要吸收的最小能量。氢原子由基态跃迁到电离态，$E_{\\text{吸}}=0-(-13.6\\ \\mathrm{eV})=13.6\\ \\mathrm{eV}$。吸收的能量足够大时，电离后获得自由的电子还具有动能。",
+      "title": "电离能",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-e3dd958dd345caedfe92"
+      ],
+      "text": "巴耳末系的波长公式为 $\\dfrac{1}{\\lambda}=R_\\infty\\left(\\dfrac{1}{2^2}-\\dfrac{1}{n^2}\\right)$（$n=3,4,5,\\cdots$）。$R_\\infty$ 是里德伯常量，$R_\\infty=1.10\\times10^7\\ \\mathrm{m^{-1}}$。氢原子光谱在红外和紫外光区的其他谱线也满足与巴耳末公式类似的关系式。",
+      "title": "巴耳末公式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-6fe338e814812bafbb52"
+      ],
+      "text": "在原文玻尔理论及氢原子能级的语境下，各可能轨道的半径满足 $r_n=n^2r_1$（$n=1,2,3,\\cdots$），其中 $r_1$ 为基态轨道半径。",
+      "title": "轨道半径关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-6fe338e814812bafbb52"
+      ],
+      "text": "在原文玻尔理论及氢原子能级的语境下，定态能量 $E_n$ 与基态能量 $E_1$ 满足 $E_n=\\dfrac{E_1}{n^2}$（$n=1,2,3,\\cdots$）。",
+      "title": "定态能量关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-6fe338e814812bafbb52",
+        "n-6b563e912a5b9d5b30ca"
+      ],
+      "text": "原子在两个定态之间跃迁时，辐射或吸收一定频率的光子，光子能量为 $h\\nu=\\lvert E_{\\text{初}}-E_{\\text{末}}\\rvert$。从高能级向低能级跃迁放出的光子频率为 $\\nu=\\dfrac{\\Delta E}{h}=\\dfrac{E_{\\text{高}}-E_{\\text{低}}}{h}$。",
+      "title": "能级跃迁的频率条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-6b563e912a5b9d5b30ca",
+        "n-e60ecd2cdfc2effe766a"
+      ],
+      "text": "原子吸收光子而从低能级激发到高能级时，光子能量必须恰好等于能级差，即 $h\\nu=\\Delta E$，否则不被吸收。原子通过吸收外来电子的能量而被激发时，入射电子能量只要大于或等于能级差即可；原文条件式为 $E_{\\text{外}}\\geqslant\\Delta E$。",
+      "title": "光子激发与电子碰撞激发的能量条件",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-6a50dc4c2b26eaf56fe2"
+      ],
+      "text": "先区分研究对象是大量氢原子还是一个氢原子。大量氢原子处于 $n$ 能级的激发态并向低能级跃迁时，辐射光的频率有 $N=C_n^2=\\dfrac{n(n-1)}{2}$ 种；一个氢原子处于 $n$ 能级的激发态时，可辐射光的频率最多有 $n-1$ 种。",
+      "title": "谱线条数的确定",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-6b563e912a5b9d5b30ca",
+        "n-e60ecd2cdfc2effe766a"
+      ],
+      "text": "判断原子能否从低能级被激发到高能级时，先辨明能量来自光子还是入射电子，再与目标能级差比较。光子激发要求 $h\\nu=\\Delta E$；入射电子碰撞激发要求 $E_{\\text{外}}\\geqslant\\Delta E$。",
+      "title": "按激发方式判断跃迁条件",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-edcffeed7e545619d930"
+      ],
+      "from": "c2",
+      "to": "c3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e3dd958dd345caedfe92"
+      ],
+      "from": "c4",
+      "to": "c5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e3dd958dd345caedfe92"
+      ],
+      "from": "c4",
+      "to": "c6",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e3dd958dd345caedfe92"
+      ],
+      "from": "l1",
+      "to": "c7",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6fe338e814812bafbb52"
+      ],
+      "from": "c8",
+      "to": "l2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6fe338e814812bafbb52"
+      ],
+      "from": "c8",
+      "to": "l3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6b563e912a5b9d5b30ca"
+      ],
+      "from": "l4",
+      "to": "c10",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6b563e912a5b9d5b30ca",
+        "n-e60ecd2cdfc2effe766a"
+      ],
+      "from": "c11",
+      "to": "l5",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e60ecd2cdfc2effe766a",
+        "n-6b563e912a5b9d5b30ca"
+      ],
+      "from": "m2",
+      "to": "l5",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-068041fc216217f04e78"
+      ],
+      "from": "c12",
+      "to": "c13",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b91b072517e513877f6a",
+        "n-e60ecd2cdfc2effe766a"
+      ],
+      "from": "n-b91b072517e513877f6a",
+      "to": "m2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b91b072517e513877f6a",
+        "n-6fe338e814812bafbb52"
+      ],
+      "from": "n-b91b072517e513877f6a",
+      "to": "l4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3e3c62fcc72d20baff01",
+        "n-6fe338e814812bafbb52"
+      ],
+      "from": "n-3e3c62fcc72d20baff01",
+      "to": "l4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e021c08be2890c04afc0",
+        "n-6a50dc4c2b26eaf56fe2"
+      ],
+      "from": "n-e021c08be2890c04afc0",
+      "to": "m1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e021c08be2890c04afc0"
+      ],
+      "from": "n-e021c08be2890c04afc0",
+      "to": "c7",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e021c08be2890c04afc0",
+        "n-068041fc216217f04e78"
+      ],
+      "from": "n-e021c08be2890c04afc0",
+      "to": "c13",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-47c1f82614d08fbbbfe6",
+  "source_digest": "c2cc6da820741f07b91cf49324a843866228928e97bb06260c42434cefcbd8d6",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

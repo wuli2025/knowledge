@@ -1,0 +1,441 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-d08a4cf24e6b83b21927"
+      ],
+      "text": "图示速度选择器由平行金属板间的电场和磁场组成；上板带正电、下板带负电，磁场垂直纸面向里，粒子水平向右射入。",
+      "title": "速度选择器",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-d08a4cf24e6b83b21927"
+      ],
+      "text": "等离子体射入磁场后受洛伦兹力偏转，使两极板分别带正、负电；图示两极板通过电阻连接。",
+      "title": "磁流体发电机",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-d08a4cf24e6b83b21927"
+      ],
+      "text": "图示装置在直径为 $d$ 的管道两侧设置电极并连接电压表，液体流动方向与磁场方向垂直，通过两侧电势差关联液体流速和流量。",
+      "title": "电磁流量计",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-419ab9fd6af90f1bdefc"
+      ],
+      "text": "流量是单位时间内流过管道横截面的液体体积。",
+      "title": "流量",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-d08a4cf24e6b83b21927"
+      ],
+      "text": "在匀强磁场中放置矩形截面的载流导体，当磁场方向与电流方向垂直时，导体在与磁场、电流方向都垂直的方向上出现电势差，这一现象称为霍尔效应。",
+      "title": "霍尔效应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-637a04d95fe93b660f46"
+      ],
+      "text": "回旋加速器由两个半圆金属盒 $D_1$、$D_2$ 组成，两盒处于匀强磁场中，磁场垂直盒面，盒间缝隙处接交流电源。",
+      "title": "回旋加速器的构造",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c7",
+      "source_node_ids": [
+        "n-2d83f089bf8a56973d0a"
+      ],
+      "text": "图示质谱仪中，粒子从粒子源 $A$ 出发，经加速电压 $U$ 加速后进入匀强磁场 $B$，沿不同半径的半圆轨迹打到底片 $D$ 上。",
+      "title": "质谱仪的基本构成与轨迹",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c8",
+      "source_node_ids": [
+        "n-c121a8d6fce064f18b3a"
+      ],
+      "text": "题示质谱仪依次设有粒子加速器、速度选择器和偏转分离器。初速度为零的带电粒子经加速后，在速度选择器中做直线运动，再进入偏转分离器做圆周运动，最后打到照相底片上；题设不计重力。",
+      "title": "含速度选择器的质谱仪",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-d08a4cf24e6b83b21927"
+      ],
+      "text": "在图示电场、磁场及入射方向下，若 $qv_0B=Eq$，即 $v_0=\\dfrac{E}{B}$，粒子做匀速直线运动。",
+      "title": "速度选择器的直线通过条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-d08a4cf24e6b83b21927"
+      ],
+      "text": "原文给出两极板间电压为 $U$ 时的稳定条件：$q\\dfrac{U}{d}=qv_0B$，$U=v_0Bd$，其中 $d$ 为极板间距。【待核对】原图含外接电阻，原文未进一步区分该电压关系对应的电路状态及电压含义。",
+      "title": "磁流体发电机的电压关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-d08a4cf24e6b83b21927"
+      ],
+      "text": "当 $q\\dfrac{U}{d}=qvB$ 时，有 $v=\\dfrac{U}{Bd}$。对图示直径为 $d$ 的圆形管道，流量 $Q=Sv=\\pi\\left(\\dfrac{d}{2}\\right)^2\\times\\dfrac{U}{Bd}=\\dfrac{\\pi dU}{4B}$，其中 $S$ 为管道横截面积。",
+      "title": "电磁流量计的流速与流量关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-637a04d95fe93b660f46"
+      ],
+      "text": "交流电源的周期与粒子做圆周运动的周期相等，使粒子每经过一次 $\\mathrm{D}$ 形盒之间的缝隙，均被加速一次。",
+      "title": "回旋加速器的周期匹配条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-637a04d95fe93b660f46"
+      ],
+      "text": "由 $qv_{\\mathrm{m}}B=\\dfrac{mv_{\\mathrm{m}}^2}{R}$、$E_{\\mathrm{km}}=\\dfrac{1}{2}mv_{\\mathrm{m}}^2$ 得 $E_{\\mathrm{km}}=\\dfrac{q^2B^2R^2}{2m}$。对给定粒子，最大动能由磁感应强度 $B$ 和 $\\mathrm{D}$ 形盒半径 $R$ 决定，与加速电压无关。",
+      "title": "回旋加速器的最大动能",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-637a04d95fe93b660f46"
+      ],
+      "text": "原文按粒子在磁场中运动一个周期被加速两次、每次增加动能 $qU$ 计，给出加速次数 $n=\\dfrac{E_{\\mathrm{km}}}{qU}$。忽略粒子在缝隙中运动的时间，磁场中运动的总时间为 $t=\\dfrac{n}{2}T=\\dfrac{E_{\\mathrm{km}}}{2qU}\\cdot\\dfrac{2\\pi m}{qB}=\\dfrac{\\pi BR^2}{2U}$。【待核对】原文未明确此处交流加速电压 $U$ 的取值含义，也未单独交代初动能条件。",
+      "title": "回旋加速器的加速次数与总时间",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-d140c42dff6d23a45741"
+      ],
+      "text": "原文在质谱仪加速电场的分析中采用 $qU=\\dfrac{1}{2}mv^2$；该式未计入初动能项。",
+      "title": "质谱仪的加速电场关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-d140c42dff6d23a45741"
+      ],
+      "text": "原文在质谱仪偏转磁场的分析中采用 $qvB=\\dfrac{mv^2}{r}$，以洛伦兹力对应圆周运动所需的向心力。",
+      "title": "质谱仪的磁偏转关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-d140c42dff6d23a45741"
+      ],
+      "text": "联立加速电场关系和偏转磁场关系，可得 $r=\\dfrac{1}{B}\\sqrt{\\dfrac{2mU}{q}}$，$\\dfrac{q}{m}=\\dfrac{2U}{B^2r^2}$。",
+      "title": "质谱仪的轨道半径与比荷关系",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-d08a4cf24e6b83b21927"
+      ],
+      "text": "分析速度选择器中粒子的直线运动时，按原图的场方向和入射方向列出 $qv_0B=Eq$，由此确定直线通过的速度 $v_0=\\dfrac{E}{B}$。",
+      "title": "用电场力与洛伦兹力平衡确定通过速度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-d08a4cf24e6b83b21927"
+      ],
+      "text": "先由 $q\\dfrac{U}{d}=qvB$ 求得流速 $v=\\dfrac{U}{Bd}$，再用圆形管道的横截面积代入 $Q=Sv$，得到 $Q=\\dfrac{\\pi dU}{4B}$。",
+      "title": "由电势差求流速与流量",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-637a04d95fe93b660f46"
+      ],
+      "text": "以 $\\mathrm{D}$ 形盒半径 $R$ 对应最大轨道半径，先列 $qv_{\\mathrm{m}}B=\\dfrac{mv_{\\mathrm{m}}^2}{R}$，再结合 $E_{\\mathrm{km}}=\\dfrac{1}{2}mv_{\\mathrm{m}}^2$ 求最大动能。",
+      "title": "由最大轨道半径求最大动能",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-637a04d95fe93b660f46"
+      ],
+      "text": "按原文每次增加动能 $qU$ 求加速次数 $n=\\dfrac{E_{\\mathrm{km}}}{qU}$，再利用每周期加速两次写出 $t=\\dfrac{n}{2}T$。忽略缝隙中的运动时间。【待核对】使用时需核对原文未明确的 $U$ 取值含义和初动能条件。",
+      "title": "由加速次数计算回旋运动总时间",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-d140c42dff6d23a45741"
+      ],
+      "text": "将运动分为加速电场和偏转磁场两个阶段，分别列 $qU=\\dfrac{1}{2}mv^2$ 与 $qvB=\\dfrac{mv^2}{r}$，联立消去速度，得到轨道半径或比荷的表达式。",
+      "title": "分阶段联立质谱仪的电加速与磁偏转关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-c371283c70aae8bebab9"
+      ],
+      "text": "在题设装置中，检测电流 $I_0$ 在铁芯中产生的磁感应强度与 $I_0$ 成正比。给以自由电子为载流子的半导体霍尔元件通以恒定工作电流 $I$，通过电压表的示数判断 $I_0$ 的大小是否变化；题设忽略磁损。",
+      "title": "利用霍尔元件监测电流变化",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-d08a4cf24e6b83b21927"
+      ],
+      "from": "l1",
+      "to": "c1",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d08a4cf24e6b83b21927"
+      ],
+      "from": "m1",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d08a4cf24e6b83b21927"
+      ],
+      "from": "l2",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d08a4cf24e6b83b21927"
+      ],
+      "from": "l3",
+      "to": "c3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d08a4cf24e6b83b21927",
+        "n-419ab9fd6af90f1bdefc"
+      ],
+      "from": "l3",
+      "to": "c4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d08a4cf24e6b83b21927"
+      ],
+      "from": "m2",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-637a04d95fe93b660f46"
+      ],
+      "from": "l4",
+      "to": "c6",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-637a04d95fe93b660f46"
+      ],
+      "from": "l5",
+      "to": "c6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-637a04d95fe93b660f46"
+      ],
+      "from": "l6",
+      "to": "c6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-637a04d95fe93b660f46"
+      ],
+      "from": "m3",
+      "to": "l5",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-637a04d95fe93b660f46"
+      ],
+      "from": "m4",
+      "to": "l6",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-637a04d95fe93b660f46"
+      ],
+      "from": "l5",
+      "to": "l6",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d140c42dff6d23a45741"
+      ],
+      "from": "l7",
+      "to": "l9",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d140c42dff6d23a45741"
+      ],
+      "from": "l8",
+      "to": "l9",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d140c42dff6d23a45741"
+      ],
+      "from": "m5",
+      "to": "l7",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d140c42dff6d23a45741"
+      ],
+      "from": "m5",
+      "to": "l8",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d140c42dff6d23a45741"
+      ],
+      "from": "m5",
+      "to": "l9",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c121a8d6fce064f18b3a"
+      ],
+      "from": "c8",
+      "to": "c1",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c371283c70aae8bebab9",
+        "n-d08a4cf24e6b83b21927"
+      ],
+      "from": "m6",
+      "to": "c5",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-44e43913ee1317602633"
+      ],
+      "from": "n-44e43913ee1317602633",
+      "to": "c2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-419ab9fd6af90f1bdefc",
+        "n-d08a4cf24e6b83b21927"
+      ],
+      "from": "n-419ab9fd6af90f1bdefc",
+      "to": "l3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c371283c70aae8bebab9"
+      ],
+      "from": "n-c371283c70aae8bebab9",
+      "to": "m6",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9b9abbf6b42c672d2f1f",
+        "n-637a04d95fe93b660f46"
+      ],
+      "from": "n-9b9abbf6b42c672d2f1f",
+      "to": "c6",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c121a8d6fce064f18b3a"
+      ],
+      "from": "n-c121a8d6fce064f18b3a",
+      "to": "c8",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-473bfb7fb13dfe0c24bc",
+  "source_digest": "cc7668a24b4db14aa9ebc34b1cc27689162fa375ba67b9fca6a285b855de6ae7",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

@@ -1,0 +1,478 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-d3d3d4faf4bb58389550"
+      ],
+      "text": "物体以水平初速度 $v_0$ 抛出，轨迹为抛物线。分析时以抛出点为原点，初速度方向为 $x$ 轴正方向，竖直向下为 $y$ 轴正方向。",
+      "title": "平抛运动",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-40830fc8d7121f69e94a"
+      ],
+      "text": "以抛出点为坐标原点，以初速度方向为 $x$ 轴正方向，以与初速度垂直的合力方向为 $y$ 轴正方向；初速度方向速度不变，合力方向具有加速度 $a$。",
+      "title": "类平抛运动",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-37cbb52d250955c03c61"
+      ],
+      "text": "初速度 $v_0$ 与水平正方向成 $\\theta$ 角。以抛出点为原点，水平向右为 $x$ 轴正方向，竖直向上为 $y$ 轴正方向，将初速度分解为水平分量和竖直分量；图示轨迹为开口向下的抛物线。",
+      "title": "斜抛运动",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-d3d3d4faf4bb58389550"
+      ],
+      "text": "平抛运动中，以初速度方向和竖直向下分别为两坐标轴正方向：$v_x=v_0$，$v_y=gt$；合速度大小 $v=\\sqrt{v_x^2+v_y^2}$。合速度与水平方向夹角为 $\\theta$ 时，$\\tan\\theta=\\dfrac{v_y}{v_x}=\\dfrac{gt}{v_0}$。",
+      "title": "平抛运动的速度关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-d3d3d4faf4bb58389550"
+      ],
+      "text": "以抛出点为原点，初速度方向为 $x$ 轴正方向，竖直向下为 $y$ 轴正方向：$x=v_0t$，$y=\\dfrac12gt^2$；合位移大小 $s=\\sqrt{x^2+y^2}$。位移与水平方向夹角为 $\\alpha$ 时，$\\tan\\alpha=\\dfrac{y}{x}=\\dfrac{gt}{2v_0}$。",
+      "title": "平抛运动的位移关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-d3d3d4faf4bb58389550"
+      ],
+      "text": "以抛出点为原点，初速度方向为 $x$ 轴正方向，竖直向下为 $y$ 轴正方向，平抛运动的轨迹方程为 $y=\\dfrac{g}{2v_0^2}x^2$。",
+      "title": "平抛运动的轨迹方程",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-d3d3d4faf4bb58389550"
+      ],
+      "text": "平抛运动中，合速度与水平方向夹角为 $\\theta$，合位移与水平方向夹角为 $\\alpha$，则 $\\tan\\theta=2\\tan\\alpha$。运动到横坐标为 $x$ 的点时，速度反向延长线与 $x$ 轴交点的横坐标为 $x'$，有 $x'=\\dfrac{x}{2}$。",
+      "title": "平抛运动的速度与位移方向推论",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-dc8ff0a468de60d6a246"
+      ],
+      "text": "平抛运动在相等时间 $\\Delta T$ 内的速度变化量相等：$\\Delta v=g\\Delta T$，方向竖直向下。",
+      "title": "平抛运动的速度变化规律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-dc8ff0a468de60d6a246"
+      ],
+      "text": "平抛运动在相等时间 $\\Delta T$ 内的水平位移相等：$\\Delta x=v_0\\Delta T$。连续相等时间 $\\Delta T$ 内，竖直方向上的位移差不变：$\\Delta y=g(\\Delta T)^2$；此处 $\\Delta y$ 表示竖直位移之差。",
+      "title": "平抛运动的位移变化规律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-40830fc8d7121f69e94a"
+      ],
+      "text": "类平抛运动中，初速度方向 $v_x=v_0$，合力方向 $v_y=at$；合速度大小 $v=\\sqrt{v_x^2+v_y^2}$。合速度与初速度方向夹角为 $\\theta$ 时，$\\tan\\theta=\\dfrac{v_y}{v_x}=\\dfrac{at}{v_0}$。",
+      "title": "类平抛运动的速度关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-40830fc8d7121f69e94a"
+      ],
+      "text": "类平抛运动中，以抛出点为原点，沿初速度方向有 $x=v_0t$，沿合力方向有 $y=\\dfrac12at^2$；合位移大小 $s=\\sqrt{x^2+y^2}$。合位移与初速度方向夹角为 $\\alpha$ 时，$\\tan\\alpha=\\dfrac yx=\\dfrac{at}{2v_0}$。",
+      "title": "类平抛运动的位移关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-37cbb52d250955c03c61"
+      ],
+      "text": "斜抛运动中，以抛出点为原点，水平向右为正方向，初速度与水平正方向夹角为 $\\theta$：$v_x=v_{0x}=v_0\\cos\\theta$，$x=v_0t\\cos\\theta=v_0\\cos\\theta\\cdot t$。",
+      "title": "斜抛运动的水平分运动规律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-37cbb52d250955c03c61"
+      ],
+      "text": "斜抛运动中，以抛出点为原点，竖直向上为正方向，初速度与水平正方向夹角为 $\\theta$：$v_y=v_{0y}-gt=v_0\\sin\\theta-gt$，$y=v_{0y}t-\\dfrac12gt^2=v_0\\sin\\theta\\cdot t-\\dfrac12gt^2$。",
+      "title": "斜抛运动的竖直分运动规律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l11",
+      "source_node_ids": [
+        "n-37cbb52d250955c03c61"
+      ],
+      "text": "对于图示从抛出点斜向上抛出并落回同一水平面的运动，飞行时间 $t_{\\text{总}}=\\dfrac{2v_0\\sin\\theta}{g}$，射高 $H_m=\\dfrac{v_0^2\\sin^2\\theta}{2g}$，射程 $x_m=\\dfrac{v_0^2\\sin2\\theta}{g}$。若 $v_0$ 一定，当 $\\theta=45^\\circ$ 时，$x_m$ 最大。",
+      "title": "同高度斜抛运动的飞行时间、射高和射程",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-4238251301e4d8174072"
+      ],
+      "text": "平抛物体垂直打到倾角为 $\\theta$ 的斜面时，先明确末速度方向，再用速度分量关系：由 $\\tan\\theta=\\dfrac{v_0}{v_y}=\\dfrac{v_0}{gt}$ 得 $t=\\dfrac{v_0}{g\\tan\\theta}$。",
+      "title": "垂直打到斜面的速度约束分析",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-4238251301e4d8174072"
+      ],
+      "text": "平抛物体切入倾角为 $\\theta$ 的斜面，末速度沿斜面向下时，先明确末速度方向：由 $\\tan\\theta=\\dfrac{v_y}{v_0}=\\dfrac{gt}{v_0}$ 得 $t=\\dfrac{v_0\\tan\\theta}{g}$。",
+      "title": "切入斜面的速度约束分析",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-4238251301e4d8174072"
+      ],
+      "text": "平抛物体从抛出点到落点的位移垂直于倾角为 $\\theta$ 的斜面时，先明确位移方向：由 $\\tan\\theta=\\dfrac{x}{y}=\\dfrac{v_0t}{\\frac12gt^2}=\\dfrac{2v_0}{gt}$ 得 $t=\\dfrac{2v_0}{g\\tan\\theta}$。",
+      "title": "位移垂直斜面的位移约束分析",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-4238251301e4d8174072"
+      ],
+      "text": "物体从倾角为 $\\theta$ 的斜面顶点水平抛出并落在斜面上时，抛出点至落点的位移沿斜面：由 $\\tan\\theta=\\dfrac{y}{x}=\\dfrac{\\frac12gt^2}{v_0t}=\\dfrac{gt}{2v_0}$ 得 $t=\\dfrac{2v_0\\tan\\theta}{g}$。",
+      "title": "从斜面顶点抛出后落回斜面的分析",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-c039d33ca2d7c6b58faf"
+      ],
+      "text": "平抛物体切入圆弧面凹槽或从圆外抛出并与圆周相切时，明确切点速度沿切线方向。切点半径与竖直方向夹角为 $\\theta$，由 $\\tan\\theta=\\dfrac{v_y}{v_x}=\\dfrac{gt}{v_0}$ 得 $t=\\dfrac{v_0\\tan\\theta}{g}$。",
+      "title": "圆弧面相切的速度约束分析",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-c039d33ca2d7c6b58faf"
+      ],
+      "text": "对于从半圆水平直径左端水平抛出、落在右下方圆弧上的图示情境，半径为 $R$，落点距直径的竖直距离为 $h$。先明确位移的几何关系：由 $R+\\sqrt{R^2-h^2}=v_0t$ 得 $t=\\dfrac{R+\\sqrt{R^2-h^2}}{v_0}$。",
+      "title": "半圆内平抛运动的位移约束分析",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-8e0617220969fbeaeaad"
+      ],
+      "text": "小球从斜面顶端水平抛出并落回斜面时，沿水平、竖直方向建立直角坐标系。当速度方向平行于斜面，即速度与水平方向夹角等于斜面倾角 $\\theta$ 时，离斜面距离最大，此时 $\\tan\\theta=\\dfrac{gt}{v_0}$。",
+      "title": "用速度方向判断离斜面最远位置",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-8e0617220969fbeaeaad"
+      ],
+      "text": "小球从斜面顶端水平抛出并落回斜面时，以斜面顶端为原点，沿斜面向下为 $x$ 轴正方向，垂直斜面向上为 $y$ 轴正方向，分解初速度和重力加速度。小球远离斜面的阶段，$y$ 方向做匀减速直线运动；$y$ 方向速度为 $0$ 时离斜面最远，可根据 $v_{0y}^2=2g_yy$ 求最远距离，其中 $g_y$ 为垂直斜面向下的加速度分量大小。",
+      "title": "沿斜面分解求离斜面最大距离",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m9",
+      "source_node_ids": [
+        "n-39df852d288e7b46dc3a"
+      ],
+      "text": "利用斜上抛运动至最高点时速度水平的特点，从最高点分段研究：前半段相当于反向的平抛运动，后半段相当于平抛运动。",
+      "title": "从最高点逆向分析斜抛运动",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m10",
+      "source_node_ids": [
+        "n-061f3c5d7f661ffb7a6c"
+      ],
+      "text": "对正电粒子水平射入方向竖直向下的匀强电场且忽略重力和空气阻力的情境，以射入点 $P$ 为原点，沿 $v_0$ 方向建立 $x$ 轴，该方向做匀速直线运动；沿电场方向建立 $y$ 轴，该方向做初速度为零的匀加速直线运动。",
+      "title": "匀强电场中类平抛运动的分解",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-d3d3d4faf4bb58389550"
+      ],
+      "from": "c1",
+      "to": "l1",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d3d3d4faf4bb58389550"
+      ],
+      "from": "c1",
+      "to": "l2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d3d3d4faf4bb58389550"
+      ],
+      "from": "c1",
+      "to": "l3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d3d3d4faf4bb58389550"
+      ],
+      "from": "c1",
+      "to": "l4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-dc8ff0a468de60d6a246"
+      ],
+      "from": "c1",
+      "to": "l5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-dc8ff0a468de60d6a246"
+      ],
+      "from": "c1",
+      "to": "l6",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-40830fc8d7121f69e94a"
+      ],
+      "from": "c2",
+      "to": "l7",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-40830fc8d7121f69e94a"
+      ],
+      "from": "c2",
+      "to": "l8",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-37cbb52d250955c03c61"
+      ],
+      "from": "c3",
+      "to": "l9",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-37cbb52d250955c03c61"
+      ],
+      "from": "c3",
+      "to": "l10",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-37cbb52d250955c03c61"
+      ],
+      "from": "c3",
+      "to": "l11",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4238251301e4d8174072"
+      ],
+      "from": "m1",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4238251301e4d8174072"
+      ],
+      "from": "m2",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4238251301e4d8174072"
+      ],
+      "from": "m3",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4238251301e4d8174072"
+      ],
+      "from": "m4",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c039d33ca2d7c6b58faf"
+      ],
+      "from": "m5",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c039d33ca2d7c6b58faf"
+      ],
+      "from": "m6",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8e0617220969fbeaeaad"
+      ],
+      "from": "m7",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8e0617220969fbeaeaad"
+      ],
+      "from": "m7",
+      "to": "m8",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-39df852d288e7b46dc3a"
+      ],
+      "from": "m9",
+      "to": "c1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-39df852d288e7b46dc3a"
+      ],
+      "from": "m9",
+      "to": "c3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-061f3c5d7f661ffb7a6c"
+      ],
+      "from": "m10",
+      "to": "n-061f3c5d7f661ffb7a6c",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d726701841e149db1b9c",
+        "n-d3d3d4faf4bb58389550"
+      ],
+      "from": "n-d726701841e149db1b9c",
+      "to": "c1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-fd78560ba3f9b7b3e802",
+        "n-4238251301e4d8174072"
+      ],
+      "from": "n-fd78560ba3f9b7b3e802",
+      "to": "m4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-fd78560ba3f9b7b3e802",
+        "n-8e0617220969fbeaeaad"
+      ],
+      "from": "n-fd78560ba3f9b7b3e802",
+      "to": "m8",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-47fdef1af2507f6a3b61",
+        "n-c039d33ca2d7c6b58faf"
+      ],
+      "from": "n-47fdef1af2507f6a3b61",
+      "to": "m6",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-eae7166efa7b40805241",
+        "n-37cbb52d250955c03c61"
+      ],
+      "from": "n-eae7166efa7b40805241",
+      "to": "c3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-d16282d57d693c88a44e",
+  "source_digest": "7b07d7b1fae1f9517ec7be6fe8c1c5c117381c2960679db4819c5775d6dc9194",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

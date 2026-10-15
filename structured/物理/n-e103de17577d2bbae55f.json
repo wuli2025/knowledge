@@ -1,0 +1,667 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-71f24066ccb8071242e0"
+      ],
+      "text": "物体由大量分子组成。分子直径的数量级为 $10^{-10}\\ \\mathrm{m}$，分子质量的数量级为 $10^{-26}\\ \\mathrm{kg}$。",
+      "title": "分子的尺度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-71f24066ccb8071242e0"
+      ],
+      "text": "原文表述：$1\\ \\mathrm{mol}$ 的任何物质中含有 $N_{\\mathrm A}=6.02\\times10^{23}$ 个分子，$N_{\\mathrm A}$ 即阿伏加德罗常数。",
+      "title": "阿伏加德罗常数",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-71f24066ccb8071242e0"
+      ],
+      "text": "微观量包括分子体积 $V_0$、分子直径 $d$、分子质量 $m_0$；宏观量包括摩尔体积 $V_{\\mathrm{mol}}$、摩尔质量 $M$、物体的体积 $V$、质量 $m$、密度 $\\rho$。",
+      "title": "宏观量与微观量",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-881c316aca5d22a1e777"
+      ],
+      "text": "分子在做永不停息的无规则运动，这种运动称为分子热运动。",
+      "title": "分子热运动",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-881c316aca5d22a1e777"
+      ],
+      "text": "相互接触的不同物质彼此进入对方的现象，直接反映分子的热运动。",
+      "title": "扩散现象",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-881c316aca5d22a1e777"
+      ],
+      "text": "悬浮在液体或气体中的微粒的无规则运动。原文以花粉、炭颗粒等小颗粒为例，说明其运动反映了液体分子的无规则运动。",
+      "title": "布朗运动",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c7",
+      "source_node_ids": [
+        "n-3595fd7415555fb9c8ce"
+      ],
+      "text": "原文用斥力、引力及其合力描述分子间作用力；合力在 $r=r_0$ 处为零，$r<r_0$ 时表现为斥力，$r>r_0$ 时表现为引力。",
+      "title": "分子间作用力",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c8",
+      "source_node_ids": [
+        "n-341afb5b7d3c656b860e"
+      ],
+      "text": "分子无规则运动的动能。温度决定分子的平均动能。",
+      "title": "分子动能",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c9",
+      "source_node_ids": [
+        "n-341afb5b7d3c656b860e",
+        "n-6eba8f7441d6f1ad4123"
+      ],
+      "text": "由分子间相对位置决定的势能，其决定因素为分子间距（体积）。它与重力势能、弹性势能、电势能类似，都是与某种力对应、由相对位置决定的能量。",
+      "title": "分子势能",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c10",
+      "source_node_ids": [
+        "n-341afb5b7d3c656b860e"
+      ],
+      "text": "所有分子的热运动动能和分子势能的总和，决定因素为温度、体积、物质的量。温度、内能等物理量只对大量分子才有意义，对单个或少量分子没有实际意义。",
+      "title": "内能",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c11",
+      "source_node_ids": [
+        "n-4ab39cf66d736f531391"
+      ],
+      "text": "固体可分为晶体和非晶体，晶体又可分为单晶体和多晶体。",
+      "title": "固体的分类",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c12",
+      "source_node_ids": [
+        "n-4ab39cf66d736f531391",
+        "n-39ce45716e3b210b8123"
+      ],
+      "text": "外形规则，熔点确定，具有各向异性，但不是在各种物理性质上都表现出各向异性。原子（或分子、离子）按一定规则排列，具有空间上的周期性。典型物质为单晶硅、单晶锗。",
+      "title": "单晶体",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c13",
+      "source_node_ids": [
+        "n-4ab39cf66d736f531391"
+      ],
+      "text": "由许多单晶体杂乱无章地组合而成，外形不规则，熔点确定，物理性质表现为各向同性。典型物质为蔗糖块、铜。",
+      "title": "多晶体",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c14",
+      "source_node_ids": [
+        "n-4ab39cf66d736f531391"
+      ],
+      "text": "外形不规则，熔点不确定，物理性质表现为各向同性；原子（或分子、离子）排列不规则，无空间上的周期性。典型物质为玻璃、蜂蜡、松香。",
+      "title": "非晶体",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c15",
+      "source_node_ids": [
+        "n-87c77937d81cd648e0e1"
+      ],
+      "text": "使液体表面绷紧的力。形成原因是表面层中分子间的距离比液体内部分子间的距离大，分子间的作用力表现为引力。方向和液面相切，垂直于液面上的各条分界线。",
+      "title": "液体的表面张力",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c16",
+      "source_node_ids": [
+        "n-f07e1fc12a42abd24648"
+      ],
+      "text": "一种液体会润湿某种固体并附着在固体表面上的现象。",
+      "title": "浸润",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c17",
+      "source_node_ids": [
+        "n-f07e1fc12a42abd24648"
+      ],
+      "text": "一种液体不会润湿某种固体，也不会附着在这种固体表面的现象。",
+      "title": "不浸润",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c18",
+      "source_node_ids": [
+        "n-db1a2aabf59ba564e9ec"
+      ],
+      "text": "浸润液体在细管中上升，以及不浸润液体在细管中下降的现象。图示中，浸润液体的管内液面呈凹形，不浸润液体的管内液面呈凸形。",
+      "title": "毛细现象",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c19",
+      "source_node_ids": [
+        "n-777e37a05158724f0790"
+      ],
+      "text": "既具有液体的流动性，又在一定程度上具有晶体分子的规则排列的性质；分子取向排列的液晶具有晶体的光学各向异性。在某些方向上分子排列比较整齐，在其他方向上分子排列杂乱无章。",
+      "title": "液晶",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-71f24066ccb8071242e0"
+      ],
+      "text": "分子质量：$m_0=\\dfrac{M}{N_{\\mathrm A}}=\\dfrac{\\rho V_{\\mathrm{mol}}}{N_{\\mathrm A}}$。其中 $M$ 为摩尔质量，$\\rho$ 为物体的密度，$V_{\\mathrm{mol}}$ 为摩尔体积。",
+      "title": "分子质量与宏观量的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-71f24066ccb8071242e0"
+      ],
+      "text": "分子体积：$V_0=\\dfrac{V_{\\mathrm{mol}}}{N_{\\mathrm A}}=\\dfrac{M}{\\rho N_{\\mathrm A}}$。对气体，$V_0$ 为分子所占空间体积。",
+      "title": "分子体积与宏观量的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-71f24066ccb8071242e0"
+      ],
+      "text": "物体所含的分子数：$N=\\dfrac{V}{V_{\\mathrm{mol}}}N_{\\mathrm A}=\\dfrac{m}{\\rho V_{\\mathrm{mol}}}N_{\\mathrm A}$ 或 $N=\\dfrac{m}{M}N_{\\mathrm A}=\\dfrac{\\rho V}{M}N_{\\mathrm A}$。",
+      "title": "物体所含分子数的计算关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-881c316aca5d22a1e777"
+      ],
+      "text": "温度越高，扩散越快。",
+      "title": "温度对扩散的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-881c316aca5d22a1e777"
+      ],
+      "text": "布朗运动的影响因素为微粒大小和温度。微粒越小，温度越高，布朗运动越明显。",
+      "title": "布朗运动明显程度的影响因素",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-881c316aca5d22a1e777"
+      ],
+      "text": "在任意一温度下，气体分子的速率都按“中间多、两头少”的规律分布。温度升高时，“中间多”的高峰向速率大的方向移动，速率小的分子数减少，速率大的分子数增多，分子的平均速率增大，但不是每个分子的速率都增大。",
+      "title": "气体分子运动速率分布规律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-3595fd7415555fb9c8ce"
+      ],
+      "text": "$r<r_0$ 时，$F$ 随 $r$ 增大而减小，表现为斥力；$r=r_0$ 时，$F=0$；$r>r_0$ 时，原文表述为“$r$ 增大，$F$ 先增大后减小，表现为引力”；$r>10r_0$ 时，可近似看作 $F=0$。【待核对】原文在引力区对 $F$“先增大后减小”的表述与图像中负值的变化方向不同，需核对其是否指力的大小。",
+      "title": "分子间作用力随距离的变化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-3595fd7415555fb9c8ce"
+      ],
+      "text": "$r<r_0$ 时，$r$ 增大，$F$ 做正功，$E_{\\mathrm p}$ 减小；$r=r_0$ 时，$E_{\\mathrm p}$ 最小；$r>r_0$ 时，$r$ 增大，$F$ 做负功，$E_{\\mathrm p}$ 增大。原文图像中势能远处趋近于零，表中写有 $r=r_0$ 时势能小于 $0$，$r>10r_0$ 时 $E_{\\mathrm p}=0$。【待核对】后一个等式的近似含义需核对；势能数值还涉及零势能位置的选择。",
+      "title": "分子势能随距离的变化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-6eba8f7441d6f1ad4123"
+      ],
+      "text": "分子势能为 $0$ 与分子势能最小含义不同：前者与选择的零势能面有关，后者的位置一定在 $r=r_0$ 处。",
+      "title": "分子势能零点与最小值的区别",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-39ce45716e3b210b8123"
+      ],
+      "text": "晶体和非晶体在一定条件下可以相互转化。原文未具体列出这些条件。",
+      "title": "晶体与非晶体的转化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l11",
+      "source_node_ids": [
+        "n-87c77937d81cd648e0e1"
+      ],
+      "text": "表面张力使液体表面具有收缩的趋势，使液体表面面积趋于最小；在体积相同的条件下，球体的表面积最小。",
+      "title": "表面张力的作用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l12",
+      "source_node_ids": [
+        "n-db1a2aabf59ba564e9ec"
+      ],
+      "text": "当液体和与之接触的固体间的相互作用比液体分子之间的相互作用强时，液体能够浸润固体；比液体分子之间的相互作用弱时，液体不浸润固体。",
+      "title": "浸润与不浸润的产生条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l13",
+      "source_node_ids": [
+        "n-db1a2aabf59ba564e9ec"
+      ],
+      "text": "细管内径越小，毛细现象越明显。",
+      "title": "毛细现象与细管内径的关系",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-71f24066ccb8071242e0"
+      ],
+      "text": "对固体和液体分子采用球体模型，用 $d=\\sqrt[3]{\\dfrac{6V_0}{\\pi}}$ 计算分子直径，其中 $V_0$ 为分子体积。",
+      "title": "用球体模型估算分子直径",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-71f24066ccb8071242e0"
+      ],
+      "text": "对气体分子采用立方体模型，用 $d=\\sqrt[3]{V_0}$ 计算分子间的平均距离，其中 $V_0$ 为分子所占空间体积，$d$ 为气体分子间的平均距离。",
+      "title": "用立方体模型估算气体分子间距",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-3595fd7415555fb9c8ce",
+        "n-6eba8f7441d6f1ad4123"
+      ],
+      "text": "分析分子势能时，结合分子间距离与 $r_0$ 的关系判断分子力做功及势能增减，并区分势能零点与势能最小位置：零势能取决于零势能面的选择，势能最小的位置在 $r=r_0$ 处。",
+      "title": "结合分子力做功和零点分析分子势能",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-4ab39cf66d736f531391",
+        "n-39ce45716e3b210b8123"
+      ],
+      "text": "依据熔点是否确定区分晶体和非晶体：单晶体、多晶体均有确定熔点，非晶体熔点不确定。比较物理性质时，单晶体具有各向异性，多晶体和非晶体具有各向同性；单晶体并非所有物理性质都表现出各向异性。",
+      "title": "根据熔点及物理性质辨别固体",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-881c316aca5d22a1e777"
+      ],
+      "from": "c5",
+      "to": "c4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-881c316aca5d22a1e777"
+      ],
+      "from": "c6",
+      "to": "c4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-881c316aca5d22a1e777"
+      ],
+      "from": "l4",
+      "to": "c5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-881c316aca5d22a1e777"
+      ],
+      "from": "l5",
+      "to": "c6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-881c316aca5d22a1e777"
+      ],
+      "from": "l6",
+      "to": "c4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-71f24066ccb8071242e0"
+      ],
+      "from": "l1",
+      "to": "c2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-71f24066ccb8071242e0"
+      ],
+      "from": "l2",
+      "to": "c2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-71f24066ccb8071242e0"
+      ],
+      "from": "l3",
+      "to": "c2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-71f24066ccb8071242e0"
+      ],
+      "from": "m1",
+      "to": "c3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-71f24066ccb8071242e0"
+      ],
+      "from": "m2",
+      "to": "c3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-341afb5b7d3c656b860e"
+      ],
+      "from": "c10",
+      "to": "c8",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-341afb5b7d3c656b860e"
+      ],
+      "from": "c10",
+      "to": "c9",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3595fd7415555fb9c8ce"
+      ],
+      "from": "l7",
+      "to": "c7",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3595fd7415555fb9c8ce"
+      ],
+      "from": "l8",
+      "to": "c9",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6eba8f7441d6f1ad4123"
+      ],
+      "from": "l9",
+      "to": "c9",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3595fd7415555fb9c8ce"
+      ],
+      "from": "m3",
+      "to": "l8",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6eba8f7441d6f1ad4123"
+      ],
+      "from": "m3",
+      "to": "l9",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-70b28c1676df6bfe4b41"
+      ],
+      "from": "n-70b28c1676df6bfe4b41",
+      "to": "c7",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-70b28c1676df6bfe4b41"
+      ],
+      "from": "n-70b28c1676df6bfe4b41",
+      "to": "c9",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-17f66d8885261ef9b5de"
+      ],
+      "from": "n-17f66d8885261ef9b5de",
+      "to": "c7",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-17f66d8885261ef9b5de"
+      ],
+      "from": "n-17f66d8885261ef9b5de",
+      "to": "c9",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4ab39cf66d736f531391"
+      ],
+      "from": "c11",
+      "to": "c12",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4ab39cf66d736f531391"
+      ],
+      "from": "c11",
+      "to": "c13",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4ab39cf66d736f531391"
+      ],
+      "from": "c11",
+      "to": "c14",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4ab39cf66d736f531391",
+        "n-39ce45716e3b210b8123"
+      ],
+      "from": "m4",
+      "to": "c12",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4ab39cf66d736f531391"
+      ],
+      "from": "m4",
+      "to": "c13",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4ab39cf66d736f531391"
+      ],
+      "from": "m4",
+      "to": "c14",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-87c77937d81cd648e0e1"
+      ],
+      "from": "l11",
+      "to": "c15",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-db1a2aabf59ba564e9ec"
+      ],
+      "from": "l12",
+      "to": "c16",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-db1a2aabf59ba564e9ec"
+      ],
+      "from": "l12",
+      "to": "c17",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-db1a2aabf59ba564e9ec"
+      ],
+      "from": "c18",
+      "to": "c16",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-db1a2aabf59ba564e9ec"
+      ],
+      "from": "c18",
+      "to": "c17",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-db1a2aabf59ba564e9ec"
+      ],
+      "from": "l13",
+      "to": "c18",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-03f717c3ddc37bc4f81f"
+      ],
+      "from": "n-03f717c3ddc37bc4f81f",
+      "to": "c16",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-03f717c3ddc37bc4f81f"
+      ],
+      "from": "n-03f717c3ddc37bc4f81f",
+      "to": "c14",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-03f717c3ddc37bc4f81f"
+      ],
+      "from": "n-03f717c3ddc37bc4f81f",
+      "to": "c19",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-e103de17577d2bbae55f",
+  "source_digest": "35d37a61c0410908d86de9a102a15570adb0a5629e41db9497868e0be4ced124",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

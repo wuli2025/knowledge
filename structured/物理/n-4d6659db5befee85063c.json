@@ -1,0 +1,294 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-8571e20d3ff71969aa15"
+      ],
+      "text": "在匀强磁场中，线圈绕垂直于磁感线方向的轴匀速转动，可产生正弦式交变电流。",
+      "title": "正弦式交变电流的产生条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-08f8092619a0d94a79c3"
+      ],
+      "text": "瞬时值是交变电流某一时刻的值。原文列出的正弦式表达式为 $e=E_m\\sin\\omega t$、$i=I_m\\sin\\omega t$，可用于计算线圈某时刻的受力情况。",
+      "title": "交变电流的瞬时值",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-08f8092619a0d94a79c3"
+      ],
+      "text": "峰值是最大的瞬时值，可用于讨论电容器的击穿电压。",
+      "title": "交变电流的峰值",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-08f8092619a0d94a79c3"
+      ],
+      "text": "平均值是交变电流图像中图线与时间轴所围的“面积”与时间的比值，可用于计算一段时间内通过导线横截面的电荷量。",
+      "title": "交变电流的平均值",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-08f8092619a0d94a79c3"
+      ],
+      "text": "有效值是跟交变电流的热效应等效的恒定电流的相关值，用于计算电功、电功率、电热、保险丝的熔断电流等与热效应有关的物理量。",
+      "title": "交变电流的有效值",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-8571e20d3ff71969aa15"
+      ],
+      "text": "线圈平面与中性面重合时，原文记为 $S\\perp B$，$\\Phi$最大，$\\dfrac{\\Delta\\Phi}{\\Delta t}=0$，$e=0$，$i=0$，电流方向将发生改变。【待核对】原文用 $S$ 表示平面位置关系，并以 $\\dfrac{\\Delta\\Phi}{\\Delta t}$ 描述该位置的变化率，此处保留原式。",
+      "title": "线圈位于中性面时的特点",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-8571e20d3ff71969aa15"
+      ],
+      "text": "线圈平面与中性面垂直时，原文记为 $S\\parallel B$，$\\Phi=0$，$\\dfrac{\\Delta\\Phi}{\\Delta t}$最大，$e$最大，$i$最大，电流方向不改变。【待核对】原文用 $S$ 表示平面位置关系，并以 $\\dfrac{\\Delta\\Phi}{\\Delta t}$ 描述该位置的变化率；“最大”的符号或大小含义未进一步说明，此处保留原式。",
+      "title": "线圈平面垂直中性面时的特点",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-8571e20d3ff71969aa15"
+      ],
+      "text": "线圈通过中性面位置时，电流方向发生改变。一个周期内线圈两次通过中性面位置，电流方向改变两次。",
+      "title": "交变电流方向的改变",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-8571e20d3ff71969aa15",
+        "n-08f8092619a0d94a79c3"
+      ],
+      "text": "在匀强磁场中，线圈绕垂直于磁感线方向的轴匀速转动时，感应电动势的最大值为 $E_m=nBS\\omega$，与转轴位置、线圈形状无关。原文给出的电流峰值关系为 $I_m=\\dfrac{E_m}{R+r}$。",
+      "title": "感应电动势与电流的峰值关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-8571e20d3ff71969aa15"
+      ],
+      "text": "从线圈在中性面位置开始计时，磁通量按 $\\Phi=\\Phi_m\\cos\\omega t=BS\\cos\\omega t$ 变化；感应电动势按 $e=E_m\\sin\\omega t=nBS\\omega\\sin\\omega t$ 变化。对应图像分别为余弦图像和正弦图像，周期均为 $T$。",
+      "title": "磁通量与感应电动势的变化规律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-08f8092619a0d94a79c3"
+      ],
+      "text": "原文列出的平均值关系为 $\\overline{E}=BL\\overline{v}$、$\\overline{E}=n\\dfrac{\\Delta\\Phi}{\\Delta t}$、$\\overline{I}=\\dfrac{\\overline{E}}{R+r}$，用于计算一段时间内通过导线横截面的电荷量。原文表格未进一步展开各式的适用条件。",
+      "title": "平均电动势与平均电流的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-08f8092619a0d94a79c3"
+      ],
+      "text": "对于正弦式交变电流，有效值与峰值的关系为 $E=\\dfrac{E_m}{\\sqrt{2}}$、$U=\\dfrac{U_m}{\\sqrt{2}}$、$I=\\dfrac{I_m}{\\sqrt{2}}$。",
+      "title": "正弦式交变电流有效值与峰值的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-3c966abedec722fd8f57"
+      ],
+      "text": "计算有效值依据热效应等效：交变电流与相应恒定电流在“相同时间”内，通过“相同电阻”，产生“相同热量”。利用 $Q=I^2Rt$ 和 $Q=\\dfrac{U^2}{R}t$，可分别求得电流有效值和电压有效值。",
+      "title": "有效值计算的热效应等效关系",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-08f8092619a0d94a79c3"
+      ],
+      "text": "按所求物理量选择交变电流的相应数值：计算线圈某时刻的受力用瞬时值；讨论电容器击穿电压用峰值；计算一段时间内通过导线横截面的电荷量用平均值；计算电功、电功率、电热及保险丝熔断电流等用有效值。",
+      "title": "根据问题选择交变电流的四值",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-3c966abedec722fd8f57"
+      ],
+      "text": "计算有效值时，先按电流的热效应分段计算热量，再求和得到一个周期内产生的总热量 $Q$；依据相同时间、相同电阻、相同热量，利用 $Q=I^2Rt$ 或 $Q=\\dfrac{U^2}{R}t$ 求电流或电压有效值。",
+      "title": "非常规交变电流有效值的计算",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-3c966abedec722fd8f57"
+      ],
+      "text": "若交变电流图像部分是正弦（或余弦）函数图像，或图像的 $\\dfrac{1}{4}$ 周期部分（必须从零至最大值或从最大值至零），或 $\\dfrac{1}{2}$ 周期部分，可直接应用 $I=\\dfrac{I_{\\mathrm m}}{\\sqrt{2}}$、$U=\\dfrac{U_{\\mathrm m}}{\\sqrt{2}}$ 分析。",
+      "title": "正弦或余弦图像部分的有效值分析",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-8571e20d3ff71969aa15"
+      ],
+      "from": "c1",
+      "to": "l5",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8571e20d3ff71969aa15"
+      ],
+      "from": "l1",
+      "to": "l3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-08f8092619a0d94a79c3"
+      ],
+      "from": "c3",
+      "to": "l4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-08f8092619a0d94a79c3"
+      ],
+      "from": "c4",
+      "to": "l6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-08f8092619a0d94a79c3"
+      ],
+      "from": "c5",
+      "to": "l7",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-08f8092619a0d94a79c3"
+      ],
+      "from": "m1",
+      "to": "c2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-08f8092619a0d94a79c3"
+      ],
+      "from": "m1",
+      "to": "c3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-08f8092619a0d94a79c3"
+      ],
+      "from": "m1",
+      "to": "c4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-08f8092619a0d94a79c3"
+      ],
+      "from": "m1",
+      "to": "c5",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3c966abedec722fd8f57"
+      ],
+      "from": "m2",
+      "to": "l8",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3c966abedec722fd8f57"
+      ],
+      "from": "m3",
+      "to": "l7",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3c966abedec722fd8f57"
+      ],
+      "from": "m2",
+      "to": "m3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-13dea75d9be734de6b22"
+      ],
+      "from": "n-13dea75d9be734de6b22",
+      "to": "c5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f8d60af92420a4fc9c94"
+      ],
+      "from": "n-f8d60af92420a4fc9c94",
+      "to": "c5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f8d60af92420a4fc9c94"
+      ],
+      "from": "n-0687c2b7d468e8a0feb4",
+      "to": "n-f8d60af92420a4fc9c94",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-4d6659db5befee85063c",
+  "source_digest": "8145eff900e608534e1e6ce46aec5dd6df6801184daa9f8028bab12d95ee6cb9",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

@@ -1,0 +1,206 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-b5c9f18eabb407aaa38e"
+      ],
+      "text": "相邻两条亮条纹或相邻两条暗条纹中心间的距离记为 $\\Delta x$。",
+      "title": "干涉条纹间距",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-b5c9f18eabb407aaa38e"
+      ],
+      "text": "光源发出的光经过滤光片后变成单色光，再经过单缝 $S$ 时发生衍射，双缝 $S_1$、$S_2$ 相当于两个相干光源。",
+      "title": "双缝实验中相干光源的形成",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-fbe68587baedbe9f2291"
+      ],
+      "text": "单色光源 $S$ 发出的一部分光经平面镜反射后到达光屏，另一部分光直接到达光屏，两光束在光屏上的交叠区域出现干涉条纹。$S$ 和它通过平面镜成的像 $S'$ 构成相干光源。",
+      "title": "洛埃镜干涉",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-b5c9f18eabb407aaa38e",
+        "n-7d16e9b687e7f1bbb406"
+      ],
+      "text": "双缝干涉中，相邻两条亮（暗）条纹中心间的距离满足 $\\Delta x=\\dfrac{l}{d}\\lambda$，可由 $\\lambda=\\dfrac{d}{l}\\Delta x$ 求波长。$l$ 为双缝到光屏的距离；测出 $\\Delta x$、$d$、$l$ 即可测出 $\\lambda$。",
+      "title": "双缝干涉条纹间距与波长的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-fbe68587baedbe9f2291"
+      ],
+      "text": "洛埃镜实验中，单色光源 $S$ 与镜面的距离为 $h$，光源与其像 $S'$ 构成相干光源，$d=2h$。光源到光屏的水平距离为 $l$，由 $\\lambda=\\dfrac{d}{l}\\Delta x$ 可以求出波长。",
+      "title": "洛埃镜实验测波长的关系式",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-2b2b74541e689b878adc"
+      ],
+      "text": "安装时，使光源、透镜、滤光片、单缝、双缝的中心均位于遮光筒的中心轴线上，并使单缝、双缝平行且间距适当。调整光源的高度和亮度，使光束能够沿遮光筒的轴线把屏照亮。",
+      "title": "实验装置安装与光源调节",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-2b2b74541e689b878adc"
+      ],
+      "text": "调节测量头，使分划板中心刻线与一条亮条纹的中心对齐，记下手轮读数；转动手轮，使中心刻线与另一条亮条纹的中心对齐，再记下读数。两次读数之差表示这两条亮条纹中心间的距离。",
+      "title": "用测量头测量亮条纹中心间的距离",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-b19ab70b7cc121c96660"
+      ],
+      "text": "转动测量头手轮，分划板中心刻线在第 $1$ 条亮条纹中央时读数为 $a_1$，在第 $n$ 条亮条纹中央时读数为 $a_n$，条纹间距为 $\\Delta x=\\dfrac{a_n-a_1}{n-1}$。再根据 $\\Delta x=\\dfrac{l}{d}\\lambda$ 求出 $\\lambda$。测量多组数据，求 $\\lambda$ 的平均值。",
+      "title": "多条纹间距计算与波长数据处理",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-adc7126073f92ab342d6"
+      ],
+      "text": "分析误差时，考虑双缝到屏的距离 $l$ 的测量误差，以及条纹间距 $\\Delta x$ 的测量误差。后者包括：干涉条纹未调整到最清晰；分划板中心刻线与条纹不平行，或未恰好位于条纹中心；测量多条亮条纹中心间的距离时读数不精准。",
+      "title": "双缝干涉测波长的误差分析",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-7d16e9b687e7f1bbb406"
+      ],
+      "text": "让一束激光经过双缝后投射到光屏上，测出相邻两亮条纹中心间的距离 $\\Delta x$，由 $\\lambda=\\dfrac{d}{l}\\Delta x$ 测出波长。该方案操作简便、现象明显，但相邻亮条纹中心间距离的测量误差较大。",
+      "title": "利用激光笔和双缝测量波长",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-fbe68587baedbe9f2291"
+      ],
+      "text": "利用单色光源直接到达光屏的光与经平面镜反射后到达光屏的光，在两光束交叠区域形成明暗相间的干涉条纹。光源与镜面的距离为 $h$，取 $d=2h$，由 $\\lambda=\\dfrac{d}{l}\\Delta x$ 求波长；$l$ 为光源到光屏的水平距离。",
+      "title": "利用洛埃镜实验测量波长",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-b5c9f18eabb407aaa38e"
+      ],
+      "from": "c2",
+      "to": "l1",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b5c9f18eabb407aaa38e"
+      ],
+      "from": "c1",
+      "to": "l1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2b2b74541e689b878adc",
+        "n-b19ab70b7cc121c96660"
+      ],
+      "from": "m2",
+      "to": "m3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b19ab70b7cc121c96660"
+      ],
+      "from": "m3",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-adc7126073f92ab342d6"
+      ],
+      "from": "m4",
+      "to": "c1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-adc7126073f92ab342d6",
+        "n-2b2b74541e689b878adc"
+      ],
+      "from": "m4",
+      "to": "m2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7d16e9b687e7f1bbb406"
+      ],
+      "from": "m5",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-fbe68587baedbe9f2291"
+      ],
+      "from": "c3",
+      "to": "l2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-fbe68587baedbe9f2291"
+      ],
+      "from": "m6",
+      "to": "c3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-fbe68587baedbe9f2291"
+      ],
+      "from": "m6",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-ef70184f0faf26f4ea03",
+  "source_digest": "2e652e34c8ac2ed35ebcfed3609cc1bffb4c6c12f0b1ab3dc93f018717a20db9",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}
