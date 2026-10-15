@@ -1,0 +1,486 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-8cf4c20dbc856c7494b9",
+        "n-185b5a3b80bbc79928f7",
+        "n-fedbb20526de30e56069"
+      ],
+      "text": "洛伦兹力的大小与电荷的运动速度及其相对磁场的方向有关；其方向垂直于磁场方向和速度方向，对运动电荷不做功。",
+      "title": "洛伦兹力",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-fedbb20526de30e56069"
+      ],
+      "text": "安培力是洛伦兹力的宏观表现，洛伦兹力是安培力的微观实质。安培力可以做功，原文说明其实质是洛伦兹力的一个分力在做功。",
+      "title": "洛伦兹力与安培力的联系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-1aa67416b2cd32b0c3ec"
+      ],
+      "text": "在匀强磁场中，不计重力、在洛伦兹力作用下，带电粒子的运动形式与入射速度和磁场方向的关系有关；垂直入射时，在垂直于磁感线的平面内做匀速圆周运动。",
+      "title": "带电粒子在匀强磁场中的运动",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-8cf4c20dbc856c7494b9"
+      ],
+      "text": "当 $v\\parallel B$（或 $v=0$）时，洛伦兹力 $F=0$；当 $v\\perp B$ 时，$F=qvB$；当 $v$ 与 $B$ 的夹角为 $\\theta$ 时，$F=qvB\\sin\\theta$。这些公式用于计算力的大小。 式中 $q$ 表示电荷量的绝对值，不能将负电荷的代数值直接代入力、半径或周期的大小公式。",
+      "title": "洛伦兹力的大小",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-185b5a3b80bbc79928f7"
+      ],
+      "text": "洛伦兹力的方向满足 $F\\perp B$、$F\\perp v$，即 $F$ 垂直于 $B$ 和 $v$ 决定的平面。",
+      "title": "洛伦兹力的方向特点",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-fedbb20526de30e56069"
+      ],
+      "text": "洛伦兹力对运动电荷不做功；安培力可以做功。",
+      "title": "洛伦兹力与安培力的做功特点",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-1aa67416b2cd32b0c3ec"
+      ],
+      "text": "在匀强磁场中，不计带电粒子重力，在洛伦兹力作用下：若 $v\\parallel B$，粒子以入射速度 $v$ 做匀速直线运动；若 $v\\perp B$，粒子在垂直于磁感线的平面内，以入射速度 $v$ 做匀速圆周运动。",
+      "title": "平行入射与垂直入射时的运动规律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-1aa67416b2cd32b0c3ec"
+      ],
+      "text": "在匀强磁场中，不计带电粒子重力，若 $v$ 与 $B$ 成 $\\theta$ 角，在平行于磁场方向，以 $v\\cos\\theta$ 做匀速直线运动；在垂直于磁场方向，以 $v\\sin\\theta$ 做匀速圆周运动。",
+      "title": "斜向入射时的分运动规律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-af04c132c88765e7ed10",
+        "n-fb221823a2c57a4bb0a1",
+        "n-1aa67416b2cd32b0c3ec"
+      ],
+      "text": "带电粒子垂直进入匀强磁场，不计重力，在洛伦兹力作用下做匀速圆周运动时，$qvB=m\\dfrac{v^2}{R}$，轨迹半径为 $R=\\dfrac{mv}{qB}=\\dfrac{\\sqrt{2mE_k}}{qB}$。 式中 $q$ 表示电荷量的绝对值，不能将负电荷的代数值直接代入力、半径或周期的大小公式。",
+      "title": "洛伦兹力提供向心力及轨迹半径公式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-af04c132c88765e7ed10",
+        "n-fb221823a2c57a4bb0a1"
+      ],
+      "text": "不计重力，带电粒子在匀强磁场中受洛伦兹力作用做圆周运动时，动能与轨迹半径的关系为 $E_k=\\dfrac{1}{2}mv^2=\\dfrac{q^2B^2R^2}{2m}$。",
+      "title": "圆周运动中动能与轨迹半径的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-af04c132c88765e7ed10",
+        "n-fb221823a2c57a4bb0a1"
+      ],
+      "text": "不计重力，带电粒子在匀强磁场中受洛伦兹力作用做圆周运动时，周期为 $T=\\dfrac{2\\pi R}{v}=\\dfrac{2\\pi m}{qB}$。 式中 $q$ 表示电荷量的绝对值，不能将负电荷的代数值直接代入力、半径或周期的大小公式。 圆周运动公式用于粒子速度垂直匀强磁场、除洛伦兹力外其他力可忽略的情形。",
+      "title": "带电粒子圆周运动的周期",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-781cc80d30ef57bdfabb"
+      ],
+      "text": "速度偏转角 $\\varphi$ 等于轨迹圆弧 $\\widehat{AB}$ 所对的圆心角 $\\alpha$。圆心角与弦切角 $\\theta$ 的关系为：$\\widehat{AB}$ 为劣弧时，$\\alpha=2\\theta$；$\\widehat{AB}$ 为优弧时，$\\alpha=360^\\circ-2\\theta$。",
+      "title": "圆周运动中的角度关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-400f46436ca3bd4a46f3"
+      ],
+      "text": "带电体做变速直线运动时，洛伦兹力的大小随速度大小变化，与接触面间的弹力一般也随之变化；接触面粗糙时，摩擦力也跟着变化，从而使加速度变化。原文给出的离开接触面的条件为弹力减小到 $0$。",
+      "title": "带电体变速运动中的接触力变化",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-185b5a3b80bbc79928f7"
+      ],
+      "text": "用左手定则判定洛伦兹力方向：使磁感线垂直穿入掌心，四指指向正电荷运动方向或负电荷运动的反方向，拇指指向洛伦兹力方向。",
+      "title": "左手定则判定洛伦兹力方向",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-ad276117423c2cd595a9"
+      ],
+      "text": "已知入射点、入射方向以及出射点、出射方向时，分别通过入射点和出射点作垂直于对应速度方向的直线，两条直线的交点就是圆弧轨迹的圆心。",
+      "title": "用入射与出射速度的垂线确定圆心",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-ad276117423c2cd595a9"
+      ],
+      "text": "已知入射方向及入射点、出射点的位置时，通过入射点作入射方向的垂线，连接入射点与出射点并作连线的中垂线，两条线的交点就是圆弧轨迹的圆心。",
+      "title": "用速度垂线与弦的中垂线确定圆心",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-f378c3fb6a0448915367"
+      ],
+      "text": "对洛伦兹力作用下的圆周运动，利用动力学方程 $qvB=m\\dfrac{v^2}{R}$，得到轨迹半径 $R=\\dfrac{mv}{qB}$。 式中 $q$ 表示电荷量的绝对值，不能将负电荷的代数值直接代入力、半径或周期的大小公式。 圆周运动公式用于粒子速度垂直匀强磁场、除洛伦兹力外其他力可忽略的情形。",
+      "title": "利用动力学方程求轨迹半径",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-f378c3fb6a0448915367"
+      ],
+      "text": "轨迹明确时，可用勾股定理、三角函数、弦切角定理等确定半径。对原文图示几何关系，匀强磁场区域宽度为 $d$，轨迹对应水平长度为 $L$，圆心角为 $\\theta$，有 $R=\\dfrac{L}{\\sin\\theta}$；由 $R^2=L^2+(R-d)^2$ 可得 $R=\\dfrac{L^2+d^2}{2d}$。这些几何式适用于原文所示的入射、出射位置关系。",
+      "title": "利用轨迹的几何关系求半径",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-be25952349f63ed2c5bf"
+      ],
+      "text": "带电粒子做匀速圆周运动时，由轨迹对应的圆心角求运动时间：$t=\\dfrac{\\theta}{2\\pi}T$。",
+      "title": "由圆心角与周期求运动时间",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-be25952349f63ed2c5bf"
+      ],
+      "text": "带电粒子做匀速圆周运动时，由轨迹弧长求运动时间：$t=\\dfrac{s}{v}=\\dfrac{\\theta R}{v}$。",
+      "title": "由弧长与速率求运动时间",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-117a1fc3c5da43f90d97"
+      ],
+      "text": "先画轨迹并确定圆心，再建立物理量与几何量的联系：用 $R=\\dfrac{mv}{qB}$ 联系轨迹半径、磁感应强度和运动速度，用几何方法确定半径，利用速度偏转角等于圆心角，以及 $t=\\dfrac{\\theta}{2\\pi}T$ 联系运动时间、圆心角和周期。最后运用牛顿第二定律和圆周运动规律，特别是周期公式、半径公式。 式中 $q$ 表示电荷量的绝对值，不能将负电荷的代数值直接代入力、半径或周期的大小公式。 圆周运动公式用于粒子速度垂直匀强磁场、除洛伦兹力外其他力可忽略的情形。 时间关系中的 $\\theta$ 以弧度计。",
+      "title": "匀强磁场中圆周运动问题的分析流程",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m9",
+      "source_node_ids": [
+        "n-1146b6707ce1323e00ce"
+      ],
+      "text": "在典例3的有界匀强磁场情境中，已知粒子经过磁场外 $P$ 点时的速度方向，可过 $P$ 作速度的反向延长线，与磁场上边界的交点就是出射点；再由已知物理量求轨迹半径，将问题转化为几何量的求解。",
+      "title": "由磁场外速度反向延长线确定出射点",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-8cf4c20dbc856c7494b9"
+      ],
+      "from": "c1",
+      "to": "l1",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-185b5a3b80bbc79928f7"
+      ],
+      "from": "c1",
+      "to": "l2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-fedbb20526de30e56069"
+      ],
+      "from": "c1",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-fedbb20526de30e56069"
+      ],
+      "from": "c2",
+      "to": "l3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-185b5a3b80bbc79928f7"
+      ],
+      "from": "m1",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1aa67416b2cd32b0c3ec"
+      ],
+      "from": "c3",
+      "to": "l4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1aa67416b2cd32b0c3ec"
+      ],
+      "from": "c3",
+      "to": "l5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-fb221823a2c57a4bb0a1"
+      ],
+      "from": "l6",
+      "to": "l7",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-fb221823a2c57a4bb0a1"
+      ],
+      "from": "l6",
+      "to": "l8",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f378c3fb6a0448915367"
+      ],
+      "from": "m4",
+      "to": "l6",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-117a1fc3c5da43f90d97",
+        "n-ad276117423c2cd595a9"
+      ],
+      "from": "m8",
+      "to": "m2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-117a1fc3c5da43f90d97",
+        "n-ad276117423c2cd595a9"
+      ],
+      "from": "m8",
+      "to": "m3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-117a1fc3c5da43f90d97",
+        "n-f378c3fb6a0448915367"
+      ],
+      "from": "m8",
+      "to": "m4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-117a1fc3c5da43f90d97",
+        "n-f378c3fb6a0448915367"
+      ],
+      "from": "m8",
+      "to": "m5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-117a1fc3c5da43f90d97",
+        "n-be25952349f63ed2c5bf"
+      ],
+      "from": "m8",
+      "to": "m6",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-117a1fc3c5da43f90d97",
+        "n-781cc80d30ef57bdfabb"
+      ],
+      "from": "m8",
+      "to": "l9",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-be25952349f63ed2c5bf",
+        "n-fb221823a2c57a4bb0a1"
+      ],
+      "from": "m6",
+      "to": "l8",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-be25952349f63ed2c5bf"
+      ],
+      "from": "m6",
+      "to": "m7",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-bbaa81fd4b773f3d2ec0",
+        "n-8cf4c20dbc856c7494b9"
+      ],
+      "from": "n-bbaa81fd4b773f3d2ec0",
+      "to": "l1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-bbaa81fd4b773f3d2ec0",
+        "n-185b5a3b80bbc79928f7"
+      ],
+      "from": "n-bbaa81fd4b773f3d2ec0",
+      "to": "m1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2a278adc45f89988f739",
+        "n-400f46436ca3bd4a46f3"
+      ],
+      "from": "n-2a278adc45f89988f739",
+      "to": "l10",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-be6029245ef4ac6f2746",
+        "n-400f46436ca3bd4a46f3"
+      ],
+      "from": "n-be6029245ef4ac6f2746",
+      "to": "l10",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-dd0e45e40ba4ad032517",
+        "n-400f46436ca3bd4a46f3"
+      ],
+      "from": "n-dd0e45e40ba4ad032517",
+      "to": "l10",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1146b6707ce1323e00ce"
+      ],
+      "from": "n-1146b6707ce1323e00ce",
+      "to": "m9",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1146b6707ce1323e00ce",
+        "n-f378c3fb6a0448915367"
+      ],
+      "from": "m9",
+      "to": "m4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-22b91efde0c71aecdf8d",
+        "n-fb221823a2c57a4bb0a1"
+      ],
+      "from": "n-22b91efde0c71aecdf8d",
+      "to": "l6",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-22b91efde0c71aecdf8d",
+        "n-be25952349f63ed2c5bf"
+      ],
+      "from": "n-22b91efde0c71aecdf8d",
+      "to": "m6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ec890d5d2aad52df870a",
+        "n-117a1fc3c5da43f90d97"
+      ],
+      "from": "n-ec890d5d2aad52df870a",
+      "to": "m8",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-055626a1ae64719cefa7",
+  "source_digest": "22880e315c9b19498f6babe9a2c90e4d3c6e72d2a920e10b9e850841c576b7c9",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

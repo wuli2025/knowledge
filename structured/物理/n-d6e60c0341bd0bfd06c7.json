@@ -1,0 +1,342 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-90f3876522990bf55843"
+      ],
+      "text": "电源总功率为 $P_{\\text{总}}=EI$；电源内部消耗的功率为 $P_{\\text{内}}=I^2r$；电源输出功率为 $P_{\\text{出}}=UI$。总功率由输出功率和内部消耗的功率组成。",
+      "title": "电源总功率、内部消耗功率与输出功率",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-90f3876522990bf55843"
+      ],
+      "text": "电源的效率是输出功率与总功率的比值：$\\eta=\\dfrac{P_{\\text{出}}}{P_{\\text{总}}}\\times100\\%=\\dfrac{U}{E}\\times100\\%$，适用于任意电路；纯电阻电路中，$\\eta=\\dfrac{R}{R+r}\\times100\\%$。",
+      "title": "电源效率",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-4a3f439fe3db5f5d646e"
+      ],
+      "text": "等效电源是把含有电源、电阻的部分电路等效为新的“电源”。两点间断路时的电压为等效电动势 $E'$；两点短路时的电流为等效短路电流 $I_{\\text{短}}$；等效内阻为 $r'=\\dfrac{E'}{I_{\\text{短}}}$。",
+      "title": "等效电源与等效内阻",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-055b8e0c46b0c100bdb9"
+      ],
+      "text": "闭合电路的电流跟电源的电动势成正比，跟内、外电路的电阻之和成反比。$I=\\dfrac{E}{R+r}$，只适用于纯电阻电路；$E=U_{\\text{外}}+U_{\\text{内}}$ 或 $E=U_{\\text{外}}+Ir$，适用于任何电路。",
+      "title": "闭合电路欧姆定律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-753cbe49224a283fb65c"
+      ],
+      "text": "路端电压跟电流的关系式为 $U=E-Ir$。图示电流为 $I_1$ 时，$U_{\\text{外}}=I_1R$，$U_{\\text{内}}=I_1r$。",
+      "title": "路端电压与电流的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-931ad382998c447aeaa9"
+      ],
+      "text": "纯电阻电路中，$U=IR=\\dfrac{E}{R+r}R=\\dfrac{E}{1+\\dfrac{r}{R}}$。$R$ 增大时，$I$ 减小，$U$ 增大；$R$ 减小时，$I$ 增大，$U$ 减小。",
+      "title": "路端电压与负载电阻的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-931ad382998c447aeaa9"
+      ],
+      "text": "当 $R\\to\\infty$（断路）时，$I=0$，$U=E$；当 $R=0$（短路）时，$I_{\\text{短}}=\\dfrac{E}{r}$，$U=0$。",
+      "title": "断路与短路时的电流和路端电压",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-90f3876522990bf55843"
+      ],
+      "text": "任意电路中，$P_{\\text{总}}=EI=IU+IU_r=P_{\\text{出}}+P_{\\text{内}}$，$P_{\\text{内}}=I^2r=P_{\\text{总}}-P_{\\text{出}}$，$P_{\\text{出}}=UI=IE-I^2r=P_{\\text{总}}-P_{\\text{内}}$。纯电阻电路中，$P_{\\text{总}}=I^2(R+r)=\\dfrac{E^2}{R+r}$，$P_{\\text{出}}=I^2R=\\dfrac{E^2R}{(R+r)^2}$。",
+      "title": "闭合电路的功率关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-b977346feb4fadc6cedc",
+        "n-90f3876522990bf55843"
+      ],
+      "text": "纯电阻电路中，$P_{\\text{出}}=IU=I^2R=\\dfrac{E^2}{(R+r)^2}R=\\dfrac{E^2R}{(R-r)^2+4Rr}=\\dfrac{E^2}{\\dfrac{(R-r)^2}{R}+4r}$。当 $R=r$ 时，输出功率最大，$P_{\\text{出}\\max}=\\dfrac{E^2}{4r}$。在 $R$ 接近 $r$ 的过程中，$P_{\\text{出}}$ 增大；反之，$P_{\\text{出}}$ 减小。",
+      "title": "输出功率最大值及随外电阻的变化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-b977346feb4fadc6cedc"
+      ],
+      "text": "原文表述：当 $P_{\\text{出}}<P_{\\text{出}\\max}$ 时，每个输出功率对应两个可能的外电阻阻值 $R_1$ 和 $R_2$，且 $R_1R_2=r^2$；图示 $R_1<r<R_2$。【待核对】原文未明确该表述在零输出功率处的适用范围。",
+      "title": "相同输出功率对应的两个外电阻",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-4a3f439fe3db5f5d646e"
+      ],
+      "text": "电源 $E,r$ 与电阻 $R$ 串联时，$E'=E$，$r'=R+r$。电源 $E,r$ 与电阻 $R$ 并联时，$E'=\\dfrac{R}{R+r}E$，$r'=\\dfrac{Rr}{R+r}$。电源 $E,r$ 与 $R_1$ 串联后再与 $R_2$ 并联时，$E'=\\dfrac{R_2}{R_1+R_2+r}E$，$r'=\\dfrac{(R_1+r)R_2}{R_1+R_2+r}$。",
+      "title": "三种常见电路的等效电源参数",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-70d4311018e9728e78c9",
+        "n-003860468509ff8ee26e",
+        "n-753cbe49224a283fb65c"
+      ],
+      "text": "利用 $U=E-Ir$ 分析电源 $U-I$ 图像：纵轴截距表示电动势 $E$，斜率的绝对值表示内阻 $r$；坐标轴从零开始时，横轴截距表示短路电流 $\\dfrac{E}{r}$。图线上每一点的坐标乘积 $UI$ 表示输出功率，$U$ 与 $I$ 的比值表示对应外电阻的大小。应检查两坐标轴是否从零开始；若纵坐标取值不是从零开始，横轴截距不表示短路电流，但斜率绝对值仍等于内阻。",
+      "title": "电源 U-I 图像的读取",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-70d4311018e9728e78c9"
+      ],
+      "text": "定值电阻的 $U-I$ 图像满足 $U=IR$，为过原点的上升直线，表示没有电压时电流为零。图线上每一点的坐标乘积 $UI$ 表示电阻消耗的功率；各点对应的 $U$ 与 $I$ 的比值相等，表示电阻大小；图线斜率的绝对值也表示电阻大小。",
+      "title": "定值电阻 U-I 图像的读取",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-003860468509ff8ee26e"
+      ],
+      "text": "在同一 $U-I$ 坐标系中，将电源图线与用电器图线结合分析。两线交点的横、纵坐标分别表示该用电器与电源形成闭合回路时的电流和路端电压；交点与原点连线的斜率表示用电器此时的电阻；交点向两坐标轴作垂线所围成的矩形面积表示功率。",
+      "title": "电源与用电器 U-I 图线的综合应用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-4a3f439fe3db5f5d646e"
+      ],
+      "text": "分析部分电路时，可把其中的电源与电阻合并为等效电源；原文以将 $R_0$ 当作电源的一部分为例。先取两点间断路电压作为等效电动势 $E'$，再取两点间短路电流作为 $I_{\\text{短}}$，由 $r'=\\dfrac{E'}{I_{\\text{短}}}$ 确定等效内阻。",
+      "title": "等效电源法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-b977346feb4fadc6cedc"
+      ],
+      "text": "分析输出功率随外电阻的变化时，比较 $R$ 与 $r$：$R$ 接近 $r$，输出功率增大；$R$ 远离 $r$，输出功率减小；当 $R=r$ 时取最大值 $P_{\\text{出}\\max}=\\dfrac{E^2}{4r}$。",
+      "title": "利用外电阻与内阻的关系判断输出功率",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-055b8e0c46b0c100bdb9",
+        "n-753cbe49224a283fb65c"
+      ],
+      "from": "l1",
+      "to": "l2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-931ad382998c447aeaa9"
+      ],
+      "from": "l3",
+      "to": "l4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-90f3876522990bf55843"
+      ],
+      "from": "c1",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-90f3876522990bf55843"
+      ],
+      "from": "l5",
+      "to": "c1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-90f3876522990bf55843",
+        "n-b977346feb4fadc6cedc"
+      ],
+      "from": "l5",
+      "to": "l6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b977346feb4fadc6cedc"
+      ],
+      "from": "l6",
+      "to": "l7",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b977346feb4fadc6cedc"
+      ],
+      "from": "m5",
+      "to": "l6",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-753cbe49224a283fb65c",
+        "n-70d4311018e9728e78c9"
+      ],
+      "from": "m1",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-70d4311018e9728e78c9"
+      ],
+      "from": "m1",
+      "to": "m2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-003860468509ff8ee26e"
+      ],
+      "from": "m3",
+      "to": "m1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4a3f439fe3db5f5d646e"
+      ],
+      "from": "m4",
+      "to": "c3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4a3f439fe3db5f5d646e"
+      ],
+      "from": "m4",
+      "to": "l8",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ca5ea9ce7b624f5c4e70",
+        "n-4a3f439fe3db5f5d646e"
+      ],
+      "from": "m4",
+      "to": "n-ca5ea9ce7b624f5c4e70",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ca5ea9ce7b624f5c4e70",
+        "n-b977346feb4fadc6cedc"
+      ],
+      "from": "n-ca5ea9ce7b624f5c4e70",
+      "to": "l6",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2699a72b221b504c1877",
+        "n-003860468509ff8ee26e"
+      ],
+      "from": "n-2699a72b221b504c1877",
+      "to": "m3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-bf13ed4744b9eb209fe6",
+        "n-931ad382998c447aeaa9"
+      ],
+      "from": "n-bf13ed4744b9eb209fe6",
+      "to": "l3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-bf13ed4744b9eb209fe6",
+        "n-753cbe49224a283fb65c"
+      ],
+      "from": "n-bf13ed4744b9eb209fe6",
+      "to": "l2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e42db1d2a223509ab8e5",
+        "n-055b8e0c46b0c100bdb9"
+      ],
+      "from": "n-e42db1d2a223509ab8e5",
+      "to": "l1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e42db1d2a223509ab8e5",
+        "n-931ad382998c447aeaa9"
+      ],
+      "from": "n-e42db1d2a223509ab8e5",
+      "to": "l4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-d6e60c0341bd0bfd06c7",
+  "source_digest": "aeac91f529fced9131f004259a5bff63159c0716b659b2cd168fa9468cf1340f",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

@@ -1,0 +1,194 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-eca3db540cd3a5c07a4c"
+      ],
+      "text": "向心力演示器的左右塔轮通过皮带连接，装有长槽、短槽、横臂、套筒、标尺和手柄。小球对挡板的作用力通过杠杆结构使弹簧测力套筒下降，露出标尺；通过标尺上等分格的数量，可粗略计算两个小球所需向心力的比值。",
+      "title": "向心力演示器的结构与测力原理",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-79e1164463c4563cda02"
+      ],
+      "text": "在 $m$、$r$ 一定时，$F_{\\mathrm n}-\\omega^2$ 图像的数据点位于过原点的倾斜直线上，表明向心力大小与角速度的平方成正比。",
+      "title": "向心力与角速度的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-7eefb10c529399b1b463"
+      ],
+      "text": "在 $m$、$\\omega$ 一定时，$F_{\\mathrm n}-r$ 图像的数据点位于过原点的倾斜直线上，表明向心力大小与转动半径成正比。",
+      "title": "向心力与转动半径的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-c0e089018cfe7ef6f34f"
+      ],
+      "text": "在 $r$、$\\omega$ 一定时，$F_{\\mathrm n}-m$ 图像的数据点位于过原点的倾斜直线上，表明向心力大小与质量成正比。",
+      "title": "向心力与质量的关系",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-a403b5a815facea996ea"
+      ],
+      "text": "使两小球的质量、转动半径相同，探究向心力大小跟角速度的定量关系；使质量、角速度相同，探究向心力大小跟转动半径的定量关系；使转动半径、角速度相同，探究向心力大小跟质量的定量关系。",
+      "title": "控制变量法探究向心力",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-eca3db540cd3a5c07a4c"
+      ],
+      "text": "调整塔轮上的皮带，使其套到半径大小不同的塔轮上，改变长、短槽旋转角速度之比。",
+      "title": "改变旋转角速度之比",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-eca3db540cd3a5c07a4c"
+      ],
+      "text": "将小球放在长槽不同的卡位上，改变小球做圆周运动的半径。",
+      "title": "改变小球的转动半径",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-f45e983d8167849abe17"
+      ],
+      "text": "摇动手柄时缓慢加速，并观察标尺格数；达到预定格数时，保持转速恒定。",
+      "title": "转速控制",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-a5017a1997b0e7e0e8f3",
+        "n-79e1164463c4563cda02",
+        "n-7eefb10c529399b1b463",
+        "n-c0e089018cfe7ef6f34f"
+      ],
+      "text": "在 $m$、$r$ 一定时，记录 $F_{\\mathrm n}$、$\\omega$ 和 $\\omega^2$，作出 $F_{\\mathrm n}-\\omega^2$ 图像；在 $m$、$\\omega$ 一定时，记录 $F_{\\mathrm n}$ 和 $r$，作出 $F_{\\mathrm n}-r$ 图像；在 $r$、$\\omega$ 一定时，记录 $F_{\\mathrm n}$ 和 $m$，作出 $F_{\\mathrm n}-m$ 图像。分析各图像，得出向心力大小与角速度、转动半径、质量之间的关系。",
+      "title": "记录数据并用图像分析关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-9a9f8a476b26538ecf7e"
+      ],
+      "text": "在绳子一端拴小沙袋或其他小物体，另一端握在手中；将手举过头顶，使沙袋在水平面内做匀速圆周运动。此时沙袋所需向心力近似等于绳对沙袋的拉力，用于定性研究。",
+      "title": "用绳和沙袋定性研究",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-cd341f9628dfb5cf3eb3"
+      ],
+      "text": "使用光电门传感器和力传感器，并接入数据采集器。根据单位时间挡光杆通过光电门传感器的次数得到角速度，由系统自动记录砝码向心力的大小 $F$，进而分析向心力与质量、转动半径、角速度的关系。",
+      "title": "用力传感器和光电门传感器探究",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-eca3db540cd3a5c07a4c"
+      ],
+      "from": "m2",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-eca3db540cd3a5c07a4c"
+      ],
+      "from": "m3",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a403b5a815facea996ea",
+        "n-79e1164463c4563cda02"
+      ],
+      "from": "m1",
+      "to": "l1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a403b5a815facea996ea",
+        "n-7eefb10c529399b1b463"
+      ],
+      "from": "m1",
+      "to": "l2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a403b5a815facea996ea",
+        "n-c0e089018cfe7ef6f34f"
+      ],
+      "from": "m1",
+      "to": "l3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a5017a1997b0e7e0e8f3",
+        "n-79e1164463c4563cda02"
+      ],
+      "from": "m5",
+      "to": "l1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a5017a1997b0e7e0e8f3",
+        "n-7eefb10c529399b1b463"
+      ],
+      "from": "m5",
+      "to": "l2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a5017a1997b0e7e0e8f3",
+        "n-c0e089018cfe7ef6f34f"
+      ],
+      "from": "m5",
+      "to": "l3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-a492753857d336e554b7",
+  "source_digest": "a7fb5be1f132fafa7117dd56d21b226d401b035e871fcc58ccbb197c893f8b8b",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

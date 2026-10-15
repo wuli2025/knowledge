@@ -1,0 +1,371 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-2cb322eafee3bfa5e2e4"
+      ],
+      "text": "水平固定的平行粗糙导轨电阻不计且足够长，间距为 $L$，一侧接电阻 $R$；导体杆质量为 $m$、电阻为 $r$，与导轨间的动摩擦因数为 $\\mu$，具有初速度 $v_0$。匀强磁场的磁感应强度大小为 $B$，方向竖直向上。",
+      "title": "具有初速度的单杆模型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-d48c7c5e0439c1eacdcf"
+      ],
+      "text": "水平固定的平行粗糙导轨电阻不计且足够长，间距为 $L$，一侧接电阻 $R$；导体杆质量为 $m$、电阻为 $r$，与导轨间的动摩擦因数为 $\\mu$，在沿导轨的恒力 $F$ 作用下从静止开始运动。匀强磁场的磁感应强度大小为 $B$，方向竖直向上。",
+      "title": "受恒定外力的单杆模型",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-2cb322eafee3bfa5e2e4",
+        "n-d48c7c5e0439c1eacdcf"
+      ],
+      "text": "在原文两类平行导轨单杆模型中，等效电路为电动势为 $E$、内阻为 $r$ 的电源与电阻 $R$ 串联，感应电流 $I=\\frac{E}{R+r}=\\frac{BLv}{R+r}$。",
+      "title": "单杆模型的感应电流",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-2cb322eafee3bfa5e2e4",
+        "n-d48c7c5e0439c1eacdcf"
+      ],
+      "text": "在原文两类平行导轨单杆模型中，安培力 $F_{\\text{安}}=BIL=\\frac{B^2L^2v}{R+r}$，方向与杆的运动方向相反。",
+      "title": "单杆所受安培力",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-2cb322eafee3bfa5e2e4"
+      ],
+      "text": "具有初速度的单杆模型中，安培力与摩擦力均与速度方向相反。原文以 $a$ 表示加速度大小，由 $\\frac{B^2L^2v}{R+r}+\\mu mg=ma$ 得 $a=\\frac{B^2L^2v}{m(R+r)}+\\mu g$。$v=v_0$ 时，$a$ 最大；导体杆做加速度逐渐减小的减速运动。",
+      "title": "具有初速度的单杆运动规律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-2cb322eafee3bfa5e2e4"
+      ],
+      "text": "具有初速度的单杆模型中，对杆运动至停止的全过程，根据能量守恒可得 $Q=\\frac12mv_0^2-\\mu mgx$，其中 $x$ 为全程的位移，$Q$ 为回路产生的焦耳热。",
+      "title": "减速单杆全过程的能量关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-2cb322eafee3bfa5e2e4",
+        "n-d48c7c5e0439c1eacdcf"
+      ],
+      "text": "在原文两类单杆模型的串联回路中，电阻 $R$ 产生的焦耳热为 $Q_R=\\frac{R}{R+r}Q$，其中 $Q$ 为回路产生的总焦耳热。",
+      "title": "串联回路中的焦耳热分配",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-2cb322eafee3bfa5e2e4"
+      ],
+      "text": "具有初速度的单杆模型中，通过电阻 $R$ 的电荷量 $q=\\bar I\\Delta t=\\frac{\\Delta\\Phi}{R+r}=\\frac{BLx}{R+r}$。原文用于杆运动至停止的全过程，$x$ 为该过程的位移。",
+      "title": "减速单杆的电荷量与位移关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-2cb322eafee3bfa5e2e4"
+      ],
+      "text": "具有初速度的单杆模型中，对杆运动至停止的全过程应用动量定理，有 $-\\mu mgt-B\\bar IL\\Delta t=-\\mu mgt-BLq=0-mv_0$。结合电荷量与位移关系，可得 $t=\\frac{v_0}{\\mu g}-\\frac{B^2L^2x}{\\mu mg(R+r)}$。",
+      "title": "减速单杆全过程的动量关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-d48c7c5e0439c1eacdcf"
+      ],
+      "text": "受恒定外力的单杆模型中，加速度 $a=\\dfrac{F}{m}-\\mu g-\\dfrac{B^2L^2v}{m(R+r)}$，$v=0$ 时，$a$ 最大。导体杆做加速度减小的加速运动，当 $a=0$ 时，达到最大速度，$v_m=\\dfrac{(F-\\mu mg)(R+r)}{B^2L^2}$。",
+      "title": "恒力作用下单杆的加速度与最大速度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-d48c7c5e0439c1eacdcf"
+      ],
+      "text": "受恒定外力的单杆模型中，原文能量分析以末速度为 $v_m$ 写出 $Fx=\\dfrac12mv_m^2+Q+\\mu mgx$，其中 $x$ 为所研究过程的位移，$Q$ 为回路产生的焦耳热。",
+      "title": "恒力作用下单杆的能量关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-d48c7c5e0439c1eacdcf"
+      ],
+      "text": "受恒定外力的单杆模型中，研究杆从静止到速度为 $v$ 且未达到最大速度的过程：通过电阻 $R$ 的电荷量 $q=\\bar It=\\dfrac{\\Delta\\Phi}{R+r}=\\dfrac{BLx}{R+r}$；动量定理给出 $Ft-\\mu mgt-B\\bar ILt=mv$，即 $(F-\\mu mg)t-BLq=mv$。",
+      "title": "恒力作用下单杆的电荷量与动量关系",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-2cb322eafee3bfa5e2e4",
+        "n-d48c7c5e0439c1eacdcf"
+      ],
+      "text": "把单杆模型的立体图转换为平面图，并画出电流方向，再进行受力分析。原文两类模型均分析重力、支持力、安培力和摩擦力；受恒定外力模型还需分析外力 $F$。",
+      "title": "图形转换与受力分析",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-0785d79699d991eee4b1"
+      ],
+      "text": "要求解杆在某一瞬间的状态，或分析整个过程中各力学物理量的变化情况时，可用牛顿运动定律。",
+      "title": "按瞬时状态与变化过程选用牛顿运动定律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-0785d79699d991eee4b1"
+      ],
+      "text": "要求解杆在某一过程中的位移、时间和通过导体横截面的电荷量时，一般用动量的观点解决。",
+      "title": "按位移、时间与电荷量选用动量观点",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-0785d79699d991eee4b1"
+      ],
+      "text": "要求解杆在某一过程中产生的焦耳热或功能关系时，一般用能量的观点解决。",
+      "title": "按焦耳热与功能关系选用能量观点",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-d48c7c5e0439c1eacdcf"
+      ],
+      "text": "对恒力作用下杆从静止到速度为 $v$ 且未达到最大速度的过程，联立 $q=\\bar It=\\dfrac{\\Delta\\Phi}{R+r}=\\dfrac{BLx}{R+r}$ 和 $(F-\\mu mg)t-BLq=mv$。在 $v$ 已知的前提下，$q$、$x$、$t$ 三个物理量中知一可求二。",
+      "title": "联立电荷量关系与动量定理",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-6a1b508a702bd26f795e"
+      ],
+      "text": "典例1中，金属杆受到的摩擦阻力 $f$ 是恒力，可根据功的定义式求金属杆克服摩擦阻力做的功 $W$。原文指出安培力是变力，并提出能否用功的定义式求克服安培力做功的问题，未给出该问题的解答。",
+      "title": "根据力是否恒定辨别做功计算方法",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-2cb322eafee3bfa5e2e4"
+      ],
+      "from": "c1",
+      "to": "l1",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2cb322eafee3bfa5e2e4"
+      ],
+      "from": "c1",
+      "to": "l2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2cb322eafee3bfa5e2e4"
+      ],
+      "from": "c1",
+      "to": "l3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2cb322eafee3bfa5e2e4"
+      ],
+      "from": "c1",
+      "to": "l4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2cb322eafee3bfa5e2e4"
+      ],
+      "from": "c1",
+      "to": "l6",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2cb322eafee3bfa5e2e4"
+      ],
+      "from": "c1",
+      "to": "l7",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d48c7c5e0439c1eacdcf"
+      ],
+      "from": "c2",
+      "to": "l1",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d48c7c5e0439c1eacdcf"
+      ],
+      "from": "c2",
+      "to": "l2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d48c7c5e0439c1eacdcf"
+      ],
+      "from": "c2",
+      "to": "l8",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d48c7c5e0439c1eacdcf"
+      ],
+      "from": "c2",
+      "to": "l9",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d48c7c5e0439c1eacdcf"
+      ],
+      "from": "c2",
+      "to": "l10",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2cb322eafee3bfa5e2e4",
+        "n-d48c7c5e0439c1eacdcf"
+      ],
+      "from": "l1",
+      "to": "l2",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2cb322eafee3bfa5e2e4"
+      ],
+      "from": "l4",
+      "to": "l5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d48c7c5e0439c1eacdcf"
+      ],
+      "from": "l9",
+      "to": "l5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2cb322eafee3bfa5e2e4"
+      ],
+      "from": "l6",
+      "to": "l7",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2cb322eafee3bfa5e2e4"
+      ],
+      "from": "m1",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d48c7c5e0439c1eacdcf"
+      ],
+      "from": "m1",
+      "to": "c2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d48c7c5e0439c1eacdcf"
+      ],
+      "from": "m5",
+      "to": "l10",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6a1b508a702bd26f795e"
+      ],
+      "from": "n-6a1b508a702bd26f795e",
+      "to": "c1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6a1b508a702bd26f795e"
+      ],
+      "from": "n-6a1b508a702bd26f795e",
+      "to": "m6",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9fcc53ceba4b9e1a6cfe",
+        "n-2cb322eafee3bfa5e2e4"
+      ],
+      "from": "n-9fcc53ceba4b9e1a6cfe",
+      "to": "l5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-d859f0c6fb45eb87e479",
+  "source_digest": "ec09be2a4b7002a9adb7309a144f1864967422843b0d3512962c5f3f581dc4e4",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

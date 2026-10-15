@@ -1,0 +1,317 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-382d2af8ed327ab10720"
+      ],
+      "text": "$v-t$ 图像呈现速度的变化，可结合图线上某点的切线斜率分析电荷所受静电力的方向与大小变化情况。",
+      "title": "静电场中的 $v-t$ 图像",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-2c8c2f953f8bf3d862ba"
+      ],
+      "text": "$\\varphi-x$ 图像描述电势随位移变化的规律，可以直接判断各点电势的高低。",
+      "title": "电势—位移图像",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-af6be78dfbda479430b2"
+      ],
+      "text": "$E-x$ 图像描述电场强度随位移变化的规律。电场强度 $E$ 的正负表示方向：$E>0$ 表示沿正方向，$E<0$ 表示沿负方向。",
+      "title": "电场强度—位移图像",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-7aa0971779f00a5602a8"
+      ],
+      "text": "$E_{\\mathrm{p}}-x$ 图像描述电势能随位移变化的规律。",
+      "title": "电势能—位移图像",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-23a03e6e38fa0bb4c29e"
+      ],
+      "text": "若只有静电力做功，电势能与动能之和保持不变。",
+      "title": "只有静电力做功时的能量守恒",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-23a03e6e38fa0bb4c29e"
+      ],
+      "text": "若只有静电力和重力做功，电势能、重力势能、动能之和保持不变。",
+      "title": "静电力和重力做功时的能量守恒",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-23a03e6e38fa0bb4c29e"
+      ],
+      "text": "静电力做功等于电势能的减少量，即 $W_{\\text{电}}=E_{\\mathrm{p电}1}-E_{\\mathrm{p电}2}=-\\Delta E_{\\mathrm{p电}}$。",
+      "title": "静电力做功与电势能变化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-23a03e6e38fa0bb4c29e"
+      ],
+      "text": "除重力和系统内弹力之外，其他力做的总功等于系统内物体机械能的变化量，即 $W_{\\text{其他力}}=E_{\\text{机}2}-E_{\\text{机}1}=\\Delta E_{\\text{机}}$。",
+      "title": "其他力做功与机械能变化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-23a03e6e38fa0bb4c29e"
+      ],
+      "text": "所有外力对物体所做的总功等于物体动能的变化量，即 $W_{\\text{合}}=E_{\\mathrm{k}2}-E_{\\mathrm{k}1}=\\Delta E_{\\mathrm{k}}$。",
+      "title": "动能定理",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-2c8c2f953f8bf3d862ba"
+      ],
+      "text": "电势能与电势的关系为 $E_{\\mathrm{p}}=q\\varphi$；分析电势能变化时需结合电荷的电性。",
+      "title": "电势能与电势的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-2c8c2f953f8bf3d862ba"
+      ],
+      "text": "原文根据 $E=\\dfrac{U}{d}$ 得 $E=\\left|\\dfrac{\\Delta\\varphi}{\\Delta x}\\right|$，并指出 $\\varphi-x$ 图线切线的斜率反映电场强度。【待核对】原文使用差分比值说明切线斜率，未明确区间取法及适用条件。",
+      "title": "电势图像斜率与电场强度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-af6be78dfbda479430b2"
+      ],
+      "text": "$E-x$ 图线与 $x$ 轴围成的“面积”表示电势差；“面积”大小表示电势差大小，“面积”的正负表示始末两点电势的高低。图示中从 $O$ 到 $A$ 的图线与横轴之间的“面积”表示 $O$、$A$ 两点的电势差。",
+      "title": "电场强度图像面积与电势差",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-7aa0971779f00a5602a8"
+      ],
+      "text": "原文给出 $W_{\\text{静电}}=-\\Delta E_{\\mathrm{p}}=Fx$，以及 $E_{\\mathrm{p}}-x$ 图线切线斜率 $k=\\dfrac{E_{\\mathrm{p}2}-E_{\\mathrm{p}1}}{x_2-x_1}=\\dfrac{\\Delta E_{\\mathrm{p}}}{\\Delta x}=\\dfrac{-W_{\\text{静电}}}{\\Delta x}=-F_{\\text{静电}}$，说明图线切线斜率的绝对值表示静电力大小。【待核对】原文对曲线切线斜率使用两点差分表达式，且未明确 $Fx$ 的适用条件。",
+      "title": "电势能图像斜率与静电力",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-382d2af8ed327ab10720"
+      ],
+      "text": "根据 $v-t$ 图像中速度变化和图线上某点的切线斜率，确定电荷所受静电力的方向与大小变化情况；再由静电力方向及电荷的电性，确定电场方向、电势高低及电势能变化情况。",
+      "title": "利用速度图像分析静电场",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-2c8c2f953f8bf3d862ba"
+      ],
+      "text": "从 $\\varphi-x$ 图像直接比较各点电势，根据电势高低的变化判断电场强度方向；结合 $E_{\\mathrm{p}}=q\\varphi$ 和电荷的电性，分析电荷移动时电势能的变化。",
+      "title": "利用电势图像分析场强方向与电势能",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-2c8c2f953f8bf3d862ba"
+      ],
+      "text": "利用 $\\varphi-x$ 图线切线斜率判断电场强度：图示 $x_1$ 处切线斜率为 $0$，即 $E_{x_1}=0$；$x_2$ 处切线斜率的绝对值比 $x_4$ 处大，即 $E_{x_2}>E_{x_4}$；$x_3$ 处 $\\varphi=0$，但切线斜率不为 $0$，所以 $E_{x_3}\\ne0$。电势为零与场强为零应分别依据图像纵坐标和切线斜率判断。",
+      "title": "利用电势图像斜率比较场强",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-af6be78dfbda479430b2"
+      ],
+      "text": "读取 $E-x$ 图像时，先根据 $E$ 的正负判断电场强度方向，再根据图线与 $x$ 轴围成的“面积”判断电势差大小和始末两点电势的高低。",
+      "title": "利用场强图像分析方向与电势差",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-7aa0971779f00a5602a8"
+      ],
+      "text": "根据 $E_{\\mathrm{p}}-x$ 图像中电势能的变化判断静电力做功的正负，并根据图线切线斜率的绝对值判断静电力大小。",
+      "title": "利用电势能图像分析功与静电力",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-382d2af8ed327ab10720"
+      ],
+      "from": "m1",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2c8c2f953f8bf3d862ba"
+      ],
+      "from": "m2",
+      "to": "c2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2c8c2f953f8bf3d862ba"
+      ],
+      "from": "m2",
+      "to": "l6",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2c8c2f953f8bf3d862ba"
+      ],
+      "from": "m3",
+      "to": "l7",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2c8c2f953f8bf3d862ba"
+      ],
+      "from": "l7",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-af6be78dfbda479430b2"
+      ],
+      "from": "m4",
+      "to": "c3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-af6be78dfbda479430b2"
+      ],
+      "from": "m4",
+      "to": "l8",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7aa0971779f00a5602a8"
+      ],
+      "from": "m5",
+      "to": "c4",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7aa0971779f00a5602a8",
+        "n-23a03e6e38fa0bb4c29e"
+      ],
+      "from": "m5",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7aa0971779f00a5602a8"
+      ],
+      "from": "m5",
+      "to": "l9",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1b5183a1ad44aef0adae",
+        "n-23a03e6e38fa0bb4c29e"
+      ],
+      "from": "n-1b5183a1ad44aef0adae",
+      "to": "l2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a9308390654d07ce13e1",
+        "n-382d2af8ed327ab10720"
+      ],
+      "from": "n-a9308390654d07ce13e1",
+      "to": "m1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7e25c92397eae6c15a43",
+        "n-2c8c2f953f8bf3d862ba"
+      ],
+      "from": "n-7e25c92397eae6c15a43",
+      "to": "c2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-62326ad873bdd80545ab",
+        "n-af6be78dfbda479430b2"
+      ],
+      "from": "n-62326ad873bdd80545ab",
+      "to": "m4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a04b4eeee125a2986281",
+        "n-7aa0971779f00a5602a8"
+      ],
+      "from": "n-a04b4eeee125a2986281",
+      "to": "c4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-8a4f833089c1dfa0d788",
+  "source_digest": "b3c7f80f4f26ce5338f95ff1e0f2e77475ac511eb0ab8cf2a53c042b2506b1ff",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

@@ -1,0 +1,239 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-b3ed61ce5286bf227a13"
+      ],
+      "text": "功是能量转化的量度，做功的过程就是能量转化的过程。不同形式的能量通过做功发生相互转化，做功的多少与能量转化的多少在数值上相等。",
+      "title": "功与能量转化",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-3ca70d533e0d3578dfdd"
+      ],
+      "text": "能量既不会凭空产生，也不会凭空消失，只能从一种形式转化为其他形式，或者从一个物体转移到别的物体。在转化或转移过程中，能量的总量保持不变。",
+      "title": "能量守恒定律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-e047fcfb7591856b40be"
+      ],
+      "text": "某种形式的能量减少，一定存在其他形式的能量增加，且减少量和增加量相等。",
+      "title": "能量转化中的增减关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-e047fcfb7591856b40be"
+      ],
+      "text": "某个物体的能量减少，一定存在其他物体的能量增加，且减少量和增加量相等。",
+      "title": "能量转移中的增减关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-e8a232071495080d549c"
+      ],
+      "text": "重力做功对应重力势能的变化：$W_G=-\\Delta E_{\\mathrm{p}}$。原文同时列出 $W_G=mgh$；【待核对】原文未说明此式中 $h$ 的符号约定。",
+      "title": "重力做功与重力势能变化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-e8a232071495080d549c"
+      ],
+      "text": "弹簧弹力做功等于弹性势能变化的负值：$W_{\\text{弹}}=-\\Delta E_{\\mathrm{p}}'$，其中 $\\Delta E_{\\mathrm{p}}'$ 为弹性势能变化。",
+      "title": "弹簧弹力做功与弹性势能变化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-e8a232071495080d549c"
+      ],
+      "text": "合力做功等于动能变化：$W_{\\text{合}}=\\Delta E_{\\mathrm{k}}$。合力做功为各力做功之和：$W_{\\text{合}}=W_1+W_2+W_3+\\cdots$。",
+      "title": "合力做功与动能变化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-e8a232071495080d549c"
+      ],
+      "text": "除重力和系统内弹力之外，其他力做功等于机械能变化：$W_{\\text{其}}=\\Delta E$，其中 $\\Delta E$ 为机械能变化。",
+      "title": "其他力做功与机械能变化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-e8a232071495080d549c"
+      ],
+      "text": "一对相互作用的滑动摩擦力的总功等于系统内能变化的负值：$W_f=-\\Delta E_{\\text{内}}$，其中 $\\Delta E_{\\text{内}}$ 为系统内能变化。",
+      "title": "滑动摩擦力总功与系统内能变化",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-e8a232071495080d549c"
+      ],
+      "text": "分析功能关系时，先辨明所考察的功属于重力做功、弹簧弹力做功、合力做功、除重力和系统内弹力之外其他力做功，还是一对相互作用的滑动摩擦力的总功，再分别联系重力势能、弹性势能、动能、机械能或系统内能的变化。",
+      "title": "按做功的力选择功能关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-e047fcfb7591856b40be"
+      ],
+      "text": "应用能量守恒时，可以从能量形式或物体两个角度寻找对应的增减量：某种形式能量的减少量等于其他形式能量的增加量；某个物体能量的减少量等于其他物体能量的增加量。",
+      "title": "寻找相等的能量减少量与增加量",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-e047fcfb7591856b40be"
+      ],
+      "from": "l1",
+      "to": "l2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e047fcfb7591856b40be"
+      ],
+      "from": "l1",
+      "to": "l3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e8a232071495080d549c"
+      ],
+      "from": "c1",
+      "to": "l4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e8a232071495080d549c"
+      ],
+      "from": "c1",
+      "to": "l5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e8a232071495080d549c"
+      ],
+      "from": "c1",
+      "to": "l6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e8a232071495080d549c"
+      ],
+      "from": "c1",
+      "to": "l7",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e8a232071495080d549c"
+      ],
+      "from": "c1",
+      "to": "l8",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e8a232071495080d549c"
+      ],
+      "from": "m1",
+      "to": "l4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e8a232071495080d549c"
+      ],
+      "from": "m1",
+      "to": "l5",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e8a232071495080d549c"
+      ],
+      "from": "m1",
+      "to": "l6",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e8a232071495080d549c"
+      ],
+      "from": "m1",
+      "to": "l7",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e8a232071495080d549c"
+      ],
+      "from": "m1",
+      "to": "l8",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e047fcfb7591856b40be"
+      ],
+      "from": "m2",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e047fcfb7591856b40be"
+      ],
+      "from": "m2",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-a1aac65b7f6963d39a8b",
+  "source_digest": "ee246971f29ccf172f075dc8e8da731c287ebb1cc21aa8a501833be46d9d46b7",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

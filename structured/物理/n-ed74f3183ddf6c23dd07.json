@@ -1,0 +1,326 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-7b2efd7fd5cd9fe0105f"
+      ],
+      "text": "测量金属丝长度时，所测的是金属丝接入电路中的有效长度。",
+      "title": "金属丝的有效长度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-803b7cffceea91268064"
+      ],
+      "text": "实验误差来源包括金属丝直径和长度的测量、读数等人为因素，电流表与电压表对电阻测量的影响，以及通电电流过大、时间过长导致金属丝发热、电阻率变化。",
+      "title": "电阻率测量的误差来源",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-4cf451f7da2dcc62b0a1",
+        "n-3ed20c55c753f55a71e1"
+      ],
+      "text": "金属丝电阻满足 $R_x=\\rho\\dfrac{l}{S}$，其中 $l$ 为金属丝长度，$S$ 为横截面积。直径为 $d$ 时，$S=\\dfrac{\\pi d^2}{4}$，因此 $\\rho=\\dfrac{R_xS}{l}=\\dfrac{\\pi R_xd^2}{4l}$。",
+      "title": "电阻与电阻率的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-803b7cffceea91268064"
+      ],
+      "text": "本实验采用电流表外接法，$R_{\\text{测}}<R_{\\text{真}}$；由 $R=\\rho\\dfrac{l}{S}$ 可知 $\\rho_{\\text{测}}<\\rho_{\\text{真}}$。",
+      "title": "电流表外接法引起的测量偏差",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-848add42a9c27486b239"
+      ],
+      "text": "串联电路中可利用电阻分压关系求待测电阻。方案2中，$U_1$ 为 $R_x$ 两端电压，$U_2$ 为 $R_x$ 与 $R_0$ 两端总电压，有 $\\dfrac{R_0}{R_x}=\\dfrac{U_2-U_1}{U_1}$。方案3中，$U_1$ 为 $R_0$ 两端电压，$U_2$ 为 $R_0$ 与 $R_x$ 两端总电压，有 $\\dfrac{R_0}{R_x}=\\dfrac{U_1}{U_2-U_1}$。",
+      "title": "串联电路的电阻分压关系",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-4cf451f7da2dcc62b0a1",
+        "n-3ed20c55c753f55a71e1"
+      ],
+      "text": "测出金属丝长度 $l$、直径 $d$ 和电阻 $R_x$，将记录的数据代入 $\\rho=\\dfrac{R_xS}{l}=\\dfrac{\\pi R_xd^2}{4l}$，求得电阻率。",
+      "title": "测量并计算金属丝电阻率",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-7b2efd7fd5cd9fe0105f"
+      ],
+      "text": "用螺旋测微器在金属丝不同位置测量直径三次，取平均值。",
+      "title": "金属丝直径的测量",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-7b2efd7fd5cd9fe0105f"
+      ],
+      "text": "将金属丝拉直，多次测量接入电路中的有效长度，求其平均值。",
+      "title": "金属丝长度的测量",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-4cf451f7da2dcc62b0a1",
+        "n-7b2efd7fd5cd9fe0105f"
+      ],
+      "text": "按实验电路图连接电路。金属丝电阻小，采用电流表外接法，电压表与待测金属丝并联，滑动变阻器采用限流式接法。闭合开关前，将滑片调到接入电路的阻值最大处。",
+      "title": "测量电路的连接与初始调节",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-7b2efd7fd5cd9fe0105f"
+      ],
+      "text": "改变滑动变阻器接入电路的阻值，测得多组 $U$、$I$ 数据。",
+      "title": "多组电压、电流数据的测量",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-50c805cc7acff8f6ce64"
+      ],
+      "text": "用 $R_x=\\dfrac{U}{I}$ 分别算出各次的阻值，再取平均值。",
+      "title": "平均值法求电阻",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-50c805cc7acff8f6ce64",
+        "n-ddc1b794b347f17250dc"
+      ],
+      "text": "作出纵轴为 $U$、横轴为 $I$ 的 $U-I$ 图像，利用直线斜率求电阻，$R_x=\\dfrac{\\Delta U}{\\Delta I}$。原图为过原点的倾斜直线。描点时尽量使相邻点间距离大一些；直线尽可能通过较多的点，未在直线上的点均匀分布在直线两侧，个别偏离较远的点应舍去。",
+      "title": "图像法求电阻",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-803b7cffceea91268064"
+      ],
+      "text": "通电电流过大、时间过长会使金属丝发热，电阻率随之变化而带来误差。每次读完电表示数后要快速断开电源，调好滑片位置后再闭合开关，读取下一组数据。",
+      "title": "减小金属丝发热影响的操作",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m9",
+      "source_node_ids": [
+        "n-848add42a9c27486b239"
+      ],
+      "text": "将 $R_x$、电流表和定值电阻 $R_0$ 串联，滑动变阻器采用分压式接法。电压表先接在该串联支路两端，记录 $U_1$、$I_1$，有 $\\dfrac{U_1}{I_1}=R_x+R_A+R_0$；再改接在电流表与 $R_0$ 串联部分的两端，记录 $U_2$、$I_2$，有 $\\dfrac{U_2}{I_2}=R_A+R_0$。两式相减得 $R_x=\\dfrac{U_1}{I_1}-\\dfrac{U_2}{I_2}$，消去电流表对电阻测量的影响。",
+      "title": "改进方案1：两次电压电流比值作差",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m10",
+      "source_node_ids": [
+        "n-848add42a9c27486b239"
+      ],
+      "text": "将定值电阻 $R_0$ 与金属丝串联，滑动变阻器采用限流式接法。开关 $S_1$ 接 $1$ 时测得金属丝 $R_x$ 两端电压 $U_1$，接 $2$ 时测得 $R_x$ 和 $R_0$ 两端总电压 $U_2$。利用 $\\dfrac{R_0}{R_x}=\\dfrac{U_2-U_1}{U_1}$，得 $R_x=\\dfrac{U_1}{U_2-U_1}R_0$。",
+      "title": "改进方案2：测金属丝电压与总电压",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m11",
+      "source_node_ids": [
+        "n-848add42a9c27486b239"
+      ],
+      "text": "将定值电阻 $R_0$ 与待测电阻 $R_x$ 串联，滑动变阻器采用分压式接法。开关 $S_2$ 接 $1$，适当调节滑动变阻器，记录 $R_0$ 两端电压 $U_1$；保持滑片位置不动，将 $S_2$ 接 $2$，记录 $R_0$ 与 $R_x$ 两端总电压 $U_2$。利用 $\\dfrac{R_0}{R_x}=\\dfrac{U_1}{U_2-U_1}$，得 $R_x=\\left(\\dfrac{U_2}{U_1}-1\\right)R_0$。",
+      "title": "改进方案3：测定值电阻电压与总电压",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-4cf451f7da2dcc62b0a1",
+        "n-3ed20c55c753f55a71e1"
+      ],
+      "from": "m1",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4cf451f7da2dcc62b0a1",
+        "n-7b2efd7fd5cd9fe0105f"
+      ],
+      "from": "m2",
+      "to": "m1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4cf451f7da2dcc62b0a1",
+        "n-7b2efd7fd5cd9fe0105f"
+      ],
+      "from": "m3",
+      "to": "m1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7b2efd7fd5cd9fe0105f"
+      ],
+      "from": "m3",
+      "to": "c1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7b2efd7fd5cd9fe0105f"
+      ],
+      "from": "m4",
+      "to": "m5",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7b2efd7fd5cd9fe0105f",
+        "n-50c805cc7acff8f6ce64"
+      ],
+      "from": "m5",
+      "to": "m6",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7b2efd7fd5cd9fe0105f",
+        "n-50c805cc7acff8f6ce64"
+      ],
+      "from": "m5",
+      "to": "m7",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-50c805cc7acff8f6ce64",
+        "n-3ed20c55c753f55a71e1"
+      ],
+      "from": "m6",
+      "to": "m1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-50c805cc7acff8f6ce64",
+        "n-3ed20c55c753f55a71e1"
+      ],
+      "from": "m7",
+      "to": "m1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-803b7cffceea91268064"
+      ],
+      "from": "c2",
+      "to": "l2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-803b7cffceea91268064"
+      ],
+      "from": "m8",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-803b7cffceea91268064",
+        "n-7b2efd7fd5cd9fe0105f"
+      ],
+      "from": "m8",
+      "to": "m5",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-848add42a9c27486b239"
+      ],
+      "from": "m10",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-848add42a9c27486b239"
+      ],
+      "from": "m11",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-848add42a9c27486b239",
+        "n-4cf451f7da2dcc62b0a1"
+      ],
+      "from": "m9",
+      "to": "m1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-848add42a9c27486b239",
+        "n-4cf451f7da2dcc62b0a1"
+      ],
+      "from": "m10",
+      "to": "m1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-848add42a9c27486b239",
+        "n-4cf451f7da2dcc62b0a1"
+      ],
+      "from": "m11",
+      "to": "m1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-ed74f3183ddf6c23dd07",
+  "source_digest": "0b4f00c20bb3cb99e4dea4c25b5cfe27c2c0280f9edfe2228ef72bb17f5342c1",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

@@ -1,0 +1,315 @@
+{
+  "concepts": [],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-aeaddc6f825a0bff12fe"
+      ],
+      "text": "测量电源电动势和内阻依据闭合电路欧姆定律 $E=U+Ir$，利用多组 $U$、$I$ 值计算 $E$、$r$。",
+      "title": "闭合电路欧姆定律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-a3d836a33c5f94a35c09"
+      ],
+      "text": "图甲中电流表与电阻 $R$ 串联，电压表并联在该支路两端。电压表分流造成误差，电压值越大，分流越多，对应的 $I_{\\text{真}}$ 与 $I_{\\text{测}}$ 的差值越大。结论为 $E_{\\text{测}}<E_{\\text{真}}$，$r_{\\text{测}}<r_{\\text{真}}$。",
+      "title": "电压表分流造成的测量偏差",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-a3d836a33c5f94a35c09"
+      ],
+      "text": "图乙中电压表与电阻 $R$ 并联，电流表接在干路中。电流表分压造成误差，电流值越大，分压越多，对应的 $U_{\\text{真}}$ 与 $U_{\\text{测}}$ 的差值越大。结论为 $E_{\\text{测}}=E_{\\text{真}}$，$r_{\\text{测}}>r_{\\text{真}}$。",
+      "title": "电流表分压造成的测量偏差",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-c6234f62d0cc117e2a0e"
+      ],
+      "text": "安阻法中，电流表有内阻，导致电源内阻测量不准确。结论为 $E_{\\text{测}}=E_{\\text{真}}$，$r_{\\text{测}}>r_{\\text{真}}$，且 $r_{\\text{测}}=r_{\\text{真}}+r_A$。",
+      "title": "安阻法的系统误差",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-00c411dc10dcebe4ca82"
+      ],
+      "text": "伏阻法未考虑电压表的内阻，干路电流表达式不准确，导致电动势、内阻测量不准确。结论为 $E_{\\text{测}}<E_{\\text{真}}$，$r_{\\text{测}}<r_{\\text{真}}$。",
+      "title": "伏阻法的系统误差",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-aeaddc6f825a0bff12fe"
+      ],
+      "text": "将滑动变阻器与电流表串联，电压表并联在该支路两端，接入电源和开关。改变滑动变阻器接入电路的阻值，测多组 $U$、$I$ 值，根据 $E=U+Ir$ 计算 $E$、$r$。",
+      "title": "用电压表、电流表测量电动势和内阻",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-c8c5192e7a5d1b7293ad"
+      ],
+      "text": "为使路端电压变化明显，选用内阻较大的旧电池。按原理图连接电路，注意电流表、电压表接线柱的正负及量程。闭合开关前，将滑动变阻器滑片调到连入电路阻值最大的位置。",
+      "title": "器材选择与测量前准备",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-c8c5192e7a5d1b7293ad"
+      ],
+      "text": "调节滑动变阻器滑片，电流不要过大，读数要快；测出不少于 $6$ 组 $(I,U)$ 数据，数据变化范围要大些。",
+      "title": "电压、电流数据的采集",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-430084d2f69657cde15c"
+      ],
+      "text": "测出路端电压和干路电流，列方程组 $\\begin{cases}E=U_1+I_1r\\\\E=U_2+I_2r\\end{cases}$，解得 $E$、$r$。可以列多个方程组，分别求出 $E$、$r$，再取其平均值。",
+      "title": "电压、电流数据的方程组计算法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-430084d2f69657cde15c"
+      ],
+      "text": "由测出的多组 $I$、$U$ 值描点作图，以 $U$ 为纵轴、$I$ 为横轴，在测量点附近拟合直线。图线与纵轴交点的纵坐标为电源电动势 $E$，图线斜率的绝对值为内阻 $r$；图线向右延长与横轴交于 $I_{\\text{短}}$。",
+      "title": "用电压—电流图像求电动势和内阻",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-a3d836a33c5f94a35c09"
+      ],
+      "text": "通常情况下电源内阻较小，电流表接在干路中的图乙电路测得的电源内阻误差较大。为减小系统误差，采用图甲电路，即电流表与电阻 $R$ 串联、电压表并联在该支路两端，并选用内阻较大的电压表。电压表内阻越大，分流越小，系统误差也越小。",
+      "title": "通过电路和电压表选择减小系统误差",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-c6234f62d0cc117e2a0e"
+      ],
+      "text": "将电源、电流表、可调电阻 $R$ 和开关串联成闭合回路，根据闭合电路欧姆定律 $E=IR+Ir$ 测量电动势和内阻。",
+      "title": "安阻法测电动势和内阻",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-c6234f62d0cc117e2a0e"
+      ],
+      "text": "由 $\\begin{cases}E=I_1R_1+I_1r\\\\E=I_2R_2+I_2r\\end{cases}$ 解方程组，求得 $E$、$r$。",
+      "title": "安阻法的方程组计算法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m9",
+      "source_node_ids": [
+        "n-c6234f62d0cc117e2a0e"
+      ],
+      "text": "由 $E=I(R+r)$ 得 $\\dfrac{1}{I}=\\dfrac{1}{E}R+\\dfrac{r}{E}$，作 $\\dfrac{1}{I}-R$ 图像。图线斜率 $k=\\dfrac{1}{E}$，纵轴截距为 $\\dfrac{r}{E}$，反向延长线与横轴交于 $-r$。",
+      "title": "安阻法的电流倒数—电阻图像法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m10",
+      "source_node_ids": [
+        "n-c6234f62d0cc117e2a0e"
+      ],
+      "text": "由 $R=E\\cdot\\dfrac{1}{I}-r$，作 $R-\\dfrac{1}{I}$ 图像。图线斜率 $k=E$，纵轴截距为 $-r$，横轴截距为 $\\dfrac{r}{E}$。",
+      "title": "安阻法的电阻—电流倒数图像法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m11",
+      "source_node_ids": [
+        "n-00c411dc10dcebe4ca82"
+      ],
+      "text": "可调电阻 $R$ 与电压表并联，电源和开关串联后接在并联支路两端。根据闭合电路欧姆定律 $E=U+\\dfrac{U}{R}r$ 测量电动势和内阻。",
+      "title": "伏阻法测电动势和内阻",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m12",
+      "source_node_ids": [
+        "n-00c411dc10dcebe4ca82"
+      ],
+      "text": "由 $\\begin{cases}E=U_1+\\dfrac{U_1}{R_1}r\\\\E=U_2+\\dfrac{U_2}{R_2}r\\end{cases}$ 解方程组，求得 $E$ 和 $r$。",
+      "title": "伏阻法的方程组计算法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m13",
+      "source_node_ids": [
+        "n-00c411dc10dcebe4ca82"
+      ],
+      "text": "由 $E=U+\\dfrac{U}{R}r$ 得 $\\dfrac{1}{U}=\\dfrac{1}{E}+\\dfrac{r}{E}\\cdot\\dfrac{1}{R}$。作 $\\dfrac{1}{U}-\\dfrac{1}{R}$ 图像，图线斜率 $k=\\dfrac{r}{E}$，纵轴截距为 $\\dfrac{1}{E}$，反向延长线与横轴交于 $-\\dfrac{1}{r}$。",
+      "title": "伏阻法的电压倒数—电阻倒数图像法",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-aeaddc6f825a0bff12fe"
+      ],
+      "from": "m1",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-aeaddc6f825a0bff12fe",
+        "n-c8c5192e7a5d1b7293ad"
+      ],
+      "from": "m1",
+      "to": "m2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-aeaddc6f825a0bff12fe",
+        "n-c8c5192e7a5d1b7293ad"
+      ],
+      "from": "m1",
+      "to": "m3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-aeaddc6f825a0bff12fe",
+        "n-430084d2f69657cde15c"
+      ],
+      "from": "m1",
+      "to": "m4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-aeaddc6f825a0bff12fe",
+        "n-430084d2f69657cde15c"
+      ],
+      "from": "m1",
+      "to": "m5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-aeaddc6f825a0bff12fe",
+        "n-a3d836a33c5f94a35c09"
+      ],
+      "from": "m1",
+      "to": "l2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a3d836a33c5f94a35c09"
+      ],
+      "from": "m6",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a3d836a33c5f94a35c09"
+      ],
+      "from": "m6",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c6234f62d0cc117e2a0e"
+      ],
+      "from": "m7",
+      "to": "m8",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c6234f62d0cc117e2a0e"
+      ],
+      "from": "m7",
+      "to": "m9",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c6234f62d0cc117e2a0e"
+      ],
+      "from": "m7",
+      "to": "m10",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c6234f62d0cc117e2a0e"
+      ],
+      "from": "m7",
+      "to": "l4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-00c411dc10dcebe4ca82"
+      ],
+      "from": "m11",
+      "to": "m12",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-00c411dc10dcebe4ca82"
+      ],
+      "from": "m11",
+      "to": "m13",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-00c411dc10dcebe4ca82"
+      ],
+      "from": "m11",
+      "to": "l5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-9437d486c40fda76e72f",
+  "source_digest": "0cfe9d089868896fca38e7c8264a565d4a7677357cf5b8c24c7415f483b91d09",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

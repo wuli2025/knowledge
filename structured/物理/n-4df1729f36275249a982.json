@@ -1,0 +1,683 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-c7166b7d23e1e39902f1"
+      ],
+      "text": "一切物体都在辐射电磁波，这种与物体温度有关的辐射叫作热辐射。",
+      "title": "热辐射",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-5f252ff7af74a9ebc4e9"
+      ],
+      "text": "能够完全吸收入射的各种波长的电磁波而不发生反射的物体叫作绝对黑体，简称黑体，是理想化模型。原文以带小孔的空腔为例：进入小孔的电磁波在内壁多次反射和吸收，最终不能从空腔射出。",
+      "title": "黑体",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-5f252ff7af74a9ebc4e9"
+      ],
+      "text": "黑体虽然不反射电磁波，却可以向外辐射电磁波，这种辐射叫作黑体辐射。",
+      "title": "黑体辐射",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-af7405fde052784ae3b0"
+      ],
+      "text": "普朗克认为，组成黑体的振动着的带电微粒的能量只能是某一最小能量值 $\\varepsilon$ 的整数倍，这个不可再分的最小能量值叫作能量子。",
+      "title": "能量子",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-28e3e75bac1801963875"
+      ],
+      "text": "照射到金属表面的光使金属中的电子从表面逸出的现象叫作光电效应。",
+      "title": "光电效应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-28e3e75bac1801963875",
+        "n-96fe2d55dd43f7d5c277"
+      ],
+      "text": "金属表面的电子受到光照射，吸收光子能量后从金属表面逸出，这些电子叫作光电子。",
+      "title": "光电子",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c7",
+      "source_node_ids": [
+        "n-54b9fbf0b5d4d6f0ad09",
+        "n-6c7b6126ea6297fe74b4"
+      ],
+      "text": "入射光频率减小到某一数值 $\\nu_c$ 时，光电流消失；$\\nu_c$ 称为截止频率或极限频率。截止频率只和金属自身的性质有关。",
+      "title": "截止频率",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c8",
+      "source_node_ids": [
+        "n-6c7b6126ea6297fe74b4"
+      ],
+      "text": "光照条件不变时，光电流随电压增大最终趋于一个饱和值，此后电压再增大，电流也不再增大，这个饱和值为饱和电流。",
+      "title": "饱和电流",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c9",
+      "source_node_ids": [
+        "n-6c7b6126ea6297fe74b4"
+      ],
+      "text": "遏止电压 $U_c$ 是使光电流减小到 $0$ 的反向电压。",
+      "title": "遏止电压",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c10",
+      "source_node_ids": [
+        "n-b0c503710eaba7c88eda"
+      ],
+      "text": "逸出功 $W_0$ 是电子从金属中逸出所需外界对它做功的最小值。",
+      "title": "逸出功",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c11",
+      "source_node_ids": [
+        "n-96fe2d55dd43f7d5c277"
+      ],
+      "text": "光由一个个不可分割的能量子组成，这些能量子被称为光子。",
+      "title": "光子",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c12",
+      "source_node_ids": [
+        "n-96fe2d55dd43f7d5c277"
+      ],
+      "text": "电子吸收光子的能量后，除脱离金属所需的最小能量外，还可能克服原子的其他束缚力做功，剩余能量为光电子的动能；处于金属表面的电子直接向外逸出时，具有最大初动能。",
+      "title": "光电子的动能与最大初动能",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c13",
+      "source_node_ids": [
+        "n-96fe2d55dd43f7d5c277"
+      ],
+      "text": "入射光强度指单位时间内照射到金属表面单位面积上光子的总能量。光子能量是每个光子的能量；光子总能量等于光子能量与入射光子数的乘积。",
+      "title": "入射光强度与光子能量",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c14",
+      "source_node_ids": [
+        "n-24cd13deefbdfdec92a7"
+      ],
+      "text": "$\\mathrm{X}$ 射线入射到物质上被散射后，散射射线中除与入射波长相同的成分外，还有波长比入射波长更长的成分，这种现象叫作康普顿效应。它证明了爱因斯坦光子说的正确性，揭示光子具有能量和动量、光具有粒子性。",
+      "title": "康普顿效应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c15",
+      "source_node_ids": [
+        "n-2a7799726b77dbc4e7e7"
+      ],
+      "text": "干涉和衍射体现光的波动性。光是一种概率波，光子在空间各点出现的概率可用波动规律描述。波动性是光子本身的属性，并非光子之间相互作用产生，也不同于宏观概念的波。",
+      "title": "光的波动性与概率波",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c16",
+      "source_node_ids": [
+        "n-2a7799726b77dbc4e7e7"
+      ],
+      "text": "光电效应和康普顿效应体现光的粒子性。光同物质的作用是“一份一份”进行的；粒子的含义是“不连续”“一份一份”，光子不同于宏观概念的粒子。",
+      "title": "光的粒子性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c17",
+      "source_node_ids": [
+        "n-2a7799726b77dbc4e7e7"
+      ],
+      "text": "光的波动性和粒子性同时存在。大量光子易显示波动性，少量光子易显示粒子性；波长长、频率低的光波动性强，波长短、频率高的光粒子性强。光子说并未否定波动性，$E=h\\nu=\\dfrac{hc}{\\lambda}$ 中的 $\\nu$ 和 $\\lambda$ 就是波动的体现；波和粒子在微观世界是统一的。",
+      "title": "光的波粒二象性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c18",
+      "source_node_ids": [
+        "n-4a994165f6b34122b200"
+      ],
+      "text": "任何运动着的物体都有一种波与之对应，这种波叫作物质波，也叫德布罗意波。",
+      "title": "物质波",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-5f252ff7af74a9ebc4e9"
+      ],
+      "text": "一般材料的物体辐射电磁波的情况，除与温度有关外，还与材料种类和表面状况有关。黑体辐射强度按波长的分布只与温度有关；温度升高时，各种波长的辐射强度都增加，辐射强度极大值向波长较短的方向移动。",
+      "title": "黑体辐射的实验规律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-af7405fde052784ae3b0"
+      ],
+      "text": "能量子 $\\varepsilon=h\\nu$，其中 $\\nu$ 是带电微粒吸收或辐射电磁波的频率，$h$ 为普朗克常量，一般取 $h=6.63\\times10^{-34}\\ \\mathrm{J\\cdot s}$。",
+      "title": "能量子与频率的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-54b9fbf0b5d4d6f0ad09",
+        "n-6c7b6126ea6297fe74b4"
+      ],
+      "text": "光电效应存在截止频率 $\\nu_c$，只与金属自身性质有关。当入射光频率超过 $\\nu_c$ 时，无论光多么微弱，照到金属时都会立即产生光电流，体现瞬时性。",
+      "title": "截止频率与光电效应的瞬时性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-6c7b6126ea6297fe74b4"
+      ],
+      "text": "光照条件不变时，光电流随电压增大而增大，最终趋于饱和值，此后不再随电压增大。对一定频率的光，入射光越强，饱和电流越大。",
+      "title": "饱和电流规律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-b0c503710eaba7c88eda"
+      ],
+      "text": "$E_k=h\\nu-W_0$。金属表面的电子吸收一个光子，获得能量 $h\\nu$，其中一部分克服逸出功 $W_0$，剩余部分表现为逸出后电子的最大初动能 $E_k$。",
+      "title": "爱因斯坦光电效应方程",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-b0c503710eaba7c88eda"
+      ],
+      "text": "逸出功满足 $W_0=h\\nu_c=h\\dfrac{c}{\\lambda_c}$。",
+      "title": "逸出功与截止频率的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-2593a17f13c17813b932"
+      ],
+      "text": "光电子最大初动能与遏止电压满足 $E_k=eU_c$。原文光电流与电压图的横轴交点标为 $-U_c$，但表内又称 $U_c$ 为交点横坐标，符号表述存在疑点【待核对】。",
+      "title": "最大初动能与遏止电压的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-2593a17f13c17813b932"
+      ],
+      "text": "$U_c=\\dfrac{h\\nu}{e}-\\dfrac{W_0}{e}$。对同一金属，遏止电压随入射光频率增大而增大。",
+      "title": "遏止电压与频率的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-9f0b5f5d05a6d8782cf9",
+        "n-b0c503710eaba7c88eda"
+      ],
+      "text": "对同一金属发生的光电效应，光子频率越高，光子能量越高，产生的光电子最大初动能越大。",
+      "title": "频率对最大初动能的决定关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-9f0b5f5d05a6d8782cf9",
+        "n-6c7b6126ea6297fe74b4"
+      ],
+      "text": "在一定频率并发生光电效应的条件下，入射光越强，单位时间照到金属表面的光子越多，单位时间产生的光电子越多，光电流越大。",
+      "title": "光强对光电流的决定关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l11",
+      "source_node_ids": [
+        "n-2a7799726b77dbc4e7e7"
+      ],
+      "text": "光子的能量满足 $E=h\\nu=\\dfrac{hc}{\\lambda}$。",
+      "title": "光子能量公式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l12",
+      "source_node_ids": [
+        "n-24cd13deefbdfdec92a7"
+      ],
+      "text": "光子的动量为 $p=\\dfrac{h}{\\lambda}$。",
+      "title": "光子动量公式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l13",
+      "source_node_ids": [
+        "n-24cd13deefbdfdec92a7"
+      ],
+      "text": "康普顿效应证实，光子与微观粒子的相互作用过程也严格遵循动量守恒定律和能量守恒定律。",
+      "title": "光子与微观粒子相互作用中的守恒规律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l14",
+      "source_node_ids": [
+        "n-4a994165f6b34122b200"
+      ],
+      "text": "物质波波长为 $\\lambda=\\dfrac{h}{p}=\\dfrac{h}{mv}$，$h$ 为普朗克常量。原文未说明 $p=mv$ 的适用范围【待核对】。",
+      "title": "物质波波长公式",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-2593a17f13c17813b932"
+      ],
+      "text": "分析最大初动能 $E_k$ 与入射光频率 $\\nu$ 的图像：与 $\\nu$ 轴交点的横坐标为截止频率 $\\nu_c$；纵轴截距为 $-E$ 时，逸出功 $W_0=\\lvert-E\\rvert=E$；图线斜率 $k$ 等于普朗克常量，即 $h=k$。",
+      "title": "从最大初动能—频率图像读取物理量",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-2593a17f13c17813b932"
+      ],
+      "text": "分析频率相同、强弱不同的光对应的光电流—电压图像：两条曲线与横轴均交于 $-U_c$；光电流最大值为饱和电流 $I_m$、$I_m'$，图中强光对应 $I_m>I_m'$；利用 $E_k=eU_c$ 求最大初动能。原文将遏止电压 $U_c$ 称为图线与横轴交点的横坐标，与图示 $-U_c$ 的符号不一致【待核对】。",
+      "title": "比较同频率不同光强的光电流—电压图像",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-2593a17f13c17813b932"
+      ],
+      "text": "分析不同频率光的光电流—电压图像：分别读取标示为 $-U_{c1}$、$-U_{c2}$ 的横轴交点及饱和电流 $I_1$、$I_2$，利用 $E_{k1}=eU_{c1}$、$E_{k2}=eU_{c2}$ 求最大初动能。图中蓝光与黄光对应不同的遏止电压。",
+      "title": "比较不同频率的光电流—电压图像",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-2593a17f13c17813b932"
+      ],
+      "text": "分析遏止电压 $U_c$ 与入射光频率 $\\nu$ 的图像：横轴交点的横坐标为截止频率 $\\nu_c$；依据 $U_c=\\dfrac{h\\nu}{e}-\\dfrac{W_0}{e}$ 分析其随频率的变化；普朗克常量等于图线斜率与电子电荷量的乘积，即 $h=ke$。",
+      "title": "从遏止电压—频率图像读取物理量",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-96fe2d55dd43f7d5c277"
+      ],
+      "text": "分析光电效应时，分别辨明光子与逸出的光电子、光电子动能与最大初动能、入射光强度与单个光子能量。光强涉及单位时间、单位面积上的光子总能量；单个光子的能量与光子总能量不能混同。",
+      "title": "辨析光电效应中的易混概念",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-24cd13deefbdfdec92a7"
+      ],
+      "text": "原文推导由 $p=mc$ 出发，结合 $E=h\\nu$、$E=mc^2$ 和 $c=\\lambda\\nu$，得到 $p=\\dfrac{h}{\\lambda}$。原文未说明此处 $m$ 的含义【待核对】。",
+      "title": "光子动量公式的原文推导",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-5f252ff7af74a9ebc4e9"
+      ],
+      "from": "c2",
+      "to": "c3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5f252ff7af74a9ebc4e9"
+      ],
+      "from": "c3",
+      "to": "l1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-af7405fde052784ae3b0"
+      ],
+      "from": "c4",
+      "to": "l2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-28e3e75bac1801963875"
+      ],
+      "from": "c5",
+      "to": "c6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-54b9fbf0b5d4d6f0ad09",
+        "n-6c7b6126ea6297fe74b4"
+      ],
+      "from": "c7",
+      "to": "l3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6c7b6126ea6297fe74b4"
+      ],
+      "from": "c8",
+      "to": "l4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b0c503710eaba7c88eda"
+      ],
+      "from": "c10",
+      "to": "l5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b0c503710eaba7c88eda"
+      ],
+      "from": "c10",
+      "to": "l6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b0c503710eaba7c88eda"
+      ],
+      "from": "c7",
+      "to": "l6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2593a17f13c17813b932"
+      ],
+      "from": "c9",
+      "to": "l7",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2593a17f13c17813b932"
+      ],
+      "from": "c12",
+      "to": "l7",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2593a17f13c17813b932"
+      ],
+      "from": "c9",
+      "to": "l8",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-96fe2d55dd43f7d5c277"
+      ],
+      "from": "c11",
+      "to": "m5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-96fe2d55dd43f7d5c277"
+      ],
+      "from": "c6",
+      "to": "m5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-96fe2d55dd43f7d5c277"
+      ],
+      "from": "c12",
+      "to": "m5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-96fe2d55dd43f7d5c277"
+      ],
+      "from": "c13",
+      "to": "m5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2a7799726b77dbc4e7e7"
+      ],
+      "from": "c17",
+      "to": "c15",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2a7799726b77dbc4e7e7"
+      ],
+      "from": "c17",
+      "to": "c16",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2a7799726b77dbc4e7e7"
+      ],
+      "from": "c5",
+      "to": "c16",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2a7799726b77dbc4e7e7",
+        "n-24cd13deefbdfdec92a7"
+      ],
+      "from": "c14",
+      "to": "c16",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-24cd13deefbdfdec92a7"
+      ],
+      "from": "c14",
+      "to": "l12",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-24cd13deefbdfdec92a7"
+      ],
+      "from": "c14",
+      "to": "l13",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4a994165f6b34122b200"
+      ],
+      "from": "c18",
+      "to": "l14",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-24cd13deefbdfdec92a7"
+      ],
+      "from": "m6",
+      "to": "l12",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-24cd13deefbdfdec92a7"
+      ],
+      "from": "m6",
+      "to": "l11",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2593a17f13c17813b932"
+      ],
+      "from": "m1",
+      "to": "c7",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2593a17f13c17813b932"
+      ],
+      "from": "m1",
+      "to": "c10",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2593a17f13c17813b932"
+      ],
+      "from": "m2",
+      "to": "l7",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2593a17f13c17813b932"
+      ],
+      "from": "m3",
+      "to": "l7",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2593a17f13c17813b932"
+      ],
+      "from": "m4",
+      "to": "l8",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2d01deb0a81846cb53ea",
+        "n-2593a17f13c17813b932"
+      ],
+      "from": "n-2d01deb0a81846cb53ea",
+      "to": "l7",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4c07c175c4cf9b8abd48",
+        "n-2593a17f13c17813b932"
+      ],
+      "from": "n-4c07c175c4cf9b8abd48",
+      "to": "m1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4c07c175c4cf9b8abd48",
+        "n-2593a17f13c17813b932"
+      ],
+      "from": "n-4c07c175c4cf9b8abd48",
+      "to": "l7",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a564e5bddb78be7a463a",
+        "n-2a7799726b77dbc4e7e7"
+      ],
+      "from": "n-a564e5bddb78be7a463a",
+      "to": "l11",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a564e5bddb78be7a463a",
+        "n-24cd13deefbdfdec92a7"
+      ],
+      "from": "n-a564e5bddb78be7a463a",
+      "to": "l12",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-4df1729f36275249a982",
+  "source_digest": "d0fc121a4bd5fa2b368aac7b9843bf997fdbab05971851d535b1ab5849299c84",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

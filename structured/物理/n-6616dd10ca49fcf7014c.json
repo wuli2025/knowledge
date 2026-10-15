@@ -1,0 +1,206 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-4e828206730736d80608"
+      ],
+      "text": "实验中入射光线为 $AO$，玻璃砖内的折射光线为 $OO'$，出射光线为 $O'B$；入射点 $O$ 处的法线为 $NN'$，入射角和折射角分别标为 $\\theta_1$、$\\theta_2$。",
+      "title": "测量玻璃折射率的光路与角度",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-4e828206730736d80608"
+      ],
+      "text": "光线以一定的入射角穿过两面平行的玻璃砖，测量入射角 $\\theta_1$ 和折射角 $\\theta_2$，根据 $n=\\dfrac{\\sin\\theta_1}{\\sin\\theta_2}$ 计算玻璃的折射率。",
+      "title": "玻璃折射率与入射角、折射角的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-218ab12561e438fce486"
+      ],
+      "text": "改变入射角并测量相应折射角，作 $\\sin\\theta_1-\\sin\\theta_2$ 图像。由 $n=\\dfrac{\\sin\\theta_1}{\\sin\\theta_2}$ 可知，图线应为过原点的倾斜直线，斜率为折射率。",
+      "title": "正弦图像的斜率与折射率",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-13a04c3112f6783f1429"
+      ],
+      "text": "若实验方案中的直线 $aa'$ 与直线 $bb'$ 不平行，则会产生误差。",
+      "title": "边界线不平行产生误差",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-13a04c3112f6783f1429"
+      ],
+      "text": "如原文图甲，玻璃砖稍向上平移，而 $aa'$、$bb'$ 的间距与玻璃砖的宽度仍相等时，不影响实验结果。",
+      "title": "玻璃砖平移对实验结果的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-13a04c3112f6783f1429"
+      ],
+      "text": "如原文图乙，若将两界面 $aa'$、$bb'$ 的间距画得比玻璃砖的实际宽度大，则测量的折射率偏小。",
+      "title": "边界间距偏大使折射率测量值偏小",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-4e828206730736d80608",
+        "n-6f2b00a6fe65cc8c316b"
+      ],
+      "text": "通过插针法找出与入射光线 $AO$ 对应的出射光线 $O'B$，从而画出折射光线 $OO'$。眼睛在 $bb'$ 一侧透过玻璃砖观察并调整视线，使 $P_3$ 挡住 $P_1$、$P_2$ 的像，再插上 $P_4$，使 $P_4$ 挡住 $P_3$ 和 $P_1$、$P_2$ 的像。尽可能将大头针竖直插在纸上；$P_1$ 和 $P_2$ 之间、$P_3$ 和 $P_4$ 之间、$P_2$ 与 $O$ 之间、$P_3$ 与 $O'$ 之间的距离要稍大一些。",
+      "title": "插针法确定光路",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-6f2b00a6fe65cc8c316b"
+      ],
+      "text": "入射角 $\\theta_1$ 不宜太大（接近 $90^\\circ$）或太小（接近 $0^\\circ$）。入射角太大时折射光较弱，太小时角度测量的误差较大。",
+      "title": "选择适当的入射角",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-6f2b00a6fe65cc8c316b"
+      ],
+      "text": "先在白纸上画直线 $aa'$，放上玻璃砖，使一条长边与 $aa'$ 对齐；在另一条边上确定两点，用刻度尺画出该条长边的对齐线 $bb'$。操作时手不能触摸光通过的玻璃砖光洁面，也不能把玻璃砖的棱当尺子画边界线。",
+      "title": "画玻璃砖边界线",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-218ab12561e438fce486"
+      ],
+      "text": "用量角器测量入射角 $\\theta_1$ 和折射角 $\\theta_2$，计算不同入射角时的 $\\dfrac{\\sin\\theta_1}{\\sin\\theta_2}$，并取平均值。",
+      "title": "计算法处理折射率数据",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-218ab12561e438fce486"
+      ],
+      "text": "改变入射角 $\\theta_1$，测出对应的折射角 $\\theta_2$，作 $\\sin\\theta_1-\\sin\\theta_2$ 图像，由过原点的倾斜直线的斜率求折射率。",
+      "title": "图像法测量折射率",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-218ab12561e438fce486"
+      ],
+      "text": "以入射点 $O$ 为圆心，以一定长度 $R$ 为半径画圆，圆与入射光线、折射光线分别交于 $E$、$E'$；从 $E$、$E'$ 向法线 $NN'$ 作垂线，垂足分别为 $H$、$H'$。由 $\\sin\\theta_1=\\dfrac{EH}{OE}$、$\\sin\\theta_2=\\dfrac{E'H'}{OE'}$ 和 $OE=OE'=R$，得到 $n=\\dfrac{\\sin\\theta_1}{\\sin\\theta_2}=\\dfrac{EH}{E'H'}$。用刻度尺测量 $EH$、$E'H'$ 的长度，即可求出折射率 $n$。",
+      "title": "“单位圆”法测量折射率",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-4e828206730736d80608"
+      ],
+      "from": "m1",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4e828206730736d80608"
+      ],
+      "from": "c1",
+      "to": "l1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-218ab12561e438fce486"
+      ],
+      "from": "m4",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-218ab12561e438fce486"
+      ],
+      "from": "m5",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-218ab12561e438fce486"
+      ],
+      "from": "l1",
+      "to": "l2",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-218ab12561e438fce486"
+      ],
+      "from": "m6",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6f2b00a6fe65cc8c316b"
+      ],
+      "from": "m2",
+      "to": "m1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6f2b00a6fe65cc8c316b",
+        "n-13a04c3112f6783f1429"
+      ],
+      "from": "m3",
+      "to": "l3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6f2b00a6fe65cc8c316b",
+        "n-13a04c3112f6783f1429"
+      ],
+      "from": "m3",
+      "to": "l5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-6616dd10ca49fcf7014c",
+  "source_digest": "f5bce96a095bd00d84df67dc01166b9326bde3c9d9302b9c2f64a02fecefce13",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

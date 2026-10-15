@@ -1,0 +1,299 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-c3de4806d9aa04bae8d2"
+      ],
+      "text": "将形状特殊、不方便直接计算的场源电荷等分成许多微元电荷，每个微元电荷可看成点电荷。",
+      "title": "微元电荷",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-bdb94665a72084fd07b2"
+      ],
+      "text": "在无限大接地导体板与点电荷 $+Q$ 的电场等效模型中，点电荷 $-Q$ 位于 $+Q$ 关于导体板的对称位置，即把导体板看作平面镜时 $+Q$ 的像的位置。",
+      "title": "镜像电荷的位置",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-8282e1b6e5d42e4547a8"
+      ],
+      "text": "电场强度的叠加为矢量叠加，遵循平行四边形定则。",
+      "title": "电场强度叠加原则",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-1fdeef1e2e063364a0d7",
+        "n-51c067291c040fddd6c5"
+      ],
+      "text": "原文指出：对称图形顶点均匀分布等量同种点电荷时，中心处场强为 $0$，并将该结论用于正 $N$ 边形、球壳等对称系统的电场分析；均匀带电圆环中心处场强也为 $0$。",
+      "title": "对称带电系统中心处的场强",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-c3de4806d9aa04bae8d2"
+      ],
+      "text": "微元电荷可视为点电荷时，使用公式 $E=k\\dfrac{Q}{r^2}$ 计算其产生的电场强度。",
+      "title": "点电荷场强公式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-73e78a685cc29495ddb1"
+      ],
+      "text": "均匀带电球壳在球外空间产生的电场，等效于将电荷集中在球心处产生的电场。适用范围为球外空间。",
+      "title": "均匀带电球壳的球外电场等效",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-ef1a32b2cf6641472c94"
+      ],
+      "text": "半径为 $R$、单位面积带电荷量为 $\\sigma$（$\\sigma>0$）的均匀带电圆形平板，其轴线上点 $P$ 的坐标为 $x$。原文给出 $E=2\\pi k\\sigma\\left(1-\\dfrac{x}{\\sqrt{x^2+R^2}}\\right)$，方向沿 $x$ 轴，并说明可由电场强度叠加原理导出。【待核对】原文称轴线上“任意一点”，但图中 $P$ 位于 $x$ 轴正侧，公式的坐标适用范围与方向表述需核对。",
+      "title": "均匀带电圆形平板轴线上的场强",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-8282e1b6e5d42e4547a8",
+        "n-6c0fd13ac16dbe9b8ea3"
+      ],
+      "text": "先确定要计算场强的点，再分析有哪几个电场在该点叠加，确定各电场在该点的场强大小和方向，最后利用平行四边形定则求矢量和。点电荷电场、匀强电场的场强计算一般应用此法。",
+      "title": "矢量叠加法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-51c067291c040fddd6c5",
+        "n-6c0fd13ac16dbe9b8ea3"
+      ],
+      "text": "利用空间上对称分布的电荷所形成电场的对称性，简化复杂电场的叠加计算。均匀带电体与点电荷的场强叠加一般应用此法。",
+      "title": "对称法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-1fdeef1e2e063364a0d7"
+      ],
+      "text": "利用对称分布的等量同种点电荷在中心处场强为 $0$ 的结论，对原系统各顶点叠加相同电荷，简化中心处场强的分析。原文正五边形示例在各顶点均叠加 $-3q$，得到新系统电荷量：原电荷 $+(-3q)\\rightarrow(-2q,-q,0,q,2q)$。",
+      "title": "叠加对称电荷简化原系统",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-c1db218ce813bd5ab917",
+        "n-6c0fd13ac16dbe9b8ea3"
+      ],
+      "text": "求带电体 $A$ 产生的场强时，设法补上带电体 $B$，使 $A+B$ 成为完整且方便计算的模型，同时要求 $B$ 产生的场强也方便计算，再由整体与补入部分的场强求出 $A$ 的场强。原文应用情境为有很小缺口的均匀带电圆环中心处场强，条件为 $\\Delta l\\ll r$。计算均匀带电体某点的场强一般可选用此法。",
+      "title": "割补法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-50ae02cbba06a90b8f6e",
+        "n-bdb94665a72084fd07b2"
+      ],
+      "text": "在保证效果相同的前提下，将复杂电场情境变换为简单或熟悉的情境。原文接地导体板示例中，无限大接地导体板与点电荷 $+Q$ 在点电荷所在一侧产生的电场，可等效为无导体板时 $+Q$ 与其关于板面对称的点电荷 $-Q$ 在该区域共同产生的电场；此等效有区域限制。",
+      "title": "等效法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-c3de4806d9aa04bae8d2",
+        "n-6c0fd13ac16dbe9b8ea3"
+      ],
+      "text": "场源电荷形状特殊、不方便计算时，将其等分成许多可视为点电荷的微元电荷，用 $E=k\\dfrac{Q}{r^2}$ 计算各极小段的场强，再根据场强叠加原理求矢量和。计算均匀带电体某点的场强一般可选用此法。",
+      "title": "微元法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-7c38a3c71d066a31b309"
+      ],
+      "text": "把某个物理量推向极端，据此进行推理和分析，作出判断或导出一般结论。",
+      "title": "极限法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-6c0fd13ac16dbe9b8ea3"
+      ],
+      "text": "点电荷电场、匀强电场的场强一般应用矢量叠加法；均匀带电体与点电荷的场强叠加一般应用对称法；计算均匀带电体某点产生的场强一般应用割补法或微元法。",
+      "title": "电场强度计算方法的选用",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-8282e1b6e5d42e4547a8"
+      ],
+      "from": "m1",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-51c067291c040fddd6c5"
+      ],
+      "from": "m2",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1fdeef1e2e063364a0d7"
+      ],
+      "from": "m3",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1fdeef1e2e063364a0d7"
+      ],
+      "from": "m3",
+      "to": "n-1fdeef1e2e063364a0d7",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-bdb94665a72084fd07b2"
+      ],
+      "from": "m5",
+      "to": "c2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-bdb94665a72084fd07b2"
+      ],
+      "from": "m5",
+      "to": "n-bdb94665a72084fd07b2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c3de4806d9aa04bae8d2"
+      ],
+      "from": "m6",
+      "to": "c1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c3de4806d9aa04bae8d2"
+      ],
+      "from": "m6",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c3de4806d9aa04bae8d2"
+      ],
+      "from": "m6",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-73e78a685cc29495ddb1"
+      ],
+      "from": "n-73e78a685cc29495ddb1",
+      "to": "l4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ef1a32b2cf6641472c94"
+      ],
+      "from": "l5",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ef1a32b2cf6641472c94"
+      ],
+      "from": "n-ef1a32b2cf6641472c94",
+      "to": "l5",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6c0fd13ac16dbe9b8ea3"
+      ],
+      "from": "m8",
+      "to": "m1",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6c0fd13ac16dbe9b8ea3"
+      ],
+      "from": "m8",
+      "to": "m2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6c0fd13ac16dbe9b8ea3"
+      ],
+      "from": "m8",
+      "to": "m4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6c0fd13ac16dbe9b8ea3"
+      ],
+      "from": "m8",
+      "to": "m6",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-14c6eab2fc088cea6c3d",
+  "source_digest": "5b63b773ec228208883a720d29a88c5e94847e524238b7c65c0f8a12c4419faa",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

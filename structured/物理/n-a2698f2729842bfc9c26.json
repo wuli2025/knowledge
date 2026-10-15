@@ -1,0 +1,316 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-9c656b19f5a5da257d80"
+      ],
+      "text": "描述圆周运动的物理量之一，原文表示为 $v=\\dfrac{\\Delta s}{\\Delta t}$。",
+      "title": "线速度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-9c656b19f5a5da257d80"
+      ],
+      "text": "描述圆周运动的物理量之一，原文表示为 $\\omega=\\dfrac{\\Delta\\theta}{\\Delta t}$。",
+      "title": "角速度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-9c656b19f5a5da257d80"
+      ],
+      "text": "圆周运动的周期用 $T$ 表示，频率用 $f$ 表示；原文同时列出转速 $n$。",
+      "title": "周期、频率与转速",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-9c656b19f5a5da257d80"
+      ],
+      "text": "向心加速度用 $a_n$ 表示，可通过线速度、角速度、半径或周期之间的关系计算。",
+      "title": "向心加速度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-817cb9b635bd7f4f906a"
+      ],
+      "text": "原文列出共轴传动、皮带传动、齿轮传动和摩擦传动四种常见传动方式；共轴传动的基本特征是角速度相同，其余三种的基本特征是轮缘或啮合处线速度大小相等。",
+      "title": "常见的传动方式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-fc3a15371b61dbf35c21"
+      ],
+      "text": "匀速圆周运动中，速度沿圆的切线方向，合力指向圆心，所受合力提供向心力。",
+      "title": "匀速圆周运动的速度与合力",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c7",
+      "source_node_ids": [
+        "n-fc3a15371b61dbf35c21"
+      ],
+      "text": "变速圆周运动中，合力可分解为沿半径指向圆心的 $F_n$ 和沿切线方向的 $F_t$。",
+      "title": "变速圆周运动的合力分解",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-9c656b19f5a5da257d80"
+      ],
+      "text": "线速度与角速度、半径、周期和频率的关系为：$v=\\omega r$；$v=\\dfrac{2\\pi r}{T}$；$v=2\\pi rf$。",
+      "title": "线速度的关系式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-9c656b19f5a5da257d80"
+      ],
+      "text": "角速度与周期、频率的关系为：$\\omega=\\dfrac{2\\pi}{T}$；$\\omega=2\\pi f$。",
+      "title": "角速度的关系式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-9c656b19f5a5da257d80"
+      ],
+      "text": "周期与频率的关系为 $T=\\dfrac{1}{f}$。",
+      "title": "周期与频率的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-9c656b19f5a5da257d80"
+      ],
+      "text": "向心加速度的关系式为：$a_n=\\dfrac{v^2}{r}$；$a_n=\\omega^2r=\\omega v$；$a_n=\\dfrac{4\\pi^2r}{T^2}$。",
+      "title": "向心加速度的关系式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-817cb9b635bd7f4f906a"
+      ],
+      "text": "共轴传动的角速度相同。原图中小轮半径为 $r$，边缘点为 $A$；大轮半径为 $R$，边缘点为 $B$。定量关系为 $\\omega_A=\\omega_B$；$v_A:v_B=r:R$；$a_A:a_B=r:R$。",
+      "title": "共轴传动关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-817cb9b635bd7f4f906a",
+        "n-5759c18377d883e46b46"
+      ],
+      "text": "皮带传动中，轮缘线速度大小相等；典例明确给出传送带不打滑的条件。原表中小轮 $A$ 的半径为 $r$，大轮 $B$ 的半径为 $R$，定量关系为 $v_A=v_B$；$\\omega_A:\\omega_B=R:r$；$a_A:a_B=R:r$。",
+      "title": "皮带传动关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-817cb9b635bd7f4f906a"
+      ],
+      "text": "齿轮传动中，啮合处线速度大小相等。小齿轮 $A$ 的半径为 $r$，大齿轮 $B$ 的半径为 $R$，定量关系为 $v_A=v_B$；$\\omega_A:\\omega_B=R:r$；$a_A:a_B=R:r$；齿数比等于半径比。",
+      "title": "齿轮传动关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-817cb9b635bd7f4f906a"
+      ],
+      "text": "摩擦传动中，两轮边缘接触，轮缘线速度大小相等。小轮 $A$ 的半径为 $r$，大轮 $B$ 的半径为 $R$，定量关系为 $v_A=v_B$；$\\omega_A:\\omega_B=R:r$；$a_A:a_B=R:r$。",
+      "title": "摩擦传动关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-fc3a15371b61dbf35c21"
+      ],
+      "text": "匀速圆周运动中，所受合力提供向心力：$F_{\\text{合}}=ma_n=m\\dfrac{v^2}{r}=m\\omega^2r=m\\dfrac{4\\pi^2}{T^2}r=m\\omega v$。",
+      "title": "匀速圆周运动的动力学关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-fc3a15371b61dbf35c21"
+      ],
+      "text": "变速圆周运动中，$F_t$ 改变速度大小；$F_n$ 提供向心力，改变速度方向。",
+      "title": "切向力与径向力的作用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l11",
+      "source_node_ids": [
+        "n-fc3a15371b61dbf35c21"
+      ],
+      "text": "原文对离心或近心运动列出的条件为：$F=0$ 时，物体沿切线方向飞出；$0<F<m\\omega^2r$ 时，物体逐渐远离圆心；$F>m\\omega^2r$ 时，物体逐渐靠近圆心。",
+      "title": "离心与近心运动的条件",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-6fb3c21af824afb8e873"
+      ],
+      "text": "按“一审、二确、三分、四列”分析：一审，审清题意，以做圆周运动的物体为研究对象；二确，确定圆周运动的轨道平面；三分，分析几何关系以确定圆心和半径，分析线速度、角速度等运动量，分析受力并画出受力示意图，确定向心力来源，其中确定向心力来源是破题关键；四列，根据牛顿运动定律和圆周运动知识列方程。",
+      "title": "圆周运动动力学问题的分析思路",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-9c656b19f5a5da257d80"
+      ],
+      "from": "c1",
+      "to": "l1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9c656b19f5a5da257d80"
+      ],
+      "from": "c2",
+      "to": "l2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9c656b19f5a5da257d80"
+      ],
+      "from": "c3",
+      "to": "l3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9c656b19f5a5da257d80"
+      ],
+      "from": "c4",
+      "to": "l4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-817cb9b635bd7f4f906a"
+      ],
+      "from": "c5",
+      "to": "l5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-817cb9b635bd7f4f906a"
+      ],
+      "from": "c5",
+      "to": "l6",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-817cb9b635bd7f4f906a"
+      ],
+      "from": "c5",
+      "to": "l7",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-817cb9b635bd7f4f906a"
+      ],
+      "from": "c5",
+      "to": "l8",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-fc3a15371b61dbf35c21"
+      ],
+      "from": "c6",
+      "to": "l9",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-fc3a15371b61dbf35c21"
+      ],
+      "from": "c7",
+      "to": "l10",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5759c18377d883e46b46",
+        "n-817cb9b635bd7f4f906a"
+      ],
+      "from": "n-5759c18377d883e46b46",
+      "to": "l5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5759c18377d883e46b46",
+        "n-817cb9b635bd7f4f906a"
+      ],
+      "from": "n-5759c18377d883e46b46",
+      "to": "l6",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-81cf5bfe23796c125ab4",
+        "n-fc3a15371b61dbf35c21"
+      ],
+      "from": "n-81cf5bfe23796c125ab4",
+      "to": "l9",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6fb3c21af824afb8e873",
+        "n-fc3a15371b61dbf35c21"
+      ],
+      "from": "m1",
+      "to": "l9",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-a2698f2729842bfc9c26",
+  "source_digest": "6cd8fce61a17e300c1eff2435554c63b4295cd8498210faf9416aaf31d701b69",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

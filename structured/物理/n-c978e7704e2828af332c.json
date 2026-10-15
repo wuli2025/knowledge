@@ -1,0 +1,545 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-6830554df701ee98ad43"
+      ],
+      "text": "传送带模型一般分为水平传送带、倾斜传送带两种类型，其实质是物体与传送带间的相对运动。",
+      "title": "传送带模型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-f626a61fa13dec2fd9ce"
+      ],
+      "text": "水平传送带模型包括物块与传送带初始运动方向相同或相反的情境。分析时需区分物块初速度 $v_0$ 与传送带速度 $v$ 的关系，以及传送带长度 $l$ 是否足够。",
+      "title": "水平传送带模型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-f9e703aa3c86769dab06"
+      ],
+      "text": "倾斜传送带模型包括向上传送和向下传送。传送带与水平面夹角为 $\\theta$，长度为 $l$，物块与传送带间的动摩擦因数为 $\\mu$，传送带速度大小为 $v$，物块初速度大小为 $v_0$。原文向上传送情境中物块从底端沿斜面向上运动，向下传送情境中物块从顶端沿斜面向下运动。",
+      "title": "倾斜传送带模型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-620054344057480e764a"
+      ],
+      "text": "物体位移是以地面为参考系，单独对物体由运动学公式求得的位移。",
+      "title": "物体对地位移",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-620054344057480e764a"
+      ],
+      "text": "物体相对传送带的位移大小用 $\\Delta x$ 表示。分析划痕长度时，应区分相对运动的次数及各次相对运动的方向。",
+      "title": "相对位移与划痕长度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-b57e1613b62668f91e04"
+      ],
+      "text": "处理传送带问题时，以 $v_{\\text{物}}=v_{\\text{带}}$ 为需重点检查的临界状态，分析摩擦力及物体运动状态的变化。",
+      "title": "物体与传送带共速的临界状态",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-620054344057480e764a"
+      ],
+      "text": "若有一次相对运动，物体相对传送带的位移大小为 $\\Delta x=|x_{\\text{传}}-x_{\\text{物}}|$ 或 $\\Delta x=x_{\\text{物}}+x_{\\text{传}}$。",
+      "title": "一次相对运动的位移计算",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-620054344057480e764a"
+      ],
+      "text": "若有两次相对运动且方向相同，则 $\\Delta x=\\Delta x_1+\\Delta x_2$；若两次相对运动方向相反，则划痕长度等于较长的相对位移大小，原文图乙中为 $\\Delta x_2$。",
+      "title": "两次相对运动与划痕长度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-b57e1613b62668f91e04"
+      ],
+      "text": "倾斜传送带中，若 $\\mu\\geqslant\\tan\\theta$，且物体能与传送带共速，则共速后物体匀速运动；若 $\\mu<\\tan\\theta$，则物体必定有沿传送带向下的加速度。",
+      "title": "倾斜传送带的共速后运动判据",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-f626a61fa13dec2fd9ce"
+      ],
+      "text": "原文水平传送带模型中，物块加速或减速阶段的加速度大小为 $a=\\mu g$。",
+      "title": "水平传送带滑动阶段的加速度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-f626a61fa13dec2fd9ce"
+      ],
+      "text": "物块从左端沿传送带上表面运动方向进入。当 $v_0=v$ 时，无论传送带是否足够长，物块一直匀速运动。",
+      "title": "水平同向共速运动",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-f626a61fa13dec2fd9ce"
+      ],
+      "text": "物块从左端沿传送带上表面运动方向进入，且 $0\\leqslant v_0<v$。若 $l>\\dfrac{v^2-v_0^2}{2\\mu g}$，物块先匀加速后匀速；若 $l\\leqslant\\dfrac{v^2-v_0^2}{2\\mu g}$，物块一直匀加速。",
+      "title": "水平同向低初速运动",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-f626a61fa13dec2fd9ce"
+      ],
+      "text": "物块从左端沿传送带上表面运动方向进入，且 $v_0>v$。若 $l>\\dfrac{v_0^2-v^2}{2\\mu g}$，物块先匀减速后匀速；若 $l\\leqslant\\dfrac{v_0^2-v^2}{2\\mu g}$，物块一直匀减速。",
+      "title": "水平同向高初速运动",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-f626a61fa13dec2fd9ce"
+      ],
+      "text": "传送带上表面向右运动，物块从右端以向左的初速度进入，且 $v_0>v$。若 $l>\\dfrac{v_0^2}{2\\mu g}$，物块先匀减速后反向匀加速再匀速；若 $l\\leqslant\\dfrac{v_0^2}{2\\mu g}$，物块首次到达左端前一直匀减速；等号成立时，恰在左端速度降为零。",
+      "title": "水平反向进入且初速大于带速",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-f626a61fa13dec2fd9ce"
+      ],
+      "text": "传送带上表面向右运动，物块从右端以向左的初速度进入，且 $v_0\\leqslant v$。若 $l>\\dfrac{v_0^2}{2\\mu g}$，物块先匀减速后反向匀加速；若 $l\\leqslant\\dfrac{v_0^2}{2\\mu g}$，物块首次到达左端前一直匀减速；等号成立时，恰在左端速度降为零。 对于先减速再反向加速的情况，若 $v_0=v$，物块返回右端时恰好达到带速。",
+      "title": "水平反向进入且初速不大于带速",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-f9e703aa3c86769dab06"
+      ],
+      "text": "向上传送，$\\mu>\\tan\\theta$，$0\\leqslant v_0<v$，加速度为 $a=(\\mu\\cos\\theta-\\sin\\theta)g$。若 $l>\\dfrac{v^2-v_0^2}{2a}$，物块先匀加速后匀速；若 $l\\leqslant\\dfrac{v^2-v_0^2}{2a}$，物块一直匀加速。",
+      "title": "倾斜向上传送：摩擦因数较大且初速小于带速",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l11",
+      "source_node_ids": [
+        "n-f9e703aa3c86769dab06"
+      ],
+      "text": "向上传送或向下传送，$\\mu>\\tan\\theta$，$v_0=v$ 时，无论传送带是否足够长，物块一直匀速运动。",
+      "title": "倾斜传送带：摩擦因数较大且初始共速",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l12",
+      "source_node_ids": [
+        "n-f9e703aa3c86769dab06"
+      ],
+      "text": "向上传送，$\\mu>\\tan\\theta$，$v_0>v$，减速阶段加速度大小为 $a=(\\mu\\cos\\theta+\\sin\\theta)g$。若 $l>\\dfrac{v_0^2-v^2}{2a}$，物块先匀减速后匀速；若 $l\\leqslant\\dfrac{v_0^2-v^2}{2a}$，物块一直匀减速。",
+      "title": "倾斜向上传送：摩擦因数较大且初速大于带速",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l13",
+      "source_node_ids": [
+        "n-f9e703aa3c86769dab06"
+      ],
+      "text": "向上传送，$\\mu<\\tan\\theta$，$0<v_0<v$，加速度大小为 $a=(\\sin\\theta-\\mu\\cos\\theta)g$。若 $l>\\dfrac{v_0^2}{2a}$，物块先匀减速后反向匀加速；若 $l\\leqslant\\dfrac{v_0^2}{2a}$，物块一直匀减速。",
+      "title": "倾斜向上传送：摩擦因数较小且初速小于带速",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l14",
+      "source_node_ids": [
+        "n-f9e703aa3c86769dab06"
+      ],
+      "text": "向上传送，$\\mu<\\tan\\theta$，$v_0>v$，加速度大小分别为 $a_1=(\\mu\\cos\\theta+\\sin\\theta)g$、$a_2=(\\sin\\theta-\\mu\\cos\\theta)g$。若 $l>\\dfrac{v_0^2-v^2}{2a_1}+\\dfrac{v^2}{2a_2}$，物块先以 $a_1$ 匀减速到 $v$，再以 $a_2$ 匀减速，最后以 $a_2$ 反向匀加速；若 $l\\leqslant\\dfrac{v_0^2-v^2}{2a_1}$，物块一直以 $a_1$ 匀减速；若 $\\dfrac{v_0^2-v^2}{2a_1}<l\\leqslant\\dfrac{v_0^2-v^2}{2a_1}+\\dfrac{v^2}{2a_2}$，物块先以 $a_1$ 匀减速到 $v$，再以 $a_2$ 匀减速。",
+      "title": "倾斜向上传送：摩擦因数较小且初速大于带速",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l15",
+      "source_node_ids": [
+        "n-f9e703aa3c86769dab06"
+      ],
+      "text": "向下传送，$\\mu>\\tan\\theta$，$0\\leqslant v_0<v$，加速度为 $a=(\\mu\\cos\\theta+\\sin\\theta)g$。若 $l>\\dfrac{v^2-v_0^2}{2a}$，物块先匀加速后匀速；若 $l\\leqslant\\dfrac{v^2-v_0^2}{2a}$，物块一直匀加速。",
+      "title": "倾斜向下传送：摩擦因数较大且初速小于带速",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l16",
+      "source_node_ids": [
+        "n-f9e703aa3c86769dab06"
+      ],
+      "text": "向下传送，$\\mu>\\tan\\theta$，$v_0>v$，减速阶段加速度大小为 $a=(\\mu\\cos\\theta-\\sin\\theta)g$。若 $l>\\dfrac{v_0^2-v^2}{2a}$，物块先匀减速后匀速；若 $l\\leqslant\\dfrac{v_0^2-v^2}{2a}$，物块一直匀减速。",
+      "title": "倾斜向下传送：摩擦因数较大且初速大于带速",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l17",
+      "source_node_ids": [
+        "n-f9e703aa3c86769dab06"
+      ],
+      "text": "向下传送，$\\mu<\\tan\\theta$，$0\\leqslant v_0<v$，加速度分别为 $a_1=(\\mu\\cos\\theta+\\sin\\theta)g$、$a_2=(\\sin\\theta-\\mu\\cos\\theta)g$。若 $l>\\dfrac{v^2-v_0^2}{2a_1}$，物块先以 $a_1$ 匀加速，与传送带共速后以 $a_2$ 匀加速；若 $l\\leqslant\\dfrac{v^2-v_0^2}{2a_1}$，物块一直以 $a_1$ 匀加速。",
+      "title": "倾斜向下传送：摩擦因数较小且初速小于带速",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l18",
+      "source_node_ids": [
+        "n-f9e703aa3c86769dab06"
+      ],
+      "text": "向下传送，$\\mu<\\tan\\theta$，$v_0\\geqslant v$ 时，无论传送带是否足够长，物块均以 $a=(\\sin\\theta-\\mu\\cos\\theta)g$ 匀加速。",
+      "title": "倾斜向下传送：摩擦因数较小且初速不小于带速",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-b57e1613b62668f91e04"
+      ],
+      "text": "先确定研究对象为传送带及上面的物体；找出 $v_{\\text{物}}=v_{\\text{带}}$ 的临界状态，分析摩擦力和运动状态的变化；再分析力与运动，进一步计算物体在传送带上的运动时间 $t'$、相对位移 $\\Delta x$ 等。",
+      "title": "传送带模型的一般分析步骤",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-b57e1613b62668f91e04"
+      ],
+      "text": "对于水平传送带，先根据物体的受力和传送带的速度 $v$，计算物体加速或减速的时间及位移 $x$；再比较 $x$ 与传送带长度，判断物体的运动形式。",
+      "title": "用变速位移与带长比较判断运动阶段",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-b57e1613b62668f91e04"
+      ],
+      "text": "对于倾斜传送带，比较 $\\mu$ 与 $\\tan\\theta$：若 $\\mu\\geqslant\\tan\\theta$，还需判断物体能否与传送带共速，能共速则共速后匀速运动；若 $\\mu<\\tan\\theta$，按物体具有沿传送带向下的加速度分析。",
+      "title": "比较摩擦因数与倾角关系判断倾斜运动",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-620054344057480e764a"
+      ],
+      "text": "先区分物体对地位移与相对传送带位移，再判断相对运动的次数及方向。一次相对运动按原文给出的差值绝对值或位移大小之和计算；两次同向相对运动将两段相对位移大小相加，两次反向相对运动取较长的相对位移大小作为划痕长度。",
+      "title": "按相对运动方向分析划痕长度",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-6830554df701ee98ad43"
+      ],
+      "from": "c1",
+      "to": "c2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6830554df701ee98ad43"
+      ],
+      "from": "c1",
+      "to": "c3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-620054344057480e764a"
+      ],
+      "from": "c4",
+      "to": "c5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b57e1613b62668f91e04"
+      ],
+      "from": "m1",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b57e1613b62668f91e04"
+      ],
+      "from": "m1",
+      "to": "c6",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b57e1613b62668f91e04"
+      ],
+      "from": "m1",
+      "to": "m2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b57e1613b62668f91e04"
+      ],
+      "from": "m1",
+      "to": "m3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b57e1613b62668f91e04"
+      ],
+      "from": "m2",
+      "to": "c2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b57e1613b62668f91e04"
+      ],
+      "from": "m3",
+      "to": "c3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b57e1613b62668f91e04"
+      ],
+      "from": "m3",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-620054344057480e764a"
+      ],
+      "from": "m4",
+      "to": "c5",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-620054344057480e764a"
+      ],
+      "from": "m4",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-620054344057480e764a"
+      ],
+      "from": "m4",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f626a61fa13dec2fd9ce"
+      ],
+      "from": "c2",
+      "to": "l4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f626a61fa13dec2fd9ce"
+      ],
+      "from": "c2",
+      "to": "l5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f626a61fa13dec2fd9ce"
+      ],
+      "from": "c2",
+      "to": "l6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f626a61fa13dec2fd9ce"
+      ],
+      "from": "c2",
+      "to": "l7",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f626a61fa13dec2fd9ce"
+      ],
+      "from": "c2",
+      "to": "l8",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f626a61fa13dec2fd9ce"
+      ],
+      "from": "c2",
+      "to": "l9",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f9e703aa3c86769dab06"
+      ],
+      "from": "c3",
+      "to": "l10",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f9e703aa3c86769dab06"
+      ],
+      "from": "c3",
+      "to": "l11",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f9e703aa3c86769dab06"
+      ],
+      "from": "c3",
+      "to": "l12",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f9e703aa3c86769dab06"
+      ],
+      "from": "c3",
+      "to": "l13",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f9e703aa3c86769dab06"
+      ],
+      "from": "c3",
+      "to": "l14",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f9e703aa3c86769dab06"
+      ],
+      "from": "c3",
+      "to": "l15",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f9e703aa3c86769dab06"
+      ],
+      "from": "c3",
+      "to": "l16",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f9e703aa3c86769dab06"
+      ],
+      "from": "c3",
+      "to": "l17",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f9e703aa3c86769dab06"
+      ],
+      "from": "c3",
+      "to": "l18",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6068d1e905f97a5ae63b"
+      ],
+      "from": "n-6068d1e905f97a5ae63b",
+      "to": "c2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6068d1e905f97a5ae63b"
+      ],
+      "from": "n-6068d1e905f97a5ae63b",
+      "to": "c3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6068d1e905f97a5ae63b"
+      ],
+      "from": "n-6068d1e905f97a5ae63b",
+      "to": "c5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-c978e7704e2828af332c",
+  "source_digest": "e5fc38668ce5bf4dff42c3c0175487c786843d1912c32b3d46286a698003f252",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

@@ -1,0 +1,18 @@
+{
+  "subject": "物理",
+  "branch": "physics",
+  "checked_at": "2026-10-15T10:28:07.670321+00:00",
+  "nodes": 5577,
+  "edges": 13027,
+  "pages": 529,
+  "checks": [
+    "single-subject data",
+    "default graph",
+    "subject title and tabs",
+    "search reveal",
+    "answer navigation",
+    "source image",
+    "offline assets"
+  ],
+  "javascript_errors": []
+}

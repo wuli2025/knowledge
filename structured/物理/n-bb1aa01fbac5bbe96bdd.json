@@ -1,0 +1,397 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-96e4f01b561ae24ca990"
+      ],
+      "text": "水平固定的平行光滑导轨足够长且电阻不计，间距为 $L$，左侧连接电动势为 $E$、内阻为 $r$ 的电源；质量为 $m$、电阻为 $R$ 的金属杆跨接导轨，处于磁感应强度大小为 $B$ 的匀强磁场中。杆运动产生的感应电动势与电源电动势相互反抗。",
+      "title": "单杆电源模型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-d7c485cde1937b4928f8",
+        "n-9230d24752f8f5a71b95",
+        "n-bbcdeb6678dcca75031d"
+      ],
+      "text": "金属杆与导轨、电容器组成的模型，原文分为电容器充电式和电容器放电式。",
+      "title": "单杆电容模型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-9230d24752f8f5a71b95",
+        "n-321f53829e84fe0baa3b"
+      ],
+      "text": "质量为 $m$、电阻为 $R$ 的金属杆跨接水平光滑导轨，导轨左端连接电容器 $C$，忽略导轨电阻，磁场垂直导轨平面。原文分别讨论有初速度 $v_0$、无外力，以及初速度 $v_0=0$、受恒定外力 $F$ 的情境。",
+      "title": "电容器充电式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-bbcdeb6678dcca75031d"
+      ],
+      "text": "用电动势为 $E$、内阻可忽略的电源将电容为 $C$ 的电容器充满电，再切换开关，使电容器与导轨及金属杆构成回路。金属杆质量为 $m$、电阻为 $R$，初始静止，导轨间距为 $L$。",
+      "title": "电容器放电式",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-96e4f01b561ae24ca990"
+      ],
+      "text": "在单杆电源模型中，当杆的速度为 $v$ 时，$I=\\dfrac{E-E'}{r+R}=\\dfrac{E-BLv}{r+R}$，安培力为 $F_{\\text{安}}=BIL=\\dfrac{BL(E-BLv)}{r+R}$。",
+      "title": "单杆电源模型的电流与安培力",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-96e4f01b561ae24ca990"
+      ],
+      "text": "杆由静止开始运动时，$a=\\dfrac{F_{\\text{安}}}{m}=\\dfrac{BL(E-BLv)}{m(r+R)}$。运动中 $v\\uparrow\\Rightarrow F_{\\text{安}}\\downarrow\\Rightarrow a\\downarrow$，杆做加速度减小的加速运动；最大速度为 $v_m=\\dfrac{E}{BL}$，此时 $F_{\\text{安}}=0$、$a=0$，原文表述此后杆做匀速直线运动。",
+      "title": "单杆电源模型的运动与最大速度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-96e4f01b561ae24ca990"
+      ],
+      "text": "原文将电源输出电能与杆的动能、杆产生的热量联系：杆速度为 $v$ 时，$E_{\\text{电}}=\\dfrac12mv^2+Q_R$；全过程有 $E_{\\text{电}}'=\\dfrac12mv_m^2+Q_R'$。",
+      "title": "单杆电源模型的能量关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-9230d24752f8f5a71b95"
+      ],
+      "text": "适用于含电容器、有初速度 $v_0$、无外力的充电模型。杆速度为 $v$ 时，$I=\\dfrac{BLv-U_C}{R}$，其中 $U_C$ 为电容器两端电压；$F_{\\text{安}}=BIL=\\dfrac{B^2L^2v}{R}-\\dfrac{BLU_C}{R}$。",
+      "title": "无外力充电式的电流与安培力",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-9230d24752f8f5a71b95"
+      ],
+      "text": "含电容器、有初速度、无外力时，原文给出加速度 $a=\\dfrac{F_{\\text{安}}}{m}=\\dfrac{B^2L^2v}{mR}-\\dfrac{BLU_C}{mR}$，杆做加速度减小的减速运动。当 $BLv_{\\min}=U_{Cm}$ 时，$I=0$，此后杆做匀速直线运动；最终速度 $v_{\\min}=\\dfrac{mv_0}{m+B^2L^2C}$。",
+      "title": "无外力充电式的运动与最终速度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-9230d24752f8f5a71b95"
+      ],
+      "text": "含电容器、有初速度、无外力的充电过程中，杆减少的动能转化为电容器的电场能和杆产生的热量。",
+      "title": "无外力充电式的能量转化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-321f53829e84fe0baa3b"
+      ],
+      "text": "原文条件为水平光滑导轨、忽略导轨电阻、杆电阻为 $R$、恒定外力 $F$、$v_0=0$。原文列出 $F-BIL=ma$、$I=\\dfrac{\\Delta Q}{\\Delta t}$、$\\Delta Q=C\\Delta U=CBL\\Delta v$、$a=\\dfrac{\\Delta v}{\\Delta t}$，得到 $a=\\dfrac{F}{m+B^2L^2C}$，并判定杆做匀加速直线运动。【待核对】原文在杆电阻为 $R$ 的条件下直接使用 $\\Delta Q=C\\Delta U=CBL\\Delta v$，并将匀加速结论用于由静止开始的过程，该等式的适用条件及结论适用范围需核对。",
+      "title": "恒力作用下充电式的加速度关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-321f53829e84fe0baa3b"
+      ],
+      "text": "含电容器、受恒定外力、由静止开始运动时，外力 $F$ 做的功转化为杆的动能、杆产生的热量和电容器的电场能，即 $W_F=\\dfrac12mv^2+E_C+Q$。",
+      "title": "恒力充电式的能量关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-bbcdeb6678dcca75031d"
+      ],
+      "text": "电容器放电驱动金属杆时，杆速度为 $v$，回路电流 $I=\\dfrac{U_C-BLv}{R}$，其中 $U_C$ 为电容器两端电压；安培力 $F_{\\text{安}}=BIL=\\dfrac{BLU_C}{R}-\\dfrac{B^2L^2v}{R}$。",
+      "title": "放电式的电流与安培力",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-bbcdeb6678dcca75031d"
+      ],
+      "text": "电容器充满电后放电，驱动初始静止的杆运动，加速度为 $a=\\dfrac{F_{\\text{安}}}{m}=\\dfrac{BLU_C}{mR}-\\dfrac{B^2L^2v}{mR}$。杆做加速度减小的加速运动；当 $BLv_m=U_{C\\min}$ 时，$I=0$，此后杆做匀速直线运动。最大速度为 $v_m=\\dfrac{BLCE}{m+B^2L^2C}$。",
+      "title": "放电式的运动与最大速度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l11",
+      "source_node_ids": [
+        "n-bbcdeb6678dcca75031d"
+      ],
+      "text": "电容器放电驱动杆运动时，电容器减少的电场能转化为杆的动能和杆产生的热量。",
+      "title": "放电式的能量转化",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-96e4f01b561ae24ca990",
+        "n-9230d24752f8f5a71b95",
+        "n-bbcdeb6678dcca75031d"
+      ],
+      "text": "先依据等效电路写出电流，再由 $F_{\\text{安}}=BIL$ 和加速度关系分析速度变化。单杆电源模型以 $E-BLv$ 表示两电动势之差；电容器充电式以 $BLv-U_C$ 表示电压之差；放电式以 $U_C-BLv$ 表示电压之差。分别利用电流为零的条件确定最终运动状态。",
+      "title": "等效电路与动力学联合分析",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-96e4f01b561ae24ca990"
+      ],
+      "text": "对由静止加速至最大速度的单杆电源模型，使用 $\\bar F_{\\text{安}}\\Delta t=B\\bar IL\\Delta t=mv_m-0$，结合 $q=\\bar I\\Delta t$ 与最大速度关系，得到 $q=\\dfrac{mE}{B^2L^2}$。",
+      "title": "用动量定理求通过杆的总电荷量",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-96e4f01b561ae24ca990"
+      ],
+      "text": "原文对单杆电源模型的加速过程列出 $\\bar F_{\\text{安}}\\Delta t=\\dfrac{BLE}{r+R}\\Delta t-\\dfrac{B^2L^2\\bar v}{r+R}\\Delta t=mv_m-0$，利用 $x=\\bar v\\Delta t$，得到 $x=\\dfrac{E}{BL}\\Delta t-\\dfrac{mE(r+R)}{B^3L^3}$。该式按原文以末速度为 $v_m$ 的过程为范围。",
+      "title": "用动量定理与平均速度分析位移",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-9230d24752f8f5a71b95"
+      ],
+      "text": "含电容器、有初速度、无外力时，先用最终电流为零得到 $U_{Cm}=BLv_{\\min}$，再写出 $q=CU_{Cm}=CBLv_{\\min}$。对杆应用动量定理 $-B\\bar I L\\cdot\\Delta t=mv_{\\min}-mv_0$，结合 $q=\\bar I\\cdot\\Delta t$，联立得到 $v_{\\min}=\\dfrac{mv_0}{m+B^2L^2C}$。",
+      "title": "用充入电荷量与动量定理求最终速度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-bbcdeb6678dcca75031d"
+      ],
+      "text": "电容器充满电时 $Q_1=CE$，放电驱动杆后最终电荷量为 $Q_2=CU_{C\\min}=CBLv_m$。对杆应用动量定理 $B\\bar I L\\cdot\\Delta t=mv_m$，结合 $\\Delta Q=\\bar I\\Delta t$、$\\Delta Q=Q_1-Q_2$，联立得到 $v_m=\\dfrac{BLCE}{m+B^2L^2C}$。",
+      "title": "用放出电荷量与动量定理求最大速度",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-9230d24752f8f5a71b95"
+      ],
+      "from": "c2",
+      "to": "c3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-bbcdeb6678dcca75031d"
+      ],
+      "from": "c2",
+      "to": "c4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-96e4f01b561ae24ca990"
+      ],
+      "from": "c1",
+      "to": "l1",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-96e4f01b561ae24ca990"
+      ],
+      "from": "c1",
+      "to": "l2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-96e4f01b561ae24ca990"
+      ],
+      "from": "c1",
+      "to": "l3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9230d24752f8f5a71b95"
+      ],
+      "from": "c3",
+      "to": "l4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9230d24752f8f5a71b95"
+      ],
+      "from": "c3",
+      "to": "l5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9230d24752f8f5a71b95"
+      ],
+      "from": "c3",
+      "to": "l6",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-321f53829e84fe0baa3b"
+      ],
+      "from": "c3",
+      "to": "l7",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-321f53829e84fe0baa3b"
+      ],
+      "from": "c3",
+      "to": "l8",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-bbcdeb6678dcca75031d"
+      ],
+      "from": "c4",
+      "to": "l9",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-bbcdeb6678dcca75031d"
+      ],
+      "from": "c4",
+      "to": "l10",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-bbcdeb6678dcca75031d"
+      ],
+      "from": "c4",
+      "to": "l11",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-96e4f01b561ae24ca990"
+      ],
+      "from": "m1",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9230d24752f8f5a71b95"
+      ],
+      "from": "m1",
+      "to": "c3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-bbcdeb6678dcca75031d"
+      ],
+      "from": "m1",
+      "to": "c4",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-96e4f01b561ae24ca990"
+      ],
+      "from": "m2",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-96e4f01b561ae24ca990"
+      ],
+      "from": "m3",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9230d24752f8f5a71b95"
+      ],
+      "from": "m4",
+      "to": "l5",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-bbcdeb6678dcca75031d"
+      ],
+      "from": "m5",
+      "to": "l10",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3c6be5f499af81f159e4"
+      ],
+      "from": "n-3c6be5f499af81f159e4",
+      "to": "c1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c1801738ac57b577a7a1"
+      ],
+      "from": "n-c1801738ac57b577a7a1",
+      "to": "c4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-bb1aa01fbac5bbe96bdd",
+  "source_digest": "7a483764b9aaf8a3871877f39b28df8d5f276b21b4082946b1705c25c28d97d6",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

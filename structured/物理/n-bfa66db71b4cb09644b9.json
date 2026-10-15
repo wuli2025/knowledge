@@ -1,0 +1,424 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-d3a077557159143f6f75"
+      ],
+      "text": "物体随水平转盘运动，受到重力、支持力和水平指向圆心的静摩擦力；静摩擦力达到最大时对应相对滑动的临界状态。",
+      "title": "单体转盘模型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-d3a077557159143f6f75"
+      ],
+      "text": "两个物体用绳连接并随水平转盘运动。同侧连接时，原图中$A$靠近转轴、$B$远离转轴；异侧连接时，两个物体分居转轴两侧。分析时需区分绳开始产生拉力与物体即将相对转盘滑动的状态。",
+      "title": "转盘上的连接体模型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-d3a077557159143f6f75"
+      ],
+      "text": "物体$A$叠放在物体$B$上，随水平转盘一起转动。对$A$单独分析，其向心力由接触面的静摩擦力提供；对$A$、$B$整体分析，其向心力由转盘接触面的静摩擦力提供。",
+      "title": "叠加转盘模型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-d3a077557159143f6f75"
+      ],
+      "text": "转盘上的物体$A$通过穿过圆心的绳与下方悬挂的物体$B$相连。原图给出绳的拉力$F_{\\mathrm T}=G_B$，物体$A$还受到转盘的静摩擦力。",
+      "title": "球绳转盘模型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-d3a077557159143f6f75"
+      ],
+      "text": "小球由长为$l$的细绳悬于圆锥顶点，绳与竖直轴夹角为$\\theta$，小球贴着圆锥面随其转动，受到重力、绳的拉力和圆锥面的支持力。",
+      "title": "临界圆锥摆模型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-e87cca86fc066b1a70d3"
+      ],
+      "text": "包括绳连球和竖直圆形轨道内侧运动的球。该模型中绳或轨只能提供指向圆心的力。",
+      "title": "竖直圆周运动的绳球模型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c7",
+      "source_node_ids": [
+        "n-e87cca86fc066b1a70d3"
+      ],
+      "text": "包括杆连球、管内球和大环套小球。杆或轨的作用力既可指向圆心，也可背离圆心；原文指出该模型不存在脱轨情况。",
+      "title": "竖直圆周运动的杆球模型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c8",
+      "source_node_ids": [
+        "n-4815c59ad4517dd4137a",
+        "n-1a6077bcdab1746f991d",
+        "n-4453a6b7687836922980"
+      ],
+      "text": "圆盘绕过圆心且垂直盘面的轴转动，盘面与水平面成一定夹角，物块随盘运动并保持相对静止。物块受到竖直向下的重力、垂直盘面的支持力和沿盘面的摩擦力。",
+      "title": "倾斜转盘模型",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-d3a077557159143f6f75"
+      ],
+      "text": "单体随水平转盘运动时，原文给出$F_{\\text{静}}=m\\omega^2r$。即将相对滑动时，静摩擦力达到最大，有$F_{\\text{静}\\max}=m\\omega_{\\text{临}}^2r$。",
+      "title": "单体转盘的临界条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-d3a077557159143f6f75"
+      ],
+      "text": "对于原图中$A$靠近转轴、$B$远离转轴的同侧连接情境，临界状态1为$F_{B\\text{静}}=F_{B\\max}$，此时绳子上将要产生拉力；临界状态2为$F_{A\\text{静}}=F_{A\\max}$，此时$A$、$B$将要与转盘发生相对滑动。",
+      "title": "同侧连接的两类临界状态",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-d3a077557159143f6f75"
+      ],
+      "text": "原图所示异侧连接的临界状态中，$A$的静摩擦力背离圆心，$B$的静摩擦力指向圆心。开始滑动的临界方程为$F_{B\\max}+F'_{\\mathrm T}=m_B\\omega^2r_B$、$F_{\\mathrm T}-F_{A\\max}=m_A\\omega^2r_A$。",
+      "title": "异侧连接的滑动临界方程",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-d3a077557159143f6f75"
+      ],
+      "text": "球绳转盘情境中，当$F_{\\mathrm T}+F_{\\text{静}\\max}=m_A\\omega^2r$时，物体$A$即将相对转盘向外滑动。",
+      "title": "球绳转盘向外滑动的临界条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-d3a077557159143f6f75"
+      ],
+      "text": "小球贴着圆锥面转动时，当$F_{\\mathrm N}=0$，即$\\omega=\\sqrt{\\dfrac{g}{l\\cos\\theta}}$时，小球即将“飘起来”。其中$l$为绳长，$\\theta$为绳与竖直轴的夹角。",
+      "title": "圆锥摆脱离锥面的临界条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-e87cca86fc066b1a70d3"
+      ],
+      "text": "绳球模型由牛顿第二定律列出：最高点$mg+F_{\\mathrm T}=m\\dfrac{v^2}{R}$；最低点$F_{\\mathrm T}-mg=m\\dfrac{v^2}{R}$。",
+      "title": "绳球模型最高点与最低点的动力学方程",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-e87cca86fc066b1a70d3"
+      ],
+      "text": "绳球模型在最高点若$F_{\\mathrm T}=0$，则$mg=m\\dfrac{v^2}{R}$，$v=\\sqrt{gR}$；若$F_{\\mathrm T}\\ne0$，则$mg+F_{\\mathrm T}=m\\dfrac{v^2}{R}$，$v>\\sqrt{gR}$。最高点速度范围为$v\\geqslant\\sqrt{gR}$，临界速度为$v_{\\text{临}}=\\sqrt{gR}$，最高点速度不能为$0$。原文指出$v<\\sqrt{gR}$时绳球模型中球脱轨。",
+      "title": "绳球模型最高点的速度条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-e87cca86fc066b1a70d3"
+      ],
+      "text": "杆球模型在最高点受指向圆心的拉力时，$mg+F_{\\text{杆}}=m\\dfrac{v^2}{R}$；受背离圆心的支持力时，$mg-F_{\\text{杆}}=m\\dfrac{v^2}{R}$。最低点的方程为$F_{\\text{杆}}-mg=m\\dfrac{v^2}{R}$。",
+      "title": "杆球模型最高点与最低点的动力学方程",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-e87cca86fc066b1a70d3"
+      ],
+      "text": "最高点若$F_{\\text{杆}}=0$，则$mg=m\\dfrac{v^2}{R}$，$v=\\sqrt{gR}$；若$F_{\\text{杆}}$背离圆心，则$mg-F_{\\text{杆}}=m\\dfrac{v^2}{R}$，$0\\leqslant v<\\sqrt{gR}$；若$F_{\\text{杆}}$指向圆心，则$F_{\\text{杆}}+mg=m\\dfrac{v^2}{R}$，$v>\\sqrt{gR}$。最高点速度范围为$v\\geqslant0$，临界速度为$v_{\\text{临}}=0$。",
+      "title": "杆球模型最高点的弹力方向与速度范围",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-a33ca9c227fcd272d1cd"
+      ],
+      "text": "原文指出，物块相对倾斜转盘即将滑动的临界位置在最低点，最低点有$F_{\\mathrm f}-mg\\sin\\theta=m\\omega^2r$。当$F_{\\mathrm f}=\\mu mg\\cos\\theta$时，$\\omega$达到临界值，此时$\\mu mg\\cos\\theta-mg\\sin\\theta=m\\omega_{\\max}^2r$。原文随后给出$\\omega_{\\max}=\\sqrt{\\dfrac{g(\\mu\\cos\\theta-\\sin\\theta)}{r}}$。",
+      "title": "倾斜转盘最低点的滑动临界条件",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-d3a077557159143f6f75"
+      ],
+      "text": "先区分单体、同侧连接、异侧连接、叠加连接、球绳转盘和临界圆锥摆情境，分别分析物体所受的支持力、重力、摩擦力及绳的拉力，再依据静摩擦力达到最大或支持力为零等对应条件确定临界状态。",
+      "title": "按模型辨认水平圆周运动的临界状态",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-d3a077557159143f6f75"
+      ],
+      "text": "对于原文所示叠加转盘情境，分别对上层物体$A$和$A$、$B$整体进行受力分析，并比较两接触面的动摩擦因数$\\mu$。原文给出的判断是动摩擦因数小的接触面先滑动；该段未另列最大静摩擦力与滑动摩擦力的关系条件。",
+      "title": "叠加转盘的先滑动接触面判断",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-e87cca86fc066b1a70d3"
+      ],
+      "text": "先根据约束力只能指向圆心，还是既可指向圆心也可背离圆心，区分绳球模型与杆球模型；再在最高点、最低点依据牛顿第二定律列方程，结合最高点速度范围和临界速度判断运动条件。",
+      "title": "竖直圆周运动的模型分类与临界分析",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-9812e135268720d098eb"
+      ],
+      "text": "分析最高点杆对小球的作用力随速度变化的规律，再对应$F_{\\mathrm N}$-$v^2$图像理解图线斜率。可利用两个特殊状态：最高点速度等于零时，杆对小球的支持力等于重力；最高点杆对小球的支持力等于零时，重力提供向心力。",
+      "title": "杆球模型的弹力与速度平方图像分析",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-4815c59ad4517dd4137a",
+        "n-a33ca9c227fcd272d1cd"
+      ],
+      "text": "选取倾斜圆盘的最高点、最低点进行受力分析，将重力分解为沿盘面向下的分量和垂直盘面向下的分量，结合支持力与摩擦力分析运动。原文以最低点作为即将相对滑动的临界位置，并令摩擦力达到$F_{\\mathrm f}=\\mu mg\\cos\\theta$建立临界方程。",
+      "title": "倾斜转盘的特殊位置受力分析",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-d3a077557159143f6f75"
+      ],
+      "from": "l1",
+      "to": "c1",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d3a077557159143f6f75"
+      ],
+      "from": "l2",
+      "to": "c2",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d3a077557159143f6f75"
+      ],
+      "from": "l3",
+      "to": "c2",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d3a077557159143f6f75"
+      ],
+      "from": "m2",
+      "to": "c3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d3a077557159143f6f75"
+      ],
+      "from": "l4",
+      "to": "c4",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d3a077557159143f6f75"
+      ],
+      "from": "l5",
+      "to": "c5",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e87cca86fc066b1a70d3"
+      ],
+      "from": "l6",
+      "to": "c6",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e87cca86fc066b1a70d3"
+      ],
+      "from": "l7",
+      "to": "c6",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e87cca86fc066b1a70d3"
+      ],
+      "from": "l8",
+      "to": "c7",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e87cca86fc066b1a70d3"
+      ],
+      "from": "l9",
+      "to": "c7",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a33ca9c227fcd272d1cd"
+      ],
+      "from": "l10",
+      "to": "c8",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e87cca86fc066b1a70d3"
+      ],
+      "from": "m3",
+      "to": "c6",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e87cca86fc066b1a70d3"
+      ],
+      "from": "m3",
+      "to": "c7",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9812e135268720d098eb"
+      ],
+      "from": "m4",
+      "to": "n-9812e135268720d098eb",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4815c59ad4517dd4137a",
+        "n-a33ca9c227fcd272d1cd"
+      ],
+      "from": "m5",
+      "to": "c8",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-557d69a4a1d83c240b1e"
+      ],
+      "from": "n-557d69a4a1d83c240b1e",
+      "to": "c1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6ff98cc0bf2b79d739de"
+      ],
+      "from": "n-6ff98cc0bf2b79d739de",
+      "to": "c2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-bdb69cad16f56184864d"
+      ],
+      "from": "n-bdb69cad16f56184864d",
+      "to": "c6",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9812e135268720d098eb"
+      ],
+      "from": "n-9812e135268720d098eb",
+      "to": "c7",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-70a7b096efcafdfadc5c",
+        "n-e87cca86fc066b1a70d3"
+      ],
+      "from": "n-70a7b096efcafdfadc5c",
+      "to": "c7",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1a6077bcdab1746f991d"
+      ],
+      "from": "n-1a6077bcdab1746f991d",
+      "to": "c8",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4453a6b7687836922980"
+      ],
+      "from": "n-4453a6b7687836922980",
+      "to": "c8",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-bfa66db71b4cb09644b9",
+  "source_digest": "f4823b0f81bdd843f78a6b0d9cd09ddc105150302a7a5d774ca3d9894b6c755a",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

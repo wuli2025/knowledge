@@ -1,0 +1,289 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-7cfdc07385f33fd7f711",
+        "n-d61503776ca9f27efcda",
+        "n-12bf1880d0db61fb468c"
+      ],
+      "text": "传送带模型的分析包括物体受力与运动情况，以及传送带做功、相对滑动产生热量和电动机多消耗电能等能量问题。",
+      "title": "传送带模型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-981c29a5e00b7ecb39f2",
+        "n-4e8997483c7bdf145fdc",
+        "n-d69356bde9bb1ac930a1"
+      ],
+      "text": "滑块—木板模型需分析滑块和木板各自的受力、加速度及运动关系，并区分相对静止与相对滑动过程中的能量问题。",
+      "title": "滑块—木板模型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-c3d1ad9a5cacea4068f3",
+        "n-d69356bde9bb1ac930a1"
+      ],
+      "text": "分析位移时需明确参考对象：传送带问题中区分物体相对地面与相对传送带的位移；滑块—木板问题中区分滑块对地位移 $x_m$、木板对地位移 $x_M$ 和滑块相对木板的位移 $\\Delta x$。",
+      "title": "对地位移与相对位移",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-d69356bde9bb1ac930a1"
+      ],
+      "text": "对于滑块与木板相对静止的过程，由于相对位移为零，滑块与木板所受的一对静摩擦力做功不产生内能。",
+      "title": "相对静止时静摩擦力做功与内能",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-d69356bde9bb1ac930a1"
+      ],
+      "text": "原文图示中，滑块与木板向右运动，滑块对地位移、木板对地位移和滑块相对木板的位移满足 $x_m=x_M+\\Delta x$。",
+      "title": "图示滑块与木板的位移关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-f37a28ac0656a2264c2b"
+      ],
+      "text": "题设给出的弹簧弹性势能表达式为 $E_{\\mathrm{p}}=\\dfrac{1}{2}kx^2$，其中弹簧劲度系数为 $k$。",
+      "title": "弹簧弹性势能表达式",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-d61503776ca9f27efcda"
+      ],
+      "text": "对传送带上的物体进行受力分析，利用牛顿第二定律计算加速度，再分析运动情况；当物体与传送带共速后，还需分析物体能否相对传送带静止。",
+      "title": "传送带模型的动力学分析",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-12bf1880d0db61fb468c"
+      ],
+      "text": "依据功能关系或能量守恒定律，分析传送带对物体做功、物体与传送带相对滑动产生的热量，以及因放上物体而使电动机多消耗的电能。",
+      "title": "传送带模型的能量分析",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-c3d1ad9a5cacea4068f3"
+      ],
+      "text": "画出物体与传送带的速度—时间图像，结合图像分析二者的位移关系；使用关系式时，明确其中的位移是物体相对地面的位移还是相对传送带的位移。",
+      "title": "用速度—时间图像分析传送带位移关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-1d9ad47902b8b176178b"
+      ],
+      "text": "在原题倾斜传送带的图像中，分段辨认路程差及摩擦力方向：第一段传送带比货物多运动，摩擦力沿传送带向下；第二段货物比传送带多运动，摩擦力沿传送带向上，图像斜率变小，即加速度变小。",
+      "title": "结合图像分段分析相对运动与摩擦力",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-4e8997483c7bdf145fdc"
+      ],
+      "text": "分别对滑块和木板进行受力分析，利用牛顿第二定律计算各自的加速度，分析二者的运动时间、速度关系和位移关系；可画出二者的速度—时间图像，帮助理解相对运动。",
+      "title": "滑块—木板模型的动力学分析",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-d69356bde9bb1ac930a1"
+      ],
+      "text": "先区分滑块与木板相对静止和相对滑动的过程。对于相对滑动过程，利用动能定理和功能关系分析滑块和木板各自的能量，以及系统能量的转化和转移。",
+      "title": "滑块—木板模型的能量分析",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-d69356bde9bb1ac930a1"
+      ],
+      "text": "计算摩擦力对滑块做功时，用滑块相对地面的位移 $x_m$；计算摩擦力对木板做功时，用木板相对地面的位移 $x_M$；计算滑块和木板间因摩擦产生的热量时，用滑块相对木板的位移 $\\Delta x$。",
+      "title": "摩擦力做功与生热计算中的位移选取",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-d61503776ca9f27efcda"
+      ],
+      "from": "m1",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-12bf1880d0db61fb468c"
+      ],
+      "from": "m2",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c3d1ad9a5cacea4068f3"
+      ],
+      "from": "m3",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c3d1ad9a5cacea4068f3"
+      ],
+      "from": "m3",
+      "to": "c3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1d9ad47902b8b176178b"
+      ],
+      "from": "n-1d9ad47902b8b176178b",
+      "to": "m4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4e8997483c7bdf145fdc"
+      ],
+      "from": "m5",
+      "to": "c2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d69356bde9bb1ac930a1"
+      ],
+      "from": "m6",
+      "to": "c2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d69356bde9bb1ac930a1"
+      ],
+      "from": "m6",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d69356bde9bb1ac930a1"
+      ],
+      "from": "m6",
+      "to": "m7",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d69356bde9bb1ac930a1"
+      ],
+      "from": "m7",
+      "to": "c3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d69356bde9bb1ac930a1"
+      ],
+      "from": "l2",
+      "to": "c3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f37a28ac0656a2264c2b"
+      ],
+      "from": "n-f37a28ac0656a2264c2b",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-64fd97079c68933116b3"
+      ],
+      "from": "n-64fd97079c68933116b3",
+      "to": "c1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1d9ad47902b8b176178b"
+      ],
+      "from": "n-1d9ad47902b8b176178b",
+      "to": "c1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f37a28ac0656a2264c2b"
+      ],
+      "from": "n-f37a28ac0656a2264c2b",
+      "to": "c1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0f971e89b8204a9b88b8"
+      ],
+      "from": "n-0f971e89b8204a9b88b8",
+      "to": "c2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b0a16f1b3b05689c41bb"
+      ],
+      "from": "n-b0a16f1b3b05689c41bb",
+      "to": "c2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-f615a43f1b97079776f4",
+  "source_digest": "dc809397bb76b9fed900ac3257077113546f9b5c7bacfd924d5c1162b2e8a16a",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

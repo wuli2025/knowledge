@@ -1,0 +1,368 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-27b3136f82efd7d0e695"
+      ],
+      "text": "理想变压器无漏磁，原、副线圈中的 $\\Phi$、$\\dfrac{\\Delta\\Phi}{\\Delta t}$ 相同；线圈无电阻。",
+      "title": "理想变压器的基本特点",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-2208bd0cbfbac1f8d4b6"
+      ],
+      "text": "在变压器均为理想变压器的远距离输电模型中，发电机与升压变压器原线圈构成电源回路；升压变压器副线圈、输电线与降压变压器原线圈构成输送回路；降压变压器副线圈与用户构成用户回路。输电线总电阻为 $R$。",
+      "title": "远距离高压输电的电路构成",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-7f98bd7816f3cdccce21"
+      ],
+      "text": "实验误差来源包括：漏磁使通过原、副线圈每一匝的磁通量不严格相等；原、副线圈有电阻，产生焦耳损耗；铁芯有磁损耗，形成涡流产生误差。",
+      "title": "变压器电压与匝数关系实验的误差来源",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-e2b6fd20a67b44cbcf53"
+      ],
+      "text": "不同季节、工作日与节假日、白天与夜晚的电力需求差异会形成峰谷负荷差；储能站可以将用电低谷时段的电能储存起来。",
+      "title": "峰谷负荷差与储能站",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-27b3136f82efd7d0e695"
+      ],
+      "text": "理想变压器线圈无电阻，因此 $U=E=n\\dfrac{\\Delta\\Phi}{\\Delta t}$，有 $\\dfrac{U}{n}=\\dfrac{\\Delta\\Phi}{\\Delta t}$。套在同一铁芯上的原线圈和副线圈均满足这一比例关系。",
+      "title": "同一铁芯上线圈的电压与匝数关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-1cfec4862b14a61cb915",
+        "n-b9f3c845c54b68607f8c"
+      ],
+      "text": "理想变压器原、副线圈的电压比等于匝数比，即 $\\dfrac{U_1}{U_2}=\\dfrac{n_1}{n_2}$。探究原、副线圈电压与匝数关系的实验结论也表述为原、副线圈的电压比等于其匝数比。",
+      "title": "理想变压器的电压关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-1cfec4862b14a61cb915"
+      ],
+      "text": "理想变压器原线圈的输入功率等于副线圈的输出功率，即 $P_{\\text{入}}=P_{\\text{出}}$。有多个副线圈时，$I_1U_1=I_2U_2+I_3U_3+\\cdots+I_nU_n$。",
+      "title": "理想变压器的功率关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-1cfec4862b14a61cb915"
+      ],
+      "text": "理想变压器只有一个副线圈时，原、副线圈的电流关系为 $\\dfrac{I_1}{I_2}=\\dfrac{n_2}{n_1}$。",
+      "title": "单副线圈理想变压器的电流关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-1cfec4862b14a61cb915"
+      ],
+      "text": "理想变压器有多个副线圈时，由 $P_{\\text{入}}=P_{\\text{出}}$ 得 $I_1U_1=I_2U_2+I_3U_3+\\cdots+I_nU_n$，或 $I_1n_1=I_2n_2+I_3n_3+\\cdots+I_nn_n$。",
+      "title": "多副线圈理想变压器的电流约束",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-1cfec4862b14a61cb915"
+      ],
+      "text": "$f_1=f_2$，变压器不改变交变电流的频率。",
+      "title": "变压器的频率关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-2208bd0cbfbac1f8d4b6"
+      ],
+      "text": "在原文所示两台理想变压器的远距离输电电路中，升压端满足 $\\dfrac{U_1}{U_2}=\\dfrac{n_1}{n_2}$、$P_1=P_2$、$\\dfrac{I_1}{I_2}=\\dfrac{n_2}{n_1}$；降压端满足 $\\dfrac{U_3}{U_4}=\\dfrac{n_3}{n_4}$、$P_3=P_4$、$\\dfrac{I_3}{I_4}=\\dfrac{n_4}{n_3}$；输送回路满足 $I_2=I_3=I_{\\text{线}}$。",
+      "title": "远距离输电各回路的电压、电流与功率关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-2208bd0cbfbac1f8d4b6"
+      ],
+      "text": "在原文所示两台理想变压器的输电模型中，电源输出功率、输电线路损失功率和用户得到的功率满足 $P_1=P_{\\text{损}}+P_4$。",
+      "title": "远距离输电的能量关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-2208bd0cbfbac1f8d4b6"
+      ],
+      "text": "输电线总电阻为 $R$ 时，电压损失为 $\\Delta U=U_2-U_3=I_2R$，其中 $U_2$ 为升压变压器副线圈电压，$U_3$ 为降压变压器原线圈电压。",
+      "title": "输电线路的电压损失",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-2208bd0cbfbac1f8d4b6"
+      ],
+      "text": "在原文输电模型中，输电线总电阻为 $R$，功率损失为 $P_{\\text{损}}=P_2-P_3=I_2^2R=\\left(\\dfrac{P_2}{U_2}\\right)^2R=I_2\\Delta U=\\dfrac{(\\Delta U)^2}{R}$。",
+      "title": "输电线路的功率损失",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-3c07adb5a72b72577605",
+        "n-aaa10bc88e3b7528f8a4"
+      ],
+      "text": "采用控制变量法：保持 $n_1$、$U_1$ 不变，改变 $n_2$，研究 $U_2$ 与 $n_2$ 的关系；保持 $n_2$、$U_1$ 不变，改变 $n_1$，研究 $U_2$ 与 $n_1$ 的关系。",
+      "title": "控制变量探究电压与匝数的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-3c07adb5a72b72577605",
+        "n-aaa10bc88e3b7528f8a4"
+      ],
+      "text": "把两个线圈穿在闭合铁芯上，组装可拆变压器；原线圈接交流电源，副线圈两端连接电压表，用多用电表交流电压挡测量输入、输出电压。",
+      "title": "变压器实验的组装与电压测量",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-aaa10bc88e3b7528f8a4",
+        "n-4dd03c183c2c6a249a84"
+      ],
+      "text": "估计被测电压的大致范围，选择多用电表交流电压挡适当量程；若不知道电压范围，先选最大量程试测，大致确定电压后再选合适挡位测量。",
+      "title": "交流电压挡的量程选择",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-4dd03c183c2c6a249a84"
+      ],
+      "text": "改变学生电源电压或线圈匝数前，先断开电源开关再操作。学生电源电压不能超过 $12\\ \\mathrm{V}$；通电时不能用手接触裸露导线和接线柱。",
+      "title": "变压器实验的安全操作",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-7f98bd7816f3cdccce21"
+      ],
+      "text": "分析实验误差时，分别检查漏磁造成的每匝磁通量差异、线圈电阻造成的焦耳损耗，以及铁芯磁损耗和涡流的影响。",
+      "title": "变压器实验的误差分析",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-2208bd0cbfbac1f8d4b6"
+      ],
+      "text": "分析原文所示远距离高压输电电路时，先区分电源回路、输送回路和用户回路；分别使用两台理想变压器的电压比、匝数比、电流比与功率关系，再结合输送回路电流关系、线路电压损失、功率损失及整体能量关系联系各物理量。",
+      "title": "分回路分析远距离高压输电",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-27b3136f82efd7d0e695"
+      ],
+      "from": "c1",
+      "to": "l1",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-27b3136f82efd7d0e695",
+        "n-1cfec4862b14a61cb915"
+      ],
+      "from": "l1",
+      "to": "l2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1cfec4862b14a61cb915"
+      ],
+      "from": "l3",
+      "to": "l5",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3c07adb5a72b72577605",
+        "n-aaa10bc88e3b7528f8a4",
+        "n-b9f3c845c54b68607f8c"
+      ],
+      "from": "m1",
+      "to": "l2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-aaa10bc88e3b7528f8a4"
+      ],
+      "from": "m2",
+      "to": "m3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4dd03c183c2c6a249a84"
+      ],
+      "from": "m4",
+      "to": "m2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7f98bd7816f3cdccce21"
+      ],
+      "from": "m5",
+      "to": "c3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2208bd0cbfbac1f8d4b6"
+      ],
+      "from": "m6",
+      "to": "c2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2208bd0cbfbac1f8d4b6"
+      ],
+      "from": "m6",
+      "to": "l7",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2208bd0cbfbac1f8d4b6"
+      ],
+      "from": "m6",
+      "to": "l8",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2208bd0cbfbac1f8d4b6"
+      ],
+      "from": "m6",
+      "to": "l9",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2208bd0cbfbac1f8d4b6"
+      ],
+      "from": "m6",
+      "to": "l10",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-78815c148a0aadf9b71b",
+        "n-1cfec4862b14a61cb915"
+      ],
+      "from": "n-78815c148a0aadf9b71b",
+      "to": "l2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-78815c148a0aadf9b71b",
+        "n-1cfec4862b14a61cb915"
+      ],
+      "from": "n-78815c148a0aadf9b71b",
+      "to": "l3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e2b6fd20a67b44cbcf53",
+        "n-2208bd0cbfbac1f8d4b6"
+      ],
+      "from": "n-e2b6fd20a67b44cbcf53",
+      "to": "m6",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e2b6fd20a67b44cbcf53"
+      ],
+      "from": "n-e2b6fd20a67b44cbcf53",
+      "to": "c4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e2b6fd20a67b44cbcf53",
+        "n-1cfec4862b14a61cb915"
+      ],
+      "from": "n-e2b6fd20a67b44cbcf53",
+      "to": "l4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e2b6fd20a67b44cbcf53",
+        "n-2208bd0cbfbac1f8d4b6"
+      ],
+      "from": "n-e2b6fd20a67b44cbcf53",
+      "to": "l10",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-443e02c5bfe949618d49",
+  "source_digest": "9be8d380af2b1e07e1d01dbf13db8dabd581c55ed92e99f3a449de417af70f48",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

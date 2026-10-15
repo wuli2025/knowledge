@@ -1,0 +1,343 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-5c344b2aad37ee7747e2"
+      ],
+      "text": "等效电源两端的电势差为路端电压。",
+      "title": "路端电压",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-b77217d949115b23ff4a"
+      ],
+      "text": "随时间变化的图像包括 $B-t$、$\\Phi-t$、$E-t$、$I-t$、$F-t$ 图像等；随位移变化的图像包括 $E-x$、$I-x$ 图像等。",
+      "title": "电磁感应图像的类型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-b77217d949115b23ff4a"
+      ],
+      "text": "包括根据电磁感应过程选择图像、根据图像分析电磁感应过程，以及电磁感应中的图像转换。",
+      "title": "电磁感应图像问题的类型",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-5105387f7bfc1fe642c9"
+      ],
+      "text": "电动势大小可用 $E=n\\frac{\\Delta\\Phi}{\\Delta t}$、$E=Blv$ 或 $E=\\frac12Bl^2\\omega$ 计算。原文未进一步列出各式的具体适用条件。",
+      "title": "感应电动势的计算公式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-5105387f7bfc1fe642c9"
+      ],
+      "text": "闭合电路欧姆定律：$I=\\frac{E}{R_{\\text{外}}+r}$。",
+      "title": "闭合电路欧姆定律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-5105387f7bfc1fe642c9",
+        "n-5c344b2aad37ee7747e2"
+      ],
+      "text": "外电压满足 $U_{\\text{外}}=IR_{\\text{外}}$、$U_{\\text{外}}=E-Ir$。原文强调，只有电路处于断路状态时，路端电压与电动势相等。",
+      "title": "路端电压与电动势的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-5105387f7bfc1fe642c9"
+      ],
+      "text": "电功计算式为 $W=UIt$。",
+      "title": "电功",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-5105387f7bfc1fe642c9"
+      ],
+      "text": "电热计算式为 $Q=I^2Rt$。",
+      "title": "电热",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-5105387f7bfc1fe642c9",
+        "n-5c344b2aad37ee7747e2"
+      ],
+      "text": "原文列出电荷量公式 $q=It=n\\frac{\\Delta\\Phi}{R_{\\text{外}}+r}$，并强调计算通过导体横截面的电荷量时要用电流的平均值。在时间 $\\Delta t$ 内，$q=\\bar I\\Delta t=\\frac{\\bar E}{R_{\\text{总}}}\\Delta t=\\frac{n\\Delta\\Phi}{R_{\\text{总}}\\Delta t}\\Delta t=\\frac{n\\Delta\\Phi}{R_{\\text{总}}}$。",
+      "title": "通过导体横截面的电荷量",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-5105387f7bfc1fe642c9"
+      ],
+      "text": "先确定产生电磁感应现象的是哪一部分导体或回路，确定电源正负极和内阻；再确定电动势大小，并用楞次定律或右手定则确定电动势方向。",
+      "title": "确定等效电源",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-5105387f7bfc1fe642c9"
+      ],
+      "text": "弄清各元件的串并联关系，画出等效电路图。",
+      "title": "分析电路结构",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-5105387f7bfc1fe642c9"
+      ],
+      "text": "依次确定电源、分析电路结构，再应用闭合电路欧姆定律及外电压、电功、电热、电荷量的有关公式处理问题。",
+      "title": "电磁感应电路问题的分析流程",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-b77217d949115b23ff4a"
+      ],
+      "text": "定性分析电磁感应过程中物理量的变化趋势是增大还是减小，变化快慢是均匀变化还是非均匀变化，特别注意物理量的正负，据此排除错误选项。",
+      "title": "图像判断的排除法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-b77217d949115b23ff4a"
+      ],
+      "text": "根据题目给定条件，定量写出两个物理量之间的函数关系，再依据函数关系分析和判断图像。",
+      "title": "图像判断的函数法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-b77217d949115b23ff4a",
+        "n-f7253cd1f882507c5272"
+      ],
+      "text": "图像问题中，判断方向可用右手定则、楞次定律、左手定则、安培定则等；其中电流方向可用右手定则或楞次定律确定。",
+      "title": "图像问题中的方向判断",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-f7253cd1f882507c5272"
+      ],
+      "text": "先明确图像种类，再分析电磁感应的具体过程；用右手定则或楞次定律确定电流方向；结合法拉第电磁感应定律、闭合电路欧姆定律、牛顿运动定律等写出相应函数关系式；对函数关系式进行数学分析，包括斜率变化、截距等；最后画图像或判断图像。",
+      "title": "电磁感应图像问题的一般解题步骤",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-5c344b2aad37ee7747e2"
+      ],
+      "text": "计算时间 $\\Delta t$ 内通过导体横截面的电荷量时，使用电流的平均值，按 $q=\\bar I\\Delta t$ 计算，并可利用平均电动势将其表示为 $q=\\frac{n\\Delta\\Phi}{R_{\\text{总}}}$。",
+      "title": "用平均电流计算电荷量",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-5c344b2aad37ee7747e2"
+      ],
+      "from": "c1",
+      "to": "l3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5105387f7bfc1fe642c9"
+      ],
+      "from": "m3",
+      "to": "m1",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5105387f7bfc1fe642c9"
+      ],
+      "from": "m3",
+      "to": "m2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5105387f7bfc1fe642c9"
+      ],
+      "from": "m1",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5105387f7bfc1fe642c9"
+      ],
+      "from": "m3",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5105387f7bfc1fe642c9"
+      ],
+      "from": "m3",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5105387f7bfc1fe642c9"
+      ],
+      "from": "m3",
+      "to": "l4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5105387f7bfc1fe642c9"
+      ],
+      "from": "m3",
+      "to": "l5",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5105387f7bfc1fe642c9"
+      ],
+      "from": "m3",
+      "to": "l6",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5c344b2aad37ee7747e2"
+      ],
+      "from": "m8",
+      "to": "l6",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f7253cd1f882507c5272"
+      ],
+      "from": "c2",
+      "to": "m7",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b77217d949115b23ff4a"
+      ],
+      "from": "m4",
+      "to": "c3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b77217d949115b23ff4a"
+      ],
+      "from": "m5",
+      "to": "c3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f7253cd1f882507c5272"
+      ],
+      "from": "m7",
+      "to": "m6",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b77217d949115b23ff4a",
+        "n-f7253cd1f882507c5272"
+      ],
+      "from": "m7",
+      "to": "m5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f7253cd1f882507c5272"
+      ],
+      "from": "m7",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-574d23b375133e0dbb67"
+      ],
+      "from": "n-574d23b375133e0dbb67",
+      "to": "c3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e781d422c2622b8072be"
+      ],
+      "from": "n-e781d422c2622b8072be",
+      "to": "c3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e73f0e5a47ce54849862",
+        "n-5105387f7bfc1fe642c9"
+      ],
+      "from": "n-e73f0e5a47ce54849862",
+      "to": "m3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-5142b3e9895dc05b608b",
+  "source_digest": "fcb79bf1530cd6215aecb69e2d33c5d58dd73230b6d071a8cd1d8bad90fb4686",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

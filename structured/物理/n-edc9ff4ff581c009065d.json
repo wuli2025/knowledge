@@ -1,0 +1,357 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-3fd6389a16d235c342bc"
+      ],
+      "text": "活塞与气体通过压力 $F$、压强 $p$ 相联系；分析模型时分别研究活塞的受力和气体的状态。",
+      "title": "活塞—汽缸模型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-306d5500bb4c91ab2c5e"
+      ],
+      "text": "原文将活塞自由移动时的气体变化归为等压过程。",
+      "title": "等压过程",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-306d5500bb4c91ab2c5e"
+      ],
+      "text": "活塞或汽缸不绝热，缓慢改变活塞产生的压力时，原文将气体变化归为等温过程。",
+      "title": "等温过程",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-306d5500bb4c91ab2c5e"
+      ],
+      "text": "原文将活塞不动时的气体变化归为等容过程。",
+      "title": "等容过程",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-306d5500bb4c91ab2c5e"
+      ],
+      "text": "活塞与汽缸均绝热，迅速改变活塞产生的压力时，是绝热过程。",
+      "title": "绝热过程",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-ebe8713cb9d17171c887"
+      ],
+      "text": "两个或多个汽缸封闭着几部分气体，且各部分气体之间相互关联。",
+      "title": "关联气体",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-306d5500bb4c91ab2c5e"
+      ],
+      "text": "等压过程中，初末状态满足 $\\dfrac{V_1}{T_1}=\\dfrac{V_2}{T_2}$。",
+      "title": "等压过程的体积与温度关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-306d5500bb4c91ab2c5e"
+      ],
+      "text": "等温过程中，初末状态满足 $p_1V_1=p_2V_2$。",
+      "title": "等温过程的压强与体积关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-306d5500bb4c91ab2c5e"
+      ],
+      "text": "等容过程中，初末状态满足 $\\dfrac{p_1}{T_1}=\\dfrac{p_2}{T_2}$。",
+      "title": "等容过程的压强与温度关系",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-3fd6389a16d235c342bc"
+      ],
+      "text": "对活塞进行受力分析，根据牛顿第二定律或力的平衡建立等量关系；对气体进行状态分析，根据气体实验定律或理想气体状态方程建立等量关系。通过压力 $F$、压强 $p$ 联系两方面的分析。",
+      "title": "活塞受力与气体状态联合分析",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-5f0414d83a811ee82be8"
+      ],
+      "text": "明确活塞质量是否忽略不计，明确活塞是水平放置还是竖直放置；竖直放置时，明确是否考虑活塞重力产生的压强。",
+      "title": "明确活塞质量与放置方式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-5f0414d83a811ee82be8"
+      ],
+      "text": "活塞处于力学平衡状态时，对活塞进行受力分析，根据受力平衡得出气体压强的大小，或活塞两侧隔离气体的压强关系。",
+      "title": "利用活塞受力平衡确定压强",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-5f0414d83a811ee82be8"
+      ],
+      "text": "活塞处于力学非平衡状态时，对活塞进行受力分析，根据牛顿运动定律得出气体压强的大小，或活塞两侧隔离气体的压强关系。",
+      "title": "利用牛顿运动定律确定压强",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-ebe8713cb9d17171c887"
+      ],
+      "text": "气体在单个汽缸中时，先明确气体的变化过程，分析初末状态及其温度、压强、体积，再依据气体实验定律或理想气体状态方程列出方程。",
+      "title": "单个汽缸气体的状态分析",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-ebe8713cb9d17171c887"
+      ],
+      "text": "涉及两个或多个汽缸内相互关联的几部分气体时，分别研究各部分气体，找出各自遵循的规律并写出相应方程，最后联立求解。",
+      "title": "关联气体分别列式并联立求解",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-306d5500bb4c91ab2c5e"
+      ],
+      "text": "计算气体压强时以活塞为研究对象。根据活塞能否移动、活塞和汽缸的绝热情况以及压力改变的快慢，按原文所列情形判断等压、等温、等容或绝热过程，并对等压、等温、等容过程选用对应的气体实验定律。",
+      "title": "依据活塞运动与热学条件选择过程规律",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-3fd6389a16d235c342bc"
+      ],
+      "from": "m1",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5f0414d83a811ee82be8"
+      ],
+      "from": "m2",
+      "to": "m3",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5f0414d83a811ee82be8"
+      ],
+      "from": "m2",
+      "to": "m4",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3fd6389a16d235c342bc",
+        "n-5f0414d83a811ee82be8"
+      ],
+      "from": "m1",
+      "to": "m3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3fd6389a16d235c342bc",
+        "n-5f0414d83a811ee82be8"
+      ],
+      "from": "m1",
+      "to": "m4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3fd6389a16d235c342bc",
+        "n-ebe8713cb9d17171c887"
+      ],
+      "from": "m1",
+      "to": "m5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3fd6389a16d235c342bc",
+        "n-ebe8713cb9d17171c887"
+      ],
+      "from": "m1",
+      "to": "m6",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ebe8713cb9d17171c887"
+      ],
+      "from": "m6",
+      "to": "c6",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-306d5500bb4c91ab2c5e"
+      ],
+      "from": "l1",
+      "to": "c2",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-306d5500bb4c91ab2c5e"
+      ],
+      "from": "l2",
+      "to": "c3",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-306d5500bb4c91ab2c5e"
+      ],
+      "from": "l3",
+      "to": "c4",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-306d5500bb4c91ab2c5e"
+      ],
+      "from": "m7",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-306d5500bb4c91ab2c5e"
+      ],
+      "from": "m7",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-306d5500bb4c91ab2c5e"
+      ],
+      "from": "m7",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-306d5500bb4c91ab2c5e"
+      ],
+      "from": "m7",
+      "to": "c5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a7283ef9e01a6ebd3410",
+        "n-306d5500bb4c91ab2c5e"
+      ],
+      "from": "n-a7283ef9e01a6ebd3410",
+      "to": "c3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a7283ef9e01a6ebd3410",
+        "n-5f0414d83a811ee82be8"
+      ],
+      "from": "n-a7283ef9e01a6ebd3410",
+      "to": "m3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c8d4c766db07568f2dbc",
+        "n-ebe8713cb9d17171c887"
+      ],
+      "from": "n-c8d4c766db07568f2dbc",
+      "to": "m5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-cf0f8ecd52b60c6aaf8d",
+        "n-3fd6389a16d235c342bc"
+      ],
+      "from": "n-cf0f8ecd52b60c6aaf8d",
+      "to": "m1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-36edd13c609f4b7dec08",
+        "n-ebe8713cb9d17171c887"
+      ],
+      "from": "n-36edd13c609f4b7dec08",
+      "to": "c6",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-36edd13c609f4b7dec08",
+        "n-ebe8713cb9d17171c887"
+      ],
+      "from": "n-36edd13c609f4b7dec08",
+      "to": "m6",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-edc9ff4ff581c009065d",
+  "source_digest": "506fc1b43f8006c6feb2c36b334d3357278f13c13546693fc67734ab2326f8f6",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

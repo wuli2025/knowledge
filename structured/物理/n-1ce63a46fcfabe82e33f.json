@@ -1,0 +1,442 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-36be620450bfda0844ae"
+      ],
+      "text": "电容器由两个彼此绝缘又相距很近的导体组成。",
+      "title": "电容器",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-36be620450bfda0844ae"
+      ],
+      "text": "充电是使电容器两极板带上等量异种电荷的过程，电源提供的能量储存在电容器中。",
+      "title": "电容器的充电",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-36be620450bfda0844ae"
+      ],
+      "text": "放电是使电容器两极板电荷中和的过程，电容器储存的能量转化为其他形式的能。",
+      "title": "电容器的放电",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-36be620450bfda0844ae",
+        "n-0bde81d1060dfe0e0bd9"
+      ],
+      "text": "电容反映电容器储存电荷的本领大小，定义式为 $C=\\dfrac{Q}{U}$。对某电容器，$\\dfrac{Q}{U}=C$ 不变；储存电荷的本领由 $\\dfrac{Q}{U}$ 量度，由本身的结构决定。单位为法拉（$\\mathrm{F}$）、微法（$\\mathrm{\\mu F}$）、皮法（$\\mathrm{pF}$），$1\\ \\mathrm{F}=10^6\\ \\mathrm{\\mu F}=10^{12}\\ \\mathrm{pF}$。",
+      "title": "电容及其定义式、单位",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-584b348852ceffde01fb",
+        "n-da7937dfefa6262c5928"
+      ],
+      "text": "理想二极管正向电阻为零，可视为短路；反向电阻无穷大，可视为断路。二极管具有单向导电性。",
+      "title": "理想二极管的单向导电性",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-36be620450bfda0844ae",
+        "n-0bde81d1060dfe0e0bd9"
+      ],
+      "text": "平行板电容器的电容决定式为 $C=\\dfrac{\\varepsilon_{\\mathrm{r}}S}{4\\pi kd}$。原文列出 $C\\propto\\varepsilon_{\\mathrm{r}}$、$C\\propto S$、$C\\propto\\dfrac{1}{d}$，反映决定平行板电容器电容大小的因素。",
+      "title": "平行板电容器的电容决定式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-673ce96156dba12fa35a"
+      ],
+      "text": "充电后与电源断开的平行板电容器，$Q$ 不变。原文分别列出各因素变化时的关系：$d\\uparrow\\rightarrow C\\downarrow\\rightarrow U\\uparrow\\rightarrow E$ 不变；$S\\uparrow\\rightarrow C\\uparrow\\rightarrow U\\downarrow\\rightarrow E\\downarrow$；$\\varepsilon_{\\mathrm{r}}\\uparrow\\rightarrow C\\uparrow\\rightarrow U\\downarrow\\rightarrow E\\downarrow$。",
+      "title": "与电源断开时的动态变化规律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-673ce96156dba12fa35a"
+      ],
+      "text": "充电后与电源相连的平行板电容器，$U$ 不变。原文分别列出各因素变化时的关系：$d\\uparrow\\rightarrow C\\downarrow\\rightarrow Q\\downarrow\\rightarrow E\\downarrow$；$S\\uparrow\\rightarrow C\\uparrow\\rightarrow Q\\uparrow\\rightarrow E$ 不变；$\\varepsilon_{\\mathrm{r}}\\uparrow\\rightarrow C\\uparrow\\rightarrow Q\\uparrow\\rightarrow E$ 不变。",
+      "title": "与电源相连时的动态变化规律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-da7937dfefa6262c5928"
+      ],
+      "text": "当有电容器的回路接有二极管时，因二极管的单向导电性，电容器的充电或放电会受到限制。",
+      "title": "二极管对充放电的限制",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-98581a654dfdfb202e2f"
+      ],
+      "text": "原文给出的直线运动条件：（1）若粒子所受合力 $F_{\\text{合}}=0$，粒子做匀速直线运动。（2）若粒子所受合力 $F_{\\text{合}}\\ne 0$，且与初速度方向在同一条直线上，带电粒子将做加速直线运动或减速直线运动。",
+      "title": "带电粒子做直线运动的条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-e62daff36b2601e0fac0"
+      ],
+      "text": "带电粒子只受静电力时，匀强电场中：$W=qEd=qU=\\dfrac12 mv^2-\\dfrac12 mv_0^2$；非匀强电场中：$W=qU=\\dfrac12 mv^2-\\dfrac12 mv_0^2$。",
+      "title": "只受静电力时的功能关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-99261742624bfda46d35"
+      ],
+      "text": "原文所示粒子以水平初速度 $v_0$ 射入平行金属板间，偏转运动为类平抛运动。板长为 $l$，板间电压为 $U$，板间距为 $d$。运动时间：$t=\\dfrac{l}{v_0}$；加速度：$a=\\dfrac{F}{m}=\\dfrac{qE}{m}=\\dfrac{qU}{md}$；偏移量：$y=\\dfrac12 at^2=\\dfrac{qUl^2}{2mdv_0^2}$；速度偏转角的正切值：$\\tan\\theta=\\dfrac{v_y}{v_0}=\\dfrac{at}{v_0}=\\dfrac{qUl}{mdv_0^2}$。",
+      "title": "电场偏转的基本运动关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-99261742624bfda46d35"
+      ],
+      "text": "在原文所示类平抛偏转运动中，出场速度的反向延长线过水平位移的中点。出场后到屏的水平距离为 $L$，到屏时总偏移量满足 $y'=y+L\\tan\\theta=\\left(\\dfrac l2+L\\right)\\tan\\theta$。",
+      "title": "偏转运动的中点结论与屏上偏移",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-c55137e58b86c578bf74"
+      ],
+      "text": "讨论带电粒子的末速度 $v$ 时，可用 $qU_y=\\dfrac12 mv^2-\\dfrac12 mv_0^2$，其中 $U_y=\\dfrac Ud y$，$U_y$ 为初、末位置间的电势差。",
+      "title": "偏转运动中的功能关系",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-635de9d3b4a1386278be"
+      ],
+      "text": "先确定不变量：充电后与电源断开，$Q$ 不变；与电源保持相连，$U$ 不变。再由 $C=\\dfrac{\\varepsilon_r S}{4\\pi kd}$ 判断 $C$ 的变化，根据 $C=\\dfrac{Q}{U}$ 判断 $U$ 或 $Q$ 的变化。最后判断电场强度：若 $d$ 或 $U$ 不变，由 $E=\\dfrac{U}{d}$ 判断；若 $d$ 和 $U$ 均变化，由 $E=\\dfrac{4\\pi kQ}{\\varepsilon_r S}$ 判断。",
+      "title": "平行板电容器动态分析流程",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-da7937dfefa6262c5928",
+        "n-584b348852ceffde01fb"
+      ],
+      "text": "分析含二极管的电容器回路时，要考虑单向导电性对充电或放电的限制。理想二极管正向可视为短路，反向可视为断路。",
+      "title": "含二极管电容器回路的分析",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-9d86805deea3cc519374"
+      ],
+      "text": "电子、质子、$\\alpha$ 粒子、离子等带电粒子，除有特殊说明或明确暗示外，一般不考虑重力，但不能忽略质量。液滴、油滴、尘埃等带电颗粒，除有特殊说明或明确暗示外，一般不能忽略重力。",
+      "title": "判断是否考虑重力",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-a6703d44a6e92a75f147"
+      ],
+      "text": "适用于匀强电场中只受静电力的带电粒子直线运动。使用 $a=\\dfrac{qE}{m}$、$E=\\dfrac{U}{d}$、$v^2-v_0^2=2ad$ 进行动力学分析。",
+      "title": "用动力学观点分析电场中的直线运动",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-e62daff36b2601e0fac0"
+      ],
+      "text": "带电粒子只受静电力时，可用功能关系分析运动。匀强电场使用 $W=qEd=qU=\\dfrac12 mv^2-\\dfrac12 mv_0^2$；非匀强电场使用 $W=qU=\\dfrac12 mv^2-\\dfrac12 mv_0^2$。",
+      "title": "用功能观点分析电场中的运动",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-99261742624bfda46d35"
+      ],
+      "text": "将原文所示平行金属板间的偏转视为类平抛运动，应用运动的合成与分解。由 $t=\\dfrac{l}{v_0}$ 求运动时间，由 $a=\\dfrac{F}{m}=\\dfrac{qE}{m}=\\dfrac{qU}{md}$ 求加速度，再求偏移量及速度偏转角。",
+      "title": "用运动的合成与分解分析电场偏转",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-c55137e58b86c578bf74"
+      ],
+      "text": "讨论偏转运动中的末速度 $v$ 时，可从能量角度求解：用 $U_y=\\dfrac Ud y$ 表示初、末位置间电势差，再用 $qU_y=\\dfrac12 mv^2-\\dfrac12 mv_0^2$。",
+      "title": "用能量关系求偏转后的末速度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-b1af781c95f83b316d85"
+      ],
+      "text": "原文图示中，出场偏移量为 $y_0$，屏上位置离中心的距离为 $y$，屏到偏转电场的水平距离为 $L$，平行金属板长为 $l$，出场速度偏转角为 $\\theta$。可用：（1）$y=y_0+L\\tan\\theta$；（2）$y=\\left(\\dfrac l2+L\\right)\\tan\\theta$；（3）相似三角形关系 $\\dfrac{y}{y_0}=\\dfrac{\\frac l2+L}{\\frac l2}$。",
+      "title": "计算粒子打到屏上的位置",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-36be620450bfda0844ae"
+      ],
+      "from": "c1",
+      "to": "c2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-36be620450bfda0844ae"
+      ],
+      "from": "c1",
+      "to": "c3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-36be620450bfda0844ae"
+      ],
+      "from": "c1",
+      "to": "c4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0bde81d1060dfe0e0bd9"
+      ],
+      "from": "c4",
+      "to": "l1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-635de9d3b4a1386278be"
+      ],
+      "from": "m1",
+      "to": "c4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-635de9d3b4a1386278be"
+      ],
+      "from": "m1",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-673ce96156dba12fa35a",
+        "n-635de9d3b4a1386278be"
+      ],
+      "from": "m1",
+      "to": "l2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-673ce96156dba12fa35a",
+        "n-635de9d3b4a1386278be"
+      ],
+      "from": "m1",
+      "to": "l3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-da7937dfefa6262c5928"
+      ],
+      "from": "c5",
+      "to": "l4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-da7937dfefa6262c5928",
+        "n-584b348852ceffde01fb"
+      ],
+      "from": "m2",
+      "to": "c5",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-da7937dfefa6262c5928"
+      ],
+      "from": "m2",
+      "to": "l4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e62daff36b2601e0fac0"
+      ],
+      "from": "m5",
+      "to": "l6",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-99261742624bfda46d35"
+      ],
+      "from": "m6",
+      "to": "l7",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-99261742624bfda46d35"
+      ],
+      "from": "l7",
+      "to": "l8",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c55137e58b86c578bf74"
+      ],
+      "from": "m7",
+      "to": "l9",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-99261742624bfda46d35",
+        "n-b1af781c95f83b316d85"
+      ],
+      "from": "m8",
+      "to": "l8",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-bfce824104aba2d3a3e6"
+      ],
+      "from": "n-bfce824104aba2d3a3e6",
+      "to": "c2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-bfce824104aba2d3a3e6"
+      ],
+      "from": "n-bfce824104aba2d3a3e6",
+      "to": "c3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c75ff43940312bb37e34",
+        "n-635de9d3b4a1386278be"
+      ],
+      "from": "n-c75ff43940312bb37e34",
+      "to": "m1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-584b348852ceffde01fb",
+        "n-da7937dfefa6262c5928"
+      ],
+      "from": "n-584b348852ceffde01fb",
+      "to": "m2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-66065b8beddaf09982c4",
+        "n-e62daff36b2601e0fac0"
+      ],
+      "from": "n-66065b8beddaf09982c4",
+      "to": "m5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-68e1890557516863b5f4",
+        "n-99261742624bfda46d35"
+      ],
+      "from": "n-68e1890557516863b5f4",
+      "to": "m6",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-79404cdfeaeb39719dbd",
+        "n-99261742624bfda46d35"
+      ],
+      "from": "n-79404cdfeaeb39719dbd",
+      "to": "m6",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-79404cdfeaeb39719dbd",
+        "n-b1af781c95f83b316d85"
+      ],
+      "from": "n-79404cdfeaeb39719dbd",
+      "to": "m8",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-1ce63a46fcfabe82e33f",
+  "source_digest": "ef37347a18cfbd4a0e229970aa89c7d6c3546254fb2dbe33f9e099c196e2eded",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

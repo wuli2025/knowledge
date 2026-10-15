@@ -1,0 +1,519 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-b1ef40de1c6b1482a404"
+      ],
+      "text": "质点是用来代替物体的具有质量的点，是一种理想化模型。把物体看作质点的条件是：物体的形状和大小对所研究问题的影响可以忽略不计。",
+      "title": "质点",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-b1ef40de1c6b1482a404"
+      ],
+      "text": "在描述物体运动时，用来作为参考的物体叫作参考系，通常以地面为参考系。",
+      "title": "参考系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-6f4c983ab9ba457ffe8b"
+      ],
+      "text": "位移是由初位置指向末位置的有向线段，为矢量。",
+      "title": "位移",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-6f4c983ab9ba457ffe8b"
+      ],
+      "text": "路程是物体运动轨迹的长度，为标量。",
+      "title": "路程",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-a9af6b97e2021b2a7568"
+      ],
+      "text": "平均速度是位移与发生这段位移所用时间的比值，$\\bar v=\\dfrac{\\Delta x}{\\Delta t}$。平均速度为矢量，与$\\Delta x$方向一致。",
+      "title": "平均速度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-a9af6b97e2021b2a7568"
+      ],
+      "text": "瞬时速度是物体在某一时刻的速度，为矢量，与该时刻的运动方向一致。",
+      "title": "瞬时速度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c7",
+      "source_node_ids": [
+        "n-a9af6b97e2021b2a7568"
+      ],
+      "text": "平均速率是路程与通过这段路程所用时间的比值，为标量。",
+      "title": "平均速率",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c8",
+      "source_node_ids": [
+        "n-a9af6b97e2021b2a7568"
+      ],
+      "text": "速率是瞬时速度的大小，为标量。",
+      "title": "速率",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c9",
+      "source_node_ids": [
+        "n-7e050b1ec35588670fbe"
+      ],
+      "text": "速度描述物体运动的快慢和方向。原文定义式为$v=\\dfrac{\\Delta x}{\\Delta t}$；当$\\Delta t\\to0$时，$v$是瞬时速度。",
+      "title": "速度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c10",
+      "source_node_ids": [
+        "n-7e050b1ec35588670fbe"
+      ],
+      "text": "速度变化量描述物体速度的变化，$\\Delta v=v-v_0$，其中差为矢量差。其方向由$v_0$与$v$的方向共同确定，与$a$的方向一致。",
+      "title": "速度变化量",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c11",
+      "source_node_ids": [
+        "n-7e050b1ec35588670fbe"
+      ],
+      "text": "加速度又称速度变化率，描述物体速度变化的快慢和方向，$a=\\dfrac{\\Delta v}{\\Delta t}=\\dfrac{v-v_0}{\\Delta t}$。其方向由$F_{\\text{合}}$的方向决定，与$\\Delta v$同向，但与$v_0、v$的方向无必然联系。",
+      "title": "加速度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c12",
+      "source_node_ids": [
+        "n-690961d0fca7908d6f64"
+      ],
+      "text": "题干将相等位移内速度变化相等的单向直线运动称为“另类匀变速直线运动”。“另类加速度”定义为$A=\\dfrac{v_t-v_0}{x}$，其中$v_0$和$v_t$分别表示某段位移$x$内的初速度和末速度。$A>0$表示物体做加速运动，$A<0$表示物体做减速运动。题干同时给出现行加速度定义式$a=\\dfrac{v_t-v_0}{t}$。",
+      "title": "题设概念：另类加速度",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-6f4c983ab9ba457ffe8b"
+      ],
+      "text": "位移的大小一般小于路程；单向直线运动中，位移的大小等于路程。",
+      "title": "位移大小与路程的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-a9af6b97e2021b2a7568"
+      ],
+      "text": "当时间趋近于零时，平均速度等于瞬时速度。",
+      "title": "平均速度与瞬时速度的极限关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-a9af6b97e2021b2a7568"
+      ],
+      "text": "平均速率为$0$，则平均速度必为$0$；平均速度为$0$，平均速率不一定为$0$。",
+      "title": "平均速率与平均速度的零值关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-2593cdb179003bea92a1"
+      ],
+      "text": "加速度的大小决定速度变化的快慢：$a$减小，速度变化越来越慢；$a$增大，速度变化越来越快。这里的增大、减小指加速度大小的变化。“$+$”“$-$”只表示加速度方向，不表示大小。",
+      "title": "加速度大小与速度变化快慢",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-2593cdb179003bea92a1"
+      ],
+      "text": "$a$与$v$同向，速度增大；$a$与$v$反向，速度减小。物体做加速运动还是减速运动由加速度方向与速度方向的关系决定，与加速度大小的变化无关。",
+      "title": "加速度与速度的方向关系决定速度增减",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-7e050b1ec35588670fbe"
+      ],
+      "text": "原文指出速度、速度变化量、加速度三者大小无必然联系，并表述为：“$v$很大时，$\\Delta v$可以很小，甚至为零，此时$a$可能很大，也可能很小，甚至可能为零”。【待核对】该句将$\\Delta v$很小和为零的情形合并表述，与同表定义式$a=\\dfrac{\\Delta v}{\\Delta t}=\\dfrac{v-v_0}{\\Delta t}$的对应条件需核对。",
+      "title": "速度、速度变化量与加速度的大小联系",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-b1ef40de1c6b1482a404"
+      ],
+      "text": "判断能否把物体看作质点时，考察物体的形状和大小对所研究问题的影响是否可以忽略不计。",
+      "title": "判断质点模型是否适用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-a9af6b97e2021b2a7568"
+      ],
+      "text": "求平均速度时，使用位移与对应时间的比值$\\bar v=\\dfrac{\\Delta x}{\\Delta t}$，方向与位移一致；求平均速率时，使用路程与对应时间的比值。",
+      "title": "区分平均速度与平均速率的计算",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-7e050b1ec35588670fbe"
+      ],
+      "text": "用极限法求瞬时物理量：在$v=\\dfrac{\\Delta x}{\\Delta t}$中令$\\Delta t\\to0$，得到瞬时速度$v=\\lim\\limits_{\\Delta t\\to0}\\dfrac{\\Delta x}{\\Delta t}$；在$a=\\dfrac{\\Delta v}{\\Delta t}$中令$\\Delta t\\to0$，得到瞬时加速度$a=\\lim\\limits_{\\Delta t\\to0}\\dfrac{\\Delta v}{\\Delta t}$。",
+      "title": "用极限法求瞬时速度和瞬时加速度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-2593cdb179003bea92a1"
+      ],
+      "text": "判断物体加速还是减速时，比较加速度方向与速度方向：同向则速度增大，反向则速度减小；判断速度变化的快慢时，考察加速度大小。",
+      "title": "根据加速度判断速度变化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-690961d0fca7908d6f64"
+      ],
+      "text": "借助图像对“另类加速度”与加速度进行转换。原文示意图由$v$随$x$变化的图像转向$v$随$t$变化的图像：前者为向右上方倾斜的直线，相等的$\\Delta x$对应相等的$\\Delta v$；后者为向上弯曲的曲线，相等的$\\Delta v$对应逐渐缩短的$\\Delta t_1、\\Delta t_2、\\Delta t_3$，各时间段对应的位移均为$\\Delta x$。",
+      "title": "借助图像理解另类加速度",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-b1ef40de1c6b1482a404"
+      ],
+      "from": "m1",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6f4c983ab9ba457ffe8b"
+      ],
+      "from": "c3",
+      "to": "l1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6f4c983ab9ba457ffe8b"
+      ],
+      "from": "c4",
+      "to": "l1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a9af6b97e2021b2a7568"
+      ],
+      "from": "c3",
+      "to": "c5",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a9af6b97e2021b2a7568"
+      ],
+      "from": "c4",
+      "to": "c7",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a9af6b97e2021b2a7568"
+      ],
+      "from": "c6",
+      "to": "c8",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a9af6b97e2021b2a7568"
+      ],
+      "from": "c5",
+      "to": "l2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a9af6b97e2021b2a7568"
+      ],
+      "from": "c6",
+      "to": "l2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a9af6b97e2021b2a7568"
+      ],
+      "from": "c5",
+      "to": "l3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a9af6b97e2021b2a7568"
+      ],
+      "from": "c7",
+      "to": "l3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a9af6b97e2021b2a7568"
+      ],
+      "from": "m2",
+      "to": "c5",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a9af6b97e2021b2a7568"
+      ],
+      "from": "m2",
+      "to": "c7",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7e050b1ec35588670fbe"
+      ],
+      "from": "c9",
+      "to": "c10",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7e050b1ec35588670fbe"
+      ],
+      "from": "c10",
+      "to": "c11",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7e050b1ec35588670fbe"
+      ],
+      "from": "m3",
+      "to": "c6",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7e050b1ec35588670fbe"
+      ],
+      "from": "m3",
+      "to": "c11",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2593cdb179003bea92a1"
+      ],
+      "from": "c11",
+      "to": "l4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2593cdb179003bea92a1"
+      ],
+      "from": "c11",
+      "to": "l5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2593cdb179003bea92a1"
+      ],
+      "from": "m4",
+      "to": "l4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2593cdb179003bea92a1"
+      ],
+      "from": "m4",
+      "to": "l5",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-690961d0fca7908d6f64"
+      ],
+      "from": "m5",
+      "to": "c12",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-690961d0fca7908d6f64"
+      ],
+      "from": "m5",
+      "to": "c11",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5b63f0226697f79c7118"
+      ],
+      "from": "n-5b63f0226697f79c7118",
+      "to": "c5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-53bce97ebcf70248fdcf"
+      ],
+      "from": "n-53bce97ebcf70248fdcf",
+      "to": "c5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-53bce97ebcf70248fdcf"
+      ],
+      "from": "n-53bce97ebcf70248fdcf",
+      "to": "c6",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-53bce97ebcf70248fdcf"
+      ],
+      "from": "n-53bce97ebcf70248fdcf",
+      "to": "c7",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-39900dd09588d0e7d4a9"
+      ],
+      "from": "n-39900dd09588d0e7d4a9",
+      "to": "c11",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f938c90cb9d349ba1aac",
+        "n-2593cdb179003bea92a1"
+      ],
+      "from": "n-f938c90cb9d349ba1aac",
+      "to": "l5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-690961d0fca7908d6f64"
+      ],
+      "from": "n-690961d0fca7908d6f64",
+      "to": "c12",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-690961d0fca7908d6f64"
+      ],
+      "from": "n-690961d0fca7908d6f64",
+      "to": "m5",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-abe2978cb5cff4013410"
+      ],
+      "from": "n-abe2978cb5cff4013410",
+      "to": "c1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-abe2978cb5cff4013410"
+      ],
+      "from": "n-abe2978cb5cff4013410",
+      "to": "c2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-abe2978cb5cff4013410"
+      ],
+      "from": "n-abe2978cb5cff4013410",
+      "to": "c3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-43787a6522a9f4998ccc",
+  "source_digest": "540aa6c35cfe825c024241a7fa9080b15f0165ea4799674916a5fc5a019cc600",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

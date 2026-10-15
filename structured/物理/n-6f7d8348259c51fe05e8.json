@@ -1,0 +1,320 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-c075689775b5aee6191e"
+      ],
+      "text": "$x-t$ 图像和 $v-t$ 图像都描述直线运动，图线不代表运动轨迹。",
+      "title": "常规运动学图像的含义",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-c075689775b5aee6191e"
+      ],
+      "text": "横轴为时间 $t$，纵轴为位置 $x$；纵截距表示 $t=0$ 时刻质点的位置。",
+      "title": "$x-t$ 图像",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-c075689775b5aee6191e"
+      ],
+      "text": "横轴为时间 $t$，纵轴为速度 $v$；纵截距表示 $t=0$ 时刻质点的速度。",
+      "title": "$v-t$ 图像",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-857f5e329ab1188a08f4"
+      ],
+      "text": "原文列举的非常规运动学图像包括 $a-t$ 图像、$\\dfrac{x}{t}-t$ 图像、$v^2-x$ 图像和 $a-x$ 图像。",
+      "title": "四类非常规运动学图像",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-c075689775b5aee6191e"
+      ],
+      "text": "斜率 $k_{x-t}=\\dfrac{\\Delta x}{\\Delta t}$ 表示速度；倾斜直线表示匀速直线运动；原文图示拐点表示速度变化，两质点图线的交点表示两质点同时刻在同一位置，即相遇；面积无意义。",
+      "title": "$x-t$ 图像的特征与运动信息",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-c075689775b5aee6191e"
+      ],
+      "text": "斜率 $k_{v-t}=\\dfrac{\\Delta v}{\\Delta t}$ 表示加速度；倾斜直线表示匀变速直线运动；原文图示拐点表示加速度变化，两质点图线的交点表示速度相同；面积表示位移。",
+      "title": "$v-t$ 图像的特征与运动信息",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-857f5e329ab1188a08f4"
+      ],
+      "text": "原文由 $\\Delta v=a\\Delta t$ 说明，$a-t$ 图像中图线与横轴所围面积表示速度变化量。",
+      "title": "$a-t$ 图像的面积意义",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-857f5e329ab1188a08f4"
+      ],
+      "text": "由 $x=v_0t+\\dfrac12at^2$ 可得 $\\dfrac{x}{t}=v_0+\\dfrac12at$。在原文所示直线图像中，纵截距 $b$ 表示初速度 $v_0$，图线的斜率 $k$ 表示 $\\dfrac12a$。",
+      "title": "$\\dfrac{x}{t}-t$ 图像的截距和斜率",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-857f5e329ab1188a08f4"
+      ],
+      "text": "由 $v^2-v_0^2=2ax$ 可得 $v^2=v_0^2+2ax$。在原文所示直线图像中，纵截距 $b$ 表示 $v_0^2$，图线斜率 $k$ 表示 $2a$。",
+      "title": "$v^2-x$ 图像的截距和斜率",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-857f5e329ab1188a08f4"
+      ],
+      "text": "由 $v^2-v_0^2=2ax$ 可得 $ax=\\dfrac{v^2-v_0^2}{2}$，图线与 $x$ 轴所围面积表示速度二次方的变化量 $\\Delta(v^2)$ 的一半。原文图示为平行于横轴的直线，纵轴单位为 $\\mathrm{m\\cdot s^{-2}}$，横轴单位为 $\\mathrm m$。",
+      "title": "$a-x$ 图像的面积意义",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-5bd9aa8de906f91c98f5"
+      ],
+      "text": "读图时识别横轴、纵轴对应的物理量，分析斜率、截距、面积以及交点、拐点的意义，提取图像信息。",
+      "title": "读取运动学图像信息",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-5bd9aa8de906f91c98f5"
+      ],
+      "text": "根据运动性质和物理量的组合选择物理规律，建立函数关系式；依据建立的数形关系分析、推理，再返回图像信息，拓展解题思路。",
+      "title": "数形结合分析运动学图像",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-e5102aad221f2ab2cf63"
+      ],
+      "text": "图像转换的一般流程为：分析已知图像 → 构建运动情境 → 应用规律公式 → 判断选项图像。",
+      "title": "图像转换的一般流程",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-2833fe10b92c9beb0eac"
+      ],
+      "text": "合理划分运动阶段，分阶段进行图像转换；注意相邻运动阶段的衔接，尤其是运动参量的衔接。",
+      "title": "分阶段转换与运动参量衔接",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-2833fe10b92c9beb0eac"
+      ],
+      "text": "注意图像转换前后核心物理量间的定量关系，以此作为图像转换的依据。",
+      "title": "依据物理量的定量关系转换图像",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-c075689775b5aee6191e"
+      ],
+      "from": "c1",
+      "to": "c2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c075689775b5aee6191e"
+      ],
+      "from": "c1",
+      "to": "c3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c075689775b5aee6191e"
+      ],
+      "from": "c2",
+      "to": "l1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c075689775b5aee6191e"
+      ],
+      "from": "c3",
+      "to": "l2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-857f5e329ab1188a08f4"
+      ],
+      "from": "c4",
+      "to": "l3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-857f5e329ab1188a08f4"
+      ],
+      "from": "c4",
+      "to": "l4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-857f5e329ab1188a08f4"
+      ],
+      "from": "c4",
+      "to": "l5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-857f5e329ab1188a08f4"
+      ],
+      "from": "c4",
+      "to": "l6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5bd9aa8de906f91c98f5"
+      ],
+      "from": "m1",
+      "to": "m2",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e5102aad221f2ab2cf63",
+        "n-2833fe10b92c9beb0eac"
+      ],
+      "from": "m3",
+      "to": "m4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e5102aad221f2ab2cf63",
+        "n-2833fe10b92c9beb0eac"
+      ],
+      "from": "m3",
+      "to": "m5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0ad7f224b792f28ed6c4",
+        "n-e5102aad221f2ab2cf63"
+      ],
+      "from": "n-0ad7f224b792f28ed6c4",
+      "to": "m3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0ad7f224b792f28ed6c4",
+        "n-c075689775b5aee6191e"
+      ],
+      "from": "n-0ad7f224b792f28ed6c4",
+      "to": "l1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0aff3fb5e1c171013fca",
+        "n-e5102aad221f2ab2cf63"
+      ],
+      "from": "n-0aff3fb5e1c171013fca",
+      "to": "m3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-afb0249778aa147ffb72",
+        "n-e5102aad221f2ab2cf63"
+      ],
+      "from": "n-afb0249778aa147ffb72",
+      "to": "m3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ec69d5d7f640b888caf8",
+        "n-857f5e329ab1188a08f4"
+      ],
+      "from": "n-ec69d5d7f640b888caf8",
+      "to": "l3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ec69d5d7f640b888caf8",
+        "n-857f5e329ab1188a08f4"
+      ],
+      "from": "n-ec69d5d7f640b888caf8",
+      "to": "l4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ec69d5d7f640b888caf8",
+        "n-857f5e329ab1188a08f4"
+      ],
+      "from": "n-ec69d5d7f640b888caf8",
+      "to": "l5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-6f7d8348259c51fe05e8",
+  "source_digest": "c3e2f71dcdcd28fea6ef270eab4e8b0bfe541d726ae97feb0c5de69dc7b31780",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

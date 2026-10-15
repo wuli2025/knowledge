@@ -1,0 +1,392 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-98e67a1804be95530970"
+      ],
+      "text": "游标卡尺利用主尺的单位刻度（$1\\ \\mathrm{mm}$）与游标尺的单位刻度之间固定的微量差值制成。游标尺上小等分刻度的总长度比主尺上同样数目的小等分刻度的总长度小$1\\ \\mathrm{mm}$。$10$分度、$20$分度和$50$分度分别对应精度$0.1\\ \\mathrm{mm}$、$0.05\\ \\mathrm{mm}$和$0.02\\ \\mathrm{mm}$。",
+      "title": "游标卡尺的原理与精度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-0410ab153608f5fb020f"
+      ],
+      "text": "螺旋测微器固定刻度的螺距为$0.5\\ \\mathrm{mm}$，旋钮每旋转一周，测微螺杆前进或后退$0.5\\ \\mathrm{mm}$；可动刻度有$50$个等分刻度，每转动一小格，测微螺杆前进或后退$0.01\\ \\mathrm{mm}$。读数估读到毫米的千分位，因此又称千分尺。",
+      "title": "螺旋测微器的原理",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-db1883ccbdd037205ab6"
+      ],
+      "text": "电流表$\\mathrm{A}$与待测电阻$R_x$串联，电压表$\\mathrm{V}$并联在电流表与待测电阻组成的整体两端。",
+      "title": "电流表内接法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-db1883ccbdd037205ab6"
+      ],
+      "text": "电压表$\\mathrm{V}$并联在待测电阻$R_x$两端，电流表$\\mathrm{A}$接在并联部分外侧的干路中。",
+      "title": "电流表外接法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-28d2c6d233cd809c684e"
+      ],
+      "text": "滑动变阻器$R_0$连入电路的部分与待测电阻$R_x$串联，使用滑片和一个固定接线端，即“一上一下”接法。特点是电路能耗小、接线简单。",
+      "title": "滑动变阻器限流式接法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-28d2c6d233cd809c684e"
+      ],
+      "text": "滑动变阻器$R_0$全部连入电路中，$a$、$b$两端通过开关接在电源$E$两端，待测电阻$R_x$与$R_0$的$aP$部分并联，采用“一上两下”接法。特点是调压范围大，能从$0$开始。",
+      "title": "滑动变阻器分压式接法",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-db1883ccbdd037205ab6"
+      ],
+      "text": "电流表和电压表均为实际电表时，内接法的误差来自电流表分压：$U_{\\text{测}}=U_x+U_{\\mathrm{A}}$。电阻测量值为$R_{\\text{测}}=\\dfrac{U_{\\text{测}}}{I_{\\text{测}}}=R_x+R_{\\mathrm{A}}>R_x$，即测量值大于真实值。",
+      "title": "内接法的测量误差",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-db1883ccbdd037205ab6"
+      ],
+      "text": "电流表和电压表均为实际电表时，外接法的误差来自电压表分流：$I_{\\text{测}}=I_x+I_{\\mathrm{V}}$。电阻测量值为$R_{\\text{测}}=\\dfrac{U_{\\text{测}}}{I_{\\text{测}}}=\\dfrac{R_xR_{\\mathrm{V}}}{R_x+R_{\\mathrm{V}}}<R_x$，即测量值小于真实值。",
+      "title": "外接法的测量误差",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-28d2c6d233cd809c684e"
+      ],
+      "text": "忽略电源内阻时，限流式接法中$R_x$两端电压调节范围为$\\dfrac{R_x}{R_x+R_{0\\max}}E\\leqslant U_x\\leqslant E$；$R_x$中电流调节范围为$\\dfrac{E}{R_x+R_{0\\max}}\\leqslant I_x\\leqslant \\dfrac{E}{R_x}$。",
+      "title": "限流式接法的电压与电流调节范围",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-28d2c6d233cd809c684e"
+      ],
+      "text": "忽略电源内阻时，分压式接法中$R_x$两端电压调节范围为$0\\leqslant U_x\\leqslant E$；$R_x$中电流调节范围为$0\\leqslant I_x\\leqslant \\dfrac{E}{R_x}$。",
+      "title": "分压式接法的电压与电流调节范围",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-98e67a1804be95530970"
+      ],
+      "text": "用$x$表示由主尺读出的整毫米数，$K$表示游标尺上与主尺某一刻度线对齐的格数，则记录结果为$(x+K\\times\\text{精度})\\ (\\mathrm{mm})$。",
+      "title": "游标卡尺的读数方法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-0410ab153608f5fb020f"
+      ],
+      "text": "读数关系为$\\text{测量值}\\ (\\mathrm{mm})=\\text{固定刻度数}\\ (\\mathrm{mm})$（注意判断半毫米刻度线是否露出）$+\\text{可动刻度数（估读一位）}\\times0.01\\ (\\mathrm{mm})$。读数估读到毫米的千分位。",
+      "title": "螺旋测微器的读数方法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-160f1969056b4a3f15d1"
+      ],
+      "text": "量程为$0\\sim3\\ \\mathrm{V}$的电压表和量程为$0\\sim3\\ \\mathrm{A}$的电流表读数方法相同，分度值分别为$0.1\\ \\mathrm{V}$和$0.1\\ \\mathrm{A}$。需看清指针实际位置并估读，读到小数点后两位。",
+      "title": "0～3 V电压表与0～3 A电流表的读数",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-160f1969056b4a3f15d1"
+      ],
+      "text": "对于$0\\sim15\\ \\mathrm{V}$量程的电压表，分度值为$0.5\\ \\mathrm{V}$，读数要求读到小数点后一位。",
+      "title": "0～15 V电压表的读数",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-160f1969056b4a3f15d1"
+      ],
+      "text": "对于$0\\sim0.6\\ \\mathrm{A}$量程的电流表，分度值为$0.02\\ \\mathrm{A}$，读数要求读到小数点后两位。",
+      "title": "0～0.6 A电流表的读数",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-db1883ccbdd037205ab6"
+      ],
+      "text": "电流表和电压表均为实际电表，且知道$R_x$、$R_{\\mathrm{A}}$和$R_{\\mathrm{V}}$的近似值时，内接法选择条件为$R_x\\gg R_{\\mathrm{A}}$或$R_x>\\sqrt{R_{\\mathrm{V}}R_{\\mathrm{A}}}$；外接法选择条件为$R_x\\ll R_{\\mathrm{V}}$或$R_x<\\sqrt{R_{\\mathrm{V}}R_{\\mathrm{A}}}$。结合测量偏差可记为“大内偏大”“小外偏小”。",
+      "title": "电流表内接法与外接法的选择",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-db1883ccbdd037205ab6"
+      ],
+      "text": "对于实际电表的内接法测量，按电流表分压修正：$R_{\\text{真}}=\\dfrac{U-IR_{\\mathrm{A}}}{I}=\\dfrac{U}{I}-R_{\\mathrm{A}}$。",
+      "title": "内接法电阻测量值的修正",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-db1883ccbdd037205ab6"
+      ],
+      "text": "对于实际电表的外接法测量，按电压表分流修正：$R_{\\text{真}}=\\dfrac{U}{I-\\dfrac{U}{R_{\\mathrm{V}}}}$。",
+      "title": "外接法电阻测量值的修正",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m9",
+      "source_node_ids": [
+        "n-28d2c6d233cd809c684e"
+      ],
+      "text": "限流式接法采用“一上一下”接线，滑片初始位置置于连入电路阻值最大处；分压式接法采用“一上两下”接线，滑片初始位置置于$R_x$支路短路处，即$a$端。",
+      "title": "滑动变阻器接线与初始位置设置",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m10",
+      "source_node_ids": [
+        "n-6217e1d5825076c2191a"
+      ],
+      "text": "限流式接法电路结构简单、能耗少，应优先使用。下列情况必须采用分压式接法：要求电压表能从零开始读数，或要求电压（电流）测量范围尽可能大；待测电阻$R_x\\gg R_{0\\max}$，限流式接法中滑动变阻器几乎不起作用；采用限流式接法时，电路中的最小电流仍超过电表、电阻允许的最大电流。",
+      "title": "滑动变阻器限流式与分压式接法的选择",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m11",
+      "source_node_ids": [
+        "n-225b77f29b69a9529269"
+      ],
+      "text": "实验设计及仪器选择应确保电源、电阻和电表都不会过载。例如，电流表或电压表量程一定要大于被测电流或电压的最大值。",
+      "title": "仪器选择的安全性原则",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m12",
+      "source_node_ids": [
+        "n-225b77f29b69a9529269"
+      ],
+      "text": "选择电表量程时，应考虑尽可能减小测量误差。电压表或电流表应使指针偏转到满刻度的$\\dfrac{1}{3}$到$\\dfrac{2}{3}$范围内；多用电表选用电阻挡时，应尽可能使指针指在中间刻度附近。",
+      "title": "仪器选择的精确性原则",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m13",
+      "source_node_ids": [
+        "n-225b77f29b69a9529269"
+      ],
+      "text": "选用滑动变阻器时，应考虑对外供电电压的变化范围既能满足实验要求，又能实现调节时电表的示数变化明显。",
+      "title": "仪器选择的可调性原则",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-98e67a1804be95530970"
+      ],
+      "from": "c1",
+      "to": "m1",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0410ab153608f5fb020f"
+      ],
+      "from": "c2",
+      "to": "m2",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-db1883ccbdd037205ab6"
+      ],
+      "from": "c3",
+      "to": "l1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-db1883ccbdd037205ab6"
+      ],
+      "from": "c4",
+      "to": "l2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-db1883ccbdd037205ab6"
+      ],
+      "from": "m6",
+      "to": "c3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-db1883ccbdd037205ab6"
+      ],
+      "from": "m6",
+      "to": "c4",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-db1883ccbdd037205ab6"
+      ],
+      "from": "m7",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-db1883ccbdd037205ab6"
+      ],
+      "from": "m8",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-db1883ccbdd037205ab6"
+      ],
+      "from": "m7",
+      "to": "c3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-db1883ccbdd037205ab6"
+      ],
+      "from": "m8",
+      "to": "c4",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-28d2c6d233cd809c684e"
+      ],
+      "from": "c5",
+      "to": "l3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-28d2c6d233cd809c684e"
+      ],
+      "from": "c6",
+      "to": "l4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-28d2c6d233cd809c684e"
+      ],
+      "from": "m9",
+      "to": "c5",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-28d2c6d233cd809c684e"
+      ],
+      "from": "m9",
+      "to": "c6",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6217e1d5825076c2191a"
+      ],
+      "from": "m10",
+      "to": "c5",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6217e1d5825076c2191a"
+      ],
+      "from": "m10",
+      "to": "c6",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-225b77f29b69a9529269"
+      ],
+      "from": "n-225b77f29b69a9529269",
+      "to": "m11",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-225b77f29b69a9529269"
+      ],
+      "from": "n-225b77f29b69a9529269",
+      "to": "m12",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-225b77f29b69a9529269"
+      ],
+      "from": "n-225b77f29b69a9529269",
+      "to": "m13",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-a2678520f4e0b56d8011",
+  "source_digest": "f8dd6995315e22b0343f3e3216cbabd1c86f6f5b577fa00c2f23b2e6c11ff7b8",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

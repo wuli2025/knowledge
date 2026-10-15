@@ -1,0 +1,389 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-92cfc0c3b391416448d0"
+      ],
+      "text": "重力势能的表达式为 $E_{\\mathrm{p}}=mgh$，其中 $h$ 为相对参考平面的高度。",
+      "title": "重力势能",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-92cfc0c3b391416448d0"
+      ],
+      "text": "弹性势能的表达式为 $E'_{\\mathrm{p}}=\\dfrac{1}{2}kx^2$，其中 $x$ 为弹簧的形变量。",
+      "title": "弹性势能",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-3152c5eb0196f6344b94"
+      ],
+      "text": "机械能守恒是指整个过程中个体或系统的机械能保持不变，而非仅初、末状态机械能相等。",
+      "title": "机械能守恒",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-3a25a8ff4635cc87fd1d"
+      ],
+      "text": "原文所列杆连接体具有角速度相等的特点。杆对物体的作用力不一定沿杆的方向，杆能对物体做功，单个物体的机械能不一定守恒。",
+      "title": "角速度相等的杆连接体",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-3a25a8ff4635cc87fd1d"
+      ],
+      "text": "原文将所列绳连接体归为分速度相等的绳连接体，分析时应抓住两物体的位移大小关系。",
+      "title": "分速度相等的绳连接体",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-92cfc0c3b391416448d0"
+      ],
+      "text": "重力做功与重力势能变化的关系为 $W_G=-\\Delta E_{\\mathrm{p}}$。",
+      "title": "重力做功与重力势能变化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-92cfc0c3b391416448d0"
+      ],
+      "text": "弹簧弹力做功与弹性势能变化的关系为 $W_{\\text{弹}}=-\\Delta E'_{\\mathrm{p}}$。",
+      "title": "弹力做功与弹性势能变化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-050c1a98d82060435e7b",
+        "n-b7ea8e270a946ed65e57"
+      ],
+      "text": "机械能守恒的条件是只有重力和系统内弹力做功，没有其他力做功；不能将合力做功等于零或合力等于零作为机械能守恒的条件。",
+      "title": "机械能守恒的做功条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-0686d970d923a21d0520"
+      ],
+      "text": "机械能守恒可表示为 $E_{\\mathrm{p}1}+E_{\\mathrm{k}1}=E_{\\mathrm{p}2}+E_{\\mathrm{k}2}$。采用此形式需要选取零势能面。",
+      "title": "机械能守恒的守恒形式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-0686d970d923a21d0520"
+      ],
+      "text": "机械能守恒时，动能与势能之间的转化满足 $\\Delta E_{\\mathrm{p}}+\\Delta E_{\\mathrm{k}}=0$。",
+      "title": "机械能守恒的转化形式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-0686d970d923a21d0520",
+        "n-b7ea8e270a946ed65e57"
+      ],
+      "text": "系统内物体间机械能的转移可表示为 $\\Delta E_A+\\Delta E_B=0$。系统机械能守恒时，机械能一般在系统内物体间转移，其中单个物体的机械能不一定守恒。",
+      "title": "机械能守恒的转移形式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-3a25a8ff4635cc87fd1d"
+      ],
+      "text": "对于原文所列杆连接体，当只有重力和杆的弹力对物体 $A$、$B$ 做功时，系统机械能守恒。",
+      "title": "杆连接体系统机械能守恒条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-3a25a8ff4635cc87fd1d"
+      ],
+      "text": "对于原文所列绳连接体，只有重力和系统内绳的拉力做功、其他力不做功时，系统机械能守恒。",
+      "title": "绳连接体系统机械能守恒条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-ebd333ecd9d93977116c"
+      ],
+      "text": "弹簧弹力做功与物体路径无关，只与弹簧初、末状态形变量的大小有关。",
+      "title": "弹簧弹力做功的特点",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-ebd333ecd9d93977116c"
+      ],
+      "text": "原文表述：当弹簧两端连接的物体速度相同时（或沿弹簧方向的分速度相同时），弹簧形变量最大，弹性势能最大。【待核对】原文未进一步限定这一最大值判断所对应的运动过程及适用条件。",
+      "title": "弹性势能最大值的判断",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l11",
+      "source_node_ids": [
+        "n-ebd333ecd9d93977116c"
+      ],
+      "text": "当弹簧处于原长时，弹性势能为零。",
+      "title": "弹簧原长状态的弹性势能",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-050c1a98d82060435e7b"
+      ],
+      "text": "分析各力的做功情况：只有重力和系统内弹力做功，没有其他力做功时，可判断机械能守恒。",
+      "title": "条件分析法判断机械能守恒",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-050c1a98d82060435e7b"
+      ],
+      "text": "分析系统内的能量转化：只有系统内物体间动能和势能的相互转化，系统内无机械能与其他形式能的转化时，可判断机械能守恒。",
+      "title": "能量转化法判断机械能守恒",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-050c1a98d82060435e7b"
+      ],
+      "text": "识别绳子突然绷紧、物体间非弹性碰撞等特定情境；原文指出这些情境中机械能不守恒。",
+      "title": "特殊情境法判断机械能是否守恒",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-3a25a8ff4635cc87fd1d"
+      ],
+      "text": "分析杆连接体时关注角速度相等的特点，并区分单个物体与系统：杆能对单个物体做功，单个物体机械能不一定守恒；再根据系统的做功情况判断系统机械能是否守恒。",
+      "title": "杆连接体的分析方法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-3a25a8ff4635cc87fd1d"
+      ],
+      "text": "分析绳连接体时关注分速度相等的特点，抓住两物体的位移大小关系，并检查是否只有重力和系统内绳的拉力做功、其他力不做功。",
+      "title": "绳连接体的分析方法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-3f6d5e1cce824318e35e"
+      ],
+      "text": "先选研究对象，可选多个物体组成的系统、含弹簧的系统或含轻杆、轻绳的系统；再选运动过程，对研究对象进行受力和做功情况分析，判断机械能是否守恒；根据题目特点，从 $E_1=E_2$、$\\Delta E_{\\mathrm{k}}=-\\Delta E_{\\mathrm{p}}$、$\\Delta E_A=-\\Delta E_B$ 中灵活选用一种表达式，最后联立方程求解。",
+      "title": "系统机械能守恒问题的解题步骤",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-92cfc0c3b391416448d0"
+      ],
+      "from": "c1",
+      "to": "l1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-92cfc0c3b391416448d0"
+      ],
+      "from": "c2",
+      "to": "l2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-050c1a98d82060435e7b",
+        "n-b7ea8e270a946ed65e57"
+      ],
+      "from": "l3",
+      "to": "c3",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0686d970d923a21d0520"
+      ],
+      "from": "c3",
+      "to": "l4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0686d970d923a21d0520"
+      ],
+      "from": "c3",
+      "to": "l5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0686d970d923a21d0520"
+      ],
+      "from": "c3",
+      "to": "l6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-050c1a98d82060435e7b"
+      ],
+      "from": "m1",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-050c1a98d82060435e7b"
+      ],
+      "from": "m1",
+      "to": "c3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-050c1a98d82060435e7b"
+      ],
+      "from": "m2",
+      "to": "c3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-050c1a98d82060435e7b"
+      ],
+      "from": "m3",
+      "to": "c3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3a25a8ff4635cc87fd1d"
+      ],
+      "from": "m4",
+      "to": "c4",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3a25a8ff4635cc87fd1d"
+      ],
+      "from": "m4",
+      "to": "l7",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3a25a8ff4635cc87fd1d"
+      ],
+      "from": "m5",
+      "to": "c5",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3a25a8ff4635cc87fd1d"
+      ],
+      "from": "m5",
+      "to": "l8",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ebd333ecd9d93977116c"
+      ],
+      "from": "c2",
+      "to": "l10",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ebd333ecd9d93977116c"
+      ],
+      "from": "c2",
+      "to": "l11",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3f6d5e1cce824318e35e",
+        "n-0686d970d923a21d0520"
+      ],
+      "from": "m6",
+      "to": "l4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3f6d5e1cce824318e35e",
+        "n-0686d970d923a21d0520"
+      ],
+      "from": "m6",
+      "to": "l5",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3f6d5e1cce824318e35e",
+        "n-0686d970d923a21d0520"
+      ],
+      "from": "m6",
+      "to": "l6",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-3aea0280de52b4bcd231",
+  "source_digest": "da985d0a9925717ee4a0e8650ef5e6eb639dc393c5aabd0a44052dd599f40387",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

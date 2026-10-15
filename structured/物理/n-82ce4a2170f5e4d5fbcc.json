@@ -1,0 +1,359 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-dd585d4858e5dbfd1689"
+      ],
+      "text": "机械波的形成需要发生机械振动的波源和传播的介质。",
+      "title": "机械波形成条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-f20ba6f5e195cd2872d8"
+      ],
+      "text": "造成波传播多解的主要因素包括周期性和双向性。时间周期性表现为时间间隔$\\Delta t$与周期$T$的关系不明确；空间周期性表现为波传播距离$\\Delta x$与波长$\\lambda$的关系不明确。双向性包括波的传播方向不确定和质点振动方向不确定。",
+      "title": "波传播的多解性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-28be05e6d6a412b012e1"
+      ],
+      "text": "波绕过障碍物继续传播的现象称为波的衍射。一切波都能发生衍射，衍射是波特有的现象。",
+      "title": "波的衍射",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-33140e9b1db77f9fff47"
+      ],
+      "text": "观察者接收到的频率等于观察者在单位时间内接收到的完全波的个数。",
+      "title": "接收频率",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-6f5dae890b6227d4396a"
+      ],
+      "text": "各加强点或减弱点连接形成以两波源为中心向外辐射的线，分别称为加强线或减弱线；加强线与减弱线互相间隔。",
+      "title": "干涉加强线与减弱线",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-5ae2a752c8baa3f7985c"
+      ],
+      "text": "原文所述各质点做简谐运动的机械波传播过程中，质点不随波迁移，传播的只是振动的形式和能量。",
+      "title": "波传播与质点运动",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-5ae2a752c8baa3f7985c"
+      ],
+      "text": "波传播过程中，各质点均做受迫振动，振动周期、频率与波源相同；各质点起振方向相同，离波源越远，振动越滞后。",
+      "title": "介质质点与波源的振动关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-5ae2a752c8baa3f7985c",
+        "n-b6adabe2b40368b0c83f"
+      ],
+      "text": "波源经过一个周期完成一次全振动，波形向前传播一个波长。波速关系为$v=\\dfrac{\\Delta x}{\\Delta t}$或$v=\\dfrac{\\lambda}{T}=\\lambda f$。",
+      "title": "波速、波长与周期的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-181207f211cd8b75b061"
+      ],
+      "text": "质点振动$nT$（$n=1,2,3,\\cdots$）或波传播$n\\lambda$（$n=1,2,3,\\cdots$）时，波形不变。",
+      "title": "波形的周期性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-181207f211cd8b75b061"
+      ],
+      "text": "在波的传播方向上，当两质点平衡位置间的距离为$n\\lambda$（$n=1,2,3,\\cdots$）时，它们的振动步调总相同；当距离为$(2n+1)\\dfrac{\\lambda}{2}$（$n=0,1,2,3,\\cdots$）时，它们的振动步调总相反。",
+      "title": "质点间距与振动步调",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-28be05e6d6a412b012e1"
+      ],
+      "text": "障碍物的尺寸或孔（缝）的宽度跟波长相差不多，或者比波长更小时，产生明显的衍射现象。",
+      "title": "明显衍射的条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-33140e9b1db77f9fff47"
+      ],
+      "text": "当波源与观察者相互靠近时，观察者接收到的频率增加；当波源与观察者相互远离时，观察者接收到的频率变小。",
+      "title": "多普勒效应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-6f5dae890b6227d4396a"
+      ],
+      "text": "在波的干涉中，加强点与减弱点之间各质点的振幅介于加强点的振幅与减弱点的振幅之间。",
+      "title": "干涉中间位置的振幅范围",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-2769927cea1bc609a0fb"
+      ],
+      "text": "从波的图像读取振幅$A$、波长$\\lambda$及该时刻各质点的位移；确定该时刻各质点加速度的方向并比较其大小；结合波的传播方向确定各质点的振动方向，或由各质点的振动方向确定波的传播方向。",
+      "title": "提取波的图像信息",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-51051a01b30ec79973a5"
+      ],
+      "text": "沿波的传播方向观察波形，上坡时质点向下振动，下坡时质点向上振动，用于互判波的传播方向与质点振动方向。",
+      "title": "上下坡法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-51051a01b30ec79973a5"
+      ],
+      "text": "波形图上某点表示传播方向和振动方向的箭头在图线同侧，据此互判波的传播方向与质点振动方向。",
+      "title": "同侧法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-51051a01b30ec79973a5"
+      ],
+      "text": "将波形图沿传播方向进行微小平移，再由对应$x$轴上同一点的两波形曲线上的点判定质点振动方向。",
+      "title": "微平移法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-b6adabe2b40368b0c83f"
+      ],
+      "text": "先找出造成多解的原因，再列多解性的关系式，例如时间关系$\\Delta t=nT+t_0$（$n=0,1,2,\\cdots$）或传播距离关系$\\Delta x=n\\lambda+x_0$（$n=0,1,2,\\cdots$），最后根据需要应用$v=\\dfrac{\\Delta x}{\\Delta t}$或$v=\\dfrac{\\lambda}{T}=\\lambda f$等规律求解。",
+      "title": "波的多解问题求解",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-6f5dae890b6227d4396a"
+      ],
+      "text": "两波源振动步调一致时，若$\\Delta r=n\\lambda$（$n=0,1,2,\\cdots$），则振动加强；若$\\Delta r=(2n+1)\\dfrac{\\lambda}{2}$（$n=0,1,2,\\cdots$），则振动减弱。",
+      "title": "同振动步调波源的干涉公式法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-6f5dae890b6227d4396a"
+      ],
+      "text": "两波源振动步调相反时，若$\\Delta r=(2n+1)\\dfrac{\\lambda}{2}$（$n=0,1,2,\\cdots$），则振动加强；若$\\Delta r=n\\lambda$（$n=0,1,2,\\cdots$），则振动减弱。",
+      "title": "反振动步调波源的干涉公式法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-6f5dae890b6227d4396a"
+      ],
+      "text": "在某时刻波的干涉波形图上，波峰与波峰或波谷与波谷的交点一定是加强点，波峰与波谷的交点一定是减弱点。",
+      "title": "干涉加强点与减弱点的图像法",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-28be05e6d6a412b012e1"
+      ],
+      "from": "l6",
+      "to": "c3",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-33140e9b1db77f9fff47"
+      ],
+      "from": "c4",
+      "to": "l7",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f20ba6f5e195cd2872d8",
+        "n-b6adabe2b40368b0c83f"
+      ],
+      "from": "c2",
+      "to": "m5",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b6adabe2b40368b0c83f"
+      ],
+      "from": "m5",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-181207f211cd8b75b061",
+        "n-f20ba6f5e195cd2872d8"
+      ],
+      "from": "l4",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2769927cea1bc609a0fb",
+        "n-51051a01b30ec79973a5"
+      ],
+      "from": "m2",
+      "to": "m1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2769927cea1bc609a0fb",
+        "n-51051a01b30ec79973a5"
+      ],
+      "from": "m3",
+      "to": "m1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2769927cea1bc609a0fb",
+        "n-51051a01b30ec79973a5"
+      ],
+      "from": "m4",
+      "to": "m1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6f5dae890b6227d4396a"
+      ],
+      "from": "m8",
+      "to": "c5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6f5dae890b6227d4396a"
+      ],
+      "from": "m8",
+      "to": "l8",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-34a6df23c0de0c9a8b5f",
+        "n-2769927cea1bc609a0fb"
+      ],
+      "from": "n-34a6df23c0de0c9a8b5f",
+      "to": "m1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-34a6df23c0de0c9a8b5f",
+        "n-b6adabe2b40368b0c83f"
+      ],
+      "from": "n-34a6df23c0de0c9a8b5f",
+      "to": "l3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-89a4a87d29903ca9ac75",
+        "n-2769927cea1bc609a0fb"
+      ],
+      "from": "n-89a4a87d29903ca9ac75",
+      "to": "m1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c6dbd69f108b0a76e9fd",
+        "n-b6adabe2b40368b0c83f"
+      ],
+      "from": "n-c6dbd69f108b0a76e9fd",
+      "to": "m5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-262ee86bb4f8dd7a59b6",
+        "n-b6adabe2b40368b0c83f"
+      ],
+      "from": "n-262ee86bb4f8dd7a59b6",
+      "to": "m5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-354ffc95c09c82d2fd9c",
+        "n-6f5dae890b6227d4396a"
+      ],
+      "from": "n-354ffc95c09c82d2fd9c",
+      "to": "m6",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-82ce4a2170f5e4d5fbcc",
+  "source_digest": "7244a2d0d647c8e0d3f1f1239f40adeb37ff53ed67429f10d44ebd29a645978a",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}

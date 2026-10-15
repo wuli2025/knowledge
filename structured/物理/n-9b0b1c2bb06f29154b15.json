@@ -1,0 +1,121 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-79eca37ffd0747955c6a"
+      ],
+      "text": "波的图像与振动图像可根据横坐标轴所表示的物理量区分；波的图像可用于读出波长。",
+      "title": "波的图像",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-79eca37ffd0747955c6a"
+      ],
+      "text": "振动图像可用于读出周期，分析振动相关的问题时需利用振动规律。",
+      "title": "振动图像",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-ff148ceba14727f9cbd3"
+      ],
+      "text": "已知两质点的振动图像时，利用同一时刻两质点所在的位置画出小于一个波长的波形，从而分析两质点距离与波长的关系。",
+      "title": "由同一时刻的位置画波形",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-ff148ceba14727f9cbd3"
+      ],
+      "text": "已知两质点的振动图像时，从图像中找到波分别传到两质点的时间间隔与周期的关系，从而确定两质点距离与波长的关系。",
+      "title": "利用传播时间间隔与周期的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-6c89cafb0dc1c5afd42f"
+      ],
+      "text": "已知波在两个不同时刻的波形图时，根据两幅波形图分析这列波的周期，再结合机械波的波长分析波传播的速度。",
+      "title": "由两时刻的波形图分析周期和波速",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-79eca37ffd0747955c6a"
+      ],
+      "text": "已知某质点的振动图像和某时刻的波的图像时，先根据横坐标轴的物理量区分两种图像，再由振动图像读出周期、由波的图像读出波长，求出波传播的速度；进而利用波动规律分析波动相关的问题，利用振动规律分析振动相关的问题。",
+      "title": "波的图像与振动图像的综合分析",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-ff148ceba14727f9cbd3"
+      ],
+      "from": "n-ff148ceba14727f9cbd3",
+      "to": "m1",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ff148ceba14727f9cbd3"
+      ],
+      "from": "n-ff148ceba14727f9cbd3",
+      "to": "m2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6c89cafb0dc1c5afd42f"
+      ],
+      "from": "n-6c89cafb0dc1c5afd42f",
+      "to": "m3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-79eca37ffd0747955c6a"
+      ],
+      "from": "n-79eca37ffd0747955c6a",
+      "to": "m4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-79eca37ffd0747955c6a"
+      ],
+      "from": "c1",
+      "to": "m4",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-79eca37ffd0747955c6a"
+      ],
+      "from": "c2",
+      "to": "m4",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-9b0b1c2bb06f29154b15",
+  "source_digest": "8c66108a0f1a22026024188ecb10358a35c85d1f7ff48d3b7363ed55c19df6cc",
+  "subject": "物理",
+  "status": "机器整理（待核对）"
+}
