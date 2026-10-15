@@ -1,0 +1,571 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-c476fdb41d0f0cab86f5"
+      ],
+      "text": "由不饱和单体加成聚合生成高分子的反应。",
+      "title": "加聚反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-4d957c5f2566b205aa56"
+      ],
+      "text": "单体分子间通过缩合反应生成高分子，同时还生成小分子的反应。",
+      "title": "缩聚反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-188f630144da412c5620"
+      ],
+      "text": "塑料的主要成分是合成树脂，如聚乙烯、聚氯乙烯、聚丙烯、聚苯乙烯、酚醛树脂、脲醛树脂等；加工助剂包括提高柔韧性的增塑剂、提高耐热性的热稳定剂和赋予各种颜色的着色剂。",
+      "title": "塑料的成分",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-188f630144da412c5620"
+      ],
+      "text": "可以反复加热熔融加工的塑料，如聚乙烯、聚氯乙烯等。",
+      "title": "热塑性塑料",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-188f630144da412c5620"
+      ],
+      "text": "不能加热熔融、只能一次成型的塑料，如网状结构的酚醛树脂、脲醛树脂等。",
+      "title": "热固性塑料",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-188f630144da412c5620"
+      ],
+      "text": "苯酚与甲醛反应可制得酚醛树脂。原文分别介绍酸催化所得线型结构和碱催化、甲醛过量条件下所得网状结构；网状结构中，苯环通过$\\mathrm{{-}CH_2{-}}$相连，连接位置位于酚羟基的邻位或对位。",
+      "title": "酚醛树脂",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c7",
+      "source_node_ids": [
+        "n-e83fdd62a859b9a8b61a"
+      ],
+      "text": "纤维分为天然纤维和化学纤维。天然纤维包括棉花、羊毛、蚕丝和麻等；化学纤维分为再生纤维和合成纤维。",
+      "title": "纤维的分类",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c8",
+      "source_node_ids": [
+        "n-e83fdd62a859b9a8b61a"
+      ],
+      "text": "以木材、秸秆等农副产品为原料，经加工处理得到的化学纤维。",
+      "title": "再生纤维",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c9",
+      "source_node_ids": [
+        "n-e83fdd62a859b9a8b61a"
+      ],
+      "text": "以石油、煤、天然气、农副产品等为原料，将其转化为单体，再经过聚合反应得到的化学纤维。常见的有涤纶、锦纶、腈纶、丙纶、维纶、氯纶等。",
+      "title": "合成纤维",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c10",
+      "source_node_ids": [
+        "n-e83fdd62a859b9a8b61a"
+      ],
+      "text": "涤纶是聚对苯二甲酸乙二醇酯纤维的商品名称，属于聚酯纤维。原文称其为合成纤维中产量最大的品种，由对苯二甲酸与乙二醇在催化剂作用下发生缩聚反应生成。",
+      "title": "聚酯纤维与涤纶",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c11",
+      "source_node_ids": [
+        "n-e83fdd62a859b9a8b61a"
+      ],
+      "text": "锦纶属于聚酰胺纤维，是较早面世的合成纤维之一。聚己二酰己二胺又称尼龙66或锦纶66；原文还列举了高强度芳纶纤维聚对苯二甲酰对苯二胺。",
+      "title": "聚酰胺纤维",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c12",
+      "source_node_ids": [
+        "n-b1a624ebb5e696d1bc71"
+      ],
+      "text": "橡胶分为天然橡胶和合成橡胶。合成橡胶以二烯烃、单烯烃等为单体聚合而成，具有高弹性、绝缘性、耐油、耐高温或耐低温等性能。",
+      "title": "橡胶的分类及合成橡胶",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c13",
+      "source_node_ids": [
+        "n-b1a624ebb5e696d1bc71"
+      ],
+      "text": "由$\\mathrm{CH_2{=}CH{-}CH{=}CH_2}$在催化剂作用下聚合得到，链节为$\\left[\\mathrm{{-}CH_2{-}CH{=}CH{-}CH_2{-}}\\right]_n$。原图中，碳碳双键两侧的两个$\\mathrm{CH_2}$位于同侧。所得聚合物为线型结构，经硫化可形成网状结构。",
+      "title": "顺丁橡胶",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c14",
+      "source_node_ids": [
+        "n-b1a624ebb5e696d1bc71"
+      ],
+      "text": "天然橡胶为顺式聚异戊二烯，结构为$\\left[\\mathrm{{-}CH_2{-}C(CH_3){=}CH{-}CH_2{-}}\\right]_n$，单体为$\\mathrm{CH_2{=}C(CH_3){-}CH{=}CH_2}$。原图中，碳碳双键两侧的两个$\\mathrm{CH_2}$位于同侧。",
+      "title": "天然橡胶",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-4d957c5f2566b205aa56"
+      ],
+      "text": "加聚反应的单体含有双键或三键；缩聚反应的单体含有两个或多个官能团，如$\\mathrm{{-}OH、{-}COOH、{-}NH_2}$等，或含有活泼氢原子，如与酚羟基处于邻、对位的$\\mathrm{H}$。",
+      "title": "加聚与缩聚的单体结构特点",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-4d957c5f2566b205aa56"
+      ],
+      "text": "加聚产物中链节的组成与单体的组成相同；缩聚产物中链节的组成与单体的组成不同。",
+      "title": "加聚与缩聚的链节组成特点",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-188f630144da412c5620"
+      ],
+      "text": "酸催化、加热条件下，苯酚和甲醛经加成反应得到羟甲基苯酚：$\\mathrm{C_6H_5OH}+\\mathrm{H{-}C(=O){-}H}\\xrightarrow[\\Delta]{\\mathrm{H^+}}\\mathrm{HO{-}C_6H_4{-}CH_2OH}，$原图所示羟基和羟甲基处于邻位。羟甲基苯酚之间相互脱水缩合，得到线型结构的酚醛树脂。",
+      "title": "酸催化合成线型酚醛树脂",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-188f630144da412c5620"
+      ],
+      "text": "碱催化条件下，苯酚与过量甲醛反应，生成羟甲基苯酚的同时，还生成二羟甲基苯酚、三羟甲基苯酚等，继续反应得到网状结构的酚醛树脂。原文列举的中间产物为$2$-羟甲基苯酚、$2,4$-二羟甲基苯酚和$2,4,6$-三羟甲基苯酚。",
+      "title": "碱催化合成网状酚醛树脂",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-e83fdd62a859b9a8b61a"
+      ],
+      "text": "对苯二甲酸与乙二醇在催化剂作用及加热条件下发生缩聚反应：$n\\mathrm{HO{-}C(=O){-}C_6H_4{-}C(=O){-}OH}+n\\mathrm{HO{-}CH_2CH_2{-}OH}\\xrightarrow[\\Delta]{\\text{催化剂}}\\mathrm{HO}\\left[\\mathrm{{-}C(=O){-}C_6H_4{-}C(=O){-}OCH_2CH_2O{-}}\\right]_n\\mathrm{H}+(2n-1)\\mathrm{H_2O}$。单体及聚酯链节中，苯环两侧的羰基处于对位。",
+      "title": "涤纶的合成",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-e83fdd62a859b9a8b61a"
+      ],
+      "text": "在催化剂作用及加热条件下合成聚己二酰己二胺：$n\\mathrm{H_2N{-}(CH_2)_6{-}NH_2}+n\\mathrm{HO{-}C(=O)(CH_2)_4C(=O){-}OH}\\xrightarrow[\\Delta]{\\text{催化剂}}\\underbrace{\\mathrm{HO}\\left[\\mathrm{{-}C(=O)(CH_2)_4C(=O){-}NH(CH_2)_6NH{-}}\\right]_n\\mathrm{H}}_{\\text{聚己二酰己二胺（尼龙66或锦纶66）}}+(2n-1)\\mathrm{H_2O}$。",
+      "title": "锦纶66的合成",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-e83fdd62a859b9a8b61a"
+      ],
+      "text": "高强度芳纶纤维的合成：$n\\mathrm{H_2N{-}C_6H_4{-}NH_2}+n\\mathrm{HO{-}C(=O){-}C_6H_4{-}C(=O){-}OH}\\xrightarrow{\\text{催化剂}}\\underbrace{\\mathrm{H}\\left[\\mathrm{{-}NH{-}C_6H_4{-}NH{-}C(=O){-}C_6H_4{-}C(=O){-}}\\right]_n\\mathrm{OH}}_{\\text{聚对苯二甲酰对苯二胺}}+(2n-1)\\mathrm{H_2O}$。两种单体及聚合物链节中的苯环均为对位二取代。",
+      "title": "聚对苯二甲酰对苯二胺的合成",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-b1a624ebb5e696d1bc71"
+      ],
+      "text": "顺丁橡胶的线型聚合物加入硫化剂后加热，硫化剂将聚合物中的双键打开，以二硫键（$\\mathrm{{-}S{-}S{-}}$）等把线型结构连接形成网状结构，得到既有弹性又有强度的顺丁橡胶。橡胶硫化程度越高，强度越大，但弹性越差。",
+      "title": "橡胶硫化与结构、性能的关系",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-a91aa5dae86f67e722a9"
+      ],
+      "text": "用于判断加聚产物的单体。从链节两端出发画出左右交替的弯箭头，箭头相遇处增加一个“单键”，箭尾相遇处断开一个“单键”。原文示例：$\\left[\\mathrm{{-}CH_2{-}CH_2{-}CH(CH_3){-}CH_2{-}}\\right]_n$的单体为$\\mathrm{CH_2{=}CH_2}$和$\\mathrm{CH_2{=}CHCH_3}$；$\\left[\\mathrm{{-}CH_2{-}CH{=}CH{-}CH_2{-}CH(C_6H_5){-}CH_2{-}}\\right]_n$的单体为$\\mathrm{CH_2{=}CH{-}CH{=}CH_2}$和$\\mathrm{C_6H_5{-}CH{=}CH_2}$。",
+      "title": "弯箭头法判断加聚产物的单体",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-ae708a35781a7a10c48b"
+      ],
+      "text": "当链节为$\\mathrm{{-}NH{-}R{-}C(=O){-}}$或$\\mathrm{{-}O{-}R{-}C(=O){-}}$时，原文给出单体为一种，去掉两端方括号即可得到单体。示例：$\\mathrm{H}\\left[\\mathrm{{-}NH{-}CH_2{-}C(=O){-}}\\right]_n\\mathrm{OH}$的单体为$\\mathrm{H_2NCH_2COOH}$。",
+      "title": "由特定缩聚链节还原一种单体",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-ae708a35781a7a10c48b"
+      ],
+      "text": "当链节中间（不在两端）含有酰胺基时，从酰胺基中间断开，在亚氨基上加氢原子，在羰基上加羟基，即得单体。原文示例：$\\mathrm{H}\\left[\\mathrm{{-}NH{-}CH_2{-}C(=O){-}NH{-}CH_2{-}CH_2{-}C(=O){-}}\\right]_n\\mathrm{OH}$的单体为$\\mathrm{H_2N{-}CH_2{-}COOH}$和$\\mathrm{H_2N{-}CH_2{-}CH_2{-}COOH}$。",
+      "title": "断开酰胺基判断缩聚单体",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-ae708a35781a7a10c48b"
+      ],
+      "text": "当链节中间（不在两端）含有酯基时，从酯基中间断开，羰基上加羟基，氧原子上加氢原子，即得单体。原文示例：$\\mathrm{HO}\\left[\\mathrm{{-}C(=O){-}C_6H_4{-}C(=O){-}O{-}CH_2{-}CH_2{-}O{-}}\\right]_n\\mathrm{H}$的单体为$\\mathrm{HOOC{-}C_6H_4{-}COOH}$和$\\mathrm{HOCH_2CH_2OH}$；聚酯链节及二元羧酸单体中的苯环均为对位二取代。",
+      "title": "断开酯基判断缩聚单体",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-1b57bac719e55ac4f98c"
+      ],
+      "text": "结构为$\\mathrm{H}\\left[\\mathrm{{-}C_6H_3(OH){-}CH(R){-}}\\right]_n\\mathrm{OH}$的高分子是苯酚和$\\mathrm{RCHO}$发生缩聚反应的产物。原图中，链节苯环上的羟基与主链两侧连接位置相邻，苯环之间由$\\mathrm{{-}CH(R){-}}$连接。",
+      "title": "由酚醛型高分子结构判断单体",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-1b57bac719e55ac4f98c"
+      ],
+      "text": "结构为$\\left[\\mathrm{{-}CH_2{-}CH(R){-}O{-}}\\right]_n$的高分子是环氧乙烷型物质开环聚合的产物。其单体为三元环，环由一个氧原子、一个$\\mathrm{CH_2}$和一个$\\mathrm{CH}$构成，$\\mathrm{CH}$上连接$\\mathrm{R}$基。",
+      "title": "由开环聚合产物判断环氧乙烷型单体",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-c1f72ba4f140f9b09a7c",
+        "n-c476fdb41d0f0cab86f5"
+      ],
+      "from": "n-c1f72ba4f140f9b09a7c",
+      "to": "c1",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c1f72ba4f140f9b09a7c",
+        "n-4d957c5f2566b205aa56"
+      ],
+      "from": "n-c1f72ba4f140f9b09a7c",
+      "to": "c2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4d957c5f2566b205aa56"
+      ],
+      "from": "c1",
+      "to": "l1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4d957c5f2566b205aa56"
+      ],
+      "from": "c2",
+      "to": "l1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4d957c5f2566b205aa56"
+      ],
+      "from": "c1",
+      "to": "l2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4d957c5f2566b205aa56"
+      ],
+      "from": "c2",
+      "to": "l2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-188f630144da412c5620"
+      ],
+      "from": "c3",
+      "to": "c4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-188f630144da412c5620"
+      ],
+      "from": "c3",
+      "to": "c5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-188f630144da412c5620"
+      ],
+      "from": "c6",
+      "to": "l3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-188f630144da412c5620"
+      ],
+      "from": "c6",
+      "to": "l4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-188f630144da412c5620"
+      ],
+      "from": "l4",
+      "to": "c5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e83fdd62a859b9a8b61a"
+      ],
+      "from": "c7",
+      "to": "c8",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e83fdd62a859b9a8b61a"
+      ],
+      "from": "c7",
+      "to": "c9",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e83fdd62a859b9a8b61a"
+      ],
+      "from": "c9",
+      "to": "c10",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e83fdd62a859b9a8b61a"
+      ],
+      "from": "c9",
+      "to": "c11",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e83fdd62a859b9a8b61a"
+      ],
+      "from": "l5",
+      "to": "c10",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e83fdd62a859b9a8b61a"
+      ],
+      "from": "l5",
+      "to": "c2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e83fdd62a859b9a8b61a"
+      ],
+      "from": "l6",
+      "to": "c11",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e83fdd62a859b9a8b61a"
+      ],
+      "from": "l7",
+      "to": "c11",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b1a624ebb5e696d1bc71"
+      ],
+      "from": "c12",
+      "to": "c13",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b1a624ebb5e696d1bc71"
+      ],
+      "from": "c12",
+      "to": "c14",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b1a624ebb5e696d1bc71"
+      ],
+      "from": "l8",
+      "to": "c13",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a91aa5dae86f67e722a9"
+      ],
+      "from": "m1",
+      "to": "c1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ae708a35781a7a10c48b"
+      ],
+      "from": "m2",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ae708a35781a7a10c48b"
+      ],
+      "from": "m3",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ae708a35781a7a10c48b"
+      ],
+      "from": "m4",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1b57bac719e55ac4f98c"
+      ],
+      "from": "m5",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1b70e1e992547492d1b8",
+        "n-a91aa5dae86f67e722a9"
+      ],
+      "from": "n-1b70e1e992547492d1b8",
+      "to": "m1",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1b70e1e992547492d1b8",
+        "n-ae708a35781a7a10c48b"
+      ],
+      "from": "n-1b70e1e992547492d1b8",
+      "to": "m2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1b70e1e992547492d1b8",
+        "n-ae708a35781a7a10c48b"
+      ],
+      "from": "n-1b70e1e992547492d1b8",
+      "to": "m3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1b70e1e992547492d1b8",
+        "n-ae708a35781a7a10c48b"
+      ],
+      "from": "n-1b70e1e992547492d1b8",
+      "to": "m4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1b70e1e992547492d1b8",
+        "n-1b57bac719e55ac4f98c"
+      ],
+      "from": "n-1b70e1e992547492d1b8",
+      "to": "m5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1b70e1e992547492d1b8",
+        "n-1b57bac719e55ac4f98c"
+      ],
+      "from": "n-1b70e1e992547492d1b8",
+      "to": "m6",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-880cdb4d0403f77342ef",
+  "source_digest": "649f0dd853d0ece12230cd782a85e66c604a4d50cc8b2963313c0d60025d858a",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

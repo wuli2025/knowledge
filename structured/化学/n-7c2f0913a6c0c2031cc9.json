@@ -1,0 +1,401 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-dbab253c46fbb1a37f0e"
+      ],
+      "text": "金属腐蚀的本质是金属原子失去电子变成金属阳离子，金属单质发生氧化反应，表示为 $\\mathrm{M}-n\\mathrm{e^-}=\\mathrm{M}^{n+}$。",
+      "title": "金属腐蚀的本质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-dbab253c46fbb1a37f0e"
+      ],
+      "text": "金属与其表面接触到的干燥气体或非电解质液体等直接反应，使金属被腐蚀，无电流产生。",
+      "title": "化学腐蚀",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-dbab253c46fbb1a37f0e"
+      ],
+      "text": "不纯的金属接触到电解质溶液发生原电池反应，较活泼的金属被腐蚀，有微弱电流产生。",
+      "title": "电化学腐蚀",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-dbab253c46fbb1a37f0e"
+      ],
+      "text": "以钢铁腐蚀为例，水膜酸性较强时发生析氢腐蚀。",
+      "title": "析氢腐蚀",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-dbab253c46fbb1a37f0e"
+      ],
+      "text": "以钢铁腐蚀为例，水膜酸性较弱或呈中性时发生吸氧腐蚀；吸氧腐蚀更普遍。",
+      "title": "吸氧腐蚀",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-7a5d23b2afd909c9fcbe"
+      ],
+      "text": "在缺乏氧气的深层潮湿土壤中，硫酸盐还原菌附着在钢管表面，加速钢铁腐蚀，这种现象称为厌氧腐蚀。题干图示中，$\\mathrm{Fe}$ 转化为 $\\mathrm{Fe^{2+}}$，$\\mathrm{H_2O}$ 转化为 $\\mathrm{H_2}$，厌氧细菌参与 $\\mathrm{SO_4^{2-}}$ 与 $\\mathrm{H_2}$ 生成 $\\mathrm{S^{2-}}$ 的过程。",
+      "title": "厌氧腐蚀",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c7",
+      "source_node_ids": [
+        "n-2621fc41c5929f5ff562"
+      ],
+      "text": "题干将铜锈分为无害锈和有害锈：无害锈形成保护层；有害锈使器物损坏程度逐步加剧，并不断扩散。",
+      "title": "无害锈与有害锈",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c8",
+      "source_node_ids": [
+        "n-2621fc41c5929f5ff562"
+      ],
+      "text": "铜锈成分复杂，题干列出的主要成分有结构致密的 $\\mathrm{Cu_2(OH)_2CO_3}$ 和结构疏松膨胀的 $\\mathrm{Cu_2(OH)_3Cl}$。图示锈蚀分层由内向外依次为青铜基体、$\\mathrm{CuCl}$ 层、$\\mathrm{Cu_2O}$ 层、$\\mathrm{Cu_2(OH)_3Cl/Cu_2(OH)_2CO_3}$ 层。",
+      "title": "铜锈的成分与分层",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-dbab253c46fbb1a37f0e"
+      ],
+      "text": "电化学腐蚀比化学腐蚀普遍得多，腐蚀速率更快，危害也更严重。",
+      "title": "电化学腐蚀与化学腐蚀的比较",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-dbab253c46fbb1a37f0e"
+      ],
+      "text": "以钢铁腐蚀为例，水膜酸性较强时：负极反应为 $\\mathrm{Fe-2e^-=Fe^{2+}}$；正极反应为 $\\mathrm{2H^++2e^-=H_2}\\uparrow$；总反应为 $\\mathrm{Fe+2H^+=Fe^{2+}+H_2}\\uparrow$。",
+      "title": "钢铁析氢腐蚀的反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-dbab253c46fbb1a37f0e"
+      ],
+      "text": "以钢铁腐蚀为例，水膜酸性较弱或呈中性时：负极反应为 $\\mathrm{Fe-2e^-=Fe^{2+}}$；正极反应为 $\\mathrm{O_2+2H_2O+4e^-=4OH^-}$；总反应为 $\\mathrm{2Fe+O_2+2H_2O=2Fe(OH)_2}$。",
+      "title": "钢铁吸氧腐蚀的反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-dbab253c46fbb1a37f0e"
+      ],
+      "text": "对同一电解质溶液，腐蚀速率由快到慢为：电解原理引起的腐蚀 $>$ 原电池原理引起的腐蚀 $>$ 化学腐蚀 $>$ 有防腐措施的腐蚀。",
+      "title": "不同腐蚀情形的速率顺序",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-dbab253c46fbb1a37f0e"
+      ],
+      "text": "对同一金属，在相同浓度的不同溶液中，腐蚀速率由快到慢为：强电解质溶液中 $>$ 弱电解质溶液中 $>$ 非电解质溶液中。",
+      "title": "溶液类别对腐蚀速率的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-dbab253c46fbb1a37f0e"
+      ],
+      "text": "活动性不同的两种金属构成原电池的两极时，活动性差别越大，活动性强的金属腐蚀速率越快。",
+      "title": "金属活动性差别对腐蚀速率的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-dbab253c46fbb1a37f0e"
+      ],
+      "text": "一般情况下，对同一种电解质溶液，电解质溶液浓度越大，金属腐蚀速率越快。",
+      "title": "电解质溶液浓度对腐蚀速率的影响",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-dbab253c46fbb1a37f0e"
+      ],
+      "text": "根据接触介质、反应方式和是否产生电流区分：金属与干燥气体或非电解质液体等直接反应且无电流产生，对应化学腐蚀；不纯金属接触电解质溶液发生原电池反应且有微弱电流产生，对应电化学腐蚀。",
+      "title": "区分化学腐蚀与电化学腐蚀",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-dbab253c46fbb1a37f0e"
+      ],
+      "text": "以钢铁腐蚀为例，根据水膜酸性判断：水膜酸性较强时对应析氢腐蚀；水膜酸性较弱或呈中性时对应吸氧腐蚀。",
+      "title": "根据水膜酸性判断钢铁腐蚀类型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-2dc5585ffd81dfbdc48d"
+      ],
+      "text": "通过改变金属材料的组成进行防护，例如把 $\\mathrm{Ni、Cr}$ 等加到普通钢中制成不锈钢。",
+      "title": "改变金属材料的组成",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-2dc5585ffd81dfbdc48d"
+      ],
+      "text": "采用覆盖保护层的方法防护金属，例如电镀、涂油脂、喷油漆、覆盖搪瓷、包裹塑料、表面钝化等。",
+      "title": "覆盖保护层",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-2dc5585ffd81dfbdc48d"
+      ],
+      "text": "属于电化学保护方法，利用原电池原理：负极选用比被保护金属活泼的金属，正极为被保护的金属。",
+      "title": "牺牲阳极法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-2dc5585ffd81dfbdc48d"
+      ],
+      "text": "属于电化学保护方法，利用电解原理：阴极为被保护的金属，阳极为惰性金属或石墨。",
+      "title": "外加电流法",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-dbab253c46fbb1a37f0e"
+      ],
+      "from": "c1",
+      "to": "c2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-dbab253c46fbb1a37f0e"
+      ],
+      "from": "c1",
+      "to": "c3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-dbab253c46fbb1a37f0e"
+      ],
+      "from": "c3",
+      "to": "c4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-dbab253c46fbb1a37f0e"
+      ],
+      "from": "c3",
+      "to": "c5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-dbab253c46fbb1a37f0e"
+      ],
+      "from": "l1",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-dbab253c46fbb1a37f0e"
+      ],
+      "from": "l1",
+      "to": "c3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-dbab253c46fbb1a37f0e"
+      ],
+      "from": "l2",
+      "to": "c4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-dbab253c46fbb1a37f0e"
+      ],
+      "from": "l3",
+      "to": "c5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-dbab253c46fbb1a37f0e"
+      ],
+      "from": "m1",
+      "to": "c2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-dbab253c46fbb1a37f0e"
+      ],
+      "from": "m1",
+      "to": "c3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-dbab253c46fbb1a37f0e"
+      ],
+      "from": "m2",
+      "to": "c4",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-dbab253c46fbb1a37f0e"
+      ],
+      "from": "m2",
+      "to": "c5",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2dc5585ffd81dfbdc48d"
+      ],
+      "from": "n-2dc5585ffd81dfbdc48d",
+      "to": "m3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2dc5585ffd81dfbdc48d"
+      ],
+      "from": "n-2dc5585ffd81dfbdc48d",
+      "to": "m4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2dc5585ffd81dfbdc48d"
+      ],
+      "from": "n-2dc5585ffd81dfbdc48d",
+      "to": "m5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2dc5585ffd81dfbdc48d"
+      ],
+      "from": "n-2dc5585ffd81dfbdc48d",
+      "to": "m6",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-035c4b63ed42617a664b"
+      ],
+      "from": "n-035c4b63ed42617a664b",
+      "to": "l3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-035c4b63ed42617a664b"
+      ],
+      "from": "n-035c4b63ed42617a664b",
+      "to": "m5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-035c4b63ed42617a664b"
+      ],
+      "from": "n-035c4b63ed42617a664b",
+      "to": "m6",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7a5d23b2afd909c9fcbe"
+      ],
+      "from": "n-7a5d23b2afd909c9fcbe",
+      "to": "c6",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2621fc41c5929f5ff562"
+      ],
+      "from": "n-2621fc41c5929f5ff562",
+      "to": "c7",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2621fc41c5929f5ff562"
+      ],
+      "from": "n-2621fc41c5929f5ff562",
+      "to": "c8",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-7c2f0913a6c0c2031cc9",
+  "source_digest": "479974b8429b8baefdd2e6a92096c3bed402521cbfca417e5a5252e9edd1d116",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

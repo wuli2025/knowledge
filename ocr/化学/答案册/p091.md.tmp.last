@@ -1,0 +1,171 @@
+<!-- page 91 -->
+
+应（$493\ \mathrm{K},2.5\times10^3\ \mathrm{kPa}$）。由于（$493\ \mathrm{K},3.5\times10^3\ \mathrm{kPa}$）条件下 BL 平衡转化率最大，故其 $(x_{\mathrm{BD}}/x_{\mathrm{BL}})_{\max}$ 最大。
+
+## 三年模拟
+
+**5.BD**　题给反应为气体分子数减小的反应，故反应正向进行程度越大，平衡时容器内压强越小，$\Delta p$ 越大；从 $T_3$ 到 $T_1$，$\Delta p$ 增大，说明反应正向进行程度逐渐增大，由于正反应放热，则 $T_3>T_2>T_1$，A 错误。M 点进料比 $n(\mathrm{SO_2})/n(\mathrm{Cl_2})=2$，$\Delta p=60\ \mathrm{kPa}$，已知 $p_0=240\ \mathrm{kPa}$，恒温恒容条件下，列三段式：
+
+$\mathrm{SO_2(g)+Cl_2(g)\rightleftharpoons SO_2Cl_2(g)}$　$\Delta n(\mathrm{g})=-1$
+
+|  | $\mathrm{SO_2}$ | $\mathrm{Cl_2}$ | $\mathrm{SO_2Cl_2}$ |  |
+|---|---:|---:|---:|---:|
+| 起始压强/$\mathrm{kPa}$ | $160$ | $80$ | $0$ | |
+| 变化压强/$\mathrm{kPa}$ | $60$ | $60$ | $60$ | $-60$ |
+| 平衡压强/$\mathrm{kPa}$ | $100$ | $20$ | $60$ | |
+
+则 $K_p=\dfrac{p(\mathrm{SO_2Cl_2})}{p(\mathrm{SO_2})\cdot p(\mathrm{Cl_2})}=\dfrac{60\ \mathrm{kPa}}{100\ \mathrm{kPa}\times20\ \mathrm{kPa}}=0.03\ \mathrm{kPa^{-1}}$，B 正确。N 点进料比 $n(\mathrm{SO_2})/n(\mathrm{Cl_2})=1$，$\Delta p=55\ \mathrm{kPa}$，列三段式：
+
+$\mathrm{SO_2(g)+Cl_2(g)\rightleftharpoons SO_2Cl_2(g)}$　$\Delta n(\mathrm{g})=-1$
+
+|  | $\mathrm{SO_2}$ | $\mathrm{Cl_2}$ | $\mathrm{SO_2Cl_2}$ |  |
+|---|---:|---:|---:|---:|
+| 起始压强/$\mathrm{kPa}$ | $120$ | $120$ | $0$ | |
+| 变化压强/$\mathrm{kPa}$ | $55$ | $55$ | $55$ | $-55$ |
+| 平衡压强/$\mathrm{kPa}$ | $65$ | $65$ | $55$ | |
+
+则 $\mathrm{SO_2Cl_2}$ 的体积分数为 $\dfrac{55\ \mathrm{kPa}}{65\ \mathrm{kPa}+65\ \mathrm{kPa}+55\ \mathrm{kPa}}=\dfrac{11}{37}$，C 错误。题给反应中 $\mathrm{SO_2}$ 与 $\mathrm{Cl_2}$ 的化学计量数相等，故进料比 $n(\mathrm{SO_2}):n(\mathrm{Cl_2})$ 为 $1:2$ 和 $2:1$ 时 $\Delta p$ 相等，均为 $60\ \mathrm{kPa}$，D 正确。
+
+**6.答案**　（2）提高 $\mathrm{C_3H_8(g)}$ 的转化率　$\dfrac{p}{6}$
+
+**解析**　（2）恒温、恒压条件下达平衡后通入 $\mathrm{Ar}$，相当于减压，平衡向气体分子数增大的方向移动，即反应Ⅰ平衡正向移动，$\mathrm{C_3H_8(g)}$ 的转化率增大。由题图可知，$\mathrm{C_3H_8(g)}$ 的物质的量分数为 $0.4$ 时，其平衡转化率为 $50\%$，设起始时通入的混合气体为 $1\ \mathrm{mol}$，则含有的 $\mathrm{C_3H_8}$ 为 $0.4\ \mathrm{mol}$，$\mathrm{Ar}$ 为 $0.6\ \mathrm{mol}$，列三段式：
+
+$\mathrm{C_3H_8(g)\rightleftharpoons C_3H_6(g)+H_2(g)}$
+
+|  | $\mathrm{C_3H_8}$ | $\mathrm{C_3H_6}$ | $\mathrm{H_2}$ |
+|---|---:|---:|---:|
+| 起始量/$\mathrm{mol}$ | $0.4$ | $0$ | $0$ |
+| 变化量/$\mathrm{mol}$ | $0.2$ | $0.2$ | $0.2$ |
+| 平衡量/$\mathrm{mol}$ | $0.2$ | $0.2$ | $0.2$ |
+
+平衡时气体的总物质的量为 $(0.2+0.2+0.2+0.6)\ \mathrm{mol}=1.2\ \mathrm{mol}$，$\mathrm{C_3H_8}$、$\mathrm{C_3H_6}$、$\mathrm{H_2}$ 的物质的量分数均为 $\dfrac{0.2\ \mathrm{mol}}{1.2\ \mathrm{mol}}=\dfrac{1}{6}$，则反应Ⅰ的平衡常数 $K_p=\dfrac{\dfrac{p}{6}\ \mathrm{kPa}\times\dfrac{p}{6}\ \mathrm{kPa}}{\dfrac{p}{6}\ \mathrm{kPa}}=\dfrac{p}{6}\ \mathrm{kPa}$。
+
+**7.答案**　（2）C　据公式可知曲线的斜率为 $-\dfrac{\Delta H}{R}$，反应Ⅰ、Ⅱ的 $\Delta H$ 均为正值，且反应Ⅰ的 $\Delta H$ 更大，对应斜率的绝对值更大　$1$
+
+**解析**　（2）根据题给公式可知曲线的斜率为 $-\dfrac{\Delta H}{R}$，反应Ⅰ、Ⅱ的 $\Delta H>0$，则 $-\dfrac{\Delta H}{R}<0$，排除 A、B。反应Ⅰ的 $\Delta H$ 大于反应Ⅱ的 $\Delta H$，则反应Ⅰ对应斜率的绝对值更大，故选 C。正确图像中曲线交点处 $\ln K_p(\mathrm{Ⅰ})=\ln K_p(\mathrm{Ⅱ})$，即 $K_p(\mathrm{Ⅰ})$ 与 $K_p(\mathrm{Ⅱ})$ 的数值相等，根据盖斯定律，反应Ⅲ＝反应Ⅱ－反应Ⅰ，则反应Ⅲ的 $K_p=\dfrac{K_p(\mathrm{Ⅱ})}{K_p(\mathrm{Ⅰ})}=1\ \mathrm{kPa^{-1}}$。
+
+**8.答案**　（2）$4$　$0.1p$　增大
+
+**解析**　（2）反应①生成等物质的量的 $\mathrm{CO}$ 和 $\mathrm{H_2}$，故还原反应器中初始时 $\mathrm{CO}$ 和 $\mathrm{H_2}$ 的物质的量分数均为 $50\%$。反应②、③均为气体分子数不变的反应，故反应前后容器中气体的总物质的量不变，总压强不变。平衡时 $\mathrm{CO_2}$ 的物质的量分数为 $40\%$，根据反应②可知 $\mathrm{CO}$ 的物质的量分数为 $50\%-40\%=10\%$，则 $p_{\mathrm{CO}}=p\times10\%=0.1p$，反应②的 $K_p=\dfrac{0.4p}{0.1p}=4$。反应②、③均为气体分子数不变的反应，若压缩容器容积，总压强增大，反应②、③平衡不移动，$\mathrm{CO}$ 的物质的量分数不变，则重新达平衡后 $p_{\mathrm{CO}}$ 增大。
+
+## 考法突破13　反应速率常数的应用
+
+### 五年高考
+
+**1.C**　A 项，对于反应 $\mathrm{A(g)}\underset{k_{-1}}{\overset{k_1}{\rightleftharpoons}}\mathrm{M(g)}$，平衡时，正、逆反应速率相等，$k_1x_{\mathrm{A,平衡}}=k_{-1}x_{\mathrm{M,平衡}}$；对于反应 $\mathrm{A(g)}\underset{k_{-2}}{\overset{k_2}{\rightleftharpoons}}\mathrm{N(g)}$，平衡时，$k_2x_{\mathrm{A,平衡}}=k_{-2}x_{\mathrm{N,平衡}}$，故 $\dfrac{k_1x_{\mathrm{A,平衡}}}{k_2x_{\mathrm{A,平衡}}}=\dfrac{k_{-1}x_{\mathrm{M,平衡}}}{k_{-2}x_{\mathrm{N,平衡}}}$，所以 $\dfrac{x_{\mathrm{N,平衡}}}{x_{\mathrm{M,平衡}}}=\dfrac{k_{-1}k_2}{k_1k_{-2}}$，正确。B 项，由题图可知，$0\sim t_1$ 时间段，生成 $\mathrm{M}$、$\mathrm{N}$ 的物质的量相同，故生成 $\mathrm{M}$ 和 $\mathrm{N}$ 的平均反应速率相等，正确。C 项，催化剂不会使平衡发生移动，故加入催化剂反应达到平衡时，$x_{\mathrm{M,平衡}}$、$x_{\mathrm{N,平衡}}$、$x_{\mathrm{A,平衡}}$ 均不变；若加入催化剂，$k_1$ 增大，$k_2$ 不变，一定时间范围内更多的 $\mathrm{A}$ 转化为 $\mathrm{M}$，$x_1$ 会变大，错误。D 项，升高温度，平衡向吸热反应方向移动，$\mathrm{A(g)\rightarrow M(g)}$ 和 $\mathrm{A(g)\rightarrow N(g)}$ 均为放热反应，故升高温度，$x_{\mathrm{A,平衡}}$ 变大，正确。
+
+**2.CD**　由题图可知，$T_1$ 温度时先达到平衡状态，则 $T_1$ 温度时反应速率更快，故 $T_1>T_2$，$k_1>k_2$，A 正确；$T_1$、$T_2$ 温度下达平衡时反应速率的比值：$\dfrac{v(T_1)}{v(T_2)}=\dfrac{k_1\cdot c_1^{0.5}(\mathrm{H_2})\cdot c_1(\mathrm{CO_2})}{k_2\cdot c_2^{0.5}(\mathrm{H_2})\cdot c_2(\mathrm{CO_2})}=\dfrac{k_1}{k_2}\times\left[\dfrac{c_1(\mathrm{H_2})}{c_2(\mathrm{H_2})}\right]^{0.5}\times\dfrac{c_1(\mathrm{CO_2})}{c_2(\mathrm{CO_2})}$，该反应为吸热反应，升高温度平衡正向移动，则 $T_1$ 温度下达平衡时 $\mathrm{H_2}$、$\mathrm{CO_2}$ 的浓度小于 $T_2$ 温度下达平衡时 $\mathrm{H_2}$、$\mathrm{CO_2}$ 的浓度，则 $\dfrac{v(T_1)}{v(T_2)}<\dfrac{k_1}{k_2}$，B 正确；温度不变，增大初始压力，反应速率加快，达到平衡的时间缩短，C 错误；该反应为气体分子数不变的反应，可用摩尔分数代替浓度计算平衡常数，若平衡时各组分摩尔分数相同，则平衡常数相同，但温度不同，平衡常数不同，D 错误。
+
+**3.答案**　（3）$9.2\times10^{-3}$
+
+**解析**　（3）$v(\mathrm{C_2H_2})=k[c(\mathrm{H_2})]^a$，将实验一中数据代入得 $5.06\times10^{-5}\ \mathrm{mol\cdot L^{-1}\cdot s^{-1}}=k(4.60\times10^{-3}\ \mathrm{mol\cdot L^{-1}})^a$，将实验二中数据代入得 $1.518\times10^{-4}\ \mathrm{mol\cdot L^{-1}\cdot s^{-1}}=k(1.380\times10^{-2}\ \mathrm{mol\cdot L^{-1}})^a$，两式联立解得 $a=1$，$k=0.011\ \mathrm{s^{-1}}$，因此方程式为
+
+<!-- page 92 -->
+
+$v(\mathrm{C_2H_2})=0.011\ \mathrm{s^{-1}}\times c(\mathrm{H_2})$，将 $v(\mathrm{C_2H_2})=1.012\times10^{-4}\ \mathrm{mol\cdot L^{-1}\cdot s^{-1}}$ 代入方程式，解得 $c(\mathrm{H_2})=9.2\times10^{-3}\ \mathrm{mol\cdot L^{-1}}$。
+
+**4.答案**　（1）$-3$
+
+（2）$\mathrm{CH_3COOH>C_2H_5OH>CH_3COOC_2H_5}$　乙酸乙酯分子间不存在氢键，乙酸分子间的氢键比乙醇的更强
+
+（3）$30$　$3.9$　$2.6\times10^{-6}$
+
+（4）$|\Delta H|$ 很小，温度对平衡影响小；液相反应，压强对平衡影响小　及时移出产物
+
+**解析**　（1）乙酸、乙醇和乙酸乙酯的燃烧热分别为 $-874\ \mathrm{kJ\cdot mol^{-1}}$、$-1367\ \mathrm{kJ\cdot mol^{-1}}$ 和 $-2238\ \mathrm{kJ\cdot mol^{-1}}$，燃烧热是指在 $101\ \mathrm{kPa}$ 时，$1\ \mathrm{mol}$ 纯物质完全燃烧生成指定产物［如碳元素变为 $\mathrm{CO_2(g)}$、氢元素变为 $\mathrm{H_2O(l)}$ 等］时所放出的热量，因此可得如下热化学方程式：
+
+① $\mathrm{CH_3COOH(l)+2O_2(g)\longrightarrow2CO_2(g)+2H_2O(l)}$　$\Delta H_1=-874\ \mathrm{kJ\cdot mol^{-1}}$
+
+② $\mathrm{C_2H_5OH(l)+3O_2(g)\longrightarrow2CO_2(g)+3H_2O(l)}$　$\Delta H_2=-1367\ \mathrm{kJ\cdot mol^{-1}}$
+
+③ $\mathrm{CH_3COOC_2H_5(l)+5O_2(g)\longrightarrow4CO_2(g)+4H_2O(l)}$　$\Delta H_3=-2238\ \mathrm{kJ\cdot mol^{-1}}$
+
+根据盖斯定律，①＋②－③得 $\mathrm{CH_3COOH(l)+C_2H_5OH(l)\longrightarrow CH_3COOC_2H_5(l)+H_2O(l)}$，则 $\Delta H=\Delta H_1+\Delta H_2-\Delta H_3=-874\ \mathrm{kJ\cdot mol^{-1}}-1367\ \mathrm{kJ\cdot mol^{-1}}-(-2238\ \mathrm{kJ\cdot mol^{-1}})=-3\ \mathrm{kJ\cdot mol^{-1}}$。
+
+（2）乙酸乙酯分子间不存在氢键，乙酸、乙醇都能形成分子间氢键，乙酸分子间的氢键比乙醇的更强，所以沸点：$\mathrm{CH_3COOH>C_2H_5OH>CH_3COOC_2H_5}$。
+
+（3）在常压和 $353.15\ \mathrm{K}$ 时，初始组成 $n(\mathrm{CH_3COOH}):n(\mathrm{C_2H_5OH})=3:1$、$\mathrm{NaHSO_4}$ 作催化剂的条件下进行反应。由题图可知，乙醇的初始浓度为 $3.30\ \mathrm{mol\cdot L^{-1}}$，平衡时乙醇的浓度为 $0.33\ \mathrm{mol\cdot L^{-1}}$，乙醇转化的浓度为 $3.30\ \mathrm{mol\cdot L^{-1}}-0.33\ \mathrm{mol\cdot L^{-1}}=2.97\ \mathrm{mol\cdot L^{-1}}$，则乙酸的初始浓度为 $9.90\ \mathrm{mol\cdot L^{-1}}$，平衡时乙酸转化的浓度为 $2.97\ \mathrm{mol\cdot L^{-1}}$，故平衡时乙酸的转化率 $\alpha=\dfrac{2.97\ \mathrm{mol\cdot L^{-1}}}{9.90\ \mathrm{mol\cdot L^{-1}}}\times100\%=30\%$。平衡时乙醇的浓度为 $0.33\ \mathrm{mol\cdot L^{-1}}$，乙酸的浓度为 $9.90\ \mathrm{mol\cdot L^{-1}}-2.97\ \mathrm{mol\cdot L^{-1}}=6.93\ \mathrm{mol\cdot L^{-1}}$，乙酸乙酯和水的浓度均为 $2.97\ \mathrm{mol\cdot L^{-1}}$，则平衡常数 $K=\dfrac{c(\mathrm{CH_3COOC_2H_5})\cdot c(\mathrm{H_2O})}{c(\mathrm{CH_3COOH})\cdot c(\mathrm{C_2H_5OH})}=\dfrac{2.97\times2.97}{6.93\times0.33}\approx3.9$。平衡时 $r=0$，则 $\dfrac{k_+}{k_-}=\dfrac{c(\mathrm{CH_3COOC_2H_5})\cdot c(\mathrm{H_2O})}{c(\mathrm{CH_3COOH})\cdot c(\mathrm{C_2H_5OH})}=K$，$k_-=\dfrac{k_+}{K}=\dfrac{1.0\times10^{-5}}{3.9}\ \mathrm{L\cdot mol^{-1}\cdot s^{-1}}\approx2.6\times10^{-6}\ \mathrm{L\cdot mol^{-1}\cdot s^{-1}}$。
+
+（4）该酯化反应的 $\Delta H=-3\ \mathrm{kJ\cdot mol^{-1}}$，$|\Delta H|$ 很小，故温度对平衡影响小；同时，该酯化反应是液相反应，压强对物质体积变化以及反应体系体积变化的影响小，对平衡的影响不大，因此，难以通过改变反应温度或压强来影响平衡的移动以提高乙酸乙酯平衡产率。由（3）的实验结果可知，该酯化反应是一个可逆反应，为提高乙酸乙酯的产率，可以采用的方法是及时移出产物，以促进平衡正向移动。
+
+**5.答案**　（3）① $1.8\times10^{-16}$　② D　③ $1.25\times10^{11}$
+
+**解析**　（3）① $25\ ^\circ\mathrm{C}$ 时，$\mathrm{H_2O\rightleftharpoons H^++OH^-}$ 的平衡常数 $K=\dfrac{c(\mathrm{H^+})c(\mathrm{OH^-})}{c(\mathrm{H_2O})}=\dfrac{10^{-7}\ \mathrm{mol\cdot L^{-1}}\times10^{-7}\ \mathrm{mol\cdot L^{-1}}}{55.6\ \mathrm{mol\cdot L^{-1}}}\approx1.8\times10^{-16}\ \mathrm{mol\cdot L^{-1}}$。
+
+② 温度升高，正、逆反应速率都瞬间增大，由于水的电离为吸热过程，平衡正向移动，则正反应速率大于逆反应速率，但随正反应正向进行 $c(\mathrm{H_2O})$ 几乎不变，则正反应速率瞬间增大后基本保持不变，故选 D。
+
+③ 当 $v(\text{正})=v(\text{逆})$ 时，反应达到平衡，根据 $k_1c(\mathrm{H_2O})=k_2c(\mathrm{H^+})c(\mathrm{OH^-})$ 可得 $\dfrac{k_1}{k_2}=K=1.8\times10^{-16}\ \mathrm{mol\cdot L^{-1}}$，根据 $\tau=\dfrac{1}{k_1+2k_2x_{\mathrm{e}}}$，则有 $4.0\times10^{-5}\ \mathrm{s}=\dfrac{1}{1.8\times10^{-16}\ \mathrm{mol\cdot L^{-1}}\times k_2+2\times10^{-7}\ \mathrm{mol\cdot L^{-1}}\times k_2}$，解得 $k_2\approx1.25\times10^{11}\ \mathrm{L\cdot mol^{-1}\cdot s^{-1}}$。
+
+**6.答案**　（1）$\Delta H_2-\Delta H_1$
+
+（2）$\sqrt{K_ax}$　$kx\sqrt{K_ax}$
+
+（3）$\dfrac{5(1-y)}{6y}$　$\dfrac{6y^2}{1-y}$　a　减小　不变
+
+**解析**　（1）根据盖斯定律，水气变换反应＝反应Ⅱ－反应Ⅰ，则 $\Delta H=\Delta H_2-\Delta H_1$。
+
+（2）忽略水的电离，$\mathrm{HCOOH\rightleftharpoons HCOO^-+H^+}$ 达到平衡时 $c(\mathrm{H^+})=c(\mathrm{HCOO^-})$，$K_a=\dfrac{c(\mathrm{HCOO^-})\cdot c(\mathrm{H^+})}{c(\mathrm{HCOOH})}=\dfrac{c^2(\mathrm{H^+})}{x}$，解得 $c(\mathrm{H^+})=\sqrt{K_ax}\ \mathrm{mol\cdot L^{-1}}$。反应Ⅰ的正反应速率 $v=kc(\mathrm{H^+})c(\mathrm{HCOOH})=k\cdot\sqrt{K_ax}\cdot x\ \mathrm{mol\cdot L^{-1}\cdot h^{-1}}=kx\sqrt{K_ax}\ \mathrm{mol\cdot L^{-1}\cdot h^{-1}}$。
+
+（3）根据题给信息可知，反应Ⅰ为快反应，反应Ⅰ建立平衡后始终处于平衡状态。$t_1$ 时刻 $\mathrm{CO}$ 达到浓度峰值，则此时反应Ⅰ已达平衡状态，根据碳元素守恒可知 $c(\mathrm{CO})+c(\mathrm{CO_2})+c(\mathrm{HCOOH})=1.0\ \mathrm{mol\cdot L^{-1}}$，则 $c(\mathrm{HCOOH})=(1.0-0.70-0.16)\ \mathrm{mol\cdot L^{-1}}=0.14\ \mathrm{mol\cdot L^{-1}}$，反应Ⅰ的平衡常数 $K_1=\dfrac{c(\mathrm{CO})}{c(\mathrm{HCOOH})}=\dfrac{0.70}{0.14}=5$。反应Ⅱ达平衡时，根据 $\mathrm{HCOOH\rightleftharpoons CO_2+H_2}$ 可知 $c(\mathrm{CO_2})=c(\mathrm{H_2})=y\ \mathrm{mol\cdot L^{-1}}$，对于反应Ⅰ仍有 $K_1=\dfrac{c(\mathrm{CO})}{c(\mathrm{HCOOH})}=5$，则 $c(\mathrm{HCOOH})=\dfrac{1}{5}c(\mathrm{CO})$，根据碳元素守恒有 $c(\mathrm{CO})+c(\mathrm{CO_2})+c(\mathrm{HCOOH})=1.0\ \mathrm{mol\cdot L^{-1}}$，可得 $c(\mathrm{CO})+y\ \mathrm{mol\cdot L^{-1}}+\dfrac{1}{5}c(\mathrm{CO})=1.0\ \mathrm{mol\cdot L^{-1}}$，解得 $c(\mathrm{CO})=\dfrac{5(1-y)}{6}\ \mathrm{mol\cdot L^{-1}}$，$c(\mathrm{HCOOH})=\dfrac{1}{5}c(\mathrm{CO})=\dfrac{1-y}{6}\ \mathrm{mol\cdot L^{-1}}$，故 $\dfrac{c(\mathrm{CO})}{c(\mathrm{CO_2})}=\dfrac{\dfrac{5(1-y)}{6}}{y}=\dfrac{5(1-y)}{6y}$，反应Ⅱ的平衡常数 $K_2=\dfrac{c(\mathrm{CO_2})\cdot c(\mathrm{H_2})}{c(\mathrm{HCOOH})}=\dfrac{y\cdot y}{\dfrac{1-y}{6}}=\dfrac{6y^2}{1-y}$。已知 $\mathrm{H^+}$ 对反应Ⅰ有催化加速作用，若反应起始时溶液中同时还含有盐酸，则反应Ⅰ速率加快，反应Ⅰ达到平衡的时间缩短，即 $\mathrm{CO}$ 达到浓度峰值的时间小于 $t_1$，可排除 c、d 点。与不含盐酸相比，由于 $\mathrm{CO}$ 达到浓度峰值的时间缩短，故反应Ⅱ生成的 $\mathrm{CO_2}$ 较少，
+
+<!-- page 93 -->
+
+$\mathrm{CO_2}$ 浓度减小；温度不变，$\dfrac{c(\mathrm{CO})}{c(\mathrm{HCOOH})}=K_1$ 不变。根据碳元素守恒，若 $c(\mathrm{CO_2})$ 减小，则 $c(\mathrm{CO})+c(\mathrm{HCOOH})$ 增大，根据 $K_1$ 为定值可知 $c(\mathrm{CO})$ 增大，故 $\mathrm{CO}$ 新的浓度峰值点可能是 a。
+
+## 三年模拟
+
+**7.B**　A 项，根据题图可知 $0\sim30\ \mathrm{min}$ 时间段内，$\mathrm{M}$ 总的浓度变化为 $(0.500-0.300)\ \mathrm{mol\cdot L^{-1}}=0.200\ \mathrm{mol\cdot L^{-1}}$，$\mathrm{Z}$ 的浓度变化为 $0.125\ \mathrm{mol\cdot L^{-1}}$，即反应②中 $\mathrm{M}$ 的浓度变化为 $0.125\ \mathrm{mol\cdot L^{-1}}$，则反应①中 $\mathrm{M}$ 的浓度变化为 $(0.200-0.125)\ \mathrm{mol\cdot L^{-1}}=0.075\ \mathrm{mol\cdot L^{-1}}$，即 $\mathrm{Y}$ 的浓度变化为 $0.075\ \mathrm{mol\cdot L^{-1}}$，故 $0\sim30\ \mathrm{min}$ 时间段内，$\mathrm{Y}$ 的平均反应速率为 $\dfrac{0.075\ \mathrm{mol\cdot L^{-1}}}{30\ \mathrm{min}}=2.5\times10^{-3}\ \mathrm{mol\cdot L^{-1}\cdot min^{-1}}$，正确。C 项，根据反应①、②的速率表达式可知，$v_1:v_2=k_1:k_2$（$k_1$、$k_2$ 为速率常数），即反应体系中反应①、②的速率之比始终不变，则反应相同的时间内，$\mathrm{Y}$、$\mathrm{Z}$ 的浓度变化之比始终不变，生成的 $\mathrm{Y}$、$\mathrm{Z}$ 的浓度之比始终不变，$30\ \mathrm{min}$ 时体系中 $\mathrm{Y}$ 和 $\mathrm{Z}$ 的浓度之比为 $0.075\ \mathrm{mol\cdot L^{-1}}:0.125\ \mathrm{mol\cdot L^{-1}}=3:5$，故体系中 $\mathrm{Y}$ 和 $\mathrm{Z}$ 的浓度之比一直为 $3:5$，正确。B 项，体系中 $\mathrm{Y}$ 和 $\mathrm{Z}$ 的浓度之比为 $3:5$，故反应进行到底时，$c(\mathrm{Y})+c(\mathrm{Z})=\Delta c(\mathrm{M})=0.5\ \mathrm{mol\cdot L^{-1}}$，则 $c(\mathrm{Y})=\dfrac{3}{3+5}\times0.5\ \mathrm{mol\cdot L^{-1}}=0.1875\ \mathrm{mol\cdot L^{-1}}$，反应结束时 $\mathrm{M}$ 转化为 $\mathrm{Y}$ 的转化率为 $\dfrac{0.1875\ \mathrm{mol\cdot L^{-1}}}{0.5\ \mathrm{mol\cdot L^{-1}}}\times100\%=37.5\%$，错误。D 项，$30\ \mathrm{min}$ 时，反应生成 $\mathrm{Y}$ 的浓度为 $0.075\ \mathrm{mol\cdot L^{-1}}$、$\mathrm{Z}$ 的浓度为 $0.125\ \mathrm{mol\cdot L^{-1}}$，则反应①的速率小于反应②的速率，反应①的活化能比反应②的活化能大，降低相同温度时，对反应①的影响程度更大，反应①速率减小的程度更大，正确。
+
+**8.答案**　（1）$-311$　（2）$k_{\text{逆}}$
+
+**解析**　（1）由题表数据可知，① $\mathrm{C_2H_2(g)}+\dfrac{5}{2}\mathrm{O_2(g)}\longrightarrow2\mathrm{CO_2(g)}+\mathrm{H_2O(l)}$　$\Delta H_{\text{①}}=-1299\ \mathrm{kJ\cdot mol^{-1}}$，② $\mathrm{H_2(g)}+\dfrac{1}{2}\mathrm{O_2(g)}\longrightarrow\mathrm{H_2O(l)}$　$\Delta H_{\text{②}}=-286\ \mathrm{kJ\cdot mol^{-1}}$，③ $\mathrm{C_2H_6(g)}+\dfrac{7}{2}\mathrm{O_2(g)}\longrightarrow2\mathrm{CO_2(g)}+3\mathrm{H_2O(l)}$　$\Delta H_{\text{③}}=-1560\ \mathrm{kJ\cdot mol^{-1}}$，根据盖斯定律，反应Ⅱ＝反应①＋反应②×2－反应③，故 $\Delta H_2=[-1299+(-286)\times2-(-1560)]\ \mathrm{kJ\cdot mol^{-1}}=-311\ \mathrm{kJ\cdot mol^{-1}}$。
+
+（2）$\dfrac{1}{T}$ 增大，$T$（温度）降低，$k_{\text{正}}$ 与 $k_{\text{逆}}$ 均减小，由于反应Ⅱ为放热反应，降低温度，平衡正向移动，故 $k_{\text{逆}}$ 减小的程度更大。
+
+**【待核对】**　（3）① $20$　② $\dfrac{22}{p}$
+
+**解析**　（3）① 平衡时转化的 $\mathrm{NO}$ 的物质的量为 $1\ \mathrm{mol}\times80\%=0.8\ \mathrm{mol}$，列三段式：
+
+$\mathrm{2NO(g)+2CO(g)\rightleftharpoons N_2(g)+2CO_2(g)}$
+
+|  | $\mathrm{NO}$ | $\mathrm{CO}$ | $\mathrm{N_2}$ | $\mathrm{CO_2}$ |
+|---|---:|---:|---:|---:|
+| 起始/$\mathrm{mol}$ | $1$ | $1.6$ | $0$ | $0$ |
+| 变化/$\mathrm{mol}$ | $0.8$ | $0.8$ | $0.4$ | $0.8$ |
+| 平衡/$\mathrm{mol}$ | $0.2$ | $0.8$ | $0.4$ | $0.8$ |
+
+平衡时 $v_{\text{正}}=v_{\text{逆}}$，即 $k_{\text{正}}\cdot c^2(\mathrm{NO})\cdot c^2(\mathrm{CO})=k_{\text{逆}}\cdot c(\mathrm{N_2})\cdot c^2(\mathrm{CO_2})$，$\dfrac{k_{\text{正}}}{k_{\text{逆}}}=\dfrac{c(\mathrm{N_2})\cdot c^2(\mathrm{CO_2})}{c^2(\mathrm{NO})\cdot c^2(\mathrm{CO})}=\dfrac{\dfrac{0.4}{2}\times\left(\dfrac{0.8}{2}\right)^2}{\left(\dfrac{0.2}{2}\right)^2\times\left(\dfrac{0.8}{2}\right)^2}=20$。
+
+② 平衡时总物质的量为 $(0.2+0.8+0.4+0.8)\ \mathrm{mol}=2.2\ \mathrm{mol}$，则 $K_p=\dfrac{\left(p\ \mathrm{kPa}\times\dfrac{0.4}{2.2}\right)\times\left(p\ \mathrm{kPa}\times\dfrac{0.8}{2.2}\right)^2}{\left(p\ \mathrm{kPa}\times\dfrac{0.2}{2.2}\right)^2\times\left(p\ \mathrm{kPa}\times\dfrac{0.8}{2.2}\right)^2}=\dfrac{22}{p}\ \mathrm{kPa^{-1}}$。
+
+**10.答案**　（2）① $1:4$　$15\ \mathrm{kPa}$　$2.5$
+
+**解析**　（2）① 设起始时 $n(\mathrm{C_2H_6})$ 和 $n(\mathrm{N_2})$ 分别为 $1\ \mathrm{mol}$ 和 $x\ \mathrm{mol}$，由题图可知 $\mathrm{C_2H_6(g)}$ 的平衡转化率为 $75\%$，即转化了 $0.75\ \mathrm{mol}$ $\mathrm{C_2H_6}$，列三段式：
+
+$\mathrm{C_2H_6(g)\rightleftharpoons C_2H_4(g)+H_2(g)}$
+
+|  | $\mathrm{C_2H_6}$ | $\mathrm{C_2H_4}$ | $\mathrm{H_2}$ |
+|---|---:|---:|---:|
+| 起始量/$\mathrm{mol}$ | $1$ | $0$ | $0$ |
+| 变化量/$\mathrm{mol}$ | $0.75$ | $0.75$ | $0.75$ |
+| 平衡量/$\mathrm{mol}$ | $0.25$ | $0.75$ | $0.75$ |
+
+恒温恒容条件下，气体物质的量之比等于压强之比，即 $\dfrac{n_{\text{起}}}{n_{\text{平}}}=\dfrac{p_{\text{起}}}{p_{\text{平}}}$，则 $\dfrac{(1+x)\ \mathrm{mol}}{(0.25+0.75+0.75+x)\ \mathrm{mol}}=\dfrac{100\ \mathrm{kPa}}{115\ \mathrm{kPa}}$，解得 $x=4$，故起始时 $n(\mathrm{C_2H_6}):n(\mathrm{N_2})=1:4$。平衡时气体的总物质的量为 $0.25\ \mathrm{mol}+0.75\ \mathrm{mol}+0.75\ \mathrm{mol}+4\ \mathrm{mol}=5.75\ \mathrm{mol}$，$p(\mathrm{C_2H_4})=p(\mathrm{H_2})=\dfrac{0.75\ \mathrm{mol}}{5.75\ \mathrm{mol}}\times115\ \mathrm{kPa}=15\ \mathrm{kPa}$，$p(\mathrm{C_2H_6})=\dfrac{0.25\ \mathrm{mol}}{5.75\ \mathrm{mol}}\times115\ \mathrm{kPa}=5\ \mathrm{kPa}$，平衡时 $v_{\text{正}}=v_{\text{逆}}$，即 $k_{\text{正}}\cdot p(\mathrm{C_2H_6})=k_{\text{逆}}\cdot p(\mathrm{C_2H_4})\cdot p(\mathrm{H_2})$，则 $\dfrac{k_{\text{正}}}{k_{\text{逆}}}=\dfrac{p(\mathrm{C_2H_4})\cdot p(\mathrm{H_2})}{p(\mathrm{C_2H_6})}=\dfrac{15\times15}{5}=45$。
+
+a 处时 $\mathrm{C_2H_6(g)}$ 的转化率为 $60\%$，即转化了 $0.6\ \mathrm{mol}$ $\mathrm{C_2H_6}$，列三段式：
+
+$\mathrm{C_2H_6(g)\rightleftharpoons C_2H_4(g)+H_2(g)}$
+
+|  | $\mathrm{C_2H_6}$ | $\mathrm{C_2H_4}$ | $\mathrm{H_2}$ |
+|---|---:|---:|---:|
+| 起始量/$\mathrm{mol}$ | $1$ | $0$ | $0$ |
+| 变化量/$\mathrm{mol}$ | $0.6$ | $0.6$ | $0.6$ |
+| a 处时/$\mathrm{mol}$ | $0.4$ | $0.6$ | $0.6$ |
+
+a 处时气体的总物质的量为 $0.4\ \mathrm{mol}+0.6\ \mathrm{mol}+0.6\ \mathrm{mol}+4\ \mathrm{mol}=5.6\ \mathrm{mol}$，$p(\mathrm{C_2H_6})=\dfrac{0.4\ \mathrm{mol}}{5.6\ \mathrm{mol}}\times112\ \mathrm{kPa}=8\ \mathrm{kPa}$，$p(\mathrm{C_2H_4})=p(\mathrm{H_2})=\dfrac{0.6\ \mathrm{mol}}{5.6\ \mathrm{mol}}\times112\ \mathrm{kPa}=12\ \mathrm{kPa}$，此时 $\dfrac{v_{\text{正}}}{v_{\text{逆}}}=\dfrac{k_{\text{正}}}{k_{\text{逆}}}\times\dfrac{p(\mathrm{C_2H_6})}{p(\mathrm{C_2H_4})\cdot p(\mathrm{H_2})}=45\times\dfrac{8}{12\times12}=2.5$。
+
+## 第4节　化学反应的方向与调控
+
+### 五年高考
+
+**1.B**　A 项，由题图可知，黄铁矿中的 $\mathrm{FeS_2}$ 与空气中的 $\mathrm{O_2}$ 在加热条件下反应生成 $\mathrm{Fe_3O_4}$ 和 $\mathrm{SO_2}$，正确。B 项，Ⅱ的化学方程式为 $2\mathrm{SO_2}+\mathrm{O_2}\underset{\Delta}{\overset{\text{催化剂}}{\rightleftharpoons}}2\mathrm{SO_3}$，该反应为气体分子数减小的反应，

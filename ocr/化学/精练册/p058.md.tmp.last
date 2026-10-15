@@ -1,0 +1,235 @@
+<!-- page 58 -->
+
+程式为________________________。若阿伏加德罗常数的值为 $N_{\mathrm A}$，化合物 $\mathrm X$ 的密度 $\rho=$________ $\mathrm{g\cdot cm^{-3}}$（用含 $N_{\mathrm A}$ 的代数式表示）。
+
+## 考向8 原子分数坐标 原子间距离的计算
+
+12.★★★（2025 河北，11，3分）$\mathrm{SmCo}_k$（$k>1$）是一种具有优异磁性能的稀土永磁材料，在航空航天等领域中获得重要应用。$\mathrm{SmCo}_k$ 的六方晶胞示意图如下，晶胞参数 $a=500\ \mathrm{pm}$、$c=400\ \mathrm{pm}$，$\mathrm M$、$\mathrm N$ 原子的分数坐标分别为 $\left(\frac56,\frac16,\frac12\right)$、$\left(\frac16,\frac56,\frac12\right)$。设 $N_{\mathrm A}$ 是阿伏伽德罗常数的值。
+
+[图：六方晶胞示意图，底面两条棱标为 $a$，竖直棱标为 $c$；晶胞内标有 $\mathrm M$、$\mathrm N$ 和体心位置，顶部棱上标有原子 $\mathrm Q$。坐标轴中 $x$、$y$ 轴夹角为 $120^\circ$，$z$ 轴分别与 $x$、$y$ 轴成 $90^\circ$。]
+
+下列说法错误的是（　　）
+
+A. 该物质的化学式为 $\mathrm{SmCo_5}$
+
+B. 体心原子的分数坐标为 $\left(\frac12,\frac12,\frac12\right)$
+
+C. 晶体的密度为 $\dfrac{890\sqrt3}{3N_{\mathrm A}\times10^{-22}}\ \mathrm{g\cdot cm^{-3}}$
+
+D. 原子 $\mathrm Q$ 到体心的距离为 $100\sqrt{41}\ \mathrm{pm}$
+
+13.★★（2021 山东，16，12分）非金属氟化物在生产、生活和科研中应用广泛。回答下列问题：
+
+（1）基态 $\mathrm F$ 原子核外电子的运动状态有________种。
+
+（2）$\mathrm O$、$\mathrm F$、$\mathrm{Cl}$ 电负性由大到小的顺序为________；$\mathrm{OF_2}$ 分子的空间构型为________；$\mathrm{OF_2}$ 的熔、沸点________（填“高于”或“低于”）$\mathrm{Cl_2O}$，原因是________________________。
+
+（3）$\mathrm{Xe}$ 是第五周期的稀有气体元素，与 $\mathrm F$ 形成的 $\mathrm{XeF_2}$ 室温下易升华。$\mathrm{XeF_2}$ 中心原子的价层电子对数为________，下列对 $\mathrm{XeF_2}$ 中心原子杂化方式推断合理的是________（填标号）。
+
+A. $\mathrm{sp}$
+
+B. $\mathrm{sp^2}$
+
+C. $\mathrm{sp^3}$
+
+D. $\mathrm{sp^3d}$
+
+（4）$\mathrm{XeF_2}$ 晶体属四方晶系，晶胞参数如图所示，晶胞棱边夹角均为 $90^\circ$，该晶胞中有________个 $\mathrm{XeF_2}$ 分子。以晶胞参数为单位长度建立的坐标系可以表示晶胞中各原子的位置，称为原子的分数坐标，如 $\mathrm A$ 点原子的分数坐标为 $\left(\frac12,\frac12,\frac12\right)$。已知 $\mathrm{Xe-F}$ 键长为 $r\ \mathrm{pm}$，则 $\mathrm B$ 点原子的分数坐标为________；晶胞中 $\mathrm A$、$\mathrm B$ 间距离 $d=$________ $\mathrm{pm}$。
+
+[图：$\mathrm{XeF_2}$ 四方晶胞，底面两边长均为 $a\ \mathrm{pm}$，高为 $c\ \mathrm{pm}$；较大的球位于顶点及体心，较小的球沿竖直方向排列。体心原子标为 $\mathrm A$，左前竖直棱上的一个小球标为 $\mathrm B$，$\mathrm A$、$\mathrm B$ 间以虚线标出距离 $d$；图旁给出 $x$、$y$、$z$ 坐标轴。]
+
+## 考向9 含配位键的晶胞分析
+
+14.★★（2022 山东，16，12分）研究笼形包合物结构和性质具有重要意义。化学式为 $\mathrm{Ni(CN)}_x\cdot\mathrm{Zn(NH_3)}_y\cdot z\mathrm{C_6H_6}$ 的笼形包合物四方晶胞结构如图所示（$\mathrm H$ 原子未画出），每个苯环只有一半属于该晶胞，晶胞参数为 $a=b\ne c$，$\alpha=\beta=\gamma=90^\circ$。
+
+[图：笼形包合物四方晶胞结构，标有晶胞参数 $a$、$b$、$c$；图例以浅色球表示 $\mathrm{Ni^{2+}}$，深色球表示 $\mathrm{Zn^{2+}}$；晶胞中画有配位连接及苯环，$\mathrm H$ 原子未画出。]
+
+回答下列问题。
+
+（1）基态 $\mathrm{Ni}$ 原子的价电子排布式为________，在元素周期表中位置为________________。
+
+（2）晶胞中 $\mathrm N$ 原子均参与形成配位键，$\mathrm{Ni^{2+}}$ 与 $\mathrm{Zn^{2+}}$ 的配位数之比为________；$x:y:z=$________；晶胞中有 $\mathrm d$ 轨道参与杂化的金属离子是________。
+
+（3）吡啶（[图：吡啶结构简式，六元环的一个顶点为 $\mathrm N$，环内有三个交替双键。]）替代苯也可形成类似的笼形包合物。已知吡啶中含有与苯类似的 $\Pi_6^6$ 大 $\pi$ 键，则吡啶中 $\mathrm N$ 原子的价层孤电子对占据________（填标号）。
+
+A. $\mathrm{2s}$ 轨道
+
+B. $\mathrm{2p}$ 轨道
+
+C. $\mathrm{sp}$ 杂化轨道
+
+D. $\mathrm{sp^2}$ 杂化轨道
+
+在水中的溶解度，吡啶远大于苯，主要原因是①________________，②________________。
+
+[图：依次为吡啶、间位带 $\mathrm{CH_3}$ 的吡啶、间位带 $\mathrm{Cl}$ 的吡啶的结构简式。] 的碱性随 $\mathrm N$ 原子电子云密度的增大而增强，其中碱性最弱的是________。
+
+<!-- page 59 -->
+
+# 第七章 化学反应的热效应
+
+## 第1节 化学反应中的能量变化
+
+### 五年高考
+
+答案 P379
+
+1.★★ » 教考衔接：人教版必修二第六章第一节（2024 广东，11，4分）按下图装置进行实验。搅拌一段时间后，滴加浓盐酸。不同反应阶段的预期现象及其相应推理均合理的是（　　）
+
+[图：烧瓶置于电磁搅拌器上，内装适量 $\mathrm{NH_4Cl}$ 与 $\mathrm{Ba(OH)_2\cdot8H_2O}$；瓶口装有盛浓盐酸的滴管和气球，瓶内悬有湿润的红色石蕊试纸。]
+
+A. 烧瓶壁会变冷，说明存在 $\Delta H<0$ 的反应
+
+B. 试纸会变蓝，说明有 $\mathrm{NH_3}$ 生成，产氨过程熵增
+
+C. 滴加浓盐酸后，有白烟产生，说明有 $\mathrm{NH_4Cl}$ 升华
+
+D. 实验过程中，气球会一直变大，说明体系压强增大
+
+2.★★★（2024 北京，13，3分）苯在浓 $\mathrm{HNO_3}$ 和浓 $\mathrm{H_2SO_4}$ 作用下，反应过程中能量变化示意图如下。下列说法不正确的是（　　）
+
+[图：纵轴为能量，横轴为反应进程。反应物为苯、$\mathrm{NO_2^+}$ 和 $\mathrm{HO_3SO^-}$，经过渡态1形成中间体 $\mathrm M$；中间体分别经过渡态2-1、过渡态2-2生成产物Ⅰ、产物Ⅱ。过渡态2-1能量高于过渡态2-2，产物Ⅰ能量高于产物Ⅱ。$\mathrm M$ 为苯环与 $\mathrm{NO_2^+}$ 加成后的中间体；产物Ⅰ含加成产物 $\mathrm X$，产物Ⅱ含硝基苯 $\mathrm Y$ 和 $\mathrm{H_2SO_4}$。]
+
+A. 从中间体到产物，无论从产物稳定性还是反应速率的角度均有利于产物Ⅱ
+
+B. $\mathrm X$ 为苯的加成产物，$\mathrm Y$ 为苯的取代产物
+
+C. 由苯得到 $\mathrm M$ 时，苯中的大 $\pi$ 键被破坏
+
+D. 对于生成 $\mathrm Y$ 的反应，浓 $\mathrm{H_2SO_4}$ 作催化剂
+
+3.★★★《不定项》（2024 山东，12，4分）由下列事实或现象能得出相应结论的是（　　）
+
+| 选项 | 事实或现象 | 结论 |
+|---|---|---|
+| A | 向酸性 $\mathrm{KMnO_4}$ 溶液中加入草酸，紫色褪去 | 草酸具有还原性 |
+| B | 铅蓄电池使用过程中两电极的质量均增加 | 电池发生了放电反应 |
+| C | 向等物质的量浓度的 $\mathrm{NaCl}$、$\mathrm{Na_2CrO_4}$ 混合溶液中滴加 $\mathrm{AgNO_3}$ 溶液，先生成 $\mathrm{AgCl}$ 白色沉淀 | $K_{\mathrm{sp}}(\mathrm{AgCl})<K_{\mathrm{sp}}(\mathrm{Ag_2CrO_4})$ |
+
+续表
+
+| 选项 | 事实或现象 | 结论 |
+|---|---|---|
+| D | $2\mathrm{NO_2}\rightleftharpoons\mathrm{N_2O_4}$ 为基元反应，将盛有 $\mathrm{NO_2}$ 的密闭烧瓶浸入冷水，红棕色变浅 | 正反应活化能大于逆反应活化能 |
+
+### 三年模拟
+
+答案 P379
+
+4.★（2025 届山东泰安一模，3）下列有关能源转化与存储的叙述错误的是（　　）
+
+A. 煤炭气化可制得清洁燃料
+
+B. 石蜡油裂化可生产汽油
+
+C. 锂电池能量密度高，可用于大型储能设备
+
+D. 利用催化剂分解水制氢气并且放出热量
+
+5.★（2025 届山东肥城一中开学考，5 改编）下列有关能量变化的说法，正确的是（　　）
+
+A. 化学变化中的能量转化都是热能和化学能间的相互转化
+
+B. $\mathrm{H^+(aq)+OH^-(aq)=H_2O(l)}\quad\Delta H=-57.3\ \mathrm{kJ\cdot mol^{-1}}$ 可以表示所有强酸和强碱的中和反应
+
+C. 如果旧化学键断裂吸收的能量大于新化学键形成释放的能量，则该反应为吸热反应
+
+D. 根据 $\mathrm{CH_4(g)+2O_2(g)=CO_2(g)+2H_2O(g)}\quad\Delta H=-802.3\ \mathrm{kJ\cdot mol^{-1}}$，可以得出 $\mathrm{CH_4}$ 的燃烧热 $\Delta H=-802.3\ \mathrm{kJ\cdot mol^{-1}}$
+
+6.★★（2025 届山东菏泽10月期中，8）已知：$\mathrm{CH_4(g)}+\dfrac32\mathrm{O_2(g)}=\mathrm{CO(g)+2H_2O(l)}\quad\Delta H=-607.3\ \mathrm{kJ\cdot mol^{-1}}$，$\mathrm{CO}$ 的燃烧热为 $-283\ \mathrm{kJ\cdot mol^{-1}}$。下列说法正确的是（　　）
+
+A. $\mathrm{CH_4(g)}+\dfrac32\mathrm{O_2(g)}=\mathrm{CO(g)+2H_2O(g)}\quad\Delta H<-607.3\ \mathrm{kJ\cdot mol^{-1}}$
+
+B. $\mathrm{CO}$ 燃烧的热化学方程式为 $2\mathrm{CO(g)}+\mathrm{O_2(g)}=2\mathrm{CO_2(g)}\quad\Delta H=-283\ \mathrm{kJ\cdot mol^{-1}}$
+
+C. 表示 $\mathrm{CH_4(g)}$ 燃烧热的热化学方程式为 $\mathrm{CH_4(g)+2O_2(g)=CO_2(g)+2H_2O(l)}\quad\Delta H=-890.3\ \mathrm{kJ\cdot mol^{-1}}$
+
+D. $\mathrm{CH_4}$ 燃烧生成 $\mathrm{CO}$ 的反应中反应物的总键能高于生成物的总键能
+
+<!-- page 60 -->
+
+## 第2节 热化学方程式 盖斯定律
+
+### 五年高考
+
+答案 P379
+
+1.★★（2025 浙江1月选考，11，3分）下列说法正确的是（　　）
+
+A. 常温常压下 $\mathrm{H_2(g)}$ 和 $\mathrm{O_2(g)}$ 混合无明显现象，则反应 $2\mathrm{H_2(g)}+\mathrm{O_2(g)}=2\mathrm{H_2O(l)}$ 在该条件下不自发
+
+B. $3\mathrm{H_2(g)}+\mathrm{N_2(g)}\rightleftharpoons2\mathrm{NH_3(g)}\quad\Delta H<0$，升高温度，平衡逆移，则反应的平衡常数减小
+
+C. $\mathrm{CO(g)+H_2(g)}\rightleftharpoons\mathrm{C(s)+H_2O(g)}\quad\Delta H<0$，则正反应的活化能大于逆反应的活化能
+
+D. $\mathrm{Na(s)}+\dfrac12\mathrm{Cl_2(g)}=\mathrm{NaCl(s)}\quad\Delta H<0$，$\mathrm{Na^+(g)+Cl^-(g)=NaCl(s)}\quad\Delta H<0$，则 $\mathrm{Na(s)}+\dfrac12\mathrm{Cl_2(g)}=\mathrm{Na^+(g)+Cl^-(g)}\quad\Delta H<0$
+
+2.★★（2025 北京，11，3分）为理解离子化合物溶解过程的能量变化，可设想 $\mathrm{NaCl}$ 固体溶于水的过程分两步实现，示意图如下。
+
+[图：$\mathrm{NaCl(s)}$ 先变为分散的 $\mathrm{Na^+(g)}$、$\mathrm{Cl^-(g)}$，$\Delta H_1=a\ \mathrm{kJ\cdot mol^{-1}}$；气态离子加入 $\mathrm{H_2O(l)}$ 后变为水合的 $\mathrm{Na^+(aq)}$、$\mathrm{Cl^-(aq)}$，$\Delta H_2=b\ \mathrm{kJ\cdot mol^{-1}}$。$\mathrm{NaCl(s)}$ 直接加入 $\mathrm{H_2O(l)}$ 形成水合离子的总过程为 $\Delta H_3=+4\ \mathrm{kJ\cdot mol^{-1}}$。]
+
+下列说法不正确的是（　　）
+
+A. $\mathrm{NaCl}$ 固体溶解是吸热过程
+
+B. 根据盖斯定律可知：$a+b=4$
+
+C. 根据各微粒的状态，可判断 $a>0$，$b>0$
+
+D. 溶解过程的能量变化，与 $\mathrm{NaCl}$ 固体和 $\mathrm{NaCl}$ 溶液中微粒间作用力的强弱有关
+
+3.★★ » 教考衔接：人教版选必1第一章第二节练习与应用
+
+（2025 重庆，12，3分）肼（$\mathrm{N_2H_4}$）与氧化剂剧烈反应，释放大量的热量，可作火箭燃料。已知下列反应：
+
+（1）$2\mathrm{NH_3(g)}+3\mathrm{N_2O(g)}=4\mathrm{N_2(g)}+3\mathrm{H_2O(l)}\quad\Delta H_1=a\ \mathrm{kJ\cdot mol^{-1}}$
+
+（2）$\mathrm{N_2O(g)}+3\mathrm{H_2(g)}=\mathrm{N_2H_4(l)}+\mathrm{H_2O(l)}\quad\Delta H_2=b\ \mathrm{kJ\cdot mol^{-1}}$
+
+（3）$\mathrm{N_2H_4(l)}+9\mathrm{H_2(g)}+4\mathrm{O_2(g)}=2\mathrm{NH_3(g)}+8\mathrm{H_2O(l)}\quad\Delta H_3=c\ \mathrm{kJ\cdot mol^{-1}}$
+
+则反应 $\mathrm{N_2H_4(l)+O_2(g)=N_2(g)+2H_2O(l)}$ 的 $\Delta H$（$\mathrm{kJ\cdot mol^{-1}}$）为（　　）
+
+A. $\dfrac{a+3b-c}{4}$
+
+B. $\dfrac{a-3b+c}{4}$
+
+C. $a-3b+c$
+
+D. $a+3b-c$
+
+4.★★★（2024 重庆，13，3分）二氧化碳—甲烷重整是 $\mathrm{CO_2}$ 资源化利用的重要研究方向，涉及的主要热化学方程式有：
+
+① $\mathrm{CO_2(g)+CH_4(g)}\rightleftharpoons2\mathrm{CO(g)}+2\mathrm{H_2(g)}\quad\Delta H_1=+247\ \mathrm{kJ/mol}$
+
+② $\mathrm{CO(g)+H_2(g)}\rightleftharpoons\mathrm{C(s)+H_2O(g)}\quad\Delta H_2=-131\ \mathrm{kJ/mol}$
+
+③ $\mathrm{CO_2(g)}+2\mathrm{H_2(g)}\rightleftharpoons\mathrm{C(s)}+2\mathrm{H_2O(g)}\quad\Delta H_3=-90\ \mathrm{kJ/mol}$
+
+已知 $\mathrm{H-H}$ 键能为 $a\ \mathrm{kJ/mol}$，$\mathrm{O-H}$ 键能为 $b\ \mathrm{kJ/mol}$，$\mathrm{C-H}$ 键能为 $c\ \mathrm{kJ/mol}$，则 $\mathrm{CO(g)}$ 中的碳氧键键能（单位：$\mathrm{kJ/mol}$）为（　　）
+
+A. $-206+3a-2b-4c$
+
+B. $-206-3a+2b+4c$
+
+C. $206+3a-2b-4c$
+
+D. $206-3a+2b+4c$
+
+5.★（2024 山东，20 节选）水煤气是 $\mathrm{H_2}$ 的主要来源，研究 $\mathrm{CaO}$ 对 $\mathrm{C-H_2O}$ 体系制 $\mathrm{H_2}$ 的影响，涉及主要反应如下：
+
+$\mathrm{C(s)+H_2O(g)}\rightleftharpoons\mathrm{CO(g)+H_2(g)}$　（Ⅰ）
+
+$\Delta H_1>0$
+
+$\mathrm{CO(g)+H_2O(g)}\rightleftharpoons\mathrm{CO_2(g)+H_2(g)}$　（Ⅱ）
+
+$\Delta H_2<0$
+
+$\mathrm{CaO(s)+CO_2(g)}\rightleftharpoons\mathrm{CaCO_3(s)}$　（Ⅲ）　$\Delta H_3<0$
+
+（1）$\mathrm{C(s)+CaO(s)}+2\mathrm{H_2O(g)}=\mathrm{CaCO_3(s)}+2\mathrm{H_2(g)}$ 的焓变 $\Delta H=$________________（用代数式表示）。
+
+6.★★（2025 黑龙江，18 节选）直接合成法：$2\mathrm{CO(g)}+3\mathrm{H_2(g)}\xrightleftharpoons{\text{催化剂}}\mathrm{HOCH_2CH_2OH(g)}$。
+
+（2）已知 $\mathrm{CO(g)}$、$\mathrm{H_2(g)}$、$\mathrm{HOCH_2CH_2OH(g)}$ 的燃烧热（$\Delta H$）分别为 $-a\ \mathrm{kJ\cdot mol^{-1}}$、$-b\ \mathrm{kJ\cdot mol^{-1}}$、$-c\ \mathrm{kJ\cdot mol^{-1}}$，则上述合成反应的 $\Delta H=$________ $\mathrm{kJ\cdot mol^{-1}}$（用 $a$、$b$ 和 $c$ 表示）。

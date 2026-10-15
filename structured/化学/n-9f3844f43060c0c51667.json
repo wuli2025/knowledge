@@ -1,0 +1,489 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-9a1016e031735df85c44"
+      ],
+      "text": "晶体的结构特征是原子在三维空间里呈周期性有序排列；性质特征为自范性、固定熔点、各向异性。",
+      "title": "晶体",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-dd566011a173714ea527"
+      ],
+      "text": "晶胞是描述晶体结构的基本单元。晶胞在晶体中的排列呈“无隙并置”，一般为平行六面体。",
+      "title": "晶胞",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-e78602b4abaef5f733ab"
+      ],
+      "text": "离子晶体中，离子的配位数是 $1$ 个离子周围最邻近的异电性离子的数目。例如 $\\mathrm{NaCl}$ 晶胞中 $\\mathrm{Na^+}$ 和 $\\mathrm{Cl^-}$ 的配位数均为 $6$。",
+      "title": "离子晶体中离子的配位数",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-e78602b4abaef5f733ab"
+      ],
+      "text": "金属晶体中，原子的配位数是 $1$ 个原子周围最邻近的原子的数目。例如金属 $\\mathrm{Na}$ 晶胞中 $\\mathrm{Na}$ 原子的配位数为 $8$。",
+      "title": "金属晶体中原子的配位数",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-26dcd7e69ec1966708af"
+      ],
+      "text": "分子晶体由分子构成，微粒间作用力为分子间作用力，包括范德华力、氢键。实例有 $\\mathrm{CO_2}$、$\\mathrm{H_2O}$。分子晶体不导电，酸溶于水导电；溶解性遵循相似相溶；熔、沸点较低，硬度较小。",
+      "title": "分子晶体",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-26dcd7e69ec1966708af"
+      ],
+      "text": "共价晶体由原子构成，微粒间作用力为共价键。实例有金刚石、$\\mathrm{SiO_2}$。一般不导电，个别为半导体；不溶于水；熔、沸点高，硬度大。",
+      "title": "共价晶体",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c7",
+      "source_node_ids": [
+        "n-26dcd7e69ec1966708af"
+      ],
+      "text": "金属晶体由金属阳离子和自由电子构成，微粒间作用力为金属键。实例有 $\\mathrm{Na}$、$\\mathrm{Cu}$。金属晶体导电；不溶于水，活泼金属与水反应；熔、沸点差别较大，硬度一般较大，部分较小。",
+      "title": "金属晶体",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c8",
+      "source_node_ids": [
+        "n-26dcd7e69ec1966708af"
+      ],
+      "text": "离子晶体由阴、阳离子构成，微粒间作用力为离子键。实例有 $\\mathrm{NaCl}$、$\\mathrm{CsCl}$。固体不导电，在水溶液中或熔融状态下导电；多数易溶于水；熔、沸点较高，硬度较大。",
+      "title": "离子晶体",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c9",
+      "source_node_ids": [
+        "n-9512ae31a6dc8f528295"
+      ],
+      "text": "金刚石中，每个 $\\mathrm{C}$ 与相邻 $4$ 个 $\\mathrm{C}$ 以共价键结合，形成正四面体结构，采取 $\\mathrm{sp^3}$ 杂化。最小碳环由 $6$ 个 $\\mathrm{C}$ 组成且不在同一平面内。碳原子以共价键连接形成空间网状结构。",
+      "title": "金刚石的晶体结构",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c10",
+      "source_node_ids": [
+        "n-9512ae31a6dc8f528295"
+      ],
+      "text": "$\\mathrm{SiO_2}$ 晶体中，每个 $\\mathrm{Si}$ 与 $4$ 个 $\\mathrm{O}$ 以共价键结合，形成正四面体结构。硅原子与氧原子交替连接形成空间网状结构。最小环上有 $12$ 个原子，即 $6$ 个 $\\mathrm{O}$、$6$ 个 $\\mathrm{Si}$。",
+      "title": "二氧化硅的晶体结构",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c11",
+      "source_node_ids": [
+        "n-9512ae31a6dc8f528295"
+      ],
+      "text": "干冰晶胞中，$8$ 个 $\\mathrm{CO_2}$ 分子构成立方体，且在 $6$ 个面心又各有 $1$ 个 $\\mathrm{CO_2}$ 分子。每个 $\\mathrm{CO_2}$ 分子周围等距且紧邻的 $\\mathrm{CO_2}$ 分子有 $12$ 个。",
+      "title": "干冰的晶体结构",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c12",
+      "source_node_ids": [
+        "n-9512ae31a6dc8f528295"
+      ],
+      "text": "$\\mathrm{NaCl}$ 型晶体中，每个 $\\mathrm{Na^+}$（$\\mathrm{Cl^-}$）周围等距且紧邻的 $\\mathrm{Cl^-}$（$\\mathrm{Na^+}$）有 $6$ 个，构成正八面体；每个 $\\mathrm{Na^+}$（$\\mathrm{Cl^-}$）周围等距且紧邻的 $\\mathrm{Na^+}$（$\\mathrm{Cl^-}$）有 $12$ 个。每个晶胞中含 $4$ 个 $\\mathrm{Na^+}$ 和 $4$ 个 $\\mathrm{Cl^-}$。",
+      "title": "氯化钠型晶体结构",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c13",
+      "source_node_ids": [
+        "n-9512ae31a6dc8f528295"
+      ],
+      "text": "$\\mathrm{CsCl}$ 型晶胞中，$\\mathrm{Cs^+}$ 位于立方体的八个顶点，$\\mathrm{Cl^-}$ 位于体心。每个 $\\mathrm{Cs^+}$（$\\mathrm{Cl^-}$）周围等距且紧邻的 $\\mathrm{Cl^-}$（$\\mathrm{Cs^+}$）有 $8$ 个，同种离子有 $6$ 个。每个晶胞中含 $1$ 个 $\\mathrm{Cs^+}$、$1$ 个 $\\mathrm{Cl^-}$。",
+      "title": "氯化铯型晶体结构",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c14",
+      "source_node_ids": [
+        "n-41bf246ca86bc8257e80"
+      ],
+      "text": "四类典型晶体是分子晶体、共价晶体、金属晶体、离子晶体，大多数晶体是它们之间的过渡晶体。",
+      "title": "过渡晶体",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c15",
+      "source_node_ids": [
+        "n-73f4f0c25992e3970eee"
+      ],
+      "text": "石墨是混合型晶体的实例。同层内，碳原子采取 $\\mathrm{sp^2}$ 杂化，以共价键（$\\sigma$ 键）结合，形成平面六元并环结构；层与层之间靠范德华力维系。每个碳原子的配位数为 $3$，有一个未参与杂化的 $\\mathrm{2p}$ 电子，其原子轨道垂直于碳原子平面。",
+      "title": "混合型晶体与石墨结构",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-26dcd7e69ec1966708af"
+      ],
+      "text": "分子晶体中，影响微粒间作用力强弱的因素为相对分子质量、分子极性、电负性；共价晶体中为键长（原子半径）；金属晶体和离子晶体中均为离子半径、离子所带电荷数。",
+      "title": "典型晶体中微粒间作用力的影响因素",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-41bf246ca86bc8257e80"
+      ],
+      "text": "离子晶体和共价晶体之间的过渡晶体中，化学键中离子键成分的百分数越大，性质越接近纯粹的离子晶体；离子键成分的百分数越小，性质越接近纯粹的共价晶体。",
+      "title": "离子键成分与过渡晶体性质的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-41bf246ca86bc8257e80"
+      ],
+      "text": "电负性的差值越大，离子键成分的百分数越大。例如，离子键成分的百分数：$\\mathrm{Na_2O}>\\mathrm{MgO}>\\mathrm{Al_2O_3}$。",
+      "title": "电负性差值与离子键成分的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-9512ae31a6dc8f528295",
+        "n-5e53c50d30291c0ebf4c"
+      ],
+      "text": "金刚石中每个 $\\mathrm{C}$ 参与 $4$ 个 $\\mathrm{C{-}C}$ 键的形成，$\\mathrm{C}$ 原子数与 $\\mathrm{C{-}C}$ 键数之比为 $1:2$。$1\\ \\mathrm{mol}$ 金刚石中含 $2\\ \\mathrm{mol}$ $\\mathrm{C{-}C}$ 键；$1\\ \\mathrm{mol}$ 石墨中含 $1.5\\ \\mathrm{mol}$ $\\mathrm{C{-}C}$ 键；$1\\ \\mathrm{mol}$ 晶体硅中含 $2\\ \\mathrm{mol}$ $\\mathrm{Si{-}Si}$ 键；$1\\ \\mathrm{mol}$ $\\mathrm{SiO_2}$ 中含 $4\\ \\mathrm{mol}$ $\\mathrm{Si{-}O}$ 键。",
+      "title": "常见晶体中共价键的数目关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-9512ae31a6dc8f528295"
+      ],
+      "text": "$\\mathrm{SiO_2}$ 晶体中，$\\mathrm{Si}$ 原子数与 $\\mathrm{Si{-}O}$ 键数之比为 $1:4$。每个正四面体占有 $1$ 个 $\\mathrm{Si}$、$4$ 个“$\\dfrac{1}{2}\\mathrm{O}$”，$N(\\mathrm{Si}):N(\\mathrm{O})=1:2$。",
+      "title": "二氧化硅晶体的原子数与键数关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-73f4f0c25992e3970eee"
+      ],
+      "text": "石墨中，所有碳原子未参与杂化的 $\\mathrm{p}$ 轨道平行且相互重叠，$\\mathrm{p}$ 轨道中的电子可以在整个碳原子平面中运动，使石墨具有类似金属晶体的导电性。",
+      "title": "石墨导电性的结构原因",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-9a1016e031735df85c44"
+      ],
+      "text": "获得晶体的途径包括：熔融态物质凝固、气态物质凝华、溶质从溶液中析出。",
+      "title": "获得晶体的途径",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-9a1016e031735df85c44"
+      ],
+      "text": "利用 $\\mathrm{X}$ 射线衍射实验测定晶体结构。",
+      "title": "晶体结构测定",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-41bf246ca86bc8257e80"
+      ],
+      "text": "对于离子晶体和共价晶体之间的过渡晶体，化学键中离子键成分的百分数较大、性质较接近纯粹离子晶体时，通常当作离子晶体处理；离子键成分的百分数较小、性质较接近纯粹共价晶体时，通常当作共价晶体处理。",
+      "title": "过渡晶体的分类处理",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-e78602b4abaef5f733ab"
+      ],
+      "text": "确定配位数时，离子晶体统计某离子周围最邻近的异电性离子数；金属晶体统计某原子周围最邻近的原子数。",
+      "title": "按最邻近微粒确定配位数",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-dd566011a173714ea527"
+      ],
+      "from": "c1",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9a1016e031735df85c44"
+      ],
+      "from": "m1",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9a1016e031735df85c44"
+      ],
+      "from": "m2",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e78602b4abaef5f733ab"
+      ],
+      "from": "m4",
+      "to": "c3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e78602b4abaef5f733ab"
+      ],
+      "from": "m4",
+      "to": "c4",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9512ae31a6dc8f528295"
+      ],
+      "from": "c5",
+      "to": "c11",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9512ae31a6dc8f528295"
+      ],
+      "from": "c6",
+      "to": "c9",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9512ae31a6dc8f528295"
+      ],
+      "from": "c6",
+      "to": "c10",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9512ae31a6dc8f528295"
+      ],
+      "from": "c8",
+      "to": "c12",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9512ae31a6dc8f528295"
+      ],
+      "from": "c8",
+      "to": "c13",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e78602b4abaef5f733ab"
+      ],
+      "from": "c3",
+      "to": "c12",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-26dcd7e69ec1966708af"
+      ],
+      "from": "l1",
+      "to": "c5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-26dcd7e69ec1966708af"
+      ],
+      "from": "l1",
+      "to": "c6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-26dcd7e69ec1966708af"
+      ],
+      "from": "l1",
+      "to": "c7",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-26dcd7e69ec1966708af"
+      ],
+      "from": "l1",
+      "to": "c8",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-41bf246ca86bc8257e80"
+      ],
+      "from": "l2",
+      "to": "c14",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-41bf246ca86bc8257e80"
+      ],
+      "from": "l3",
+      "to": "l2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-41bf246ca86bc8257e80"
+      ],
+      "from": "m3",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-41bf246ca86bc8257e80"
+      ],
+      "from": "m3",
+      "to": "c14",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9512ae31a6dc8f528295",
+        "n-5e53c50d30291c0ebf4c"
+      ],
+      "from": "l4",
+      "to": "c9",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9512ae31a6dc8f528295"
+      ],
+      "from": "l5",
+      "to": "c10",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-73f4f0c25992e3970eee"
+      ],
+      "from": "l6",
+      "to": "c15",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-53839b13ebece3194467",
+        "n-26dcd7e69ec1966708af"
+      ],
+      "from": "n-53839b13ebece3194467",
+      "to": "c5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-53839b13ebece3194467",
+        "n-26dcd7e69ec1966708af"
+      ],
+      "from": "n-53839b13ebece3194467",
+      "to": "c6",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-53839b13ebece3194467",
+        "n-26dcd7e69ec1966708af"
+      ],
+      "from": "n-53839b13ebece3194467",
+      "to": "c8",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-508b7f70aa0559a19a00",
+        "n-dd566011a173714ea527"
+      ],
+      "from": "n-508b7f70aa0559a19a00",
+      "to": "c2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-508b7f70aa0559a19a00",
+        "n-e78602b4abaef5f733ab"
+      ],
+      "from": "n-508b7f70aa0559a19a00",
+      "to": "c3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-9f3844f43060c0c51667",
+  "source_digest": "30cde19393301f5beb578d9fc7c41ea6d7ed9a1fa8a2a4b0668c9eaebb78b4c3",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

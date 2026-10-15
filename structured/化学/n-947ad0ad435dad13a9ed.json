@@ -1,0 +1,295 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-43defaa095b355950a86"
+      ],
+      "text": "离子交换膜的类型包括阳离子交换膜、阴离子交换膜和质子交换膜；可用于隔离某些物质以防止发生反应、制备物质，以及物质的分离和提纯。用于制备物质时，可在电解后的阴极区或阳极区溶液中得到所制备的物质。",
+      "title": "离子交换膜的分类与应用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-43defaa095b355950a86"
+      ],
+      "text": "阳离子交换膜允许阳离子通过，阻止阴离子和气体通过。",
+      "title": "阳离子交换膜",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-43defaa095b355950a86"
+      ],
+      "text": "阴离子交换膜允许阴离子通过，阻止阳离子和气体通过。",
+      "title": "阴离子交换膜",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-43defaa095b355950a86"
+      ],
+      "text": "质子交换膜允许质子（$\\mathrm{H^+}$）通过。",
+      "title": "质子交换膜",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-4d6244f5563fd08cbbff"
+      ],
+      "text": "双极膜是一种新型离子交换膜，其膜主体可分为阴离子选择层、阳离子选择层和中间界面层；水解离催化剂被夹在中间界面层的离子交换聚合物中。",
+      "title": "双极膜的结构",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-06a82d6a3d3127e9767f"
+      ],
+      "text": "调节溶液的$\\mathrm{pH}$，当氨基酸主要以两性离子存在、分子整体呈电中性时，此时溶液的$\\mathrm{pH}$为该氨基酸的$\\mathrm{pI}$。题给谷氨酸的$\\mathrm{pI}=3.22$、丙氨酸的$\\mathrm{pI}=6.02$、赖氨酸的$\\mathrm{pI}=9.74$。",
+      "title": "氨基酸的$\\mathrm{pI}$",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-4d6244f5563fd08cbbff"
+      ],
+      "text": "双极膜中间界面层的离子交换聚合物中的$\\mathrm{H_2O}$电离产生$\\mathrm{H^+}$和$\\mathrm{OH^-}$，两者在电场作用下快速迁移到两侧溶液中，作为$\\mathrm{H^+}$和$\\mathrm{OH^-}$的供应源，为膜两侧的半反应提供各自理想的$\\mathrm{pH}$条件。原文示意图中，左侧电极为正极、膜层为阴离子选择层，右侧电极为负极、膜层为阳离子选择层，$\\mathrm{OH^-}$向左迁移，$\\mathrm{H^+}$向右迁移。",
+      "title": "双极膜中的水解离与离子迁移",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-06a82d6a3d3127e9767f"
+      ],
+      "text": "原文示意图中，氨基酸的阳离子形式含$\\mathrm{COOH}$和$\\mathrm{H_3N^+}$，电中性的两性离子形式含$\\mathrm{COO^-}$和$\\mathrm{H_3N^+}$，阴离子形式含$\\mathrm{COO^-}$和$\\mathrm{H_2N}$。相邻形式之间可逆转化；在$\\mathrm{OH^-}$作用下，转化方向依次为阳离子形式、两性离子形式、阴离子形式，在$\\mathrm{H^+}$作用下转化方向相反。",
+      "title": "氨基酸存在形式随酸碱条件的转化",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-a6c748dc7431d6132956"
+      ],
+      "text": "第一步，根据电化学装置的目的和离子交换膜的作用，判断哪些离子需要跨膜迁移，或哪些离子不可跨膜迁移。第二步，根据允许通过或不允许通过的离子种类，以及离子的移动方向，确定离子交换膜的类型。",
+      "title": "离子交换膜类型的判断",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-a6c748dc7431d6132956"
+      ],
+      "text": "在氯碱工业中，用离子交换膜法电解饱和食盐水时，需阻止阴极室生成的$\\mathrm{OH^-}$迁移至阳极室与氯气反应造成产品损失，同时允许阳极室中的$\\mathrm{Na^+}$迁移至阴极室以得到$\\mathrm{NaOH}$溶液，据此确定使用阳离子交换膜。",
+      "title": "根据氯碱工业的分隔与迁移要求选择膜",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-a6c748dc7431d6132956"
+      ],
+      "text": "对于含有离子交换膜的电化学装置，判断反应后某极室溶液的$\\mathrm{pH}$变化或计算溶液质量变化时，需考虑离子透过离子交换膜进出该极室造成的影响。",
+      "title": "考虑跨膜离子对溶液变化的影响",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-43defaa095b355950a86"
+      ],
+      "from": "c1",
+      "to": "c2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-43defaa095b355950a86"
+      ],
+      "from": "c1",
+      "to": "c3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-43defaa095b355950a86"
+      ],
+      "from": "c1",
+      "to": "c4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4d6244f5563fd08cbbff"
+      ],
+      "from": "c1",
+      "to": "c5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4d6244f5563fd08cbbff"
+      ],
+      "from": "c5",
+      "to": "l1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-06a82d6a3d3127e9767f"
+      ],
+      "from": "c6",
+      "to": "l2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a6c748dc7431d6132956"
+      ],
+      "from": "m2",
+      "to": "m1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a6c748dc7431d6132956"
+      ],
+      "from": "m2",
+      "to": "c2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a6c748dc7431d6132956"
+      ],
+      "from": "m3",
+      "to": "c1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1505208c506fc8f1dd62"
+      ],
+      "from": "n-1505208c506fc8f1dd62",
+      "to": "c5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1505208c506fc8f1dd62"
+      ],
+      "from": "n-1505208c506fc8f1dd62",
+      "to": "l1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d53ce91f22d153584a42"
+      ],
+      "from": "n-d53ce91f22d153584a42",
+      "to": "l1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d53ce91f22d153584a42"
+      ],
+      "from": "n-d53ce91f22d153584a42",
+      "to": "m1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-06a82d6a3d3127e9767f"
+      ],
+      "from": "n-06a82d6a3d3127e9767f",
+      "to": "c6",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-06a82d6a3d3127e9767f"
+      ],
+      "from": "n-06a82d6a3d3127e9767f",
+      "to": "l2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-06a82d6a3d3127e9767f"
+      ],
+      "from": "n-06a82d6a3d3127e9767f",
+      "to": "m1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-75ac0942e7856529154c"
+      ],
+      "from": "n-75ac0942e7856529154c",
+      "to": "c4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-75ac0942e7856529154c",
+        "n-a6c748dc7431d6132956"
+      ],
+      "from": "n-75ac0942e7856529154c",
+      "to": "m3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8d03dc061f7de6013322"
+      ],
+      "from": "n-8d03dc061f7de6013322",
+      "to": "m1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8d03dc061f7de6013322",
+        "n-a6c748dc7431d6132956"
+      ],
+      "from": "n-8d03dc061f7de6013322",
+      "to": "m3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-947ad0ad435dad13a9ed",
+  "source_digest": "8eef714d0fdd31d587f033387c66291fecf310ea41121a33c8fb547f24a49fd2",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

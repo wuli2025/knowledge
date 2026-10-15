@@ -1,0 +1,388 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-4156e8bd12daf78edf15"
+      ],
+      "text": "书写新情境中的氧化还原反应方程式，要根据物质的氧化性、还原性或元素化合价的升降，确定氧化剂与还原产物、还原剂与氧化产物，并抓住得失电子守恒。",
+      "title": "新情境中的氧化还原反应方程式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-771f46c8e18f38d58c2b"
+      ],
+      "text": "原文将新情境中的非氧化还原反应方程式书写分为直接给出反应物与生成物、知识迁移两类；知识迁移可依据元素周期律、盐类水解原理、物质的稳定性和平衡移动原理。",
+      "title": "新情境中的非氧化还原反应方程式",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-4156e8bd12daf78edf15"
+      ],
+      "text": "氧化还原反应中得失电子守恒，可据此配平反应方程式中的变价物质。",
+      "title": "得失电子守恒",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-4156e8bd12daf78edf15",
+        "n-771f46c8e18f38d58c2b"
+      ],
+      "text": "离子方程式的配平应满足电荷守恒；新情境中氧化还原反应的离子方程式可结合溶液酸碱性，补上 $\\mathrm{H^+}$ 或 $\\mathrm{OH^-}$ 配平电荷。",
+      "title": "电荷守恒",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-4156e8bd12daf78edf15",
+        "n-771f46c8e18f38d58c2b"
+      ],
+      "text": "反应方程式的配平应满足原子守恒；氧化还原反应中配平变价物质和电荷后，可根据原子守恒补上 $\\mathrm{H_2O}$ 等，完成配平并检查。",
+      "title": "原子守恒",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-4156e8bd12daf78edf15"
+      ],
+      "text": "对于中性溶液中发生的反应，配平电荷时一般在生成物一侧加 $\\mathrm{H^+}$ 或 $\\mathrm{OH^-}$。酸性条件下，离子方程式中不能出现 $\\mathrm{OH^-}$；碱性条件下，离子方程式中不能出现 $\\mathrm{H^+}$。",
+      "title": "酸碱条件对离子方程式书写的限制",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-4156e8bd12daf78edf15"
+      ],
+      "text": "含氯元素的氧化剂（例如 $\\mathrm{ClO^-}$）被还原时，一般考虑生成 $\\mathrm{Cl^-}$；题目中暗示有别的产物时除外。",
+      "title": "含氯氧化剂的常见还原产物",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-4156e8bd12daf78edf15"
+      ],
+      "text": "金属硫化物（例如 $\\mathrm{CuS}$）在空气中灼烧，一般考虑生成金属氧化物与 $\\mathrm{SO_2}$。",
+      "title": "金属硫化物在空气中灼烧的常见产物",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-4156e8bd12daf78edf15"
+      ],
+      "text": "含 $-2$ 价硫元素的物质（例如 $\\mathrm{S^{2-}}$）在溶液中被氧化，一般考虑生成 $\\mathrm{S}$。",
+      "title": "负二价硫在溶液中的常见氧化产物",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-4156e8bd12daf78edf15"
+      ],
+      "text": "含 $+4$ 价硫元素的物质（例如 $\\mathrm{SO_3^{2-}}$）被氧化，一般考虑生成 $\\mathrm{SO_4^{2-}}$。",
+      "title": "正四价硫的常见氧化产物",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-4156e8bd12daf78edf15"
+      ],
+      "text": "含负价氮元素的还原剂（如 $\\mathrm{N_2H_4}$）被氧化时，一般考虑生成 $\\mathrm{N_2}$。",
+      "title": "负价氮还原剂的常见氧化产物",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-771f46c8e18f38d58c2b"
+      ],
+      "text": "盐类水解的基本原理是盐电离出的弱碱阳离子与水电离出的 $\\mathrm{OH^-}$ 结合，弱酸阴离子与水电离出的 $\\mathrm{H^+}$ 结合。",
+      "title": "盐类水解原理",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-4156e8bd12daf78edf15"
+      ],
+      "text": "第一步，根据物质的氧化性、还原性或元素化合价的升降，确定氧化剂与还原产物、还原剂与氧化产物。第二步，按“氧化剂＋还原剂→还原产物＋氧化产物”写出反应方程式，根据得失电子守恒配平变价物质。第三步，对于离子方程式，根据电荷守恒和溶液酸碱性补上 $\\mathrm{H^+}$ 或 $\\mathrm{OH^-}$。第四步，根据原子守恒补上 $\\mathrm{H_2O}$ 等，完成配平并检查。",
+      "title": "氧化还原反应方程式的四步书写法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-4156e8bd12daf78edf15"
+      ],
+      "text": "在已配平的离子方程式中补上相应离子并“配对”，可得化学方程式。原文示例的离子方程式为 $\\mathrm{2MnO_4^-+5SO_2+2H_2O=2Mn^{2+}+5SO_4^{2-}+4H^+}$；左右两边补上 $\\mathrm{2K^+}$ 并将相应离子配对，得到 $\\mathrm{2KMnO_4+5SO_2+2H_2O=2MnSO_4+K_2SO_4+2H_2SO_4}$。",
+      "title": "由离子方程式转写化学方程式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-771f46c8e18f38d58c2b"
+      ],
+      "text": "适用于题干或流程图直接给出反应物与生成物的非氧化还原反应：先根据给定信息写出反应物与生成物，再根据原子守恒、电荷守恒配平。原文示例：$\\mathrm{BaS}$ 溶液与 $\\mathrm{ZnSO_4}$ 溶液混合生成立德粉（$\\mathrm{ZnS\\cdot BaSO_4}$），离子方程式为 $\\mathrm{Ba^{2+}+S^{2-}+Zn^{2+}+SO_4^{2-}=ZnS\\cdot BaSO_4\\downarrow}$。",
+      "title": "依据题干或流程图直接书写",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-771f46c8e18f38d58c2b"
+      ],
+      "text": "知识迁移类非氧化还原反应可根据元素周期律类比书写。原文以 $\\mathrm{Sn}$ 与 $\\mathrm{Si}$ 同族为依据，类比 $\\mathrm{SiO_2}$ 与 $\\mathrm{NaOH}$ 的反应，得到 $\\mathrm{SnO_2+2NaOH}\\xrightarrow{\\text{焙烧}}\\mathrm{Na_2SnO_3+H_2O}$。",
+      "title": "根据元素周期律类比书写",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-771f46c8e18f38d58c2b"
+      ],
+      "text": "知识迁移类非氧化还原反应可类比盐类水解原理，使两种物质中带正、负电荷的粒子分别结合。原文示例为 $\\mathrm{Al(CH_3)_3+3H_2O=Al(OH)_3\\downarrow+3CH_4\\uparrow}$。",
+      "title": "基于盐类水解原理类比书写",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-771f46c8e18f38d58c2b"
+      ],
+      "text": "知识迁移类非氧化还原反应可基于物质的稳定性书写。原文以煅烧偏钒酸铵得到五氧化二钒为例，给出 $\\mathrm{2NH_4VO_3}\\xrightarrow{\\text{煅烧}}\\mathrm{V_2O_5+2NH_3\\uparrow+H_2O\\uparrow}$。",
+      "title": "基于物质的稳定性书写",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-771f46c8e18f38d58c2b"
+      ],
+      "text": "依据溶液中已有平衡及有关粒子的结合，分析平衡移动并书写方程式。原文中 $\\mathrm{FeSO_4}$ 溶液与氨水—$\\mathrm{NH_4HCO_3}$ 混合溶液反应时，存在平衡 $\\mathrm{HCO_3^-}\\rightleftharpoons\\mathrm{H^++CO_3^{2-}}$；$\\mathrm{Fe^{2+}}$ 与 $\\mathrm{CO_3^{2-}}$ 结合生成 $\\mathrm{FeCO_3}$ 沉淀，$\\mathrm{NH_3\\cdot H_2O}$ 与 $\\mathrm{H^+}$ 结合生成 $\\mathrm{NH_4^+}$ 和 $\\mathrm{H_2O}$，使平衡正向移动。原文给出的离子方程式为 $\\mathrm{Fe^{2+}+HCO_3^-+NH_3\\cdot H_2O=FeCO_3\\downarrow+NH_4^++H_2O}$ 或 $\\mathrm{Fe^{2+}+HCO_3^-+NH_3=FeCO_3\\downarrow+NH_4^+}$。",
+      "title": "根据平衡移动原理书写",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-4156e8bd12daf78edf15"
+      ],
+      "from": "m1",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4156e8bd12daf78edf15"
+      ],
+      "from": "m1",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4156e8bd12daf78edf15"
+      ],
+      "from": "m1",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4156e8bd12daf78edf15"
+      ],
+      "from": "m1",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4156e8bd12daf78edf15"
+      ],
+      "from": "m1",
+      "to": "l4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4156e8bd12daf78edf15"
+      ],
+      "from": "m2",
+      "to": "m1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4156e8bd12daf78edf15"
+      ],
+      "from": "l5",
+      "to": "m1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4156e8bd12daf78edf15"
+      ],
+      "from": "l6",
+      "to": "m1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4156e8bd12daf78edf15"
+      ],
+      "from": "l7",
+      "to": "m1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4156e8bd12daf78edf15"
+      ],
+      "from": "l8",
+      "to": "m1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4156e8bd12daf78edf15"
+      ],
+      "from": "l9",
+      "to": "m1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-771f46c8e18f38d58c2b"
+      ],
+      "from": "m3",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-771f46c8e18f38d58c2b"
+      ],
+      "from": "m3",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-771f46c8e18f38d58c2b"
+      ],
+      "from": "m3",
+      "to": "c2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-771f46c8e18f38d58c2b"
+      ],
+      "from": "m4",
+      "to": "c2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-771f46c8e18f38d58c2b"
+      ],
+      "from": "m5",
+      "to": "c2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-771f46c8e18f38d58c2b"
+      ],
+      "from": "m5",
+      "to": "l10",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-771f46c8e18f38d58c2b"
+      ],
+      "from": "m6",
+      "to": "c2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-771f46c8e18f38d58c2b"
+      ],
+      "from": "m7",
+      "to": "c2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5b3f9d0c31d60c4b2bac",
+        "n-4156e8bd12daf78edf15"
+      ],
+      "from": "n-5b3f9d0c31d60c4b2bac",
+      "to": "m1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-60d6155ac888d6dc70b2",
+        "n-4156e8bd12daf78edf15"
+      ],
+      "from": "n-60d6155ac888d6dc70b2",
+      "to": "c1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-fc21f405f82588622a81",
+        "n-4156e8bd12daf78edf15"
+      ],
+      "from": "n-fc21f405f82588622a81",
+      "to": "m1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-50762cda137f19e35d01",
+  "source_digest": "e176e840fe677e30adf609628e8ceb93e642009039eb8195f5d7b595c0e28786",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

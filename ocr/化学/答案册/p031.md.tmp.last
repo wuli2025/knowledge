@@ -1,0 +1,183 @@
+<!-- page 31 -->
+
+### 典例2
+
+答案　（1）球形冷凝管　防止暴沸
+
+（2）及时分离出水，有利于反应正向进行　分水器中水层体积不再变化
+
+（3）上口　除去 $\mathrm{NaOH}$ 和生成的盐
+
+（4）142.4　正丁醚沸点高，内外温差大，直形冷凝管容易炸裂
+
+（5）58%
+
+解析　（2）制备反应为 $2\mathrm{CH_3CH_2CH_2CH_2OH}\xrightarrow[\Delta]{\text{浓硫酸}}\mathrm{CH_3CH_2CH_2CH_2OCH_2CH_2CH_2CH_3}+\mathrm{H_2O}$，加热蒸出水，水蒸气在 B 中冷凝为液态水并流入分水器中，一段时间后打开分水器下部活塞，将水及时分出，有利于反应正向进行，从而提高产率。
+
+（3）正丁醚不溶于水且密度小于水，故含有正丁醚的有机层位于上层，应从分液漏斗上口倒出。先用水洗涤除去正丁醚中混有的正丁醇和硫酸，然后用 $\mathrm{NaOH}$ 溶液除去残留的硫酸（中和生成 $\mathrm{Na_2SO_4}$），最后用水洗涤除去残留的 $\mathrm{NaOH}$ 和 $\mathrm{Na_2SO_4}$。
+
+（4）正丁醚的沸点为 $142.4\ ^\circ\mathrm{C}$，故蒸馏纯化时应收集约 $142.4\ ^\circ\mathrm{C}$ 左右的馏分。若使用直形冷凝管，温度较高的正丁醚蒸气与温度较低的冷凝水的温差较大，易导致直形冷凝管炸裂。
+
+（5）$7.4\ \mathrm{g}$ 正丁醇的物质的量为 $0.1\ \mathrm{mol}$，根据前述化学方程式，理论上可得 $0.05\ \mathrm{mol}$ 正丁醚，质量为 $6.5\ \mathrm{g}$，则产率 $=\dfrac{3.8\ \mathrm{g}}{6.5\ \mathrm{g}}\times100\%\approx58\%$。
+
+### 变式
+
+答案　（1）D
+
+（2）球形冷凝管
+
+（3）反应液由蓝色变为无色
+
+（4）作保护气，防止 $+1$ 价铜被氧化；防止乙腈逸出
+
+（5）提高纯度；防止分解
+
+（6）C
+
+（7）81.2%
+
+解析　（1）A、B、C、D、E 的图标分别代表护目镜、明火、热烫、排风和洗手，故选 D。
+
+（3）$3.71\ \mathrm{g}\ \mathrm{Cu(ClO_4)_2\cdot6H_2O}$ 的物质的量为 $0.01\ \mathrm{mol}$，$0.76\ \mathrm{g}\ \mathrm{Cu}$ 的物质的量约为 $0.012\ \mathrm{mol}$，根据反应原理可知，加入的 $\mathrm{Cu}$ 稍过量。由已知信息可知，发生反应前溶液呈蓝色，生成物在乙腈中为无色，故当反应液由蓝色变为无色可说明反应完全。
+
+（4）$+1$ 价铜易被氧化，所以采用 $\mathrm{N_2}$ 作保护气；根据题中所给信息，乙腈易挥发，气球可防止乙腈逸出。
+
+（5）若直接蒸馏使乙腈完全挥发，会引起产品分解，导致产品不纯。
+
+（6）已知乙腈是强极性溶剂，而题给三种溶剂中乙醚的极性最弱，向母液中加入乙醚可最大程度地降低产品的溶解度。
+
+（7）起始加入 $3.71\ \mathrm{g}\ \mathrm{Cu(ClO_4)_2\cdot6H_2O}$（$0.01\ \mathrm{mol}$）和 $0.76\ \mathrm{g}\ \mathrm{Cu}$（约为 $0.012\ \mathrm{mol}$），理论上可制得 $0.02\ \mathrm{mol}$ 产品（$6.55\ \mathrm{g}$），故总收率 $=\dfrac{\text{实际产量}}{\text{理论产量}}\times100\%=\dfrac{5.32\ \mathrm{g}}{6.55\ \mathrm{g}}\times100\%\approx81.2\%$。
+
+## 微专题7　定量分析实验综合题的解题策略
+
+### 典例1
+
+答案　（4）① $\dfrac{13(V_1-V_2)}{3mV_{\mathrm{m}}}\%$　② 偏高
+
+解析　（4）① F 的 0 刻度在上，则生成 $\mathrm{N_2}$ 的物质的量为 $\dfrac{(V_1-V_2)\times10^{-3}\ \mathrm{L}}{V_{\mathrm{m}}\ \mathrm{L\cdot mol^{-1}}}=\dfrac{(V_1-V_2)\times10^{-3}}{V_{\mathrm{m}}}\ \mathrm{mol}$，根据 $\mathrm{N}$ 原子守恒可得关系式：$2\mathrm{NaN_3}\sim3\mathrm{N_2}$，则产品中 $\mathrm{NaN_3}$ 的质量分数为 $\dfrac{\dfrac{(V_1-V_2)\times10^{-3}}{V_{\mathrm{m}}}\ \mathrm{mol}\times\dfrac{2}{3}\times65\ \mathrm{g\cdot mol^{-1}}}{m\ \mathrm{g}}\times100\%=\dfrac{13(V_1-V_2)}{3mV_{\mathrm{m}}}\%$。
+
+②反应结束读数时，若 F 中液面低于水准管中液面，装置中气体压强会偏小，气体体积会偏大，导致 $V_2$ 偏小，根据前述计算公式可知测定结果会偏高［也可根据气体体积偏大导致 $(V_1-V_2)$ 偏大进行判断］。
+
+### 典例2
+
+答案　（1）$\mathrm{Cl_2}+2\mathrm{MnO_4^{2-}}=2\mathrm{MnO_4^-}+2\mathrm{Cl^-}$　防止倒吸　溶液由深绿色完全转变为紫红色　打开弹簧夹，通入空气（或 $\mathrm{N_2}$）
+
+（2）c→g→f→a
+
+（3）$\dfrac{158m_2V_1}{335m_1V_2}\times100\%$　偏高
+
+解析　（1）利用 $\mathrm{Cl_2}$ 将 $\mathrm{K_2MnO_4}$ 氧化为 $\mathrm{KMnO_4}$，$\mathrm{Cl_2}$ 被还原为 $\mathrm{Cl^-}$，根据得失电子守恒、电荷守恒和原子守恒书写相应的离子方程式。单向阀可防止装置 B 中的液体倒吸进入装置 A 中。已知 $\mathrm{K_2MnO_4}$ 溶液呈深绿色，$\mathrm{KMnO_4}$ 溶液呈紫红色，故当装置 B 中溶液由深绿色完全转变为紫红色时，$\mathrm{K_2MnO_4}$ 完全转化为 $\mathrm{KMnO_4}$，即可停止通 $\mathrm{Cl_2}$。拆除装置前，需向装置中通入空气（或 $\mathrm{N_2}$），将装置中剩余的 $\mathrm{Cl_2}$ 完全排入装置 C 中被吸收。
+
+（2）根据题表数据可知 $\mathrm{KMnO_4}$ 的溶解度随温度升高而明显增大，且 $\mathrm{KMnO_4}$ 受热易分解，故采用蒸发浓缩、降温结晶的方法获得 $\mathrm{KMnO_4}$ 晶体，减压过滤后用少量冰水洗涤，以减少 $\mathrm{KMnO_4}$ 的溶解损失；由于 $\mathrm{KMnO_4}$ 具有强氧化性，能氧化乙醇，故不可用乙醇洗涤。
+
+（3）根据得失电子守恒和原子守恒，可得关系式：$2\mathrm{MnO_4^-}\sim5\mathrm{H_2C_2O_4}\sim5\mathrm{Na_2C_2O_4}$，则 $n(\mathrm{KMnO_4})=\dfrac{2}{5}n(\mathrm{Na_2C_2O_4})=\dfrac{2}{5}\times\dfrac{m_2\ \mathrm{g}}{134\ \mathrm{g\cdot mol^{-1}}}=\dfrac{m_2}{335}\ \mathrm{mol}$，故样品中 $\mathrm{KMnO_4}$ 的质量分数为 $\dfrac{\dfrac{m_2}{335}\ \mathrm{mol}\times\dfrac{V_1\ \mathrm{mL}}{V_2\ \mathrm{mL}}\times158\ \mathrm{g\cdot mol^{-1}}}{m_1\ \mathrm{g}}\times100\%=\dfrac{158m_2V_1}{335m_1V_2}\times100\%$。
+
+若部分 $\mathrm{H_2C_2O_4}$ 发生分解，消耗 $\mathrm{KMnO_4}$ 溶液的体积偏小，$V_2$ 偏小，根据计算公式可知测得产品纯度偏高。
+
+### 变式1
+
+（1）将 $\mathrm{Co^{2+}}$ 转化为具有较强还原性的 $\mathrm{[Co(NH_3)_6]^{2+}}$，利于后续被 $\mathrm{H_2O_2}$ 氧化
+
+（2）$2\mathrm{[Co(NH_3)_6]^{2+}}+\mathrm{H_2O_2}+2\mathrm{NH_4^+}\xrightarrow[55\sim60\ ^\circ\mathrm{C}]{\text{活性炭}}2\mathrm{[Co(NH_3)_6]^{3+}}+2\mathrm{NH_3}\uparrow+2\mathrm{H_2O}$
+
+（3）过滤速度快，得到的固体较干燥
+
+<!-- page 32 -->
+
+（4）增大 $\mathrm{Cl^-}$ 浓度，促进 $\mathrm{[Co(NH_3)_6]Cl_3}$ 晶体析出
+
+（5）① 防止氨气逸出，同时可调节气压　② $\dfrac{17(2c_1V_1-c_2V_2)}{1\,000a}\times100\%$　③ D
+
+解析　（1）已知 $\mathrm{Co^{2+}}$ 不易被氧化，$\mathrm{[Co(NH_3)_6]^{2+}}$ 具有较强的还原性，故先加浓氨水将 $\mathrm{Co^{2+}}$ 转化为 $\mathrm{[Co(NH_3)_6]^{2+}}$，再加入 $\mathrm{H_2O_2}$ 溶液将 $\mathrm{[Co(NH_3)_6]^{2+}}$ 氧化为 $\mathrm{[Co(NH_3)_6]^{3+}}$。
+
+（2）$\mathrm{H_2O_2}$ 溶液将 $\mathrm{[Co(NH_3)_6]^{2+}}$ 氧化为 $\mathrm{[Co(NH_3)_6]^{3+}}$，即 $2\mathrm{[Co(NH_3)_6]^{2+}}+\mathrm{H_2O_2}\xrightarrow[55\sim60\ ^\circ\mathrm{C}]{\text{活性炭}}2\mathrm{[Co(NH_3)_6]^{3+}}+2\mathrm{OH^-}$，生成的 $\mathrm{OH^-}$ 会与 $\mathrm{NH_4^+}$ 反应生成 $\mathrm{NH_3}$ 和 $\mathrm{H_2O}$，据此写出总的离子方程式。
+
+（4）加入浓盐酸可增大 $\mathrm{Cl^-}$ 浓度，使 $\mathrm{[Co(NH_3)_6]Cl_3}$ 的沉淀溶解平衡逆向移动，促进 $\mathrm{[Co(NH_3)_6]Cl_3}$ 晶体析出。
+
+（5）①液封装置 1 可防止氨气逸出，且可通过长导管中液柱高低的变化来调节装置内部的气压。
+
+②吸收 $\mathrm{NH_3}$ 后溶质为 $\mathrm{(NH_4)_2SO_4}$、$\mathrm{H_2SO_4}$，剩余的 $\mathrm{H_2SO_4}$ 用 $\mathrm{NaOH}$ 标准溶液滴定，剩余的 $\mathrm{H_2SO_4}$ 的物质的量为 $\dfrac{1}{2}c_2V_2\times10^{-3}\ \mathrm{mol}$，则与 $\mathrm{NH_3}$ 反应的 $n(\mathrm{H_2SO_4})=\left(c_1V_1-\dfrac{1}{2}c_2V_2\right)\times10^{-3}\ \mathrm{mol}$，故 $n(\mathrm{NH_3})=2n(\mathrm{H_2SO_4})=(2c_1V_1-c_2V_2)\times10^{-3}\ \mathrm{mol}$，$\mathrm{NH_3}$ 的质量分数为 $\dfrac{(2c_1V_1-c_2V_2)\times10^{-3}\ \mathrm{mol}\times17\ \mathrm{g\cdot mol^{-1}}}{a\ \mathrm{g}}\times100\%=\dfrac{17(2c_1V_1-c_2V_2)}{1\,000a}\times100\%$。
+
+③A 项，液封装置 2 中的水溶有部分 $\mathrm{NH_3}$，若未将液封装置 2 中的水倒入锥形瓶，相当于损失了部分 $\mathrm{NH_3}$，测得的 $\mathrm{NH_3}$ 的质量分数将偏小，不符合题意。B 项，敞口放置时 $\mathrm{NaOH}$ 标准溶液会吸收 $\mathrm{CO_2}$ 而部分变质为 $\mathrm{Na_2CO_3}$，由于使用甲基橙为指示剂，达到滴定终点时溶液呈酸性，故 $\mathrm{NaOH}$ 和 $\mathrm{Na_2CO_3}$ 均能与 $\mathrm{H_2SO_4}$ 反应生成 $\mathrm{Na_2SO_4}$，消耗的 $\mathrm{NaOH}$ 标准溶液的体积不变，测得 $\mathrm{NH_3}$ 的质量分数不变，不符合题意。C 项，滴定前平视读数，滴定后仰视读数，消耗的 $\mathrm{NaOH}$ 标准溶液的体积读数偏大，$V_2$ 偏大，根据 $\mathrm{NH_3}$ 的质量分数的计算式可知，测得的 $\mathrm{NH_3}$ 的质量分数偏小，不符合题意。D 项，滴定前滴定管尖嘴内无气泡，滴定后滴定管尖嘴内有气泡，消耗的 $\mathrm{NaOH}$ 标准溶液的体积读数偏小，$V_2$ 偏小，根据 $\mathrm{NH_3}$ 的质量分数的计算式可知，测得的 $\mathrm{NH_3}$ 的质量分数偏大，符合题意。
+
+### 变式2
+
+答案　（1）烧杯、玻璃棒
+
+（2）加快 $\mathrm{NH_4HCO_3}$ 的溶解速率，使 $\mathrm{NH_4HCO_3}$ 充分溶解
+
+（3）装置和操作简单；避免 $\mathrm{NH_3}$ 对空气的污染
+
+（4）ⅰ．a　ⅱ．$>$
+
+（5）ⅰ．开放体系导致 $\mathrm{CO_2}$ 逸散，$\mathrm{NaHCO_3}$ 的生成速率较慢　ⅱ．80%
+
+解析　（2）研细的目的是增大 $\mathrm{NH_4HCO_3}$ 与溶液的接触面积，加快溶解速率，使 $\mathrm{NH_4HCO_3}$ 充分溶解。
+
+（3）用 $\mathrm{NH_4HCO_3}$ 代替 $\mathrm{CO_2}$ 和 $\mathrm{NH_3}$，省去了两种气体的制备过程，装置和操作简单，且避免了 $\mathrm{NH_3}$ 对空气的污染。
+
+（4）ⅰ．若产品的成分为 $\mathrm{Na_2CO_3}$，AB 段发生反应：$\mathrm{Na_2CO_3}+\mathrm{HCl}=\mathrm{NaHCO_3}+\mathrm{NaCl}$，BC 段发生反应：$\mathrm{NaHCO_3}+\mathrm{HCl}=\mathrm{NaCl}+\mathrm{H_2O}+\mathrm{CO_2}\uparrow$，两个反应消耗 $\mathrm{HCl}$ 的物质的量相同，则 $V_1=V_2$，a 符合题意；若为 $\mathrm{NaHCO_3}$，仅发生反应：$\mathrm{NaHCO_3}+\mathrm{HCl}=\mathrm{NaCl}+\mathrm{H_2O}+\mathrm{CO_2}\uparrow$，b 不符合题意；若为 $\mathrm{Na_2CO_3}$ 和 $\mathrm{NaHCO_3}$，AB 段发生反应：$\mathrm{Na_2CO_3}+\mathrm{HCl}=\mathrm{NaHCO_3}+\mathrm{NaCl}$，BC 段发生反应：$\mathrm{NaHCO_3}+\mathrm{HCl}=\mathrm{NaCl}+\mathrm{H_2O}+\mathrm{CO_2}\uparrow$，但是 $V_1<V_2$，c 不符合题意；若为 $\mathrm{Na_2CO_3}$ 和 $\mathrm{NaOH}$，AB 段发生反应：$\mathrm{NaOH}+\mathrm{HCl}=\mathrm{NaCl}+\mathrm{H_2O}$、$\mathrm{Na_2CO_3}+\mathrm{HCl}=\mathrm{NaHCO_3}+\mathrm{NaCl}$，BC 段发生反应：$\mathrm{NaHCO_3}+\mathrm{HCl}=\mathrm{NaCl}+\mathrm{H_2O}+\mathrm{CO_2}\uparrow$，$V_1>V_2$，d 不符合题意。
+
+ⅱ．若滴入盐酸局部过浓，则局部发生反应：$\mathrm{Na_2CO_3}+2\mathrm{HCl}=2\mathrm{NaCl}+\mathrm{H_2O}+\mathrm{CO_2}\uparrow$，导致 $V_1$ 增大，$V_2$ 减小，所以 $V_1'>V_1$。
+
+（5）ⅰ．实验 a 匀速通入 $\mathrm{CO_2}$，$\mathrm{CO_2}$ 在水中的溶解度较小，未溶解的 $\mathrm{CO_2}$ 逸散到空气中，溶液中 $\mathrm{CO_2}$ 的浓度较小，$\mathrm{NaHCO_3}$ 的生成速率较慢，未达到饱和状态，所以未析出；实验 b 通过密闭、剧烈摇动矿泉水瓶的方式避免 $\mathrm{CO_2}$ 逸散，并增大气液接触面积，$\mathrm{NaHCO_3}$ 的生成速率较快，迅速达到饱和状态而析出晶体，$\mathrm{CO_2}$ 被消耗使瓶内压强减小导致瓶子变瘪。
+
+ⅱ．加热至恒重，产生的气体为水蒸气和 $\mathrm{CO_2}$，先通过无水 $\mathrm{CaCl_2}$ 吸收水蒸气，再通过 $\mathrm{NaOH}$ 溶液吸收 $\mathrm{CO_2}$，$\mathrm{NaOH}$ 溶液增重 $0.088\ \mathrm{g}$，说明吸收了 $0.088\ \mathrm{g}\ \mathrm{CO_2}$，根据 $\mathrm{NaHCO_3}$ 分解的化学方程式可得关系式：$2\mathrm{NaHCO_3}\sim\mathrm{CO_2}$，则 $\mathrm{NaHCO_3}$ 的质量为 $\dfrac{0.088\ \mathrm{g}}{44\ \mathrm{g\cdot mol^{-1}}}\times2\times84\ \mathrm{g\cdot mol^{-1}}=0.336\ \mathrm{g}$，则 $\mathrm{NaHCO_3}$ 的质量分数为 $\dfrac{0.336\ \mathrm{g}}{0.42\ \mathrm{g}}\times100\%=80\%$。
+
+<!-- page 33 -->
+
+# 《精练册》答案全解全析
+
+## 物质的分类及转化　物质的量
+
+## 第1节　物质的组成、分类与转化
+
+### 五年高考
+
+A 项，基石的主要成分为硅酸盐或碳酸钙等无机物，错误；B 项，斗拱由木材制成，主要成分为纤维素，属于有机物，正确；C 项，青瓦由黏土烧制而成，主要成分为硅酸盐，属于无机物，错误；D 项，琉璃的主要成分为二氧化硅，属于无机物，错误。
+
+**2.B**　氮化硅属于无机非金属材料，A 错误；合金属于金属材料，B 正确；聚酰亚胺属于高分子材料，C 错误；反渗透膜的核心材料通常是高分子聚合物，属于高分子材料，D 错误。
+
+### 回归教材　人教版选必3第五章第二节
+
+过去人们使用蒸馏法获得淡水，耗能较多，现在则可使用较为高效的分离膜法进行淡化。分离膜根据膜孔大小分为微滤膜、超滤膜、纳滤膜和反渗透膜等，可用于分离不同的物质。生产分离膜的材料主要是有机高分子材料，如醋酸纤维、芳香族聚酰胺、聚丙烯、聚四氟乙烯等。
+
+**3.C**　墨玉、黑陶、琉璃的主要成分均为无机非金属材料，刀币的主要成分为金属材料，故选 C。
+
+**4.C**　$\mathrm{SO_2}$ 为酸性氧化物，可与碱反应，石灰浆除去废气中二氧化硫，体现了 $\mathrm{Ca(OH)_2}$ 的碱性，A 正确；氯化铁溶液腐蚀铜电路板时发生反应 $2\mathrm{Fe^{3+}}+\mathrm{Cu}=2\mathrm{Fe^{2+}}+\mathrm{Cu^{2+}}$，$\mathrm{Fe^{3+}}$ 为氧化剂，体现了氧化性，B 正确；制作豆腐时添加石膏，因 $\mathrm{CaSO_4}$ 是电解质，能使胶体发生聚沉，且 $\mathrm{CaSO_4}$ 是微溶物，C 错误；银氨溶液中含有 $\mathrm{[Ag(NH_3)_2]^+}$，$\mathrm{NH_3}$ 与 $\mathrm{Ag^+}$ 形成配位键，体现了 $\mathrm{NH_3}$ 的配位性，D 正确。
+
+### 回归教材　鲁科版必修一第2章第1节
+
+把酸、碱、盐等物质加入胶体中时，它们溶解产生的阳离子或阴离子所带电荷与胶体的分散质微粒所带电荷中和，会使胶体的分散质微粒聚集成较大的微粒，在重力作用下沉淀析出。这种胶体形成沉淀析出的现象称为聚沉。加热或搅拌也可能引起胶体的聚沉。胶体的聚沉在生产和生活中有着重要的应用，如向豆浆（一种胶体）中加入硫酸钙使蛋白质等聚沉可制成可口的豆腐。
+
+**5.A**　A 项，化学变化过程中会有新物质生成，而干冰升华过程中 $\mathrm{CO_2}$ 由固态变为气态，只是状态发生了变化，没有新物质生成，不涉及化学变化；B 项，珍珠的主要成分为碳酸钙，遇酸会发生化学变化；C 项，酶可以促进蛋白质的水解，涉及化学变化；D 项，植物油久置被氧化，涉及化学变化；故选 A。
+
+**6.D**　A 项，石灰石煅烧时 $\mathrm{CaCO_3}$ 发生分解反应生成 $\mathrm{CaO}$ 和 $\mathrm{CO_2}$，属于化学变化，不符合题意。B 项，磁铁矿炼铁时 $\mathrm{Fe_3O_4}$ 被还原为 $\mathrm{Fe}$，属于化学变化，不符合题意。C 项，煤的液化是将煤转化为液体燃料，如甲醇等，属于化学变化，不符合题意。D 项，石油的分馏利用了石油中各组分沸点的不同，没有新物质生成，属于物理变化，符合题意。
+
+**7.A**　聚氯乙烯的单体为氯乙烯，其结构简式为 $\mathrm{CH_2{=}CHCl}$，A 错误；$\mathrm{Fe_3O_4}$ 具有磁性，故可涂覆在胶带上制作磁带，B 正确；材料在晶态和非晶态间的可逆转换过程中，没有新物质生成，涉及物理变化，C 正确；单晶硅属于共价晶体，可用于制作固态硬盘的芯片，D 正确。
+
+**8.B**　若 X 为 $\mathrm{Al}$，$\mathrm{Al}$ 与 $\mathrm{O_2}$ 反应生成 $\mathrm{Al_2O_3}$，$\mathrm{Al_2O_3}$ 与 $\mathrm{O_2}$ 不能发生反应，A 错误；若 X 为 $\mathrm{S}$，$\mathrm{S}$ 与 $\mathrm{O_2}$ 反应生成 $\mathrm{SO_2}$，$\mathrm{SO_2}$ 与 $\mathrm{O_2}$ 反应生成 $\mathrm{SO_3}$，$\mathrm{SO_3}$ 与 $\mathrm{H_2O}$ 反应生成 $\mathrm{H_2SO_4}$，$\mathrm{H_2SO_4}$ 与 $\mathrm{NaOH}$ 反应生成 $\mathrm{Na_2SO_4}$，满足题中转化关系，氧化物 1 为 $\mathrm{SO_2}$，可使品红溶液褪色，B 正确；若 X 为 $\mathrm{Na}$，根据题中转化关系可知，氧化物 1 为 $\mathrm{Na_2O}$，氧化物 2 为 $\mathrm{Na_2O_2}$，$\mathrm{Na_2O_2}$ 与 $\mathrm{H_2O}$ 反应生成 $\mathrm{O_2}$，C 错误；$\mathrm{NaHCO_3}$ 受热易分解，故热稳定性：$\mathrm{Na_2CO_3}>\mathrm{NaHCO_3}$，D 错误。
+
+**9.C**
+
+### 审题指导
+
+固体 Y 为红棕色，溶液 Z 为棕黄色，溶液 R 为浅绿色，结合题图中的转化关系可知，固体 Y 为 $\mathrm{Fe_2O_3}$，溶液 Z 中含有 $\mathrm{Fe^{3+}}$，溶液 R 中含有 $\mathrm{Fe^{2+}}$。X 是自然界中一种常见矿物的主要成分，X 和 Q 的组成元素相同，结合二者的颜色及题图中的转化关系可知，固体 X 为 $\mathrm{FeS_2}$，固体 Q 为 $\mathrm{FeS}$。
+
+解析　$\mathrm{Fe_2O_3}$ 为红棕色固体，常用作油漆、涂料等的红色颜料，A 正确；含 $\mathrm{Fe^{3+}}$ 的溶液加热煮沸，$\mathrm{Fe^{3+}}$ 的水解被促进，会生成红褐色的 $\mathrm{Fe(OH)_3}$，故颜色会发生变化，B 正确；$\mathrm{FeS}$ 会溶于强酸生成 $\mathrm{H_2S}$ 气体，故 R→Q 反应不能在强酸性条件下进行，C 错误；$\mathrm{Fe}$ 与 $\mathrm{S}$ 在加热条件下可直接生成 $\mathrm{FeS}$，D 正确。
+
+### 回归教材　鲁科版必修一第3章第2节练习与活动
+
+某化工厂生产硫酸，使用一种含杂质为 $25\%$ 的黄铁矿原料。若取 $1$ 吨该矿石，可制得 $98\%$ 的浓硫酸多少吨（假设生产过程中硫的损失为零）？已知黄铁矿与氧气反应的化学方程式为 $4\mathrm{FeS_2}+11\mathrm{O_2}\xrightarrow{\text{高温}}2\mathrm{Fe_2O_3}+8\mathrm{SO_2}$。
+
+答案：$1.25$ 吨
+
+### 三年模拟
+
+**10.C**　电解质应为化合物，$\mathrm{K_2SO_4}$ 溶液属于混合物，不属于电解质，A 项错误。$\mathrm{Fe(OH)_3}$ 胶体属于混合物，不属于化合物；$\mathrm{NO_2}$ 与碱反应时生成硝酸盐、亚硝酸盐和 $\mathrm{H_2O}$，氮元素的化合价发生变化，故 $\mathrm{NO_2}$ 不属于酸性氧化物，B 项错误。$\mathrm{CuSO_4\cdot5H_2O}$ 属于化合物，不属于混合物；铜属于单质，不属于电解质，D 项错误。
+
+**11.A**　锡雕的主要原材料的材质为金属，阿胶、宣纸和粮画的主要原材料的材质为有机物，故选 A。
+
+**12.B**　B 项，鲁国大玉璧的主要成分是硅酸盐，错误。D 项，竹简的主要成分是纤维素，属于多糖，正确。
+
+**13.B**　海水制氢、海水提镁、海水提锂的过程中分别涉及利用电解原理将 $+1$ 价 $\mathrm{H}$、$+2$ 价 $\mathrm{Mg}$、$+1$ 价 $\mathrm{Li}$ 还原为单质，均涉及氧化还原反应。用贝壳或沉积物制取 $\mathrm{CaCO_3}$ 的转化过程为 $\mathrm{CaCO_3}\rightarrow\mathrm{CaO}\rightarrow\mathrm{Ca(OH)_2}\rightarrow\mathrm{CaCO_3}$，不涉及氧化还原反应，故选 B。

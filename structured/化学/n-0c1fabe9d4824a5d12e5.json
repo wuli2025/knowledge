@@ -1,0 +1,387 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-60e4c7121aa4a01d650e"
+      ],
+      "text": "本节表达式中的$v$指某段时间内的平均反应速率，即单位时间内反应物浓度的减少量或生成物浓度的增加量，不是瞬时速率。单位为$\\mathrm{mol\\cdot L^{-1}\\cdot s^{-1}}$或$\\mathrm{mol\\cdot L^{-1}\\cdot min^{-1}}$。固体或纯液体的浓度视为常数，不能用固体或纯液体表示化学反应速率。",
+      "title": "平均化学反应速率",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-86e24dba5b1f1e7ae454"
+      ],
+      "text": "影响化学反应速率的内因是反应物本身的性质；外因包括浓度、压强、温度、催化剂，以及反应物接触面积、构成原电池等。",
+      "title": "化学反应速率的影响因素",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-60e4c7121aa4a01d650e"
+      ],
+      "text": "平均反应速率的表达式为$v=\\dfrac{\\Delta c}{\\Delta t}=\\dfrac{\\Delta n}{V\\Delta t}$。其中浓度变化取反应物浓度的减少量或生成物浓度的增加量；单位为$\\mathrm{mol\\cdot L^{-1}\\cdot s^{-1}}$或$\\mathrm{mol\\cdot L^{-1}\\cdot min^{-1}}$。",
+      "title": "平均反应速率计算式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-60e4c7121aa4a01d650e"
+      ],
+      "text": "对于反应$a\\mathrm{A(g)}+b\\mathrm{B(g)}=c\\mathrm{C(g)}+d\\mathrm{D(g)}$，各物质表示的反应速率满足$\\dfrac{v(\\mathrm{A})}{a}=\\dfrac{v(\\mathrm{B})}{b}=\\dfrac{v(\\mathrm{C})}{c}=\\dfrac{v(\\mathrm{D})}{d}$。",
+      "title": "各物质表示的反应速率之比",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-86e24dba5b1f1e7ae454",
+        "n-56632dc8f2f4838fb3df",
+        "n-60e4c7121aa4a01d650e"
+      ],
+      "text": "同一反应在其他条件相同时，增大反应物浓度，反应速率增大，反之减小。从微观上看，增大浓度使单位体积内分子总数和活化分子数增大，活化能及活化分子百分数不变。",
+      "title": "反应物浓度对反应速率的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-86e24dba5b1f1e7ae454",
+        "n-56632dc8f2f4838fb3df",
+        "n-47fbb44bcb9454f2186f"
+      ],
+      "text": "原文指出：对于有气体参加的反应，增大压强，反应速率增大，反之减小；微观表格对应的变化是单位体积内分子总数和活化分子数增大，活化能及活化分子百分数不变。适用时需结合反应物浓度是否改变：恒温恒容充入无关气体虽使总压强增大，但反应物浓度不变，反应速率不变。",
+      "title": "压强对气体反应速率的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-86e24dba5b1f1e7ae454",
+        "n-56632dc8f2f4838fb3df",
+        "n-60e4c7121aa4a01d650e"
+      ],
+      "text": "同一反应在其他条件相同时，升高温度，反应速率增大，反之减小，与反应吸热还是放热无关。原文微观表格中，升高温度使活化分子百分数和单位体积内活化分子数增大，活化能及单位体积内分子总数不变。",
+      "title": "温度对反应速率的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-86e24dba5b1f1e7ae454",
+        "n-56632dc8f2f4838fb3df",
+        "n-60e4c7121aa4a01d650e"
+      ],
+      "text": "催化剂一般可加快反应速率；同一反应在其他条件相同时，使用正催化剂时速率大。正催化剂使活化能降低、活化分子百分数和单位体积内活化分子数增大，单位体积内分子总数不变。",
+      "title": "正催化剂对反应速率的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-86e24dba5b1f1e7ae454"
+      ],
+      "text": "反应物的接触面积增大，反应速率增大；构成原电池，反应速率增大。",
+      "title": "接触面积和构成原电池的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-47fbb44bcb9454f2186f"
+      ],
+      "text": "恒温恒容时，充入无关气体使总压强增大，各反应物浓度不变，反应速率不变。",
+      "title": "恒温恒容充入无关气体",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-47fbb44bcb9454f2186f"
+      ],
+      "text": "恒温恒压时，充入无关气体使总体积增大，各反应物浓度减小，反应速率减小。",
+      "title": "恒温恒压充入无关气体",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-60e4c7121aa4a01d650e"
+      ],
+      "text": "当平衡正向移动时，$v(\\text{正})>v(\\text{逆})$；当平衡逆向移动时，$v(\\text{正})<v(\\text{逆})$。",
+      "title": "平衡移动方向与正逆反应速率",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l11",
+      "source_node_ids": [
+        "n-1261e4fe373fa8890218"
+      ],
+      "text": "题干给出反应$2\\mathrm{CH_4}\\xrightarrow{\\text{高温}}\\mathrm{C_2H_6}+\\mathrm{H_2}$在初期阶段的速率方程为$v=kc_1(\\mathrm{CH_4})$，其中$k$为反应速率常数。【待核对】原式中$c_1(\\mathrm{CH_4})$的记号含义未明确，保留原式。",
+      "title": "甲烷生成乙烷的初期速率方程",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-60e4c7121aa4a01d650e"
+      ],
+      "text": "从题目信息中找到$c_{\\text{始}}$（$n_{\\text{始}}$）、$c_{\\text{终}}$（$n_{\\text{终}}$）、$t_{\\text{始}}$、$t_{\\text{终}}$、$V$，确定相应变化量和时间间隔，再根据$v=\\dfrac{\\Delta c}{\\Delta t}=\\dfrac{\\Delta n}{V\\Delta t}$计算。",
+      "title": "根据始末状态计算平均反应速率",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-60e4c7121aa4a01d650e"
+      ],
+      "text": "对于$a\\mathrm{A(g)}+b\\mathrm{B(g)}=c\\mathrm{C(g)}+d\\mathrm{D(g)}$，已知$v(\\mathrm{A})$时，利用$\\dfrac{v(\\mathrm{A})}{a}=\\dfrac{v(\\mathrm{B})}{b}=\\dfrac{v(\\mathrm{C})}{c}=\\dfrac{v(\\mathrm{D})}{d}$换算其他物质表示的反应速率。",
+      "title": "利用化学计量数换算反应速率",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-60e4c7121aa4a01d650e"
+      ],
+      "text": "将不同物质表示的速率换算为同一物质、同一单位表示的速率，再比较数值大小。",
+      "title": "归一法比较反应速率",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-60e4c7121aa4a01d650e"
+      ],
+      "text": "对于$a\\mathrm{A(g)}+b\\mathrm{B(g)}=c\\mathrm{C(g)}+d\\mathrm{D(g)}$，比较$\\dfrac{v(\\mathrm{A})}{a}$、$\\dfrac{v(\\mathrm{B})}{b}$、$\\dfrac{v(\\mathrm{C})}{c}$、$\\dfrac{v(\\mathrm{D})}{d}$的值，比值越大速率越大。",
+      "title": "比值法比较反应速率",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-60e4c7121aa4a01d650e",
+        "n-47fbb44bcb9454f2186f"
+      ],
+      "text": "同一反应在其他条件相同时，根据条件比较速率：温度高、浓度大、压强大（气体）、使用正催化剂时，速率大。涉及压强时结合反应物浓度变化判断，恒温恒容充入无关气体不改变反应速率。",
+      "title": "条件法比较反应速率",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-60e4c7121aa4a01d650e"
+      ],
+      "text": "根据平衡移动方向比较正、逆反应速率：平衡正向移动时，$v(\\text{正})>v(\\text{逆})$；平衡逆向移动时，$v(\\text{正})<v(\\text{逆})$。",
+      "title": "平衡移动法比较正逆反应速率",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-56632dc8f2f4838fb3df"
+      ],
+      "text": "从“有效碰撞”理论理解外因影响时，将浓度、温度、压强及正催化剂的变化，与活化能、单位体积内分子总数、活化分子百分数及单位体积内活化分子数的变化相联系，再分析反应速率变化。",
+      "title": "从微观因素分析外因对速率的影响",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-60e4c7121aa4a01d650e"
+      ],
+      "from": "c1",
+      "to": "l1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-60e4c7121aa4a01d650e"
+      ],
+      "from": "m1",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-60e4c7121aa4a01d650e"
+      ],
+      "from": "m2",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-60e4c7121aa4a01d650e"
+      ],
+      "from": "m3",
+      "to": "m2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-60e4c7121aa4a01d650e"
+      ],
+      "from": "m4",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-60e4c7121aa4a01d650e"
+      ],
+      "from": "m5",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-60e4c7121aa4a01d650e"
+      ],
+      "from": "m5",
+      "to": "l4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-60e4c7121aa4a01d650e"
+      ],
+      "from": "m5",
+      "to": "l5",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-60e4c7121aa4a01d650e"
+      ],
+      "from": "m5",
+      "to": "l6",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-60e4c7121aa4a01d650e"
+      ],
+      "from": "m6",
+      "to": "l10",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-56632dc8f2f4838fb3df"
+      ],
+      "from": "m7",
+      "to": "l3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-56632dc8f2f4838fb3df"
+      ],
+      "from": "m7",
+      "to": "l4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-56632dc8f2f4838fb3df"
+      ],
+      "from": "m7",
+      "to": "l5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-56632dc8f2f4838fb3df"
+      ],
+      "from": "m7",
+      "to": "l6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-47fbb44bcb9454f2186f"
+      ],
+      "from": "l8",
+      "to": "l4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-47fbb44bcb9454f2186f",
+        "n-86e24dba5b1f1e7ae454"
+      ],
+      "from": "l9",
+      "to": "l3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-644635a93334f5b9e00b",
+        "n-47fbb44bcb9454f2186f"
+      ],
+      "from": "n-644635a93334f5b9e00b",
+      "to": "l8",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-644635a93334f5b9e00b",
+        "n-56632dc8f2f4838fb3df"
+      ],
+      "from": "n-644635a93334f5b9e00b",
+      "to": "m7",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9813604be3bb3f257819",
+        "n-60e4c7121aa4a01d650e"
+      ],
+      "from": "n-9813604be3bb3f257819",
+      "to": "m1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1261e4fe373fa8890218"
+      ],
+      "from": "n-1261e4fe373fa8890218",
+      "to": "l11",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-0c1fabe9d4824a5d12e5",
+  "source_digest": "e0f05608f353365c7df88d8c188e6720dfc1fab303cac88f37b5d0dc22bcd9e6",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

@@ -1,0 +1,600 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-dde4bec7f6369db8a3fe"
+      ],
+      "text": "钠质软、银白色、有金属光泽，导电性、导热性良好，熔点较低，密度关系为 $\\rho_{\\text{煤油}}<\\rho_{\\text{钠}}<\\rho_{\\text{水}}$。用途包括冶炼金属、高压钠灯；钠钾合金用作原子反应堆的导热剂。",
+      "title": "钠的物理性质与用途",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-87c597febe303cef5a1b"
+      ],
+      "text": "氧化钠（$\\mathrm{Na_2O}$）为白色固体，属于碱性氧化物。",
+      "title": "氧化钠",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-87c597febe303cef5a1b"
+      ],
+      "text": "过氧化钠（$\\mathrm{Na_2O_2}$）为淡黄色固体，常用作漂白剂、消毒剂、供氧剂。电子式：$\\mathrm{Na^+}\\left[:\\overset{\\cdot\\cdot}{\\underset{\\cdot\\cdot}{\\mathrm{O}}}:\\overset{\\cdot\\cdot}{\\underset{\\cdot\\cdot}{\\mathrm{O}}}:\\right]^{2-}\\mathrm{Na^+}$。",
+      "title": "过氧化钠",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-8e1bc36bdd6b8825d8e2"
+      ],
+      "text": "$\\mathrm{Na_2CO_3}$ 俗名纯碱、苏打，为白色固体，易溶于水，溶于水时放热；用于纺织、制肥皂、造纸、制玻璃等。",
+      "title": "碳酸钠",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-8e1bc36bdd6b8825d8e2"
+      ],
+      "text": "$\\mathrm{NaHCO_3}$ 俗名小苏打，为白色固体，易溶于水，溶于水时吸热；用于制药、焙制糕点等。",
+      "title": "碳酸氢钠",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-42f9a8bb975b93d2336d"
+      ],
+      "text": "焰色试验的本质是电子的跃迁，属于物理变化。",
+      "title": "焰色试验",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c7",
+      "source_node_ids": [
+        "n-d79d5607aa5bcf038228",
+        "n-4c2d7a3aa9300fbd9f74",
+        "n-7b74ba7cd38410f9dd2b"
+      ],
+      "text": "侯氏制碱法先产生 $\\mathrm{NaHCO_3}$，再经煅烧得到纯碱。循环使用的物质为 $\\mathrm{CO_2、NaCl}$。与索尔维法制纯碱相比，食盐利用率提高，副产物 $\\mathrm{NH_4Cl}$ 可作氮肥。",
+      "title": "侯氏制碱法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c8",
+      "source_node_ids": [
+        "n-ac865b121dc0a60ce038"
+      ],
+      "text": "碱金属单质为银白色固体（$\\mathrm{Cs}$ 略带金色光泽），比较柔软，密度较小，熔点较低。",
+      "title": "碱金属单质的物理性质",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-dde4bec7f6369db8a3fe"
+      ],
+      "text": "钠与氯气反应：$\\mathrm{Na}\\xrightarrow{\\mathrm{Cl_2},\\,\\Delta}\\mathrm{NaCl}$。与氧气反应时，加热：$\\mathrm{Na}\\xrightarrow{\\mathrm{O_2},\\,\\Delta}\\mathrm{Na_2O_2}$；不加热：$\\mathrm{Na}\\xrightarrow{\\mathrm{O_2}}\\mathrm{Na_2O}$。以上保留原文转化式。",
+      "title": "钠与氯气、氧气的反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-dde4bec7f6369db8a3fe"
+      ],
+      "text": "与水反应：$\\mathrm{Na}\\xrightarrow{\\mathrm{H_2O}}\\mathrm{NaOH+H_2}$。与酸反应：$\\mathrm{Na}\\xrightarrow{\\mathrm{HCl}\\text{或}\\mathrm{H_2SO_4}}\\mathrm{Na^++H_2}$。与硫酸铜溶液反应：$\\mathrm{Na}\\xrightarrow{\\mathrm{CuSO_4}\\text{溶液}}\\mathrm{Cu(OH)_2+H_2+Na_2SO_4}$。以上保留原文转化式；原文未注明酸的浓度。",
+      "title": "钠与水、酸及硫酸铜溶液的反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-87c597febe303cef5a1b"
+      ],
+      "text": "氧化钠与水反应：$\\mathrm{Na_2O+H_2O=2NaOH}$。与二氧化碳反应：$\\mathrm{Na_2O+CO_2=Na_2CO_3}$。",
+      "title": "氧化钠与水、二氧化碳的反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-87c597febe303cef5a1b"
+      ],
+      "text": "过氧化钠与水反应：$\\mathrm{2Na_2O_2+2H_2O=4NaOH+O_2\\uparrow}$。与二氧化碳反应：$\\mathrm{2Na_2O_2+2CO_2=2Na_2CO_3+O_2}$。",
+      "title": "过氧化钠与水、二氧化碳的反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-8e1bc36bdd6b8825d8e2"
+      ],
+      "text": "溶解度：$\\mathrm{Na_2CO_3}>\\mathrm{NaHCO_3}$，原文未注明温度。两者水溶液均呈碱性；同浓度时碱性：$\\mathrm{Na_2CO_3}>\\mathrm{NaHCO_3}$。",
+      "title": "碳酸钠与碳酸氢钠的溶解度、碱性比较",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-8e1bc36bdd6b8825d8e2"
+      ],
+      "text": "热稳定性：$\\mathrm{Na_2CO_3}>\\mathrm{NaHCO_3}$。碳酸氢钠受热分解：$\\mathrm{2NaHCO_3}\\xrightarrow{\\Delta}\\mathrm{Na_2CO_3+CO_2\\uparrow+H_2O}$。",
+      "title": "碳酸钠与碳酸氢钠的热稳定性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-8e1bc36bdd6b8825d8e2"
+      ],
+      "text": "与盐酸反应：$\\mathrm{Na_2CO_3+2HCl=2NaCl+H_2O+CO_2\\uparrow}$，$\\mathrm{NaHCO_3+HCl=NaCl+H_2O+CO_2\\uparrow}$。盐酸逐滴加入时，$\\mathrm{NaHCO_3}$ 先产生气泡。",
+      "title": "碳酸钠、碳酸氢钠与盐酸的反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-8e1bc36bdd6b8825d8e2"
+      ],
+      "text": "转化条件：$\\mathrm{Na_2CO_3}\\xrightarrow{\\mathrm{CO_2}\\text{和水（或少量 }\\mathrm{H^+}\\text{）}}\\mathrm{NaHCO_3}$；$\\mathrm{NaHCO_3}\\xrightarrow{\\Delta\\text{（或 }\\mathrm{NaOH}\\text{）}}\\mathrm{Na_2CO_3}$。",
+      "title": "碳酸钠与碳酸氢钠的相互转化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-42f9a8bb975b93d2336d"
+      ],
+      "text": "$\\mathrm{Na}$ 的焰色为黄色；$\\mathrm{K}$ 为紫色，需透过蓝色钴玻璃观察；$\\mathrm{Ca}$ 为砖红色；$\\mathrm{Cu}$ 为绿色。",
+      "title": "常见金属元素的焰色",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-4c2d7a3aa9300fbd9f74"
+      ],
+      "text": "产生碳酸氢钠：$\\mathrm{NaCl+NH_3+CO_2+H_2O=NaHCO_3\\downarrow+NH_4Cl}$。产生碳酸钠：$2\\mathrm{NaHCO_3}\\xrightarrow{\\Delta}\\mathrm{Na_2CO_3+CO_2\\uparrow+H_2O}$。",
+      "title": "侯氏制碱法的反应原理",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l11",
+      "source_node_ids": [
+        "n-ac865b121dc0a60ce038"
+      ],
+      "text": "密度关系：$\\rho_{\\mathrm{Li}}<\\rho_{\\text{煤油}}<\\rho_{\\mathrm{K}}<\\rho_{\\mathrm{Na}}<\\rho_{\\text{水}}$。$\\mathrm{Li、Na、K、Rb、Cs}$ 的熔、沸点依次降低。",
+      "title": "碱金属的密度关系与熔、沸点变化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l12",
+      "source_node_ids": [
+        "n-58c4fc4e60f31a0aa9d1"
+      ],
+      "text": "碱金属均能与水反应：$\\mathrm{2M+2H_2O=2MOH+H_2\\uparrow}$，其中 $\\mathrm{M}$ 表示碱金属；从 $\\mathrm{Li}\\rightarrow\\mathrm{Cs}$，反应越来越剧烈。",
+      "title": "碱金属与水反应的共同性质及变化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l13",
+      "source_node_ids": [
+        "n-58c4fc4e60f31a0aa9d1"
+      ],
+      "text": "碱金属均能与 $\\mathrm{O_2}$ 反应，反应产物越来越复杂。例如，$\\mathrm{Li}$ 与 $\\mathrm{O_2}$ 只能生成 $\\mathrm{Li_2O}$；$\\mathrm{Na}$ 燃烧时生成 $\\mathrm{Na_2O_2}$；$\\mathrm{K}$ 燃烧时能生成复杂氧化物，如 $\\mathrm{KO_2}$（超氧化钾）。",
+      "title": "碱金属与氧气的反应",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-dde4bec7f6369db8a3fe",
+        "n-ac865b121dc0a60ce038"
+      ],
+      "text": "钠保存在煤油或石蜡油中；实验室将少量钠、钾保存在煤油中，将锂密封在固体石蜡中。钠不能保存在 $\\mathrm{CCl_4}$ 中，因为其密度比钠大，钠会浮在其表面，与空气接触而变质。",
+      "title": "钠、钾、锂的保存",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-dde4bec7f6369db8a3fe"
+      ],
+      "text": "电解熔融氯化钠制备钠，原文转化式为：$\\mathrm{NaCl}$（熔融）$\\xrightarrow{\\text{电解}}\\mathrm{Na}$。",
+      "title": "钠的制备",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-8e1bc36bdd6b8825d8e2"
+      ],
+      "text": "适用于固体鉴别。加热待测固体：无明显变化的是 $\\mathrm{Na_2CO_3}$；放出无色无味且能使澄清石灰水变浑浊的气体的是 $\\mathrm{NaHCO_3}$。",
+      "title": "利用热稳定性鉴别碳酸钠与碳酸氢钠",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-8e1bc36bdd6b8825d8e2"
+      ],
+      "text": "适用于溶液鉴别。向待测溶液逐滴加入盐酸：立即产生气泡的是 $\\mathrm{NaHCO_3}$；开始时不产生气泡的是 $\\mathrm{Na_2CO_3}$。",
+      "title": "利用滴加盐酸的现象鉴别碳酸钠与碳酸氢钠",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-8e1bc36bdd6b8825d8e2"
+      ],
+      "text": "测定相同浓度溶液的 $\\mathrm{pH}$：$\\mathrm{pH}$ 大、碱性强的为 $\\mathrm{Na_2CO_3}$；$\\mathrm{pH}$ 小、碱性弱的为 $\\mathrm{NaHCO_3}$。",
+      "title": "利用溶液碱性鉴别碳酸钠与碳酸氢钠",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-42f9a8bb975b93d2336d"
+      ],
+      "text": "实验步骤：铂丝 $\\xrightarrow{\\text{用盐酸洗涤}}\\xrightarrow{\\text{灼烧}}$ 无色 $\\xrightarrow{\\text{蘸取待测物}}\\xrightarrow{\\text{灼烧}}$ 观察火焰颜色 $\\xrightarrow{\\text{用盐酸洗涤}}\\xrightarrow{\\text{灼烧}}$ 无色。也可用光洁无锈的铁丝代替铂丝。观察钾的焰色需透过蓝色钴玻璃。",
+      "title": "焰色试验的操作",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-7b74ba7cd38410f9dd2b"
+      ],
+      "text": "先向饱和食盐水中通入氨气，再通入二氧化碳，得到含 $\\mathrm{NaCl、NaHCO_3、NH_4Cl、NH_4HCO_3}$ 的反应后混合液。过滤得到碳酸氢钠，煅烧得到纯碱。通气顺序的依据是二氧化碳溶解度较小、氨气溶解度很大，先通入氨气有助于反应进行。",
+      "title": "侯氏制碱法中纯碱的制取流程",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-7b74ba7cd38410f9dd2b"
+      ],
+      "text": "过滤碳酸氢钠后的母液主要含 $\\mathrm{NaCl、NH_4Cl}$。向其中加入食盐粉、通入氨气，降温、过滤，得到氯化铵及含 $\\mathrm{NaCl}$ 的母液；后者循环用于配制饱和食盐水。",
+      "title": "侯氏制碱法的母液处理与循环利用",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-dde4bec7f6369db8a3fe"
+      ],
+      "from": "c1",
+      "to": "l1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-dde4bec7f6369db8a3fe"
+      ],
+      "from": "c1",
+      "to": "l2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-dde4bec7f6369db8a3fe"
+      ],
+      "from": "m1",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-dde4bec7f6369db8a3fe"
+      ],
+      "from": "m2",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-87c597febe303cef5a1b"
+      ],
+      "from": "c2",
+      "to": "l3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-87c597febe303cef5a1b"
+      ],
+      "from": "c3",
+      "to": "l4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8e1bc36bdd6b8825d8e2"
+      ],
+      "from": "c4",
+      "to": "l5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8e1bc36bdd6b8825d8e2"
+      ],
+      "from": "c5",
+      "to": "l5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8e1bc36bdd6b8825d8e2"
+      ],
+      "from": "c4",
+      "to": "l6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8e1bc36bdd6b8825d8e2"
+      ],
+      "from": "c5",
+      "to": "l6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8e1bc36bdd6b8825d8e2"
+      ],
+      "from": "c4",
+      "to": "l7",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8e1bc36bdd6b8825d8e2"
+      ],
+      "from": "c5",
+      "to": "l7",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8e1bc36bdd6b8825d8e2"
+      ],
+      "from": "c4",
+      "to": "l8",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8e1bc36bdd6b8825d8e2"
+      ],
+      "from": "c5",
+      "to": "l8",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8e1bc36bdd6b8825d8e2"
+      ],
+      "from": "m3",
+      "to": "l6",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8e1bc36bdd6b8825d8e2"
+      ],
+      "from": "m4",
+      "to": "l7",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8e1bc36bdd6b8825d8e2"
+      ],
+      "from": "m5",
+      "to": "l5",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-42f9a8bb975b93d2336d"
+      ],
+      "from": "c6",
+      "to": "l9",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-42f9a8bb975b93d2336d"
+      ],
+      "from": "m6",
+      "to": "c6",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-42f9a8bb975b93d2336d"
+      ],
+      "from": "m6",
+      "to": "l9",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d79d5607aa5bcf038228",
+        "n-4c2d7a3aa9300fbd9f74"
+      ],
+      "from": "c7",
+      "to": "l10",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d79d5607aa5bcf038228",
+        "n-7b74ba7cd38410f9dd2b"
+      ],
+      "from": "c7",
+      "to": "m7",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d79d5607aa5bcf038228",
+        "n-7b74ba7cd38410f9dd2b"
+      ],
+      "from": "c7",
+      "to": "m8",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7b74ba7cd38410f9dd2b",
+        "n-4c2d7a3aa9300fbd9f74"
+      ],
+      "from": "m7",
+      "to": "l10",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7b74ba7cd38410f9dd2b"
+      ],
+      "from": "m7",
+      "to": "m8",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ac865b121dc0a60ce038"
+      ],
+      "from": "c8",
+      "to": "l11",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ac865b121dc0a60ce038"
+      ],
+      "from": "m1",
+      "to": "l11",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-371a85e777af989cc090",
+        "n-ac865b121dc0a60ce038"
+      ],
+      "from": "n-371a85e777af989cc090",
+      "to": "c8",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-371a85e777af989cc090",
+        "n-58c4fc4e60f31a0aa9d1"
+      ],
+      "from": "n-371a85e777af989cc090",
+      "to": "l12",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-371a85e777af989cc090",
+        "n-58c4fc4e60f31a0aa9d1"
+      ],
+      "from": "n-371a85e777af989cc090",
+      "to": "l13",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-126878c22caa61afc2e9"
+      ],
+      "from": "n-126878c22caa61afc2e9",
+      "to": "c1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-126878c22caa61afc2e9"
+      ],
+      "from": "n-126878c22caa61afc2e9",
+      "to": "l4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2f4f3df116c3be6cd8f2"
+      ],
+      "from": "n-2f4f3df116c3be6cd8f2",
+      "to": "l9",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2f4f3df116c3be6cd8f2"
+      ],
+      "from": "n-2f4f3df116c3be6cd8f2",
+      "to": "l8",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0dd46858717e86fc3549"
+      ],
+      "from": "n-0dd46858717e86fc3549",
+      "to": "l7",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-dc4db8d1d5a0d67f1b3d",
+  "source_digest": "694fa0b59c2aff75219a7a3dcf4d85fdbc7e8e9ac73ce3b3e64b6b6dbc545160",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

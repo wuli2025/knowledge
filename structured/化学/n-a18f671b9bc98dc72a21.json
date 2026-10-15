@@ -1,0 +1,358 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-b4d76b6acfcabb9fab7d"
+      ],
+      "text": "对于反应 $m\\mathrm{A(g)}+n\\mathrm{B(g)}\\rightleftharpoons p\\mathrm{C(g)}+q\\mathrm{D(g)}$，平衡常数表达式为 $K=\\dfrac{c^p(\\mathrm C)\\cdot c^q(\\mathrm D)}{c^m(\\mathrm A)\\cdot c^n(\\mathrm B)}$，其中各浓度为平衡浓度。固体和纯液体的浓度视为常数，通常不计入平衡常数表达式中。",
+      "title": "化学平衡常数及其表达式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-b4d76b6acfcabb9fab7d"
+      ],
+      "text": "对于可逆反应 $a\\mathrm{A(g)}+b\\mathrm{B(g)}\\rightleftharpoons c\\mathrm{C(g)}+d\\mathrm{D(g)}$，在一定温度下的任意时刻的 $\\dfrac{c^c(\\mathrm C)\\cdot c^d(\\mathrm D)}{c^a(\\mathrm A)\\cdot c^b(\\mathrm B)}$ 称为浓度商，常用 $Q$ 表示。",
+      "title": "浓度商",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-b4d76b6acfcabb9fab7d"
+      ],
+      "text": "相同温度下，对于可逆反应，正、逆反应的平衡常数互为倒数，即 $K_{\\text{正}}=\\dfrac{1}{K_{\\text{逆}}}$。",
+      "title": "正、逆反应平衡常数的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-b4d76b6acfcabb9fab7d"
+      ],
+      "text": "化学方程式乘以系数 $n$，则平衡常数变为原来的 $n$ 次方，即 $K_2=K_1^n$。",
+      "title": "化学方程式倍乘与平衡常数",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-b4d76b6acfcabb9fab7d"
+      ],
+      "text": "反应1和反应2相加得反应3，则 $K_3=K_1\\cdot K_2$；反应1减去反应2得反应3，则 $K_3=\\dfrac{K_1}{K_2}$。",
+      "title": "化学方程式加减与平衡常数",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-b4d76b6acfcabb9fab7d"
+      ],
+      "text": "原文指出：$K$ 越大，反应物的转化率越大，正反应进行的程度越大。原文未进一步说明转化率比较的条件。",
+      "title": "平衡常数与反应进行程度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-b4d76b6acfcabb9fab7d"
+      ],
+      "text": "对于给定反应，$K$ 只受温度的影响。",
+      "title": "平衡常数的影响因素",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-b4d76b6acfcabb9fab7d"
+      ],
+      "text": "在同一温度条件下比较浓度商与平衡常数：$Q<K$ 时，反应向正反应方向进行，$v_{\\text{正}}>v_{\\text{逆}}$；$Q=K$ 时，反应处于化学平衡状态，$v_{\\text{正}}=v_{\\text{逆}}$；$Q>K$ 时，反应向逆反应方向进行，$v_{\\text{正}}<v_{\\text{逆}}$。",
+      "title": "浓度商与反应方向、平衡状态的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-b4d76b6acfcabb9fab7d"
+      ],
+      "text": "升高温度时，$K$ 值增大表示正反应为吸热反应，$K$ 值减小表示正反应为放热反应；降低温度时，$K$ 值增大表示正反应为放热反应，$K$ 值减小表示正反应为吸热反应。",
+      "title": "温度引起的平衡常数变化与热效应",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-1108533ec9eb1705c578"
+      ],
+      "text": "对反应 $m\\mathrm{A(g)}+n\\mathrm{B(g)}\\rightleftharpoons p\\mathrm{C(g)}+q\\mathrm{D(g)}$，令 $\\mathrm A$、$\\mathrm B$ 起始物质的量分别为 $a\\ \\mathrm{mol}$、$b\\ \\mathrm{mol}$，生成物起始物质的量均为零，达到平衡后 $\\mathrm A$ 的消耗量为 $mx\\ \\mathrm{mol}$，容器容积为 $V\\ \\mathrm L$。按起始、变化、平衡三段列量：起始量依次为 $a$、$b$、$0$、$0$；变化量的大小依次为 $mx$、$nx$、$px$、$qx$；平衡量依次为 $a-mx$、$b-nx$、$px$、$qx$，上述物质的量单位均为 $\\mathrm{mol}$。",
+      "title": "化学平衡计算的三段式法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-1108533ec9eb1705c578"
+      ],
+      "text": "在三段式所设反应及初始条件下，将平衡物质的量除以容器容积，代入平衡常数表达式：$K=\\dfrac{\\left(\\dfrac{px}{V}\\right)^p\\cdot\\left(\\dfrac{qx}{V}\\right)^q}{\\left(\\dfrac{a-mx}{V}\\right)^m\\cdot\\left(\\dfrac{b-nx}{V}\\right)^n}$。其中初始反应物物质的量为 $a\\ \\mathrm{mol}$、$b\\ \\mathrm{mol}$，生成物初始量均为零，$\\mathrm A$ 消耗 $mx\\ \\mathrm{mol}$，容器容积为 $V\\ \\mathrm L$。",
+      "title": "由三段式列平衡常数方程",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-1108533ec9eb1705c578"
+      ],
+      "text": "在三段式所设条件下，$\\mathrm A$ 的起始物质的量为 $a\\ \\mathrm{mol}$，消耗量为 $mx\\ \\mathrm{mol}$，其转化率为 $\\alpha(\\mathrm A)=\\dfrac{mx}{a}\\times100\\%$。",
+      "title": "由消耗量与起始量计算转化率",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-1108533ec9eb1705c578"
+      ],
+      "text": "对于三段式所设气体反应，反应物起始物质的量分别为 $a\\ \\mathrm{mol}$、$b\\ \\mathrm{mol}$，生成物起始量均为零，$\\mathrm A$ 消耗 $mx\\ \\mathrm{mol}$ 时，平衡时 $\\mathrm A$ 的体积分数为 $\\varphi(\\mathrm A)=\\dfrac{a-mx}{a+b+(p+q-m-n)x}\\times100\\%$。",
+      "title": "由三段式计算平衡体积分数",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-1108533ec9eb1705c578"
+      ],
+      "text": "在原文三段式所设反应及初始条件下，平衡时和起始时的压强比为 $\\dfrac{p(\\text{平})}{p(\\text{始})}=\\dfrac{a+b+(p+q-m-n)x}{a+b}$。【待核对】原文未明确该压强比公式使用时平衡态与起始态的温度、容积比较条件，公式按原文保留。",
+      "title": "由三段式计算平衡与起始压强比",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-b4d76b6acfcabb9fab7d"
+      ],
+      "text": "利用平衡常数的大小判断可逆反应进行的程度；原文以 $K$ 越大、正反应进行程度越大作为判断依据。",
+      "title": "利用平衡常数判断反应进行程度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-b4d76b6acfcabb9fab7d"
+      ],
+      "text": "根据任意时刻各物质的浓度求浓度商 $Q$，将其与该温度条件下的 $K$ 比较：$Q<K$ 时向正反应方向进行；$Q=K$ 时处于平衡状态；$Q>K$ 时向逆反应方向进行。",
+      "title": "比较浓度商与平衡常数判断反应方向",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-b4d76b6acfcabb9fab7d"
+      ],
+      "text": "考察温度变化时平衡常数的变化，判断可逆反应的热效应：升温使 $K$ 增大或降温使 $K$ 减小，正反应为吸热反应；升温使 $K$ 减小或降温使 $K$ 增大，正反应为放热反应。",
+      "title": "根据温度与平衡常数的关系判断热效应",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-b4d76b6acfcabb9fab7d"
+      ],
+      "from": "c1",
+      "to": "l1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b4d76b6acfcabb9fab7d"
+      ],
+      "from": "c1",
+      "to": "l2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b4d76b6acfcabb9fab7d"
+      ],
+      "from": "c1",
+      "to": "l3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b4d76b6acfcabb9fab7d"
+      ],
+      "from": "c1",
+      "to": "l5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b4d76b6acfcabb9fab7d"
+      ],
+      "from": "m6",
+      "to": "l4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b4d76b6acfcabb9fab7d"
+      ],
+      "from": "m7",
+      "to": "c2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b4d76b6acfcabb9fab7d"
+      ],
+      "from": "m7",
+      "to": "l6",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b4d76b6acfcabb9fab7d"
+      ],
+      "from": "m8",
+      "to": "l7",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1108533ec9eb1705c578"
+      ],
+      "from": "m1",
+      "to": "m2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1108533ec9eb1705c578"
+      ],
+      "from": "m1",
+      "to": "m3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1108533ec9eb1705c578"
+      ],
+      "from": "m1",
+      "to": "m4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1108533ec9eb1705c578"
+      ],
+      "from": "m1",
+      "to": "m5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1108533ec9eb1705c578",
+        "n-b4d76b6acfcabb9fab7d"
+      ],
+      "from": "m2",
+      "to": "c1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-00ecfc04ebf4e60b8823"
+      ],
+      "from": "n-00ecfc04ebf4e60b8823",
+      "to": "l1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-00ecfc04ebf4e60b8823"
+      ],
+      "from": "n-00ecfc04ebf4e60b8823",
+      "to": "m7",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-00ecfc04ebf4e60b8823"
+      ],
+      "from": "n-00ecfc04ebf4e60b8823",
+      "to": "m8",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-00ecfc04ebf4e60b8823"
+      ],
+      "from": "n-00ecfc04ebf4e60b8823",
+      "to": "c1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2066c79f21e2e5fb6d4d"
+      ],
+      "from": "n-2066c79f21e2e5fb6d4d",
+      "to": "c1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2066c79f21e2e5fb6d4d"
+      ],
+      "from": "n-2066c79f21e2e5fb6d4d",
+      "to": "m8",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9916d51659e7dadb1940"
+      ],
+      "from": "n-9916d51659e7dadb1940",
+      "to": "m3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9916d51659e7dadb1940",
+        "n-1108533ec9eb1705c578"
+      ],
+      "from": "n-9916d51659e7dadb1940",
+      "to": "m5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-a18f671b9bc98dc72a21",
+  "source_digest": "4f2ae6ad3edd601f430f8da2061543bb64fe1d5c867b6b708dd3ac92868611e7",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

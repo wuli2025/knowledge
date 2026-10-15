@@ -1,0 +1,547 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-83d76b0e25af76847111"
+      ],
+      "text": "氧化还原反应的本质是电子转移，包括得失电子或共用电子对偏移；特征是反应过程中有元素化合价发生变化。",
+      "title": "氧化还原反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-415738eee8fa7bbf7fd0"
+      ],
+      "text": "还原剂是具有还原性的反应物，在反应中失电子，元素化合价升高，被氧化，发生氧化反应并生成氧化产物。",
+      "title": "还原剂",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-415738eee8fa7bbf7fd0"
+      ],
+      "text": "氧化剂是具有氧化性的反应物，在反应中得电子，元素化合价降低，被还原，发生还原反应并生成还原产物。",
+      "title": "氧化剂",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-415738eee8fa7bbf7fd0"
+      ],
+      "text": "还原剂失电子、元素化合价升高、被氧化的过程。",
+      "title": "氧化反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-415738eee8fa7bbf7fd0"
+      ],
+      "text": "氧化剂得电子、元素化合价降低、被还原的过程。",
+      "title": "还原反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-415738eee8fa7bbf7fd0"
+      ],
+      "text": "还原剂发生氧化反应所生成的产物。",
+      "title": "氧化产物",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c7",
+      "source_node_ids": [
+        "n-415738eee8fa7bbf7fd0"
+      ],
+      "text": "氧化剂发生还原反应所生成的产物。",
+      "title": "还原产物",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c8",
+      "source_node_ids": [
+        "n-8369f409c5cadd11a4ac"
+      ],
+      "text": "常见氧化剂包括某些非金属单质、含较高价态元素的化合物和过氧化物。原文列出的氧化剂及对应还原产物为：$\\mathrm{X_2}$（卤素单质）对应 $\\mathrm{X^-}$；$\\mathrm{O_2}$、$\\mathrm{O_3}$ 对应 $\\mathrm{H_2O}$ 或 $\\mathrm{OH^-}$ 或 $\\mathrm{O^{2-}}$ 或 $\\mathrm{O_2^{2-}}$；$\\mathrm{MnO_2}$ 对应 $\\mathrm{Mn^{2+}}$；浓硫酸对应 $\\mathrm{SO_2}$；$\\mathrm{HNO_3}$ 对应 $\\mathrm{NO}$ 或 $\\mathrm{NO_2}$；$\\mathrm{HClO}$ 对应 $\\mathrm{Cl^-}$；$\\mathrm{KMnO_4\\,(H^+)}$ 对应 $\\mathrm{Mn^{2+}}$；$\\mathrm{Fe^{3+}}$ 对应 $\\mathrm{Fe^{2+}}$ 或 $\\mathrm{Fe}$；$\\mathrm{NaClO}$ 对应 $\\mathrm{Cl^-}$；$\\mathrm{Na_2O_2}$、$\\mathrm{H_2O_2}$ 对应 $\\mathrm{H_2O}$ 或 $\\mathrm{OH^-}$。",
+      "title": "常见氧化剂及对应还原产物",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c9",
+      "source_node_ids": [
+        "n-8369f409c5cadd11a4ac"
+      ],
+      "text": "常见还原剂包括活泼金属单质、某些非金属单质及含较低价态元素的化合物。原文列出的还原剂及对应氧化产物为：$\\mathrm{Na}$ 对应 $\\mathrm{Na^+}$；$\\mathrm{Fe}$ 对应 $\\mathrm{Fe^{2+}}$ 或 $\\mathrm{Fe^{3+}}$；$\\mathrm{Al}$ 对应 $\\mathrm{Al^{3+}}$；$\\mathrm{H_2}$ 对应 $\\mathrm{H_2O}$ 或 $\\mathrm{H^+}$；$\\mathrm{C}$ 对应 $\\mathrm{CO}$ 或 $\\mathrm{CO_2}$；$\\mathrm{S}$ 对应 $\\mathrm{SO_2}$；$\\mathrm{CO}$ 对应 $\\mathrm{CO_2}$；$\\mathrm{SO_2}$ 对应 $\\mathrm{SO_3}$ 或 $\\mathrm{SO_4^{2-}}$；$\\mathrm{NH_3}$ 对应 $\\mathrm{N_2}$ 或 $\\mathrm{NO}$；$\\mathrm{H_2S}$ 对应 $\\mathrm{S}$ 或 $\\mathrm{SO_2}$；$\\mathrm{SO_3^{2-}}$ 对应 $\\mathrm{SO_4^{2-}}$；$\\mathrm{Fe^{2+}}$ 对应 $\\mathrm{Fe^{3+}}$；$\\mathrm{I^-}$ 对应 $\\mathrm{I_2}$。",
+      "title": "常见还原剂及对应氧化产物",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-96836cfb5d57c9499c07"
+      ],
+      "text": "置换反应中有元素化合价变化，全部属于氧化还原反应；复分解反应中没有元素化合价变化，全部属于非氧化还原反应。化合反应和分解反应各有一部分属于氧化还原反应；有单质参加的化合反应和有单质生成的分解反应是氧化还原反应。",
+      "title": "氧化还原反应与四种基本反应类型的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-c1d1916d48981b10557e"
+      ],
+      "text": "氧化剂得电子总数＝还原剂失电子总数；化合价升高总数＝化合价降低总数。",
+      "title": "守恒规律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-eb6d80c70e07fab8b428",
+        "n-541999596422fd962dbe"
+      ],
+      "text": "氧化性较强的氧化剂＋还原性较强的还原剂 $\\longrightarrow$ 还原性较弱的还原产物＋氧化性较弱的氧化产物。氧化性：氧化剂＞氧化产物；还原性：还原剂＞还原产物。",
+      "title": "强弱规律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-ea4d2ebf6ead8c995005"
+      ],
+      "text": "元素处于最高价时只有氧化性，处于最低价时只有还原性，处于中间价态时既有氧化性又有还原性。原文举例：$\\mathrm{Ag^+}$、$\\mathrm{Cu^{2+}}$ 只有氧化性；$\\mathrm{S^{2-}}$、$\\mathrm{I^-}$ 只有还原性；$\\mathrm{S}$、$\\mathrm{Fe^{2+}}$、$\\mathrm{H_2O_2}$ 既有氧化性又有还原性。",
+      "title": "元素价态与氧化性、还原性的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-ea4d2ebf6ead8c995005"
+      ],
+      "text": "物质含有多种元素时，其氧化性、还原性是这些元素氧化性、还原性的综合体现。如 $\\mathrm{HCl}$ 既有由 $\\mathrm{H^+}$ 表现出的氧化性，又有由 $\\mathrm{Cl^-}$ 表现出的还原性。",
+      "title": "多元素物质的氧化性、还原性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-ea4d2ebf6ead8c995005"
+      ],
+      "text": "同种元素的高价态氧化低价态时，遵循“高到高，低到低，只靠拢，不交叉”。例如 $\\mathrm{H_2}\\overset{-2}{\\mathrm{S}}+\\mathrm{H_2}\\overset{+6}{\\mathrm{S}}\\mathrm{O_4}\\text{（浓）}=\\overset{0}{\\mathrm{S}}\\downarrow+\\overset{+4}{\\mathrm{S}}\\mathrm{O_2}+2\\mathrm{H_2O}$ 中，硫元素化合价变化为 $+6\\rightarrow+4$、$-2\\rightarrow0$，而不是 $+6\\rightarrow0$、$-2\\rightarrow+4$。",
+      "title": "同种元素价态靠拢不交叉规律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-ea4d2ebf6ead8c995005"
+      ],
+      "text": "同种元素相邻价态间不发生氧化还原反应。如浓硫酸不能氧化 $\\mathrm{SO_2}$ 或 $\\mathrm{Na_2SO_3}$；$\\mathrm{Na_2SO_3}+\\mathrm{H_2SO_4}\\text{（浓）}=\\mathrm{Na_2SO_4}+\\mathrm{SO_2}\\uparrow+\\mathrm{H_2O}$ 是复分解反应，不是氧化还原反应。",
+      "title": "同种元素相邻价态规律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-faabe2bb36950b47fcbe"
+      ],
+      "text": "越易失去电子的物质，失去后就越难得到电子；越易得到电子的物质，得到后就越难失去电子。例如，已知还原性 $\\mathrm{Zn}>\\mathrm{Cu}>\\mathrm{Ag}$，则氧化性 $\\mathrm{Zn^{2+}}<\\mathrm{Cu^{2+}}<\\mathrm{Ag^+}$；已知氧化性 $\\mathrm{Cl_2}>\\mathrm{Br_2}>\\mathrm{I_2}$，则还原性 $\\mathrm{Cl^-}<\\mathrm{Br^-}<\\mathrm{I^-}$。",
+      "title": "得失电子的难易规律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-77bb4df94d37718c1d19"
+      ],
+      "text": "溶液中同时存在几种浓度相差不大的还原剂时，加入一种氧化剂，还原性强的还原剂优先被氧化；同时存在几种浓度相差不大的氧化剂时，加入一种还原剂，氧化性强的氧化剂优先被还原。例如，向 $\\mathrm{FeBr_2}$ 溶液通入少量 $\\mathrm{Cl_2}$，因还原性 $\\mathrm{Fe^{2+}}>\\mathrm{Br^-}$，$\\mathrm{Fe^{2+}}$ 先被氧化；向含有浓度相差不大的 $\\mathrm{Fe^{3+}}$、$\\mathrm{Cu^{2+}}$ 的溶液加入 $\\mathrm{Fe}$，因氧化性 $\\mathrm{Fe^{3+}}>\\mathrm{Cu^{2+}}$，$\\mathrm{Fe^{3+}}$ 先被还原。",
+      "title": "反应先后规律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-27a778be7324f821b606"
+      ],
+      "text": "同周期主族元素从左到右，单质还原性减弱、氧化性增强；同主族元素从上到下，单质还原性增强、氧化性减弱。",
+      "title": "元素周期表中的单质氧化性、还原性变化规律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l11",
+      "source_node_ids": [
+        "n-dfa21a9a77d17fac2f5a"
+      ],
+      "text": "一般来说，金属性越强，金属单质的还原性越强；非金属性越强，非金属单质的氧化性越强。",
+      "title": "金属性、非金属性与单质氧化性、还原性的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l12",
+      "source_node_ids": [
+        "n-448fbf029c511a3075fc"
+      ],
+      "text": "同一种物质浓度越大，氧化性或还原性越强。原文举例：氧化性为浓硫酸＞稀硫酸、浓硝酸＞稀硝酸；还原性为浓盐酸＞稀盐酸。",
+      "title": "浓度对氧化性、还原性的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l13",
+      "source_node_ids": [
+        "n-448fbf029c511a3075fc"
+      ],
+      "text": "同一种氧化剂所处环境酸性越强，其氧化性一般越强。如 $\\mathrm{KMnO_4}$ 溶液的氧化性随溶液酸性的增强而增强。",
+      "title": "酸碱度对氧化性的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l14",
+      "source_node_ids": [
+        "n-448fbf029c511a3075fc"
+      ],
+      "text": "物质氧化性、还原性的强弱由反应过程中电子转移的难易程度决定，而非电子转移数目的多少。如等物质的量的 $\\mathrm{Na}$、$\\mathrm{Mg}$、$\\mathrm{Al}$ 作还原剂时，失去电子的数目依次增多，但还原性依次减弱。",
+      "title": "氧化性、还原性强弱的决定因素",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-83d76b0e25af76847111"
+      ],
+      "text": "判断反应过程中是否有元素化合价发生变化，以此作为判断氧化还原反应的依据。",
+      "title": "依据化合价变化判断氧化还原反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-415738eee8fa7bbf7fd0"
+      ],
+      "text": "根据电子得失与元素化合价变化辨认反应角色：失电子、化合价升高的反应物是还原剂，发生氧化反应，生成氧化产物；得电子、化合价降低的反应物是氧化剂，发生还原反应，生成还原产物。",
+      "title": "辨认氧化剂、还原剂及其产物",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-541999596422fd962dbe"
+      ],
+      "text": "依据“还原剂＋氧化剂＝氧化产物＋还原产物”辨认各物质的角色，再比较：氧化性为氧化剂＞氧化产物；还原性为还原剂＞还原产物。",
+      "title": "依据氧化还原反应方程式比较强弱",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-dfa21a9a77d17fac2f5a"
+      ],
+      "text": "依据金属、非金属的活动性顺序比较。一般来说，金属性越强，金属单质的还原性越强；非金属性越强，非金属单质的氧化性越强。",
+      "title": "依据活动性顺序比较强弱",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-27a778be7324f821b606"
+      ],
+      "text": "依据元素在周期表中的位置比较单质性质：同周期主族元素从左到右，单质还原性减弱、氧化性增强；同主族元素从上到下，单质还原性增强、氧化性减弱。",
+      "title": "依据元素周期表比较强弱",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-2b43c4caddeb6a9a4e4d"
+      ],
+      "text": "从是否需要加热、反应温度高低、有无催化剂及反应剧烈程度等方面比较。反应条件要求越低、反应越剧烈，对应物质的氧化性或还原性越强。原文中 $\\mathrm{MnO_2}$ 与浓盐酸反应需要加热，$\\mathrm{KMnO_4}$ 与浓盐酸反应未列加热条件，得出氧化性 $\\mathrm{KMnO_4>MnO_2}$；$\\mathrm{Na}$ 与水反应未列加热条件，$\\mathrm{Mg}$ 与水反应需要加热，得出还原性 $\\mathrm{Na>Mg}$；$\\mathrm{F_2}$ 在暗处能与 $\\mathrm{H_2}$ 反应，$\\mathrm{Cl_2}$ 与 $\\mathrm{H_2}$ 反应需光照或点燃，得出氧化性 $\\mathrm{F_2>Cl_2}$。",
+      "title": "依据反应条件和剧烈程度比较强弱",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-d11d993a8e472ee7bcf9"
+      ],
+      "text": "在相同条件下，不同氧化剂作用于同一种还原剂，氧化产物价态越高，氧化剂的氧化性越强。如 $\\mathrm{S}$、$\\mathrm{Cl_2}$ 与 $\\mathrm{Fe}$ 反应分别生成 $\\mathrm{FeS}$、$\\mathrm{FeCl_3}$，则氧化性为 $\\mathrm{Cl_2>S}$。在相同条件下，不同还原剂作用于同一种氧化剂，还原产物价态越低，还原剂的还原性越强。",
+      "title": "依据氧化还原反应程度比较强弱",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-448fbf029c511a3075fc"
+      ],
+      "text": "比较同一种物质时，考察浓度和所处环境的酸碱度：浓度越大，氧化性或还原性越强；同一种氧化剂所处环境酸性越强，其氧化性一般越强。判断强弱应依据电子转移的难易程度，不能依据电子转移数目的多少。",
+      "title": "依据浓度、酸碱度比较强弱",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-83d76b0e25af76847111"
+      ],
+      "from": "m1",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-415738eee8fa7bbf7fd0"
+      ],
+      "from": "c2",
+      "to": "c4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-415738eee8fa7bbf7fd0"
+      ],
+      "from": "c3",
+      "to": "c5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-415738eee8fa7bbf7fd0"
+      ],
+      "from": "c4",
+      "to": "c6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-415738eee8fa7bbf7fd0"
+      ],
+      "from": "c5",
+      "to": "c7",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8369f409c5cadd11a4ac"
+      ],
+      "from": "c8",
+      "to": "c3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8369f409c5cadd11a4ac"
+      ],
+      "from": "c9",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-415738eee8fa7bbf7fd0"
+      ],
+      "from": "m2",
+      "to": "c2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-415738eee8fa7bbf7fd0"
+      ],
+      "from": "m2",
+      "to": "c3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-415738eee8fa7bbf7fd0"
+      ],
+      "from": "m2",
+      "to": "c6",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-415738eee8fa7bbf7fd0"
+      ],
+      "from": "m2",
+      "to": "c7",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-96836cfb5d57c9499c07"
+      ],
+      "from": "l1",
+      "to": "c1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c1d1916d48981b10557e"
+      ],
+      "from": "l2",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c1d1916d48981b10557e"
+      ],
+      "from": "l2",
+      "to": "c3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-541999596422fd962dbe"
+      ],
+      "from": "m3",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-dfa21a9a77d17fac2f5a"
+      ],
+      "from": "m4",
+      "to": "l11",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-27a778be7324f821b606"
+      ],
+      "from": "m5",
+      "to": "l10",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-448fbf029c511a3075fc"
+      ],
+      "from": "m8",
+      "to": "l12",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-448fbf029c511a3075fc"
+      ],
+      "from": "m8",
+      "to": "l13",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-448fbf029c511a3075fc"
+      ],
+      "from": "m8",
+      "to": "l14",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ea4d2ebf6ead8c995005"
+      ],
+      "from": "l4",
+      "to": "l5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ea4d2ebf6ead8c995005"
+      ],
+      "from": "l6",
+      "to": "l7",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-45924b39ed08bbb370bb"
+      ],
+      "from": "n-45924b39ed08bbb370bb",
+      "to": "c1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4f68fcba50ed82a1834d"
+      ],
+      "from": "n-4f68fcba50ed82a1834d",
+      "to": "c1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8e08e28620d6c51e0571"
+      ],
+      "from": "n-8e08e28620d6c51e0571",
+      "to": "c3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8e08e28620d6c51e0571"
+      ],
+      "from": "n-8e08e28620d6c51e0571",
+      "to": "c4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-661f4e4cbc9b9471ea12"
+      ],
+      "from": "n-661f4e4cbc9b9471ea12",
+      "to": "c3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-661f4e4cbc9b9471ea12",
+        "n-541999596422fd962dbe"
+      ],
+      "from": "n-661f4e4cbc9b9471ea12",
+      "to": "m3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-ff03fee22f5e029be6da",
+  "source_digest": "78065b450c106ad5acf19492be298f2e56512fa90b2ee2ccdc26776ba0db4deb",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

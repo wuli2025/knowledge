@@ -1,0 +1,150 @@
+<!-- page 109 -->
+
+② $\mathrm{H_2C_2O_4}$：$\delta_0$、$\delta_1$、$\delta_2$ 分别为 $\mathrm{H_2C_2O_4}$、$\mathrm{HC_2O_4^-}$、$\mathrm{C_2O_4^{2-}}$ 的分布系数。
+
+③ $\mathrm{H_3PO_4}$：$\delta_0$、$\delta_1$、$\delta_2$、$\delta_3$ 分别为 $\mathrm{H_3PO_4}$、$\mathrm{H_2PO_4^-}$、$\mathrm{HPO_4^{2-}}$、$\mathrm{PO_4^{3-}}$ 的分布系数。
+
+### （2）微粒的平衡浓度
+
+用总浓度乘以某 $\mathrm{pH}$ 下某微粒的分布系数数值，即可得该 $\mathrm{pH}$ 下该微粒的平衡浓度。
+
+### （3）相邻曲线交点计算电离常数 $K_{\mathrm a}$ ［2025 山东 T15B，2024 山东 T10B，2021 山东 T15A］
+
+以 $\mathrm{H_2C_2O_4}$ 为例，根据 $K_{\mathrm{a}_1}=\dfrac{c(\mathrm{HC_2O_4^-})\cdot c(\mathrm{H^+})}{c(\mathrm{H_2C_2O_4})}$，由图可知，$c(\mathrm{H_2C_2O_4})=c(\mathrm{HC_2O_4^-})$ 时为 $\delta_0$ 与 $\delta_1$ 的交点，$\mathrm{pH}=1.2$，因此 $K_{\mathrm{a}_1}=c(\mathrm{H^+})=10^{-1.2}$。同理，观察 $\delta_1$ 与 $\delta_2$ 的交点 $\mathrm{pH}$ 可以得出 $K_{\mathrm{a}_2}=\dfrac{c(\mathrm{C_2O_4^{2-}})\cdot c(\mathrm{H^+})}{c(\mathrm{HC_2O_4^-})}=c(\mathrm{H^+})=10^{-4.2}$。
+
+### （4）计算特定点的 $\mathrm{pH}$
+
+以 $\mathrm{H_2C_2O_4}$ 为例，$\delta_0$ 与 $\delta_2$ 的交点 $c(\mathrm{H_2C_2O_4})=c(\mathrm{C_2O_4^{2-}})$，$K_{\mathrm{a}_1}\cdot K_{\mathrm{a}_2}=\dfrac{c(\mathrm{HC_2O_4^-})\cdot c(\mathrm{H^+})}{c(\mathrm{H_2C_2O_4})}\times\dfrac{c(\mathrm{C_2O_4^{2-}})\cdot c(\mathrm{H^+})}{c(\mathrm{HC_2O_4^-})}=c^2(\mathrm{H^+})$，$c(\mathrm{H^+})=\sqrt{K_{\mathrm{a}_1}\cdot K_{\mathrm{a}_2}}=10^{-2.7}\ \mathrm{mol\cdot L^{-1}}$，故该点溶液的 $\mathrm{pH}=2.7$。
+
+### 易错警示
+
+分布系数图像的横坐标为 $\mathrm{pH}$，故需外加酸或碱来调节 $\mathrm{pH}$。因此，书写分布系数图像中某点对应的电荷守恒式时，一定不要忽略外加酸（或碱）中阴离子（或阳离子）的浓度项。
+
+## 4. 配位平衡图像
+
+与酸、碱的电离平衡类似，在配位平衡（络合平衡）中，需要考虑配体浓度对各级配合物的分布的影响。例如在 $\mathrm{Cd^{2+}}$—$\mathrm{CN^-}$ 溶液体系中，随着 $\mathrm{CN^-}$ 的浓度增大，$\mathrm{Cd^{2+}}$ 能与 $\mathrm{CN^-}$ 形成 $\mathrm{[Cd(CN)]^+}$、$\mathrm{[Cd(CN)_2]}$、$\mathrm{[Cd(CN)_3]^-}$ 和 $\mathrm{[Cd(CN)_4]^{2-}}$，据此可以得到含 $\mathrm{Cd}$ 物种的分布系数 $\delta$、平均配位数 $\bar n$ 与 $\lg c(\mathrm{CN^-})$ 的关系图像：
+
+[图：横坐标为 $\lg c(\mathrm{CN^-})$，刻度从 $-10$ 至 $0$；左纵坐标为分布系数 $\delta$，刻度从 $0.0$ 至 $1.0$；右纵坐标为平均配位数 $\bar n$，刻度从 $0$ 至 $4$。随着 $\lg c(\mathrm{CN^-})$ 增大，$\mathrm{Cd^{2+}}$ 的分布系数由接近 $1$ 降至接近 $0$，$\mathrm{[Cd(CN)]^+}$、$\mathrm{[Cd(CN)_2]}$、$\mathrm{[Cd(CN)_3]^-}$ 的分布系数依次出现峰值，$\mathrm{[Cd(CN)_4]^{2-}}$ 的分布系数升至接近 $1$；虚线表示 $\bar n$ 由接近 $0$ 升至接近 $4$。]
+
+与酸、碱的分布系数图像类似，根据相邻曲线的交点，可计算配合物形成过程中的各级平衡常数。例如上图中当 $\delta(\mathrm{Cd^{2+}})=\delta\{\mathrm{[Cd(CN)]^+}\}$ 即 $c(\mathrm{Cd^{2+}})=c\{\mathrm{[Cd(CN)]^+}\}$ 时，$\lg c(\mathrm{CN^-})\approx-5.5$，故 $\mathrm{Cd^{2+}+CN^-\rightleftharpoons[Cd(CN)]^+}$ 的 $K=\dfrac{c\{\mathrm{[Cd(CN)]^+}\}}{c(\mathrm{Cd^{2+}})\cdot c(\mathrm{CN^-})}=\dfrac{1}{c(\mathrm{CN^-})}\approx10^{5.5}$。
+
+## 5. 对数图像或负对数图像 ［2023 山东 T15，2022 山东 T14］
+
+| 图像种类 | 具体类型 | 变化规律 |
+| --- | --- | --- |
+| 对数图像 | $\lg\dfrac{c(\mathrm{HX^-})}{c(\mathrm{H_2X})}$ | $\lg\dfrac{c(\mathrm{HX^-})}{c(\mathrm{H_2X})}$ 越大，表示 $c(\mathrm{HX^-})$ 越大，$c(\mathrm{H_2X})$ 越小；$\lg\dfrac{c(\mathrm{HX^-})}{c(\mathrm{H_2X})}=\lg\dfrac{K_{\mathrm a}}{c(\mathrm{H^+})}$ |
+| 对数图像 | $\mathrm{AG}=\lg\dfrac{c(\mathrm{H^+})}{c(\mathrm{OH^-})}$ | $\mathrm{AG}$ 越大，酸性越强，中性时，$\dfrac{c(\mathrm{H^+})}{c(\mathrm{OH^-})}=1$，$\mathrm{AG}=0$ |
+| 负对数图像 | $\mathrm{pH}=-\lg c(\mathrm{H^+})$ 或 $\mathrm{pOH}=-\lg c(\mathrm{OH^-})$ | $\mathrm{pH}$ 越大，$c(\mathrm{H^+})$ 越小，溶液的碱性越强；$\mathrm{pOH}$ 越大，$c(\mathrm{OH^-})$ 越小，溶液的酸性越强 |
+| 负对数图像 | $\mathrm{pC}=-\lg c(\mathrm C)$ | $\mathrm{pC}$ 越大，$c(\mathrm C)$ 越小 |
+
+### 解题关键
+
+① 先确定图像的类型是对数图像还是负对数图像，若为负对数图像，应注意负对数数值越大则实际数值越小。
+
+② 再弄清楚图像中横坐标和纵坐标的含义，是浓度对数还是浓度比值对数。
+
+③ 抓住图像中特殊点：如 $\lg\dfrac{c(\mathrm A)}{c(\mathrm B)}=0$ 的点，有 $c(\mathrm A)=c(\mathrm B)$，$\lg c(\mathrm D)=0$ 的点，有 $c(\mathrm D)=1\ \mathrm{mol\cdot L^{-1}}$，以及 $\mathrm{pH}=7$ 的点、交点等。
+
+<!-- page 110 -->
+
+图像示例：水溶液中 $\mathrm{pOH}$—$\mathrm{pH}$ 图像
+
+[图：横坐标为 $\mathrm{pH}$，纵坐标为 $\mathrm{pOH}$，原点为 $O$。一条向右下方倾斜的直线上依次标有 $\mathrm M$、$\mathrm Q$、$\mathrm N$ 三点。$\mathrm M$ 点纵坐标为 $b$，$\mathrm Q$ 点横、纵坐标均为 $a$，$\mathrm N$ 点横坐标为 $b$；相应坐标由虚线标出。]
+
+重要信息：
+
+$\mathrm Q$ 点代表中性溶液。$\mathrm M$ 点溶液呈酸性，$\mathrm N$ 点溶液呈碱性。$\mathrm M$、$\mathrm Q$、$\mathrm N$ 三点对应的 $K_{\mathrm w}$ 相等，均为 $10^{-2a}$。
+
+## 6. 复合图像
+
+复合图像为在同一图像中，集成了两个或两个以上坐标系的图像。例如：
+
+[图：氨水滴入稀硫酸。共用横坐标为 $V(\text{氨水})/\mathrm{mL}$，标有 $10$、$20$、$40$；左纵坐标为 $T/℃$，右纵坐标为 $\mathrm{pH}$。曲线①先上升后下降，在体积分别为 $10$、$20$、$40\ \mathrm{mL}$ 处标有 $a$、$b$、$c$ 点；曲线②随氨水体积增大而上升，在 $20\ \mathrm{mL}$ 附近发生突变，突变前标有 $d$ 点。]
+
+[图：乙二胺盐酸盐溶液中加入 $\mathrm{NaOH}$ 固体。共用纵坐标为 $\mathrm{pOH}$，标有 $10.10$、$7.20$、$7.00$、$5.65$、$4.10$。左侧横坐标为 $\lg c$，标有 $-1$，绘有多条浓度变化曲线；右侧横坐标为 $m(\mathrm{NaOH})$，标有 $m_1$、$m_2$，曲线随 $m(\mathrm{NaOH})$ 增大而下降，依次标有 $\mathrm P_1$、$\mathrm P_2$、$\mathrm P_3$，对应的 $\mathrm{pOH}$ 分别为 $7.20$、$7.00$、$4.10$，其中 $\mathrm P_2$、$\mathrm P_3$ 对应横坐标分别为 $m_1$、$m_2$。]
+
+### 注意
+
+由于一个图像有两个或两个以上的坐标系，且共用横轴或纵轴，图像相对复杂，可以根据共用的坐标轴量的变化与其他不同坐标轴对应量之间的变化关系加以区分。
+
+如氨水滴入稀硫酸中，溶液温度、$\mathrm{pH}$ 随滴加氨水体积 $V$ 的变化关系图：该图有两个坐标系，共用横轴氨水体积，随着氨水体积的增大，曲线①先增大后减小，只能是温度与氨水体积坐标系的对应图像。而曲线②随着氨水体积的增大逐渐增大，且在滴入 $20\ \mathrm{mL}$ 氨水时出现了突变，是溶液 $\mathrm{pH}$ 与氨水体积坐标系对应图像。
+
+## 即练即清
+
+答案 P325
+
+### 典例1 （2023 湖南，12，3分）
+
+常温下，用浓度为 $0.020\ 0\ \mathrm{mol\cdot L^{-1}}$ 的 $\mathrm{NaOH}$ 标准溶液滴定浓度均为 $0.020\ 0\ \mathrm{mol\cdot L^{-1}}$ 的 $\mathrm{HCl}$ 和 $\mathrm{CH_3COOH}$ 的混合溶液，滴定过程中溶液的 $\mathrm{pH}$ 随 $\eta$［$\eta=\dfrac{V(\text{标准溶液})}{V(\text{待测溶液})}$］的变化曲线如图所示。
+
+[图：横坐标为 $\eta$，标有 $0$、$0.50$、$1.00$、$1.50$、$2.00$；纵坐标为 $\mathrm{pH}$，标有 $2$、$4$、$6$、$8$、$10$。滴定曲线逐渐上升，在 $\eta=2.00$ 附近陡升。曲线上标有 $a(1.00,3.38)$、$b$、$c$、$d$，其中 $b$ 对应 $\eta=1.50$，$c$ 对应 $\eta=2.00$、$\mathrm{pH}\approx8$，$d$ 位于 $c$ 上方，$\mathrm{pH}\approx10$。]
+
+下列说法错误的是（　　）
+
+A. $K_{\mathrm a}(\mathrm{CH_3COOH})$ 约为 $10^{-4.76}$
+
+B. 点 $a$：$c(\mathrm{Na^+})=c(\mathrm{Cl^-})=c(\mathrm{CH_3COO^-})+c(\mathrm{CH_3COOH})$
+
+C. 点 $b$：$c(\mathrm{CH_3COOH})<c(\mathrm{CH_3COO^-})$
+
+D. 水的电离程度：$a<b<c<d$
+
+### 典例2 （不定项）（2024届山东烟台、德州二模，15）
+
+乙二胺四乙酸用 $\mathrm{H_4Y}$ 表示，可接受质子形成 $\mathrm{H_6Y^{2+}}$。$\mathrm{H_6Y^{2+}}$ 在水溶液中存在六级电离，含 $\mathrm Y$ 微粒的分布分数（$\delta$）与 $\mathrm{pH}$ 的变化关系如图。已知：$\mathrm{H_2CO_3}$ 的 $K_{\mathrm{a}_1}=10^{-6.37}$、$K_{\mathrm{a}_2}=10^{-10.25}$。下列说法正确的是（　　）
+
+[图：横坐标为 $\mathrm{pH}$，纵坐标为分布分数 $\delta$，纵轴刻度从 $0$ 至 $1.0$。七条分布曲线依次标为 $a$、$b$、$c$、$d$、$e$、$f$、$g$。随着 $\mathrm{pH}$ 增大，曲线 $a$ 下降，$b$ 至 $f$ 依次出现峰值，$g$ 上升至接近 $1.0$。相邻曲线交点对应的 $\mathrm{pH}$ 依次为 $0.9$、$1.6$、$2$、$2.67$、$6.16$、$10.26$；横轴另标有 $4$、$8$、$12$、$14$。]
+
+A. 曲线 $e$ 代表 $\mathrm{H_3Y^-}$ 的分布分数
+
+B. 向 $\mathrm{NaH_3Y}$ 溶液中加入过量 $\mathrm{Na_2CO_3}$ 溶液，离子方程式为 $\mathrm{H_3Y^-+2CO_3^{2-}=HY^{3-}+2HCO_3^-}$
+
+C. 酸性条件下溶液中存在：$\dfrac{c^2(\mathrm{H_4Y})}{c(\mathrm{H_5Y^+})\cdot c(\mathrm{H_3Y^-})}=10^{1.1}$
+
+D. $\mathrm{Na_2H_2Y}$ 溶液中存在：$c(\mathrm{Na^+})>c(\mathrm{H_2Y^{2-}})>c(\mathrm{H^+})>c(\mathrm{HY^{3-}})>c(\mathrm{H_3Y^-})$
+
+<!-- page 111 -->
+
+### 典例3 （不定项）（2024届山东日照一模，15）
+
+$\mathrm{Cu^{2+}}$ 与 $\mathrm{NH_3}$ 可结合生成多种络合物，在水溶液中存在如下平衡：$\mathrm{Cu^{2+}}\overset{K_1}{\rightleftharpoons}\mathrm{[Cu(NH_3)]^{2+}}\overset{K_2}{\rightleftharpoons}\mathrm{[Cu(NH_3)_2]^{2+}}\overset{K_3}{\rightleftharpoons}\mathrm{[Cu(NH_3)_3]^{2+}}\overset{K_4}{\rightleftharpoons}\mathrm{[Cu(NH_3)_4]^{2+}}$，向某浓度硫酸铜溶液中通入氨气，实验测得含 $\mathrm{Cu}$ 微粒的物质的量分布系数与溶液中 $\mathrm p(\mathrm{NH_3})$［$\mathrm p(\mathrm{NH_3})=-\lg c(\mathrm{NH_3})$］的关系如图所示。下列说法正确的是（　　）
+
+[图：横坐标为 $\mathrm p(\mathrm{NH_3})$，从左至右标有 $4.1$、$3.5$、$2.9$、$2.1$；纵坐标为分布系数，标有 $0.2$、$0.4$、$0.6$、$0.8$、$1.0$。五条曲线从左至右依次标为Ⅰ、Ⅱ、Ⅲ、Ⅳ、Ⅴ。曲线Ⅰ由接近 $1.0$ 降至接近 $0$，曲线Ⅱ、Ⅲ、Ⅳ依次出现峰值，曲线Ⅴ由接近 $0$ 升至接近 $1.0$。相邻曲线交点分别对应 $4.1$、$3.5$、$2.9$、$2.1$；曲线Ⅱ与Ⅴ在下方相交于 $\mathrm M$ 点。]
+
+A. 曲线Ⅱ表示 $\mathrm{[Cu(NH_3)]^{2+}}$ 分布系数的变化情况
+
+B. 当 $\mathrm p(\mathrm{NH_3})=4$ 时，$c(\mathrm{Cu^{2+}})>c\{\mathrm{[Cu(NH_3)]^{2+}}\}>c\{\mathrm{[Cu(NH_3)_2]^{2+}}\}$
+
+C. 反应 $\mathrm{Cu^{2+}+4NH_3\rightleftharpoons[Cu(NH_3)_4]^{2+}}$ 的平衡常数 $K=10^{-12.6}$
+
+D. $\mathrm M$ 点时 $\mathrm p(\mathrm{NH_3})=\dfrac{\lg K_2+\lg K_3+\lg K_4}{3}$
+
+### 典例4 （2023 辽宁，15，3分）
+
+某废水处理过程中始终保持 $\mathrm{H_2S}$ 饱和，即 $c(\mathrm{H_2S})=0.1\ \mathrm{mol\cdot L^{-1}}$，通过调节 $\mathrm{pH}$ 使 $\mathrm{Ni^{2+}}$ 和 $\mathrm{Cd^{2+}}$ 形成硫化物分离，体系中 $\mathrm{pH}$ 与 $-\lg c$ 关系如下图所示，$c$ 为 $\mathrm{HS^-}$、$\mathrm{S^{2-}}$、$\mathrm{Ni^{2+}}$ 和 $\mathrm{Cd^{2+}}$ 的浓度，单位为 $\mathrm{mol\cdot L^{-1}}$。已知 $K_{\mathrm{sp}}(\mathrm{NiS})>K_{\mathrm{sp}}(\mathrm{CdS})$，下列说法正确的是（　　）
+
+[图：横坐标为 $\mathrm{pH}$，标有 $1$ 至 $8$；纵坐标为 $-\lg c$，标有 $0$、$4$、$8$、$12$、$16$、$20$。四条直线标为①、②、③、④，其中①、②向右上方倾斜且相互平行，③、④向右下方倾斜。①与④交于 $(1.6,6.5)$，①与③交于 $(4.9,13.0)$，②与④交于 $(4.2,3.9)$，②与③交于 $(6.8,9.2)$。]
+
+A. $K_{\mathrm{sp}}(\mathrm{CdS})=10^{-18.4}$
+
+B. ③为 $\mathrm{pH}$ 与 $-\lg c(\mathrm{HS^-})$ 的关系曲线
+
+C. $K_{\mathrm{a}_1}(\mathrm{H_2S})=10^{-8.1}$
+
+D. $K_{\mathrm{a}_2}(\mathrm{H_2S})=10^{-14.7}$
+
+### 典例5 （不定项）（2024届山东济宁一模，15）
+
+向含 $\mathrm{Ag^+}$、$\mathrm{Cu^{2+}}$、$\mathrm{Hg^{2+}}$ 的溶液中滴加氨水，存在平衡关系：$\mathrm{Ag^++2NH_3\rightleftharpoons[Ag(NH_3)_2]^+}$、$\mathrm{Cu^{2+}+4NH_3\rightleftharpoons[Cu(NH_3)_4]^{2+}}$、$\mathrm{Hg^{2+}+4NH_3\rightleftharpoons[Hg(NH_3)_4]^{2+}}$，平衡常数分别为 $K_1$、$K_2$、$K_3$，且 $K_2<K_3$。$\lg x$ 与 $\lg c(\mathrm{NH_3})$ 的关系如图所示，其中 $x$ 表示 $\dfrac{c\{\mathrm{[Cu(NH_3)_4]^{2+}}\}}{c(\mathrm{Cu^{2+}})}$、$\dfrac{c\{\mathrm{[Hg(NH_3)_4]^{2+}}\}}{c(\mathrm{Hg^{2+}})}$ 或 $\dfrac{c\{\mathrm{[Ag(NH_3)_2]^+}\}}{c(\mathrm{Ag^+})}$，下列叙述正确的是（　　）
+
+[图：横坐标为 $\lg c(\mathrm{NH_3})$，标有 $-3$、$-2$、$-1$、$0$、$1$；纵坐标为 $\lg x$，标有 $0$、$5$、$10$、$15$、$20$。三条直线 $a$、$b$、$c$ 均向右上方倾斜，$a$ 与 $b$ 平行，$c$ 的斜率较小。直线 $a$ 经过 $(-3,7)$，直线 $b$ 经过 $(-1,9)$，直线 $c$ 经过 $(-2,3)$。]
+
+A. 直线 $a$ 代表 $\lg\dfrac{c\{\mathrm{[Hg(NH_3)_4]^{2+}}\}}{c(\mathrm{Hg^{2+}})}$ 与 $\lg c(\mathrm{NH_3})$ 的关系
+
+B. 根据图像可计算平衡常数 $K_2=10^{19}$
+
+C. 向含相同浓度的 $\mathrm{Cu^{2+}}$ 和 $\mathrm{Hg^{2+}}$ 的混合溶液中滴加少量氨水，$\mathrm{[Cu(NH_3)_4]^{2+}}$ 的浓度大于 $\mathrm{[Hg(NH_3)_4]^{2+}}$
+
+D. $\mathrm{[Hg(NH_3)_4]^{2+}+Cu^{2+}\rightleftharpoons[Cu(NH_3)_4]^{2+}+Hg^{2+}}$ 的平衡常数 $K=10^{-6}$
+
+针对训练 《精练册》P257

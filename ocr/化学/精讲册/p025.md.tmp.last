@@ -1,0 +1,258 @@
+<!-- page 25 -->
+
+### 5.侯氏制碱法
+
+#### （1）工艺流程
+
+- 饱和食盐水
+  - 通入氨气、二氧化碳，得到反应后混合液（含 $\mathrm{NaCl、NaHCO_3、NH_4Cl、NH_4HCO_3}$）。
+  - 反应后混合液经过滤：
+    - 碳酸氢钠：煅烧得到纯碱。
+    - 母液（主要含 $\mathrm{NaCl、NH_4Cl}$）：加入食盐粉、通入氨气，降温、过滤。
+      - 得到氯化铵。
+      - 得到母液（含 $\mathrm{NaCl}$），循环用于配制饱和食盐水。
+
+**注意**　二氧化碳溶解度较小，氨气溶解度很大，故先向饱和食盐水中通入氨气，再通入二氧化碳，有助于反应进行。
+
+#### （2）反应原理 [2025 山东 T1A]
+
+①产生 $\mathrm{NaHCO_3}$ 的反应：$\mathrm{NaCl+NH_3+CO_2+H_2O=NaHCO_3\downarrow+NH_4Cl}$。
+
+②产生 $\mathrm{Na_2CO_3}$ 的反应：$2\mathrm{NaHCO_3}\xrightarrow{\Delta}\mathrm{Na_2CO_3+CO_2\uparrow+H_2O}$。
+
+（3）绿色化学思想：循环使用的物质为 $\mathrm{CO_2、NaCl}$。
+
+（4）优点（与索尔维法制纯碱相比）：食盐利用率提高，副产物 $\mathrm{NH_4Cl}$ 可作氮肥。
+
+## 二、碱金属单质的性质
+
+### 1.物理性质
+
+（1）外观和硬度：银白色固体（$\mathrm{Cs}$ 略带金色光泽），比较柔软。
+
+（2）密度：较小，$\rho_{\mathrm{Li}}<\rho_{\text{煤油}}<\rho_{\mathrm{K}}<\rho_{\mathrm{Na}}<\rho_{\text{水}}$，实验室将少量钠、钾保存在煤油中，将锂密封在固体石蜡中。[2025 山东 T3D]
+
+（3）熔、沸点：熔点较低，$\mathrm{Li、Na、K、Rb、Cs}$ 的熔、沸点依次降低。
+
+### 2.化学性质
+
+（1）均能与水反应：$\mathrm{2M+2H_2O=2MOH+H_2\uparrow}$（$\mathrm{M}$ 表示碱金属），且 $\mathrm{Li}\rightarrow\mathrm{Cs}$ 反应越来越剧烈。
+
+（2）均能与 $\mathrm{O_2}$ 反应，反应产物越来越复杂。例如 $\mathrm{Li}$ 与 $\mathrm{O_2}$ 只能生成 $\mathrm{Li_2O}$；$\mathrm{Na}$ 燃烧时生成 $\mathrm{Na_2O_2}$；$\mathrm{K}$ 燃烧时能生成复杂氧化物，如 $\mathrm{KO_2}$（超氧化钾）。
+
+## 即练即清
+
+答案 P308
+
+1.下列叙述中不正确的是（　　）
+
+A.$\mathrm{Na}$ 在反应 $\mathrm{TiCl_4+4Na}\xrightarrow{\text{高温}}\mathrm{Ti+4NaCl}$ 中作还原剂
+
+B.$\mathrm{NaOH}$ 应密封保存，以防分解变质
+
+C.盛放 $\mathrm{Na_2CO_3}$ 溶液的试剂瓶不能用磨口玻璃塞
+
+D.$\mathrm{Na_2O_2}$ 可作供氧剂，与 $\mathrm{CO_2}$ 反应时每生成 $1\ \mathrm{mol}$ $\mathrm{O_2}$，转移 $2\ \mathrm{mol}$ 电子
+
+2.下列有关钠元素的单质及其化合物的说法错误的是（　　）
+
+A.金属钠与 $\mathrm{Ca(HCO_3)_2}$ 溶液反应时，既有沉淀生成又有气体逸出
+
+B.灼烧某白色粉末，火焰呈黄色，证明该粉末中有 $\mathrm{Na^+}$，可能有 $\mathrm{K^+}$
+
+C.向饱和 $\mathrm{Na_2CO_3}$ 溶液中通入足量 $\mathrm{CO_2}$，有沉淀生成
+
+D.可用澄清石灰水鉴别 $\mathrm{NaHCO_3}$ 溶液和 $\mathrm{Na_2CO_3}$ 溶液
+
+3.某同学为测定 $\mathrm{Na_2CO_3}$ 固体（含少量 $\mathrm{NaCl}$）的纯度，设计如下装置（含试剂）进行实验。
+
+[图：装置从左到右依次连接：空气通入①盛有 $\mathrm{NaOH}$ 溶液的洗气瓶，导管长进短出；②盛有样品的锥形瓶，上方装有盛盐酸的分液漏斗；③盛有足量 $\mathrm{Ba(OH)_2}$ 溶液的洗气瓶，导管长进短出；④盛有碱石灰的 U 形管，末端与空气相通。]
+
+下列说法不正确的是（　　）
+
+A.必须在②③间添加吸收 $\mathrm{HCl}$ 的装置
+
+B.④的作用是防止空气中的气体影响实验的精确度
+
+C.通入空气可保证②中产生的气体完全转移到③中
+
+D.称取样品和③中产生的沉淀的质量即可求算 $\mathrm{Na_2CO_3}$ 固体的纯度
+
+针对训练　《精练册》P175
+
+<!-- page 26 -->
+
+# 第2节　铁及其化合物
+
+## 知识清单
+
+### 1.铁
+
+（1）物理性质：导热性、延展性良好，有导电性，易被磁铁吸引。
+
+（2）化学性质
+
+- $\mathrm{Fe}$
+  - 与 $\mathrm{H_2O(g)}$ 在高温下反应：生成 $\mathrm{Fe_3O_4+H_2}$。
+  - 与非金属单质反应：生成 $\overset{+2}{\mathrm{Fe}}$ 或 $\overset{+3}{\mathrm{Fe}}$。
+  - 与酸反应：
+    - 非氧化性酸：生成 $\mathrm{Fe^{2+}+H_2}$。
+    - 氧化性酸：生成 $\mathrm{Fe^{3+}}+$ 非金属氧化物。
+  - 与盐溶液反应：生成 $\mathrm{Fe^{2+}}$。
+
+①铁遇冷的浓硝酸、浓硫酸发生钝化。
+
+$\mathrm{Fe}$ 与过量稀 $\mathrm{HNO_3}$ 的反应：
+
+$\mathrm{Fe+NO_3^-+4H^+=Fe^{3+}+NO\uparrow+2H_2O}$
+
+$\mathrm{Fe}$ 与少量稀 $\mathrm{HNO_3}$ 的反应：
+
+$\mathrm{3Fe+2NO_3^-+8H^+=3Fe^{2+}+2NO\uparrow+4H_2O}$
+
+**注意**　氧化性酸会把 $\mathrm{Fe}$ 氧化为 $\mathrm{Fe^{3+}}$，但当 $\mathrm{Fe}$ 过量时，$\mathrm{Fe^{3+}+Fe\longrightarrow Fe^{2+}}$。
+
+②与铁反应的非金属单质的氧化性强弱决定产物中铁元素为 $+2$ 价还是 $+3$ 价，如：
+
+$\mathrm{2Fe+3Cl_2}\xrightarrow{\Delta}\mathrm{2FeCl_3}$
+
+$\mathrm{Fe+S}\xrightarrow{\Delta}\mathrm{FeS}$
+
+### 2.铁的氧化物
+
+$\mathrm{FeO}$：黑色粉末，不稳定，在空气中受热转化为 $\mathrm{Fe_3O_4}$。
+
+$\mathrm{Fe_2O_3}$：俗称铁红，红棕色粉末，可作红色颜料。
+
+$\mathrm{Fe_3O_4}$：俗称磁性氧化铁，黑色晶体，$\mathrm{Fe}$ 呈现 $+2、+3$ 价，能被磁铁吸引，可作磁性材料。
+
+### 3.铁的氢氧化物
+
+$\mathrm{Fe(OH)_2}$：白色固体，难溶于水；在空气中极易被氧化，发生反应 $\mathrm{4Fe(OH)_2+O_2+2H_2O=4Fe(OH)_3}$（现象：白色絮状沉淀迅速变成灰绿色，最后变成红褐色）。
+
+$\mathrm{Fe(OH)_3}$：红褐色固体，难溶于水，受热时易分解为 $\mathrm{Fe_2O_3}$，$2\mathrm{Fe(OH)_3}\xrightarrow{\Delta}\mathrm{Fe_2O_3+3H_2O}$。
+
+### 4.铁盐及亚铁盐的检验与鉴别
+
+（1）观察法：含 $\mathrm{Fe^{2+}}$ 的溶液呈浅绿色，含 $\mathrm{Fe^{3+}}$ 的溶液呈棕黄色。
+
+（2）用 $\mathrm{KSCN}$ 和氯水检验
+
+- 溶液：加 $\mathrm{KSCN}$ 溶液。
+  - 无明显现象：加氯水，溶液变红色 $\longrightarrow\mathrm{Fe^{2+}}$。
+  - 溶液变红色 $\longrightarrow\mathrm{Fe^{3+}}$。
+
+（3）加碱法
+
+- 溶液：加 $\mathrm{NaOH}$ 溶液。
+  - 白色沉淀 $\longrightarrow$ 灰绿色 $\longrightarrow$ 红褐色 $\longrightarrow\mathrm{Fe^{2+}}$。
+  - 红褐色沉淀 $\longrightarrow\mathrm{Fe^{3+}}$。
+
+（4）淀粉—$\mathrm{KI}$ 试纸法
+
+- 溶液：用淀粉—$\mathrm{KI}$ 试纸检验。
+  - 变蓝 $\longrightarrow\mathrm{Fe^{3+}}$。
+  - 不变蓝 $\longrightarrow\mathrm{Fe^{2+}}$。
+
+（5）加溴水或 $\mathrm{KMnO_4}$ 溶液
+
+- 溶液：加溴水或 $\mathrm{KMnO_4}$ 溶液。
+  - 无变化 $\longrightarrow\mathrm{Fe^{3+}}$。
+  - 褪色 $\longrightarrow\mathrm{Fe^{2+}}$。
+
+（6）特征试剂法
+
+- 溶液：加苯酚，溶液呈紫色 $\longrightarrow\mathrm{Fe^{3+}}$。
+- 溶液：加 $\mathrm{K_3[Fe(CN)_6]}$（铁氰化钾），产生蓝色沉淀 $\longrightarrow\mathrm{Fe^{2+}}$。
+- 溶液：加邻二氮菲，溶液呈橙红色 $\longrightarrow\mathrm{Fe^{2+}}$。
+
+**注意**
+
+①检验 $\mathrm{Fe^{2+}}$ 时不能先加氯水后加 $\mathrm{KSCN}$ 溶液，也不能将加 $\mathrm{KSCN}$ 后的混合溶液加入足量的新制氯水中（新制氯水可能会氧化 $\mathrm{SCN^-}$）。
+
+②$\mathrm{Fe^{3+}、Fe^{2+}、Cl^-}$ 同时存在时不能用酸性 $\mathrm{KMnO_4}$ 溶液检验 $\mathrm{Fe^{2+}}$（$\mathrm{Cl^-}$ 能还原 $\mathrm{KMnO_4}$，有干扰）。
+
+③邻二氮菲检验 $\mathrm{Fe^{2+}}$ 的适宜 $\mathrm{pH}$ 范围是 $2\sim9$。
+
+### 5.$\mathrm{Fe^{2+}}$ 与 $\mathrm{Fe^{3+}}$ 的相互转化 [2024 山东 T5B，2022 山东 T11B]
+
+- $\mathrm{Fe^{2+}}\xrightarrow{\mathrm{Cl_2、KMnO_4、HNO_3}\text{ 等氧化剂}}\mathrm{Fe^{3+}}$
+- $\mathrm{Fe^{3+}}\xrightarrow{\mathrm{Fe、Cu、KI}\text{ 等还原剂}}\mathrm{Fe^{2+}}$
+
+### 6.铁元素的“价—类”二维图
+
+[图：铁元素的“价—类”二维图。纵轴为化合价，标有 $0、+2、+3$；横轴为物质类别，依次为单质、氧化物、盐、碱。单质为 $\mathrm{Fe}$；氧化物为 $\mathrm{FeO、Fe_3O_4、Fe_2O_3}$；盐对应 $\mathrm{Fe^{2+}、Fe^{3+}}$；碱为 $\mathrm{Fe(OH)_2、Fe(OH)_3}$。图中用箭头连接有关物质，表示相互转化关系。]
+
+<!-- page 27 -->
+
+## 即练即清
+
+答案 P309
+
+1.《本草纲目》关于绿矾（$\mathrm{FeSO_4\cdot7H_2O}$）有如下记载：“盖此矾色绿，味酸，烧之则赤……”。下列叙述正确的是（　　）
+
+A.绿矾能电离出 $\mathrm{H^+}$，故“味酸”
+
+B.绿矾煅烧后的固体产物为 $\mathrm{FeO}$
+
+C.可用无水 $\mathrm{CuSO_4}$ 检验煅烧绿矾生成的 $\mathrm{H_2O}$
+
+D.将煅烧后的气体通入 $\mathrm{Ba(NO_3)_2}$ 溶液中可检验煅烧产物中的 $\mathrm{SO_3}$
+
+2.下列关于 $\mathrm{Fe^{3+}、Fe^{2+}}$ 性质实验的说法错误的是（　　）
+
+A.用如图装置可以制备 $\mathrm{Fe(OH)_2}$
+
+[图：两支试管 A、B。A 中盛有稀硫酸和铁粉，带活塞 a 的导管穿过塞子并伸入液面上方；另有导管伸至 A 底部，弯曲后通入 B 中过量的 $\mathrm{NaOH}$ 溶液内。B 塞上另有短导管与外界相通。]
+
+B.配制 $\mathrm{FeCl_3}$ 溶液时，先将 $\mathrm{FeCl_3}$ 晶体溶于较浓的盐酸中，再加水稀释到所需要的浓度
+
+C.向某溶液中滴加 $\mathrm{KSCN}$ 溶液，溶液不变色，再滴加氯水后溶液显红色，此现象不能确定原溶液中含有 $\mathrm{Fe^{2+}}$
+
+D.向 $\mathrm{FeCl_2}$ 溶液中加入少量铁粉是为了防止 $\mathrm{Fe^{2+}}$ 被氧化
+
+3.$\mathrm{Fe_3O_4}$ 和 $\mathrm{FeO}$ 的热化学循环可以利用太阳能，其转化关系如图所示。下列叙述错误的是（　　）
+
+[图：$\mathrm{Fe_3O_4}$ 与 $\mathrm{FeO}$ 的热化学循环。过程Ⅰ：利用太阳能，在 $>2300\ \mathrm{K}$ 条件下，$\mathrm{Fe_3O_4}$ 转化为 $\mathrm{FeO}$，并放出 $\mathrm{O_2}$。过程Ⅱ：在 $700\ \mathrm{K}$ 条件下，$\mathrm{FeO}$ 与通入的 $\mathrm{CO_2}$ 反应，生成 $\mathrm{Fe_3O_4}$ 和 $\mathrm{C}$。]
+
+A.分析过程Ⅰ和Ⅱ，$\mathrm{Fe_3O_4}$ 是该循环过程中的催化剂
+
+B.过程Ⅱ的化学方程式为 $\mathrm{6FeO+CO_2}\xrightarrow{700\ \mathrm{K}}\mathrm{2Fe_3O_4+C}$
+
+C.用盐酸、$\mathrm{K_3[Fe(CN)_6]}$ 溶液检验 $\mathrm{Fe_3O_4}$ 和 $\mathrm{FeO}$ 混合物中的 $\mathrm{FeO}$
+
+D.该循环过程利用了太阳能，而且降低了环境中 $\mathrm{CO_2}$ 的含量
+
+针对训练　《精练册》P177
+
+# 第3节　金属资源的开发利用
+
+## 知识清单
+
+## 一、金属冶炼
+
+[图：金属活动性顺序及冶炼方法。金属从左至右依次为 $\mathrm{Ca、Na、Mg、Al、Zn、Fe、Sn、Pb、Cu、Hg、Ag、Pt、Au}$。$\mathrm{Ca}$ 至 $\mathrm{Al}$ 对应电解法，$\mathrm{Zn}$ 至 $\mathrm{Cu}$ 对应热还原法，$\mathrm{Hg、Ag}$ 对应热分解法，$\mathrm{Pt、Au}$ 对应物理方法。]
+
+| 冶炼方法 | 适用金属 | 示例 |
+|---|---|---|
+| 电解法 | 活泼金属 | $2\mathrm{NaCl}\text{（熔融）}\xrightarrow{\text{电解}}\mathrm{2Na+Cl_2\uparrow}$<br>$\mathrm{MgCl_2}\text{（熔融）}\xrightarrow{\text{电解}}\mathrm{Mg+Cl_2\uparrow}$<br>$2\mathrm{Al_2O_3}\text{（熔融）}\xrightarrow[\text{冰晶石}]{\text{电解}}\mathrm{4Al+3O_2\uparrow}$ |
+| 热还原法 | 较活泼金属 | $\mathrm{Fe_2O_3+3CO}\xrightarrow{\text{高温}}\mathrm{2Fe+3CO_2}$<br>$\mathrm{2Al+Cr_2O_3}\xrightarrow{\text{高温}}\mathrm{2Cr+Al_2O_3}$ |
+| 热分解法 | 不活泼金属 | $\mathrm{2HgO}\xrightarrow{\Delta}\mathrm{2Hg+O_2\uparrow}$<br>$\mathrm{2Ag_2O}\xrightarrow{\Delta}\mathrm{4Ag+O_2\uparrow}$ |
+
+**注意**　钾的沸点低于钠，据此可冶炼金属钾：$\mathrm{KCl+Na}\xrightarrow{\text{高温}}\mathrm{K\uparrow+NaCl}$。
+
+## 二、金属材料
+
+### 1.合金
+
+（1）组成：两种或两种以上的金属（或金属与非金属）加热熔合生成的具有金属特性的物质。
+
+（2）性能：熔点一般比各成分金属低，硬度和强度一般比各成分金属大。
+
+（3）常见合金
+
+①铁合金：生铁和钢（可分为碳素钢和合金钢）。碳素钢根据含碳量不同，可分为低碳钢、中碳钢、高碳钢。
+
+②铝合金，如硬铝密度小、强度高，具有较强的抗腐蚀能力，是制造飞机和宇宙飞船的理想材料。
+
+③新型合金：储氢合金、钛合金、耐热合金、形状

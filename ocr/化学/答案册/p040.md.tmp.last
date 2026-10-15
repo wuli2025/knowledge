@@ -1,0 +1,117 @@
+<!-- page 40 -->
+
+$n(\mathrm{Ba^{2+}})=\dfrac{1}{3}n(\mathrm{S_2O_3^{2-}})=\dfrac{1}{3}\times0.0300\ \mathrm{mol\cdot L^{-1}}\times20.00\times10^{-3}\ \mathrm{L}=2\times10^{-4}\ \mathrm{mol}$，故该废水中 $\mathrm{Ba^{2+}}$ 的含量为 $\dfrac{2\times10^{-4}\ \mathrm{mol}\times137\ \mathrm{g\cdot mol^{-1}}}{25.00\times10^{-3}\ \mathrm{L}}=1.096\ \mathrm{g\cdot L^{-1}}$。
+
+**11.答案** （6）$5\mathrm{TiO_2}\cdot3\mathrm{H_2O}$
+
+**解析** （6）滴定过程中 $\mathrm{Ti^{3+}\rightarrow TiO^{2+}}$，$\mathrm{NH_4Fe(SO_4)_2}$ 中 $\mathrm{Fe^{3+}\rightarrow Fe^{2+}}$，根据得失电子守恒可得 $\mathrm{NH_4Fe(SO_4)_2\sim Ti^{3+}}$，则 $n(\mathrm{Ti^{3+}})=0.1000\ \mathrm{mol\cdot L^{-1}}\times25.00\times10^{-3}\ \mathrm{L}=2.5\times10^{-3}\ \mathrm{mol}$。根据 $\mathrm{Ti}$ 原子守恒可得关系式 $\mathrm{TiO_2\sim Ti^{3+}}$，则 $4.54\ \mathrm{g}$ 样品中 $n(\mathrm{TiO_2})=2.5\times10^{-3}\ \mathrm{mol}\times\dfrac{500\ \mathrm{mL}}{25.00\ \mathrm{mL}}=0.05\ \mathrm{mol}$，$m(\mathrm{TiO_2})=0.05\ \mathrm{mol}\times80\ \mathrm{g\cdot mol^{-1}}=4.0\ \mathrm{g}$，则样品中含 $\mathrm{H_2O}$ 的质量为 $4.54\ \mathrm{g}-4.0\ \mathrm{g}=0.54\ \mathrm{g}$，$n(\mathrm{H_2O})=\dfrac{0.54\ \mathrm{g}}{18\ \mathrm{g\cdot mol^{-1}}}=0.03\ \mathrm{mol}$，则 $x:y=0.05\ \mathrm{mol}:0.03\ \mathrm{mol}=5:3$，该样品的组成为 $5\mathrm{TiO_2}\cdot3\mathrm{H_2O}$。
+
+**12.答案** 甲基橙　$\dfrac{(200-10V)\times10^{-3}\times292}{2m}\times100\%$　偏大
+
+**解析** 样品溶于水时，$\mathrm{Sr_3N_2}$ 水解生成 $\mathrm{Sr(OH)_2}$ 和 $\mathrm{NH_3}$，用过量盐酸吸收生成的 $\mathrm{NH_3}$，得到 $\mathrm{HCl}$、$\mathrm{NH_4Cl}$ 的混合溶液，用 $\mathrm{NaOH}$ 标准溶液滴定剩余的 $\mathrm{HCl}$，则达到滴定终点时溶质为 $\mathrm{NaCl}$、$\mathrm{NH_4Cl}$，溶液呈酸性，故选择甲基橙作指示剂。取 $200.00\ \mathrm{mL}$ 吸收液中的 $20.00\ \mathrm{mL}$ 进行滴定，$\mathrm{NaOH}$ 标准溶液消耗 $\mathrm{HCl}$ 的物质的量为 $1.000\ \mathrm{mol\cdot L^{-1}}\times V\times10^{-3}\ \mathrm{L}=V\times10^{-3}\ \mathrm{mol}$，故吸收 $\mathrm{NH_3}$ 时消耗的 $\mathrm{HCl}$ 的物质的量为 $1.000\ \mathrm{mol\cdot L^{-1}}\times200.00\times10^{-3}\ \mathrm{L}-V\times10^{-3}\ \mathrm{mol}\times10=(200-10V)\times10^{-3}\ \mathrm{mol}$，则 $n(\mathrm{NH_3})=(200-10V)\times10^{-3}\ \mathrm{mol}$，根据 $\mathrm{N}$ 原子守恒可得 $n(\mathrm{Sr_3N_2})=\dfrac{1}{2}n(\mathrm{NH_3})=\dfrac{(200-10V)\times10^{-3}}{2}\ \mathrm{mol}$，故样品中 $\mathrm{Sr_3N_2}$ 的质量分数为 $\dfrac{(200-10V)\times10^{-3}\times292}{2m}\times100\%$。若读数时，滴定前平视，滴定后俯视，则消耗 $\mathrm{NaOH}$ 标准溶液的体积的测定值偏小，$V$ 偏小，根据前述计算式可知测定结果会偏大。
+
+**13.答案** （4）① $\mathrm{H_2NCOONH_4+H_2O\xrightarrow{}(NH_4)_2CO_3}$　② $\dfrac{7}{9}$（或 $77.8\%$）
+
+**解析** （4）① $\mathrm{H_2NCOONH_4}$ 中的酰胺基发生水解，据此写出相应的化学方程式。
+
+② $\mathrm{H_2NCOONH_4}$ 及杂质 $\mathrm{(NH_4)_2CO_3}$ 溶于水后，$\mathrm{N}$ 元素均以 $\mathrm{NH_4^+}$ 形式存在。用 $\mathrm{BaCl_2}$ 溶液除去 $\mathrm{CO_3^{2-}}$ 后，加入甲醛溶液发生反应 $\mathrm{4NH_4^++6HCHO\xrightarrow{}[(CH_2)_6N_4H]^++3H^++6H_2O}$，再加入 $\mathrm{NaOH}$ 溶液，可得关系式：$\mathrm{4NH_4^+\sim\{[(CH_2)_6N_4H]^++3H^+\}\sim4NaOH}$，过量的 $\mathrm{NaOH}$ 用盐酸标准溶液滴定。$\mathrm{\{[(CH_2)_6N_4H]^++3H^+\}}$ 消耗的 $\mathrm{NaOH}$ 的物质的量为 $20.00\times10^{-3}\ \mathrm{L}\times1.000\ \mathrm{mol\cdot L^{-1}}-11.00\times10^{-3}\ \mathrm{L}\times1.000\ \mathrm{mol\cdot L^{-1}}=9\times10^{-3}\ \mathrm{mol}$，根据关系式可知，$20.00\ \mathrm{mL}$ 溶液中 $n(\mathrm{N})=9\times10^{-3}\ \mathrm{mol}$，故 $100\ \mathrm{mL}$ 溶液中 $n_{\text{总}}(\mathrm{N})=9\times10^{-3}\ \mathrm{mol}\times\dfrac{100\ \mathrm{mL}}{20.00\ \mathrm{mL}}=0.045\ \mathrm{mol}$。设产品中 $\mathrm{H_2NCOONH_4}$ 与 $\mathrm{(NH_4)_2CO_3}$ 的物质的量分别为 $x$、$y$，由产品质量可得 $x\times78\ \mathrm{g\cdot mol^{-1}}+y\times96\ \mathrm{g\cdot mol^{-1}}=1.845\ \mathrm{g}$，由 $\mathrm{N}$ 原子守恒可得 $2x+2y=0.045\ \mathrm{mol}$，联立两式解得 $x=0.0175\ \mathrm{mol}$、$y=0.005\ \mathrm{mol}$，故 $\mathrm{H_2NCOONH_4}$ 的物质的量分数为 $\dfrac{0.0175\ \mathrm{mol}}{0.0175\ \mathrm{mol}+0.005\ \mathrm{mol}}=\dfrac{7}{9}$。
+
+# 离子反应　氧化还原反应
+
+## 第1节　离子反应　离子方程式的书写与判断
+
+### 五年高考
+
+**1.D** 酸性条件下，$\mathrm{NO_3^-}$ 可以氧化 $\mathrm{I^-}$，不能大量共存，A错误；$\mathrm{Fe^{3+}}$ 和 $\mathrm{CN^-}$ 会结合成 $\mathrm{[Fe(CN)_6]^{3-}}$，不能大量共存，B错误；$\mathrm{Ca^{2+}}$ 和 $\mathrm{SiO_3^{2-}}$ 能结合生成 $\mathrm{CaSiO_3}$ 沉淀，不能大量共存，C错误。
+
+### 回归教材　鲁科版必修第一册第2章本章自我评价
+
+下列各组中的离子，能在溶液中大量共存的是（　　）
+
+A. $\mathrm{H^+、Ag^+、Na^+、NO_3^-}$
+
+B. $\mathrm{K^+、Ca^{2+}、Cl^-、CO_3^{2-}}$
+
+C. $\mathrm{H^+、Mg^{2+}、SO_4^{2-}、OH^-}$
+
+D. $\mathrm{Na^+、Cu^{2+}、SO_4^{2-}、OH^-}$
+
+E. $\mathrm{Ba^{2+}、Cl^-、OH^-、NO_3^-}$
+
+答案：AE
+
+**2.C** A项，$\mathrm{NO}$ 难溶于水，故不可能大量存在于废液中，错误。B项，$\mathrm{H^+}$ 能与 $\mathrm{HSO_3^-}$ 反应，不可大量共存，错误。D项，$\mathrm{Fe^{2+}}$ 会被 $\mathrm{H_2O_2}$ 氧化为 $\mathrm{Fe^{3+}}$，不可大量共存，错误。
+
+**3.C** A项，$\mathrm{SO_2}$ 少量，故正确的离子方程式为 $\mathrm{SO_2+2OH^-\xrightarrow{}SO_3^{2-}+H_2O}$，错误。B项，所给离子方程式中氧原子不守恒，正确的离子方程式为 $\mathrm{2Na_2O_2+2H_2O\xrightarrow{}4Na^++4OH^-+O_2\uparrow}$，错误。D项，$\mathrm{Cu(NO_3)_2}$ 为易溶于水的强电解质，书写离子方程式时应拆成离子形式，正确的离子方程式为 $\mathrm{3Cu+8H^++2NO_3^-\xrightarrow{}3Cu^{2+}+2NO\uparrow+4H_2O}$，错误。
+
+**4.D** $\mathrm{MnO_2}$ 和浓盐酸在加热的条件下反应生成 $\mathrm{Cl_2}$、$\mathrm{MnCl_2}$ 和 $\mathrm{H_2O}$，离子方程式书写正确；$\mathrm{NO_2}$ 与水发生歧化反应生成 $\mathrm{HNO_3}$ 和 $\mathrm{NO}$，离子方程式书写正确；灼热的 $\mathrm{CuO}$ 能将 $\mathrm{CH_3CH_2OH}$ 氧化为 $\mathrm{CH_3CHO}$，同时生成 $\mathrm{Cu}$ 和水，化学方程式书写正确；$\mathrm{SO_2}$ 能被酸性 $\mathrm{KMnO_4}$ 溶液氧化成 $\mathrm{SO_4^{2-}}$，根据得失电子守恒、电荷守恒和原子守恒可得正确的离子方程式：$\mathrm{5SO_2+2MnO_4^-+2H_2O\xrightarrow{}5SO_4^{2-}+2Mn^{2+}+4H^+}$，故选D。
+
+**5.D** D项，化学式拆分不正确，石灰乳要写成化学式，不能拆分，错误。
+
+**6.C** 银与稀硝酸反应生成 $\mathrm{NO}$，A项错误。$\mathrm{FeS}$ 难溶于水，在书写离子方程式时，不能拆成离子形式，B项错误。草酸属于弱酸，在书写离子方程式时，不能拆成离子形式，D项错误。
+
+**7.A** $\mathrm{H_2PO_4^-}$ 水解生成 $\mathrm{H_3PO_4}$ 和 $\mathrm{OH^-}$，A正确；生成的 $\mathrm{Ag^+}$ 会与 $\mathrm{Cl^-}$ 反应生成 $\mathrm{AgCl}$ 沉淀，正确的离子方程式为 $\mathrm{Ag_2O+2H^++2Cl^-\xrightarrow{}2AgCl\downarrow+H_2O}$，B错误；生成的 $\mathrm{HClO}$ 具有强氧化性，能够与 $\mathrm{I^-}$ 发生氧化还原反应，正确的离子方程式为 $\mathrm{ClO^-+2I^-+}$
+
+<!-- page 41 -->
+
+$\mathrm{2H^+\xrightarrow{}Cl^-+I_2+H_2O}$，C错误；$\mathrm{Ba(HCO_3)_2}$ 少量，设 $\mathrm{Ba(HCO_3)_2}$ 为 $1\ \mathrm{mol}$，其中 $2\ \mathrm{mol}$ $\mathrm{HCO_3^-}$ 需要与 $2\ \mathrm{mol}$ $\mathrm{H^+}$ 完全反应生成 $2\ \mathrm{mol}$ $\mathrm{CO_2}$ 和 $2\ \mathrm{mol}$ $\mathrm{H_2O}$，正确的离子方程式为 $\mathrm{2H^++SO_4^{2-}+Ba^{2+}+2HCO_3^-\xrightarrow{}BaSO_4\downarrow+2CO_2\uparrow+2H_2O}$，D错误。
+
+**8.D** A项，$\mathrm{H_2S}$ 为弱电解质，书写离子方程式时不可拆，错误。B项，$\mathrm{NO_3^-}$ 在酸性条件下有强氧化性，可将 $\mathrm{H_2SO_3}$ 氧化成 $\mathrm{H_2SO_4}$，错误。C项，$\mathrm{Cl_2}$ 与 $\mathrm{H_2O}$ 反应可生成 $\mathrm{HCl}$ 和 $\mathrm{HClO}$，$\mathrm{HCl}$ 的酸性强于 $\mathrm{H_2CO_3}$，故可与 $\mathrm{HCO_3^-}$ 反应生成 $\mathrm{CO_2}$，而 $\mathrm{H_2CO_3}$ 的酸性强于 $\mathrm{HClO}$，故 $\mathrm{HClO}$ 不能与 $\mathrm{HCO_3^-}$ 反应，错误。
+
+### 三年模拟
+
+**9.D** $\mathrm{Al^{3+}}$ 与 $\mathrm{HCO_3^-}$ 会发生相互促进的水解反应生成 $\mathrm{Al(OH)_3}$ 沉淀和 $\mathrm{CO_2}$ 气体，A项错误。常温下水电离的 $c(\mathrm{H^+})=10^{-12}\ \mathrm{mol/L}<10^{-7}\ \mathrm{mol/L}$，说明水的电离被抑制，溶液中可能加入了酸或碱，若为酸性条件，$\mathrm{CO_3^{2-}}$、$\mathrm{SO_3^{2-}}$ 会与 $\mathrm{H^+}$ 反应，且酸性条件下 $\mathrm{NO_3^-}$ 会氧化 $\mathrm{SO_3^{2-}}$；若为碱性条件，$\mathrm{NH_4^+}$ 会与 $\mathrm{OH^-}$ 反应，B项错误。甲基橙的变色范围为 $3.1\sim4.4$，使甲基橙变黄的溶液可能呈弱酸性、中性或碱性，碱性条件下 $\mathrm{Fe^{2+}}$ 会与 $\mathrm{OH^-}$ 反应，弱酸性条件下 $\mathrm{NO_3^-}$ 可能会氧化 $\mathrm{Fe^{2+}}$，C项错误。$\mathrm{K^+}$、$\mathrm{Cl^-}$、$\mathrm{CO_3^{2-}}$、$\mathrm{[Al(OH)_4]^-}$、$\mathrm{NO_3^-}$ 均为无色离子，且互不反应，能大量共存，D项正确。
+
+**10.A** $\mathrm{CO_2}$ 与溶液中的离子均不发生反应，各离子浓度均不变，A项符合题意。$\mathrm{SO_2}$ 具有还原性且水溶液呈酸性，可与溶液中的 $\mathrm{Fe^{3+}}$、$\mathrm{NO_3^-}$ 发生氧化还原反应，导致溶液中 $\mathrm{Fe^{3+}}$、$\mathrm{NO_3^-}$、$\mathrm{Ba^{2+}}$ 的浓度减小，B项不符合题意。$\mathrm{NH_3}$ 与水反应生成的 $\mathrm{NH_3\cdot H_2O}$ 能与 $\mathrm{Al^{3+}}$、$\mathrm{Fe^{3+}}$ 反应生成 $\mathrm{Al(OH)_3}$、$\mathrm{Fe(OH)_3}$ 沉淀，$\mathrm{Al^{3+}}$、$\mathrm{Fe^{3+}}$ 的浓度减小，C项不符合题意。$\mathrm{NO_2}$ 与水反应生成 $\mathrm{HNO_3}$ 和 $\mathrm{NO}$，导致 $\mathrm{NO_3^-}$ 的浓度增大，D项不符合题意。
+
+**11.D** $\mathrm{ClO^-}$ 具有强氧化性，会氧化 $\mathrm{Fe^{2+}}$，不能大量共存，A错误。溶液中 $\mathrm{NH_4^+}$、$\mathrm{Fe^{2+}}$ 水解，促进水的电离，常温下该溶液中水电离出的 $c(\mathrm{H^+})$ 大于 $10^{-7}\ \mathrm{mol\cdot L^{-1}}$，B错误。应先滴入 $\mathrm{KSCN}$ 溶液，若溶液不变红，再加入少量 $\mathrm{H_2O_2}$ 溶液，若此时溶液变为红色，则证明原溶液中含 $\mathrm{Fe^{2+}}$，C错误。当 $\mathrm{SO_4^{2-}}$ 恰好完全沉淀时，发生的反应为 $\mathrm{(NH_4)_2SO_4+Ba(OH)_2\xrightarrow{}BaSO_4\downarrow+2NH_3\cdot H_2O}$、$\mathrm{FeSO_4+Ba(OH)_2\xrightarrow{}BaSO_4\downarrow+Fe(OH)_2\downarrow}$，D正确。
+
+### 归纳总结
+
+常温下纯水中水电离出的 $c(\mathrm{H^+})=1\times10^{-7}\ \mathrm{mol\cdot L^{-1}}$，若常温下某溶液中水电离出的 $c(\mathrm{H^+})>1\times10^{-7}\ \mathrm{mol\cdot L^{-1}}$，即水的电离被促进，则可能是由弱酸阴离子、弱碱阳离子或某些水解强于电离的酸式酸根离子的水解造成的；若水电离出的 $c(\mathrm{H^+})<1\times10^{-7}\ \mathrm{mol\cdot L^{-1}}$，即水的电离被抑制，则可能是由酸、碱或某些电离强于水解的酸式酸根离子的电离造成的。
+
+**12.B** $\mathrm{H_2S}$ 是弱电解质，在离子方程式中不可拆写，A项错误。$\mathrm{Na_2SO_3}$ 溶液吸收少量 $\mathrm{Cl_2}$，反应分为两步，先发生氧化还原反应 $\mathrm{SO_3^{2-}+Cl_2+H_2O\xrightarrow{}SO_4^{2-}+2Cl^-+2H^+}$，生成的 $\mathrm{H^+}$ 再与过量的 $\mathrm{SO_3^{2-}}$ 结合生成 $\mathrm{HSO_3^-}$，B项正确。$\mathrm{Fe^{3+}}$ 与 $\mathrm{NH_3\cdot H_2O}$ 反应生成的是 $\mathrm{Fe(OH)_3}$ 沉淀，制备 $\mathrm{Fe(OH)_3}$ 胶体的方法为向沸水中滴加饱和 $\mathrm{FeCl_3}$ 溶液，加热至液体呈红褐色，随即停止加热，离子方程式为 $\mathrm{Fe^{3+}+3H_2O}\xrightarrow{\Delta}\mathrm{Fe(OH)_3}\text{（胶体）}+\mathrm{3H^+}$，C项错误。$\mathrm{MgCO_3}$ 微溶于水，$\mathrm{Mg(OH)_2}$ 难溶于水，$\mathrm{Mg(OH)_2}$ 的溶解度小于 $\mathrm{MgCO_3}$，加入足量 $\mathrm{NaOH}$ 溶液应生成 $\mathrm{Mg(OH)_2}$ 沉淀，离子方程式为 $\mathrm{Mg^{2+}+2HCO_3^-+4OH^-\xrightarrow{}Mg(OH)_2\downarrow+2CO_3^{2-}+2H_2O}$，D项错误。
+
+### 易错警示
+
+判断离子方程式正误时，需注意生成物是否能继续与过量溶质反应（特别是非氧化还原反应），例如B项中生成的 $\mathrm{H^+}$ 能继续与过量 $\mathrm{Na_2SO_3}$ 反应。
+
+**13.C** A项，$\mathrm{Fe^{3+}}$ 会与氢碘酸中的 $\mathrm{I^-}$ 反应生成 $\mathrm{Fe^{2+}}$ 和 $\mathrm{I_2}$，错误。B项，$\mathrm{S^{2-}}$ 与 $\mathrm{SO_2}$ 应发生归中反应生成 $\mathrm{S}$，错误。C项，$\mathrm{OH^-}$ 先与 $\mathrm{Al^{3+}}$ 反应，后与 $\mathrm{NH_4^+}$ 反应（若 $\mathrm{OH^-}$ 先与 $\mathrm{NH_4^+}$ 反应，生成的 $\mathrm{NH_3\cdot H_2O}$ 会继续与 $\mathrm{Al^{3+}}$ 反应生成 $\mathrm{Al(OH)_3}$ 和 $\mathrm{NH_4^+}$），假设 $\mathrm{NH_4Al(SO_4)_2}$ 的物质的量为 $1\ \mathrm{mol}$，当 $1\ \mathrm{mol}$ $\mathrm{Al^{3+}}$ 恰好完全沉淀时，需消耗 $3\ \mathrm{mol}$ $\mathrm{OH^-}$，即加入 $1.5\ \mathrm{mol}$ $\mathrm{Ba(OH)_2}$，则同时会有 $1.5\ \mathrm{mol}$ $\mathrm{SO_4^{2-}}$ 与 $1.5\ \mathrm{mol}$ $\mathrm{Ba^{2+}}$ 形成 $\mathrm{BaSO_4}$ 沉淀，即 $\mathrm{Al^{3+}}+\dfrac{3}{2}\mathrm{SO_4^{2-}}+\dfrac{3}{2}\mathrm{Ba^{2+}}+\mathrm{3OH^-}\xrightarrow{}\mathrm{Al(OH)_3}\downarrow+\dfrac{3}{2}\mathrm{BaSO_4}\downarrow$，将所有化学计量数同乘以 $2$ 可得题给的离子方程式，正确。D项，铅酸蓄电池充电时阳极处 $\mathrm{PbSO_4}$ 失电子转化为 $\mathrm{PbO_2}$，$\mathrm{PbSO_4}$ 难溶于水，书写离子方程式时不可拆成离子形式，错误。
+
+**14.D** 恰好沉淀完全，则 $\mathrm{Ba^{2+}}$ 与 $\mathrm{SO_4^{2-}}$ 的物质的量之比为 $1:1$，即 $\mathrm{Ba(HCO_3)_2}$ 与 $\mathrm{NaHSO_4}$ 的物质的量之比为 $1:1$，$\mathrm{HCO_3^-}$ 与 $\mathrm{H^+}$ 反应生成 $\mathrm{H_2O}$ 和 $\mathrm{CO_2}$，则反应的离子方程式为 $\mathrm{Ba^{2+}+HCO_3^-+H^++SO_4^{2-}\xrightarrow{}BaSO_4\downarrow+H_2O+CO_2\uparrow}$，A正确；标准状况下，$2.24\ \mathrm{L}$ $\mathrm{CO_2}$ 的物质的量为 $0.1\ \mathrm{mol}$，$250\ \mathrm{mL}$ $0.5\ \mathrm{mol\cdot L^{-1}}$ $\mathrm{NaOH}$ 溶液中溶质 $\mathrm{NaOH}$ 的物质的量为 $0.125\ \mathrm{mol}$，即 $n(\mathrm{CO_2}):n(\mathrm{NaOH})=4:5$，$n(\mathrm{CO_2}):n(\mathrm{NaOH})=1:1$ 时恰好生成 $\mathrm{HCO_3^-}$，则可看作 $\mathrm{4CO_2+4OH^-\xrightarrow{}4HCO_3^-}$、$\mathrm{HCO_3^-+OH^-\xrightarrow{}CO_3^{2-}+H_2O}$，两式相加得 $n(\mathrm{CO_2}):n(\mathrm{NaOH})=4:5$ 时反应的离子方程式，B正确；电负性：$\mathrm{Cl>I}$，故 $\mathrm{ICl}$ 中 $\mathrm{I}$、$\mathrm{Cl}$ 的化合价分别为 $+1$、$-1$，$\mathrm{ICl}$ 与 $\mathrm{NaOH}$ 的反应为非氧化还原反应，则生成物为 $\mathrm{NaIO}$、$\mathrm{NaCl}$ 和 $\mathrm{H_2O}$，C正确；向含 $0.2\ \mathrm{mol}$ $\mathrm{FeI_2}$ 的溶液中通入 $0.2\ \mathrm{mol}$ $\mathrm{Cl_2}$，$\mathrm{Cl_2}$ 先氧化 $\mathrm{I^-}$（若 $\mathrm{Cl_2}$ 先氧化 $\mathrm{Fe^{2+}}$，生成的 $\mathrm{Fe^{3+}}$ 又会与 $\mathrm{I^-}$ 反应生成 $\mathrm{Fe^{2+}}$ 和 $\mathrm{I_2}$），$0.4\ \mathrm{mol}$ $\mathrm{I^-}\sim0.4\ \mathrm{mol}$ $\mathrm{e^-}\sim0.2\ \mathrm{mol}$ $\mathrm{Cl_2}$，则 $\mathrm{Cl_2}$ 只氧化 $\mathrm{I^-}$，反应的离子方程式为 $\mathrm{2I^-+Cl_2\xrightarrow{}I_2+2Cl^-}$，D错误。
+
+**15.D** $\mathrm{NH_4^+}$、$\mathrm{Fe^{3+}}$ 均能与 $\mathrm{[Al(OH)_4]^-}$ 发生相互促进的水解反应且程度较大，不能大量共存，A错误。$\mathrm{NH_4^+}$、$\mathrm{Fe^{3+}}$、$\mathrm{Br^-}$、$\mathrm{SO_4^{2-}}$ 可以共存，$\mathrm{Fe^{3+}}$ 与 $\mathrm{S^{2-}}$ 可能发生相互促进的水解反应、氧化还原反应或产生沉淀 $\mathrm{Fe_2S_3}$，若发生氧化还原反应，因 $\mathrm{S^{2-}}$ 为过量，则最终产物为 $\mathrm{FeS}$ 沉淀和 $\mathrm{S}$ 单质，B错误。$\mathrm{K^+}$、$\mathrm{Na^+}$、$\mathrm{ClO^-}$、$\mathrm{SO_4^{2-}}$ 可以共存，足量 $\mathrm{SO_2}$ 可与 $\mathrm{ClO^-}$ 发生氧化还原反应：$\mathrm{SO_2+ClO^-+}$
+
+<!-- page 42 -->
+
+$\mathrm{H_2O\xrightarrow{}SO_4^{2-}+Cl^-+2H^+}$，C错误。$\mathrm{K^+}$、$\mathrm{Na^+}$、$\mathrm{NO_3^-}$、$\mathrm{[Al(OH)_4]^-}$ 可以共存，少量 $\mathrm{HCl}$ 可与 $\mathrm{[Al(OH)_4]^-}$ 发生反应：$\mathrm{H^++[Al(OH)_4]^-\xrightarrow{}Al(OH)_3\downarrow+H_2O}$，D正确。
+
+## 第2节　氧化还原反应的概念和规律
+
+### 五年高考
+
+**1.A** A项，联合制碱法涉及的反应为 $\mathrm{NaCl+CO_2+H_2O+NH_3\xrightarrow{}NaHCO_3\downarrow+NH_4Cl}$、$\mathrm{2NaHCO_3}\xrightarrow{\Delta}\mathrm{Na_2CO_3+H_2O+CO_2\uparrow}$，均为非氧化还原反应；B项，电解盐酸发生的反应为 $\mathrm{2HCl}\xrightarrow{\text{电解}}\mathrm{H_2\uparrow+Cl_2\uparrow}$，属于氧化还原反应；C项，金属和 $\mathrm{O_2}$ 的反应中，金属失去电子，$\mathrm{O_2}$ 得到电子，属于氧化还原反应；D项，合成氨反应为 $\mathrm{N_2+3H_2}\xrightleftharpoons[\text{催化剂}]{\text{高温、高压}}\mathrm{2NH_3}$，属于氧化还原反应。
+
+**2.B** A项，将竹管和动物尾毫组装到一起制作成湖笔，该过程中未涉及氧化还原反应，不符合题意；B项，徽墨是由松木不完全燃烧产生的炭黑制成的，松木燃烧过程中发生了氧化还原反应，符合题意；C项，将楷树皮经过捶打、淘絮等程序制成宣纸，未涉及氧化还原反应，不符合题意；D项，端石经过雕刻、打磨等过程制成端砚，该过程中未涉及氧化还原反应，不符合题意。
+
+**3.C** A项可理解为金在空气中灼烧不发生化学反应，说明金的化学性质稳定；B项可理解为 $\mathrm{CaO}$ 与水反应放热，固体由块状变为粉末状，但未发生氧化还原反应；C项可理解为 $\mathrm{S}$ 能与 $\mathrm{Ag}$、$\mathrm{Cu}$、$\mathrm{Fe}$ 反应，反应中 $\mathrm{S}$ 作氧化剂，与其氧化性有关；D项中醋酸与 $\mathrm{CaCO_3}$ 反应生成醋酸钙、二氧化碳和水，为复分解反应；综上所述可知选C。
+
+**4.B** A项，$\mathrm{NH_4HCO_3}$ 加热分解生成 $\mathrm{NH_3}$、$\mathrm{H_2O}$ 和 $\mathrm{CO_2}$，属于非氧化还原反应，未体现 $\mathrm{NH_4^+}$ 的还原性；B项，$\mathrm{NH_4Cl}$ 和 $\mathrm{NaNO_2}$ 发生归中反应生成 $\mathrm{N_2}$，$\mathrm{NH_4Cl}$ 中 $\mathrm{N}$ 元素的化合价由 $-3$ 升高至 $0$，体现了 $\mathrm{NH_4^+}$ 的还原性；C项，$\mathrm{NH_4Cl}$ 水解使溶液呈酸性（属于非氧化还原反应），$\mathrm{Mg(OH)_2}$ 与 $\mathrm{H^+}$ 反应转化为 $\mathrm{Mg^{2+}}$ 而溶解，未体现 $\mathrm{NH_4^+}$ 的还原性；D项，发生的反应为 $\mathrm{Ba^{2+}+SO_4^{2-}\xrightarrow{}BaSO_4\downarrow}$，未体现 $\mathrm{NH_4^+}$ 的还原性。故选B。
+
+**5.D** $\mathrm{Cl_2}$ 的氧化性比 $\mathrm{Br_2}$ 强，可以将 $\mathrm{Br^-}$ 氧化成 $\mathrm{Br_2}$，A正确；$\mathrm{Br_2}$ 与 $\mathrm{SO_2}$ 水溶液发生反应：$\mathrm{Br_2+SO_2+2H_2O\xrightarrow{}2Br^-+SO_4^{2-}+4H^+}$，还原产物为 $\mathrm{Br^-}$，B正确；同一反应中，氧化剂的氧化性强于氧化产物的氧化性，所以 $\mathrm{Br_2}$ 的氧化性强于 $\mathrm{Fe^{3+}}$，C正确；$\mathrm{Br_2}$ 与足量 $\mathrm{NaOH}$ 溶液反应生成 $\mathrm{NaBr}$ 和 $\mathrm{NaBrO_3}$ 的化学方程式为 $\mathrm{3Br_2+6NaOH\xrightarrow{}5NaBr+NaBrO_3+3H_2O}$，当转移 $5\ \mathrm{mol}$ 电子时，消耗 $3\ \mathrm{mol}$ $\mathrm{Br_2}$，D错误。
+
+**6.D** 熔融强碱性介质会与瓷坩埚中的 $\mathrm{SiO_2}$ 反应，不能用瓷坩埚作反应器，A项错误；用 $\mathrm{NaOH}$ 作强碱性介质，最终产物中会混有 $\mathrm{NaMnO_4}$，应用 $\mathrm{KOH}$ 作强碱性介质，B项错误；$\mathrm{K_2MnO_4}$ 发生歧化反应生成 $\mathrm{KMnO_4}$ 和 $\mathrm{MnO_2}$，既体现其氧化性又体现其还原性，C项错误；①中 $\mathrm{MnO_2}$ 中 $\mathrm{Mn}$ 元素全部转化为 $\mathrm{K_2MnO_4}$，根据得失电子守恒，②中 $\mathrm{K_2MnO_4}$ 发生歧化反应生成 $\mathrm{KMnO_4}$ 和 $\mathrm{MnO_2}$ 的物质的量之比为 $2:1$，故 $\mathrm{MnO_2}$ 中的 $\mathrm{Mn}$ 元素只有 $\dfrac{2}{3}$ 转化为 $\mathrm{KMnO_4}$，理论转化率约为 $66.7\%$，D项正确。
+
+**7.C** 根据题中的反应原理图，可得如下离子方程式：① $\mathrm{2N_2H_4+Cu^{2+}\xrightarrow{}[Cu(N_2H_4)_2]^{2+}}$、② $\mathrm{N_2H_4+4[Cu(N_2H_4)_2]^{2+}\xrightarrow{}N_2\uparrow+4H^++4[Cu(N_2H_4)_2]^+}$、③ $\mathrm{2[Cu(N_2H_4)_2]^++Fe_3O_4+8H^+\xrightarrow{}3Fe^{2+}+2[Cu(N_2H_4)_2]^{2+}+4H_2O}$。A项，由反应②可知，$\mathrm{N_2H_4}$ 中 $\mathrm{N}$ 元素的化合价为 $-2$，$\mathrm{N_2}$ 中 $\mathrm{N}$ 元素的化合价为 $0$，故 $\mathrm{N_2}$ 为氧化产物，错误；B项，根据氧化还原反应中还原剂的还原性强于还原产物的还原性，结合反应②、③可知，还原性：$\mathrm{N_2H_4>[Cu(N_2H_4)_2]^+>Fe^{2+}}$，错误；C项，结合反应②、③可知，反应②消耗 $4\ \mathrm{mol}$ $\mathrm{[Cu(N_2H_4)_2]^{2+}}$ 时，生成 $4\ \mathrm{mol}$ $\mathrm{H^+}$，反应③生成 $4\ \mathrm{mol}$ $\mathrm{[Cu(N_2H_4)_2]^{2+}}$ 时，消耗 $16\ \mathrm{mol}$ $\mathrm{H^+}$，故处理后的溶液中 $c(\mathrm{H^+})$ 减小，$\mathrm{pH}$ 增大，正确；D项，根据题中反应原理图，反应中消耗 $\mathrm{Cu^{2+}}$，但最终没有 $\mathrm{Cu^{2+}}$ 生成，故图示反应过程中，$\mathrm{Cu^{2+}}$ 不起催化作用，错误。
+
+**8.C** 由题图可知，$\mathrm{Mn(III)}$ 大量减少时，$\mathrm{Mn(II)}$ 大量增加，说明 $\mathrm{Mn(III)}$ 氧化了 $\mathrm{H_2C_2O_4}$，自身被还原生成 $\mathrm{Mn(II)}$，A项错误；题干指明 $\mathrm{Mn(II)}$ 起催化作用，题图中 $\mathrm{Mn(II)}$ 开始产生后，化学反应速率在中间过程中可能增大，B项错误；由题图可知，当 $\mathrm{Mn(VI)}$ 存在时，$\mathrm{Mn(II)}$ 不存在，当 $\mathrm{Mn(II)}$ 存在时，$\mathrm{Mn(VI)}$ 不存在，则可推测该条件下，$\mathrm{Mn(II)}$ 和 $\mathrm{Mn(VI)}$ 不能大量共存，可能发生氧化还原反应，C项正确；$\mathrm{H_2C_2O_4}$ 是弱电解质，离子方程式中 $\mathrm{H_2C_2O_4}$ 不能拆，D项错误。
+
+### 三年模拟
+
+**9.A** 铁粉作双吸剂时能与氧气和水反应，铁元素的化合价升高，氧气中氧元素的化合价降低，涉及氧化还原反应，A项正确。碳酸氢钠受热分解或与酸反应产生二氧化碳气体，反应过程中各元素的化合价不变，不涉及氧化还原反应，B项错误。活性炭用作食品脱色剂是利用活性炭的吸附性，没有发生化学反应，C项错误。石膏用作豆腐凝固剂，是因为硫酸钙能使蛋白质发生聚沉，没有发生化学反应，D项错误。
+
+**10.A** 切开的茄子放置后切面变色是因为茄子中的酚类物质在空气中被氧化，A项符合题意；食用纯碱（主要成分为 $\mathrm{Na_2CO_3}$）与面点发酵过程中产生的酸性物质发生的反应不属于氧化还原反应，B项不符合题意；肥皂水呈碱性，可以中和蚊虫叮咬时分泌的酸，不属于氧化还原反应，C项不符合题意；含氟牙膏中的 $\mathrm{F^-}$ 与牙齿釉质层中的羟基磷灰石 $\mathrm{[Ca_5(PO_4)_3OH]}$ 发生反应，生成溶解度更小的氟磷灰石 $\mathrm{[Ca_5(PO_4)_3F]}$，不属于氧化还原反应，D项不符合题意。
+
+### 回归教材　人教版选必1第三章第四节
+
+牙齿的表面有一薄层釉质保护着，釉质层的主要成分是难溶的羟基磷灰石 $\mathrm{[Ca_5(PO_4)_3OH]}$。氟离子能与羟基磷灰石发生反应，生成氟磷灰石 $\mathrm{[Ca_5(PO_4)_3F]}$：$\mathrm{Ca_5(PO_4)_3OH(s)+F^-(aq)\rightleftharpoons Ca_5(PO_4)_3F(s)+OH^-(aq)}$。研究证实，氟磷灰石的溶解度比羟基磷灰石的小，而且更能抗酸的侵蚀。此外，氟离子还能抑制口腔细菌产酸。

@@ -1,0 +1,214 @@
+{
+  "concepts": [],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-02f61acba82536c37db0"
+      ],
+      "text": "不同类型晶体的熔、沸点一般为：共价晶体＞离子晶体＞分子晶体。不同金属晶体的熔、沸点差别较大。",
+      "title": "不同类型晶体的熔、沸点一般规律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-52b323f7bb8ec716def5"
+      ],
+      "text": "分子晶体中，能形成分子间氢键的物质熔、沸点较高；形成的分子间氢键越多、越强，熔、沸点越高。如熔、沸点：$\\mathrm{H_2O>H_2S}$，乙二醇＞乙醇。",
+      "title": "分子间氢键对熔、沸点的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-52b323f7bb8ec716def5"
+      ],
+      "text": "形成分子内氢键会降低熔、沸点。如熔、沸点：邻羟基苯甲醛＜对羟基苯甲醛。",
+      "title": "分子内氢键对熔、沸点的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-52b323f7bb8ec716def5"
+      ],
+      "text": "对于不能形成氢键、组成和结构相似的分子晶体，相对分子质量越大，范德华力越强，熔、沸点越高。如熔、沸点：$\\mathrm{HI>HBr>HCl}$。",
+      "title": "相对分子质量与熔、沸点",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-52b323f7bb8ec716def5"
+      ],
+      "text": "对于不能形成氢键且相对分子质量接近的分子晶体，分子极性越大，范德华力越强，熔、沸点越高。如熔、沸点：$\\mathrm{CO>N_2}$。",
+      "title": "分子极性与熔、沸点",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-52b323f7bb8ec716def5"
+      ],
+      "text": "互为同分异构体的烷烃，一般支链越多，沸点越低。如沸点：正戊烷＞异戊烷＞新戊烷。",
+      "title": "烷烃同分异构体的支链与沸点",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-52b323f7bb8ec716def5"
+      ],
+      "text": "金属晶体中，金属阳离子半径越小，离子所带电荷数越多，金属键越强，熔、沸点越高。如熔、沸点：$\\mathrm{Al>Mg>Na}$。",
+      "title": "金属晶体的熔、沸点规律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-52b323f7bb8ec716def5"
+      ],
+      "text": "共价晶体中，成键原子半径越小，键长越短，键能越大，熔、沸点越高。如熔、沸点：金刚石＞$\\mathrm{SiC}$＞单晶 $\\mathrm{Si}$。",
+      "title": "共价晶体的熔、沸点规律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-52b323f7bb8ec716def5"
+      ],
+      "text": "离子晶体中，一般阴、阳离子所带的电荷数越多，离子半径越小，离子键越强，熔、沸点越高。如熔、沸点：$\\mathrm{MgO>NaCl>CsCl}$。",
+      "title": "离子晶体的熔、沸点规律",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-02f61acba82536c37db0",
+        "n-52b323f7bb8ec716def5"
+      ],
+      "text": "比较物质的熔、沸点时，先区分晶体类型。不同类型晶体可依据熔、沸点的一般规律比较；同类型晶体分别考察分子间作用力、金属键、共价键或离子键的相关因素。不同金属晶体熔、沸点差别较大。",
+      "title": "按晶体类型比较熔、沸点",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-52b323f7bb8ec716def5"
+      ],
+      "text": "比较分子晶体的熔、沸点，首先看能否形成分子间氢键，并考察氢键的多少、强弱及是否形成分子内氢键。若不能形成氢键，对组成和结构相似的物质比较相对分子质量；相对分子质量接近时比较分子极性。对于互为同分异构体的烷烃，比较支链多少以判断沸点高低。",
+      "title": "分子晶体熔、沸点的比较步骤",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-02f61acba82536c37db0",
+        "n-52b323f7bb8ec716def5"
+      ],
+      "from": "m1",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-52b323f7bb8ec716def5"
+      ],
+      "from": "m1",
+      "to": "m2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-52b323f7bb8ec716def5"
+      ],
+      "from": "m1",
+      "to": "l7",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-52b323f7bb8ec716def5"
+      ],
+      "from": "m1",
+      "to": "l8",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-52b323f7bb8ec716def5"
+      ],
+      "from": "m1",
+      "to": "l9",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-52b323f7bb8ec716def5"
+      ],
+      "from": "m2",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-52b323f7bb8ec716def5"
+      ],
+      "from": "m2",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-52b323f7bb8ec716def5"
+      ],
+      "from": "m2",
+      "to": "l4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-52b323f7bb8ec716def5"
+      ],
+      "from": "m2",
+      "to": "l5",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-52b323f7bb8ec716def5"
+      ],
+      "from": "m2",
+      "to": "l6",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6896c71ab9896c82d0ff",
+        "n-52b323f7bb8ec716def5"
+      ],
+      "from": "n-6896c71ab9896c82d0ff",
+      "to": "m2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-7cae0c14bad07edda362",
+  "source_digest": "1ed00de862a5a2828a64a451d47a8d8aeed789d5c2bca62d49ceae73fc364652",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

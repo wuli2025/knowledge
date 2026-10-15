@@ -1,0 +1,127 @@
+<!-- page 28 -->
+
+反应（或还原反应）
+
+（2）氨基、醚键
+
+[图：反应物为甲氧基取代的四氢萘环，其饱和环上的碳连接 $\mathrm{-NH-CH_2CH_2-}$ 噻吩基，与 $\mathrm{CH_3CH_2CH_2Br}$ 反应；产物中氮原子新增正丙基，另生成 $\mathrm{HBr}$。]
+
+### 路线分析
+
+路线一中，根据 G 的结构简式和 F 的分子式，结合已知反应（3），可知 F 的结构简式为
+
+[图：F 的结构简式为噻吩环的邻硫碳上连接 $\mathrm{-CH_2CH_2Br}$。]
+
+E 的结构简式为
+
+[图：E 为羟基取代的四氢萘，饱和环上的碳连接 $\mathrm{-NHCH_2CH_2CH_3}$。]
+
+由反应条件可知 $\mathrm{D\rightarrow E}$ 发生的是已知反应（2），根据 E 的结构简式可知 D 的结构简式为
+
+[图：D 为甲氧基取代的四氢萘，饱和环上的碳连接 $\mathrm{-NHCH_2CH_2CH_3}$。]
+
+根据 D 的结构简式和 B 的分子式，推测 A 与 B 发生的是已知反应（1），则 B 的结构简式为 $\mathrm{CH_3CH_2CH_2NH_2}$，A 的结构简式为
+
+[图：A 为甲氧基取代的四氢萘酮，羰基位于饱和六元环上。]
+
+C 的结构简式为
+
+[图：C 为 A 的羰基氧被 $\mathrm{=NCH_2CH_2CH_3}$ 替代所得的亚胺。]
+
+$\mathrm{C\rightarrow D}$ 的过程中 C 的碳氮双键被 $\mathrm{H_2}$ 加成，反应类型为加成反应（或还原反应）。
+
+路线二中，由反应条件可知 $\mathrm{L\rightarrow G}$ 发生的是已知反应（2），根据 G 的结构简式可知 L 的结构简式为
+
+[图：L 为甲氧基取代的四氢萘，饱和环上的碳连接一个叔胺氮；氮上的另外两个取代基分别为正丙基和连接噻吩环的乙基。]
+
+对比 H 与 L 的结构简式并结合 F 的结构简式可知，H 依次与 F、K 发生已知反应（3）得到 L，则 J 的结构简式为
+
+[图：J 为甲氧基取代的四氢萘，饱和环上的碳连接 $\mathrm{-NH-CH_2CH_2-}$ 噻吩基。]
+
+K 的结构简式为 $\mathrm{CH_3CH_2CH_2Br}$。
+
+解析　（1）M（$\mathrm{C_4H_{11}N}$）是 B（$\mathrm{CH_3CH_2CH_2NH_2}$）的同系物，M 的不饱和度为 0，M 的同分异构体可分为三类（注意 M 的同分异构体可以不是 B 的同系物）：① 含有 $\mathrm{-NH_2}$，即 $\mathrm{H_2NCH_2CH_2CH_2CH_3}$、$\mathrm{CH_3CH(NH_2)CH_2CH_3}$、$\mathrm{(CH_3)_2CHCH_2NH_2}$、$\mathrm{(CH_3)_3CNH_2}$；② 含有 $\mathrm{-NH-}$，即 $\mathrm{CH_3NHCH_2CH_2CH_3}$、$\mathrm{CH_3CH_2NHCH_2CH_3}$、$\mathrm{(CH_3)_2CHNHCH_3}$；③ 含有 [图：氮原子以三个单键连接三个基团]，即 $\mathrm{(CH_3)_2NCH_2CH_3}$，以上共 8 种。
+
+# 第十三章 化学实验基本方法
+
+## 第1节 常见仪器的使用和实验基本操作
+
+**1.B**　氢氟酸会腐蚀玻璃，故应保存在塑料瓶中，A 项正确。白磷易自燃，乙醇为可燃物，故白磷不可用乙醇液封，通常将白磷保存在水中（水封），B 项错误。$\mathrm{AgBr}$ 见光易分解，该固体应保存在棕色广口瓶中，C 项正确。金属钠易与 $\mathrm{H_2O}$ 或 $\mathrm{O_2}$ 反应，可保存在石蜡油或煤油中以隔绝空气和水分，D 项正确。
+
+**2.D**　量筒的精确度是 $0.1\ \mathrm{mL}$，用量筒无法量取 $12.36\ \mathrm{mL}$ 盐酸，A 错误；用广泛 $\mathrm{pH}$ 试纸测出的溶液 $\mathrm{pH}$ 为整数，B 错误；$\mathrm{Na_2C_2O_4}$ 为强碱弱酸盐，其溶液呈碱性，不能用酸式滴定管量取，应使用碱式滴定管，C 错误；滴定管的精确度为 $0.01\ \mathrm{mL}$，用酸式滴定管可测出消耗盐酸的体积为 $15.60\ \mathrm{mL}$，D 正确。
+
+**3.B**　反萃取法提取碘单质时，需要分液漏斗和烧杯等，不需要球形冷凝管②、酸式滴定管④和蒸馏烧瓶⑤，A 项不合理。乙醇在 $170\ ^\circ\mathrm{C}$、浓硫酸作用下发生消去反应生成乙烯和水，需要用蒸馏烧瓶⑤组装气体发生装置，用温度计③控制反应温度，B 项合理。提纯混有泥沙的苯甲酸时，需要烧杯、漏斗和玻璃棒等，不需要球形冷凝管②和温度计③，C 项不合理。分离二氯甲烷和四氯化碳的方法为蒸馏，需要直形冷凝管而非球形冷凝管②，D 项不合理。
+
+**4.A**　浓硫酸稀释会放出大量的热，故稀释浓硫酸时应将浓硫酸沿烧杯壁加入盛水的烧杯中，并用玻璃棒不断搅拌，A 项正确；读取液体体积时，视线应与凹液面最低处保持水平，B 项错误；$\mathrm{Cl_2}$ 的密度比空气大，应用向上排空气法收集，C 项错误；氯水有漂白性，不能用 $\mathrm{pH}$ 试纸测定饱和氯水的 $\mathrm{pH}$，应用 $\mathrm{pH}$ 计测量，D 项错误。
+
+**5.C**　$\mathrm{NH_4Cl}$ 分解生成的 $\mathrm{NH_3}$ 和 $\mathrm{HCl}$ 会在试管口附近重新化合为 $\mathrm{NH_4Cl}$，无法制得 $\mathrm{NH_3}$，应使用 $\mathrm{NH_4Cl}$ 与 $\mathrm{Ca(OH)_2}$ 混合加热，A 项错误。蒸馏时温度计水银球应置于蒸馏烧瓶支管口处，B 项错误。带聚四氟乙烯活塞的滴定管为酸碱通用滴定管，可盛放 $\mathrm{NaOH}$ 溶液，滴定盐酸时可用酚酞作指示剂，C 项正确。生成的乙烯中混有 $\mathrm{CO_2}$、$\mathrm{SO_2}$ 和乙醇蒸气，$\mathrm{SO_2}$ 和乙醇均能使酸性 $\mathrm{KMnO_4}$ 溶液褪色，故无法验证乙烯生成，D 项错误。
+
+**6.B**　A 项，在点燃可燃性气体（如 $\mathrm{H_2}$、$\mathrm{CH_4}$）前，应先验纯，防止发生爆炸，正确；B 项，金属 $\mathrm{K}$ 可以和水剧烈反应生成易燃的 $\mathrm{H_2}$ 且放出大量的热，故金属 $\mathrm{K}$ 着火不能用湿抹布盖灭，应用金属专用灭火剂或沙土盖灭，错误；C 项，硫粉能与汞发生反应生成硫化汞，便于处理，正确；D 项，苯酚易溶于乙醇，则苯酚沾到皮肤上，应立即用乙醇冲洗，再用水冲洗，正确。
+
+<!-- page 29 -->
+
+## 第2节 物质的检验和鉴别
+
+**1.D**　玻璃中含有钠元素，会影响实验结果，应用洁净的铂丝或铁丝蘸取待测液在酒精灯外焰上灼烧，A 错误；$\mathrm{Cl_2}$ 也能使品红溶液褪色，B 错误；原溶液中可能含有 $\mathrm{Fe^{3+}}$，不一定含有 $\mathrm{Fe^{2+}}$，应先向原溶液中加入 $\mathrm{KSCN}$ 溶液，溶液不变红，再加入氯水，溶液变红，才能证明原溶液中含有 $\mathrm{Fe^{2+}}$，C 错误；$\mathrm{O_2}$ 具有助燃性，带火星的木条复燃，说明产生的气体是 $\mathrm{O_2}$，D 正确。
+
+**2.C**　乙醇含有羟基，乙酸乙酯含有酯基，二者官能团不同，可用红外光谱鉴别，A 项不符合题意。向 $\mathrm{Na[Al(OH)_4]}$ 溶液中滴加盐酸，开始时有白色沉淀生成：$\mathrm{Na[Al(OH)_4]+HCl\longrightarrow Al(OH)_3\downarrow+NaCl+H_2O}$；向盐酸中滴加 $\mathrm{Na[Al(OH)_4]}$ 溶液，开始时无沉淀生成：$\mathrm{Na[Al(OH)_4]+4HCl\longrightarrow AlCl_3+NaCl+4H_2O}$，故滴加顺序不同，现象不同，可以鉴别，B 项不符合题意。向 $\mathrm{MgCl_2}$ 溶液和 $\mathrm{AlCl_3}$ 溶液中加入氨水，分别生成 $\mathrm{Mg(OH)_2}$ 白色沉淀和 $\mathrm{Al(OH)_3}$ 白色沉淀，且两种沉淀均不与氨水反应，现象相同，无法鉴别，C 项符合题意。苯不能使酸性高锰酸钾溶液褪色，而甲苯可以，现象不同，可以鉴别，D 项不符合题意。
+
+**3.B**　$\mathrm{MnO_2}$ 与浓盐酸共热生成黄绿色气体 $\mathrm{Cl_2}$，$\mathrm{CuO}$ 与浓盐酸反应生成蓝色 $\mathrm{CuCl_2}$ 溶液，碳粉与浓盐酸不反应，现象不同，可以鉴别，A 项不符合题意。$\mathrm{AlCl_3}$ 溶液与 $\mathrm{NaHCO_3}$ 溶液混合后发生相互促进的水解反应生成白色沉淀 $\mathrm{Al(OH)_3}$ 和气体 $\mathrm{CO_2}$，但是 $\mathrm{NH_4Cl}$ 溶液和 $\mathrm{Na_2SO_4}$ 溶液均不与 $\mathrm{NaHCO_3}$ 溶液反应，无法鉴别，B 项符合题意。$\mathrm{H_2O_2}$ 溶液能使紫色石蕊溶液褪色；$\mathrm{NaClO}$ 水解产生 $\mathrm{NaOH}$（呈碱性）和 $\mathrm{HClO}$（具有漂白性），故 $\mathrm{NaClO}$ 溶液能使紫色石蕊溶液先变蓝后褪色；$\mathrm{NaOH}$ 溶液能使紫色石蕊溶液变蓝，现象不同，可以鉴别，C 项不符合题意。$\mathrm{SO_2}$ 不与 $\mathrm{BaCl_2}$ 溶液反应；向 $\mathrm{Ca(OH)_2}$ 溶液中通入 $\mathrm{SO_2}$，开始时生成 $\mathrm{CaSO_3}$ 沉淀，溶液变浑浊，继续通入 $\mathrm{SO_2}$，$\mathrm{CaSO_3}$ 又与 $\mathrm{SO_2}$、$\mathrm{H_2O}$ 反应生成可溶于水的 $\mathrm{Ca(HSO_3)_2}$，浑浊液体又变澄清；向 $\mathrm{Ba(NO_3)_2}$ 溶液中通入 $\mathrm{SO_2}$，$\mathrm{SO_2}$ 与 $\mathrm{H_2O}$ 反应生成 $\mathrm{H_2SO_3}$ 使溶液呈酸性，酸性条件下 $\mathrm{NO_3^-}$ 能将 $\mathrm{H_2SO_3}$ 氧化为 $\mathrm{SO_4^{2-}}$，$\mathrm{SO_4^{2-}}$ 与 $\mathrm{Ba^{2+}}$ 反应生成白色沉淀 $\mathrm{BaSO_4}$，现象不同，可以鉴别，D 项不符合题意。
+
+**4.CD**　乙醇和乙醛均可被酸性 $\mathrm{KMnO_4}$ 溶液氧化，使酸性 $\mathrm{KMnO_4}$ 溶液褪色，A 错误。氯乙烷、溴乙烷和碘乙烷在 $\mathrm{NaOH}$ 溶液中加热可水解，水解后应先加入稀硝酸中和剩余的 $\mathrm{NaOH}$，再加入 $\mathrm{AgNO_3}$ 溶液进行卤素离子的检验，所给试剂缺少稀硝酸，B 错误。溴水与酒精不反应，但是可以混溶；乙烯与 $\mathrm{Br_2}$ 发生加成反应，使溴水褪色；甲苯可萃取溴水中的 $\mathrm{Br_2}$，液体分层，三者现象不同，可以鉴别，C 正确。乙醛不与饱和 $\mathrm{Na_2CO_3}$ 溶液反应，但可与饱和 $\mathrm{Na_2CO_3}$ 溶液互溶；乙酸与饱和 $\mathrm{Na_2CO_3}$ 溶液反应有气泡冒出；乙酸乙酯难溶于饱和 $\mathrm{Na_2CO_3}$ 溶液，液体分层，三者现象不同，可以鉴别，D 正确。
+
+## 第3节 物质的分离和提纯
+
+**1.B**　$\mathrm{NaHCO_3}$ 加热分解生成 $\mathrm{Na_2CO_3}$、$\mathrm{CO_2}$ 和 $\mathrm{H_2O}$，A 项正确。乙酸会与 $\mathrm{Na_2CO_3}$ 反应生成乙酸钠、$\mathrm{CO_2}$ 和 $\mathrm{H_2O}$，B 项错误。$\mathrm{H_2S}$ 与 $\mathrm{CuSO_4}$ 反应生成 $\mathrm{CuS}$ 沉淀，$\mathrm{CO_2}$ 不反应，用 $\mathrm{CuSO_4}$ 溶液除去 $\mathrm{H_2S}$ 后再用浓硫酸干燥 $\mathrm{CO_2}$，C 项正确。$\mathrm{Br_2}$ 与 $\mathrm{NaOH}$ 反应生成易溶于水的盐，硝基苯不反应且难溶于水，分液可分离得到硝基苯，D 项正确。
+
+**2.C**　混合气通入水中，$\mathrm{NO_2}$ 与 $\mathrm{H_2O}$ 反应生成 $\mathrm{HNO_3}$ 和 $\mathrm{NO}$，A 正确；饱和食盐水能吸收 $\mathrm{HCl}$，同时抑制 $\mathrm{Cl_2}$ 的溶解，B 正确；$\mathrm{Cu}$ 可将 $\mathrm{Fe^{3+}}$ 还原为 $\mathrm{Fe^{2+}}$，但会引入新杂质 $\mathrm{Cu^{2+}}$，应该加入过量 $\mathrm{Fe}$ 粉来除去 $\mathrm{Fe^{2+}}$ 中混有的 $\mathrm{Fe^{3+}}$，C 错误；$\mathrm{SO_2}$ 能被酸性高锰酸钾溶液氧化为 $\mathrm{SO_4^{2-}}$，$\mathrm{CO_2}$ 不反应，D 正确。
+
+**3.D**　用乙醚浸取青蒿素后，过滤将残渣除去，B 项正确；由题干信息知，青蒿素的热稳定性差，且乙醚的沸点为 $35\ ^\circ\mathrm{C}$，故操作Ⅱ蒸馏时选用水浴加热，更容易控制温度，C 项正确；由题干信息知，青蒿素在水中几乎不溶，故无法通过加水溶解进行重结晶，D 项错误。
+
+**4.B**　灼烧应使用坩埚，A 项错误；高锰酸钾和浓盐酸混合制 $\mathrm{Cl_2}$ 常温下就能进行，不需要加热，B 项正确；苯的密度小于水，苯和溴应该在上层，从下口放出下层液体后，从上口倒出有机相（苯层），C 项错误；利用溴和苯的沸点不同进行蒸馏分离，但溴易挥发且污染环境，不能敞口收集，D 项错误。
+
+# 第十四章 实验方案的设计与评价
+
+## 第1节 制备实验方案的设计与评价
+
+**1.AD**　用 $\mathrm{MnO_2}$ 和浓盐酸共热制备的 $\mathrm{Cl_2}$ 中含有 $\mathrm{HCl}$，可用饱和 $\mathrm{NaCl}$ 溶液除去，A 项正确。浓硝酸具有强氧化性，能将 $+4$ 价 $\mathrm{S}$ 氧化为 $+6$ 价 $\mathrm{S}$，故不能用浓硝酸和 $\mathrm{Na_2SO_3}$ 反应来制备 $\mathrm{SO_2}$，应该使用 $70\%$ 硫酸和 $\mathrm{Na_2SO_3}$ 来制备 $\mathrm{SO_2}$，B 项错误。将浓硫酸和乙醇的混合液迅速加热到 $170\ ^\circ\mathrm{C}$ 可以制备 $\mathrm{C_2H_4}$，生成的 $\mathrm{C_2H_4}$ 中混有 $\mathrm{SO_2}$、$\mathrm{CO_2}$ 和乙醇蒸气，$\mathrm{C_2H_4}$、$\mathrm{SO_2}$、乙醇均能被酸性 $\mathrm{KMnO_4}$ 溶液氧化，故不能用酸性 $\mathrm{KMnO_4}$ 溶液除杂，可使用 $\mathrm{NaOH}$ 溶液除杂，C 项错误。用稀盐酸和 $\mathrm{CaCO_3}$ 反应制备的 $\mathrm{CO_2}$ 中含有 $\mathrm{HCl}$，可用饱和 $\mathrm{NaHCO_3}$ 溶液除去，D 项正确。
+
+**2.C**　装置甲用于制备 $\mathrm{NH_3}$，浓氨水和碱石灰混合时，碱石灰中的 $\mathrm{NaOH}$ 溶解放热，$\mathrm{CaO}$ 与水反应放热，且溶液中 $c(\mathrm{OH^-})$ 增大，促进浓氨水中的 $\mathrm{NH_3\cdot H_2O}$ 分解产生 $\mathrm{NH_3}$，能达到实验目的，A 项不符合题意。$\mathrm{NH_3}$ 极易溶于水，从 a 口通入 $\mathrm{NH_3}$ 能使 $\mathrm{NH_3}$ 被溶液吸收并防止倒吸，$\mathrm{NH_3}$ 与 $\mathrm{NaClO}$ 反应生成 $\mathrm{N_2H_4\cdot H_2O}$，能达到实验目的，B 项不符合题意。蒸馏时温度计水银球应置于蒸馏烧瓶支管口处，该装置不能达到实验目的，C 项符合题意。$\mathrm{NH_3}$ 极易溶于水，难溶于 $\mathrm{CCl_4}$，故将 $\mathrm{NH_3}$ 通入装置丁的 $\mathrm{CCl_4}$ 中能起到防倒吸的作用，再利用上层的水吸收 $\mathrm{NH_3}$，能达到实验目的，D 项不符合题意。
+
+<!-- page 30 -->
+
+**3.C**　装置 A 为发生装置，锌与盐酸反应生成 $\mathrm{H_2}$，装置 B、C 为除杂装置，装置 B 用于除去 $\mathrm{H_2}$ 中的 $\mathrm{HCl}$，装置 C 用于干燥 $\mathrm{H_2}$，装置 D 中 $\mathrm{H_2}$ 与锂反应生成 $\mathrm{LiH}$，装置 E 中的浓硫酸可避免空气中的水蒸气进入装置 D。装置 A 中可通过分液漏斗控制盐酸的滴加速度从而控制 $\mathrm{H_2}$ 的生成速率，A 正确；$\mathrm{HCl}$ 气体极易溶于水，可用饱和食盐水除去，浓硫酸有吸水性，可除去 $\mathrm{H_2}$ 中的水蒸气，B 正确；尾气主要是 $\mathrm{H_2}$，浓硫酸不能吸收 $\mathrm{H_2}$，装置 E 中的浓硫酸可避免空气中的水蒸气进入装置 D 与 $\mathrm{LiH}$ 剧烈反应，C 错误；实验中，先通入 $\mathrm{H_2}$，将装置中的空气排出，然后燃酒精灯，可避免可燃性气体不纯引发的爆炸以及制备的物质不纯，D 正确。
+
+### 方法点拨
+
+反应物或产物中含有易潮解、易水解、易与水反应的物质时，两侧均需连接干燥装置。
+
+**4.B**　由题干信息知，$\mathrm{ClO_2}$ 浓度过大时易发生分解，故通入空气的目的之一是防止 $\mathrm{ClO_2}$ 浓度过大发生分解，A 项正确；装置 A 中 $\mathrm{H_2O_2}$ 和 $\mathrm{NaClO_3}$ 反应生成 $\mathrm{ClO_2}$，$\mathrm{Cl}$ 元素化合价降低，$\mathrm{NaClO_3}$ 为氧化剂，$\mathrm{H_2O_2}$ 为还原剂，B 项错误；$\mathrm{ClO_2}$ 和 $\mathrm{H_2O_2}$ 受热均易分解，装置 C 的冷水对反应液进行冷却，并防止温度过高 $\mathrm{ClO_2}$ 和 $\mathrm{H_2O_2}$ 分解，C 项正确；装置 D 中的 $\mathrm{NaOH}$ 溶液可吸收未反应的 $\mathrm{ClO_2}$，进行尾气处理，防止污染空气，D 项正确。
+
+## 第2节 探究实验方案的设计与评价
+
+**1.C**　向 $\mathrm{FeBr_2}$ 溶液中滴加氯水，$\mathrm{Cl_2}$ 先将 $\mathrm{Fe^{2+}}$ 氧化成 $\mathrm{Fe^{3+}}$，振荡、静置后 $\mathrm{CCl_4}$ 层呈无色；氯水过量时 $\mathrm{Cl_2}$ 将 $\mathrm{Br^-}$ 氧化成 $\mathrm{Br_2}$，振荡、静置后 $\mathrm{CCl_4}$ 层呈橙红色，可证明还原性：$\mathrm{Fe^{2+}>Br^-}$，A 项正确。$\mathrm{NH_4Cl}$ 受热分解生成 $\mathrm{HCl}$ 和 $\mathrm{NH_3}$，$\mathrm{P_2O_5}$ 可吸收 $\mathrm{NH_3}$（避免 $\mathrm{NH_3}$ 对 $\mathrm{HCl}$ 的检验造成干扰），湿润的蓝色石蕊试纸变红，说明有 $\mathrm{HCl}$ 生成；碱石灰可吸收 $\mathrm{HCl}$（避免 $\mathrm{HCl}$ 对 $\mathrm{NH_3}$ 的检验造成干扰），湿润的酚酞试纸变红，说明有 $\mathrm{NH_3}$ 生成，B 项正确。$\mathrm{NaOH}$ 溶液可除去油污，但是 $\mathrm{Al}$ 也会和 $\mathrm{NaOH}$ 溶液反应，C 项错误。电石与饱和食盐水混合后反应生成乙炔，用硫酸铜溶液吸收乙炔中混有的 $\mathrm{H_2S}$ 等杂质，净化后的乙炔能与 $\mathrm{Br_2}$ 发生加成反应使溴水褪色，可检验有乙炔生成，D 项正确。
+
+**2.C**　还原铁粉与水蒸气反应生成的气体是 $\mathrm{H_2}$，该反应中 $\mathrm{H}$ 元素的化合价由 $+1$ 降为 $0$，体现了 $\mathrm{H_2O}$ 的氧化性，A 错误。若待测液中含有 $\mathrm{Ag^+}$，能与 $\mathrm{Cl^-}$ 反应生成白色沉淀；若待测液中含有 $\mathrm{CO_3^{2-}}$、$\mathrm{SO_3^{2-}}$，能与 $\mathrm{Ba^{2+}}$ 反应生成白色沉淀，所以通过该实验不能得出待测液含有 $\mathrm{SO_4^{2-}}$ 的结论，B 错误。$\mathrm{Mg(OH)_2}$ 能与盐酸反应，不能与 $\mathrm{NaOH}$ 溶液反应，$\mathrm{Al(OH)_3}$ 与盐酸和 $\mathrm{NaOH}$ 溶液都能反应，说明 $\mathrm{Mg(OH)_2}$ 的碱性比 $\mathrm{Al(OH)_3}$ 的强，C 正确。$\mathrm{K_2Cr_2O_7}$ 溶液中存在平衡：$\mathrm{Cr_2O_7^{2-}}$（橙色）$+\mathrm{H_2O}\rightleftharpoons 2\mathrm{CrO_4^{2-}}$（黄色）$+2\mathrm{H^+}$，加入 $\mathrm{NaOH}$ 溶液后，$\mathrm{OH^-}$ 与 $\mathrm{H^+}$ 反应，生成物浓度减小，平衡向正反应方向移动，溶液由橙色变为黄色，D 错误。
+
+**3.C**　实验①中溶液由无色变为蓝色，说明有 $\mathrm{I_2}$ 生成，即 $\mathrm{ClO^-}$ 将 $\mathrm{I^-}$ 氧化为 $\mathrm{I_2}$；继续滴加，蓝色消失，原因是 $\mathrm{I_2}$ 被 $\mathrm{ClO^-}$ 继续氧化为 $\mathrm{IO_3^-}$，A 项正确。实验②中“出现少许蓝色”说明 $\mathrm{ClO^-}$ 将 $\mathrm{I^-}$ 氧化为 $\mathrm{I_2}$，题给离子方程式正确，B 项正确。实验②中振荡后蓝色立即消失，是因为 $\mathrm{I_2}$ 被过量的 $\mathrm{ClO^-}$ 氧化为 $\mathrm{IO_3^-}$，且继续滴加后出现蓝色，说明淀粉仍然存在，并未与 84 消毒液反应，C 项错误。由前述分析可知，实验①和②中按照不同的顺序滴加试剂，实验现象不同，反应的进程不同，D 项正确。
+
+**4.B**　$\mathrm{CuCl_2}$ 溶液呈酸性，加入铝箔时，$\mathrm{Al}$ 和 $\mathrm{H^+}$ 反应生成 $\mathrm{H_2}$，$\mathrm{Al}$ 和 $\mathrm{Cu^{2+}}$ 反应生成 $\mathrm{Cu}$，A 项正确。实验②中，$\mathrm{Al}$ 和 $\mathrm{Cu^{2+}}$ 反应生成 $\mathrm{Cu}$，$\mathrm{Cu}$ 与过量的 $\mathrm{Cu^{2+}}$ 发生归中反应生成 $\mathrm{Cu^+}$，$\mathrm{Cu^+}$ 与 $\mathrm{Cl^-}$ 结合生成 $\mathrm{CuCl}$ 白色沉淀，反应的离子方程式为 $\mathrm{Cu(s)+Cu^{2+}(aq)+2Cl^-(aq)\rightleftharpoons 2CuCl(s)}$，试管 b 的温度低于试管 a，生成的 $\mathrm{CuCl}$ 白色沉淀比试管 a 明显少，说明降低温度平衡逆向移动，则该反应为吸热反应，$\Delta H>0$，B 项错误。实验③中 $\mathrm{CuCl}$ 和稀硫酸反应生成 $\mathrm{Cu}$ 和 $\mathrm{Cu^{2+}}$，$\mathrm{Cu}$ 元素的化合价由 $+1$ 变为 $0$ 和 $+2$，发生了歧化反应，C 项正确。实验④中加入过量浓氨水后，$\mathrm{Cu(I)}$ 与 $\mathrm{NH_3}$ 形成无色配离子，置于空气中溶液变为蓝色，说明无色配离子被 $\mathrm{O_2}$ 氧化为蓝色的 $\mathrm{[Cu(NH_3)_4]^{2+}}$，加入乙醇可降低 $\mathrm{[Cu(NH_3)_4]Cl_2}$ 的溶解度，从而析出蓝色晶体，D 项正确。
+
+## 微专题6 制备实验综合题的解题策略
+
+### 典例1
+
+**答案**　（1）$\mathrm{K_1}$、$\mathrm{K_4}$　排尽装置中的空气，防止 $\mathrm{NiS}$ 被 $\mathrm{O_2}$ 氧化为 $\mathrm{Ni(OH)S}$　除去 $\mathrm{H_2S}$ 中的 $\mathrm{HCl}$ 杂质　$\mathrm{H_2S+Ni^{2+}+2NH_3\longrightarrow NiS\downarrow+2NH_4^+}$　末端缺少 $\mathrm{H_2S}$、$\mathrm{NH_3}$ 的尾气处理装置
+
+（2）b　取最后一次洗涤后的滤液少许于试管中，先加入稀硝酸，再加入 $\mathrm{AgNO_3}$ 溶液，若无白色沉淀产生，则证明洗涤干净
+
+（3）$91\%$
+
+**解析**　根据实验目的可知，装置Ⅰ中浓盐酸和 $\mathrm{FeS}$ 反应生成 $\mathrm{H_2S}$ 气体，装置Ⅱ用于除去 $\mathrm{H_2S}$ 中混有的 $\mathrm{HCl}$，将 $\mathrm{H_2S}$ 通入装置Ⅲ中与 $\mathrm{NiCl_2}$、$\mathrm{NH_3}$ 反应生成 $\mathrm{NiS}$。
+
+（1）根据已知信息可知 $\mathrm{NiS}$ 在有水存在时易被 $\mathrm{O_2}$ 氧化，故检查装置气密性并加入药品后，打开 $\mathrm{K_1}$、$\mathrm{K_4}$，关闭 $\mathrm{K_2}$、$\mathrm{K_3}$，通入 $\mathrm{N_2}$ 排尽装置中的空气，使反应在 $\mathrm{N_2}$ 氛围中进行，防止 $\mathrm{NiS}$ 被氧化为 $\mathrm{Ni(OH)S}$。浓盐酸具有挥发性，装置Ⅱ用 $\mathrm{NaHS}$ 饱和溶液除去 $\mathrm{H_2S}$ 中混有的 $\mathrm{HCl}$，装置Ⅲ用于制备 $\mathrm{NiS}$ 沉淀，在 $\mathrm{NH_3}$ 的作用下 $\mathrm{Ni^{2+}}$ 与 $\mathrm{H_2S}$ 反应生成 $\mathrm{NiS}$。该制备实验中的 $\mathrm{H_2S}$、$\mathrm{NH_3}$ 均为污染性气体，在 $\mathrm{K_5}$ 后方应增加尾气处理装置。
+
+（2）装置Ⅳ是抽气并储存洗涤后滤液的装置，装置Ⅴ是提供洗涤水的装置，b 处导管与装置Ⅲ中溶液相连通，则 b 处接装置Ⅳ，c 处接装置Ⅴ。$\mathrm{NiS}$ 沉淀表面可能会附着 $\mathrm{Cl^-}$，证明 $\mathrm{NiS}$ 洗涤干净即证明洗涤后的滤液中不含 $\mathrm{Cl^-}$。
+
+（3）根据反应 $\mathrm{Ni^{2+}+H_2Y^{2-}\longrightarrow NiY^{2-}+2H^+}$、$\mathrm{Cu^{2+}+H_2Y^{2-}\longrightarrow CuY^{2-}+2H^+}$ 可知，$\mathrm{Ni^{2+}}$、$\mathrm{Cu^{2+}}$ 均与 $\mathrm{H_2Y^{2-}}$ 按物质的量之比 $1:1$ 进行反应，$\mathrm{CuSO_4}$ 溶液的作用是滴定过量的 $\mathrm{Na_2H_2Y}$，故 $n_{\text{过量}}(\mathrm{Na_2H_2Y})=n(\mathrm{Cu^{2+}})=0.10\ \mathrm{mol/L}\times10\times10^{-3}\ \mathrm{L}=1\times10^{-3}\ \mathrm{mol}$，则 $n(\mathrm{NiS})=n(\mathrm{Ni^{2+}})=n(\mathrm{Na_2H_2Y})-n_{\text{过量}}(\mathrm{Na_2H_2Y})=0.10\ \mathrm{mol/L}\times30\times10^{-3}\ \mathrm{L}-1\times10^{-3}\ \mathrm{mol}=2\times10^{-3}\ \mathrm{mol}$，该样品中 $\mathrm{NiS}$ 的质量分数为 $\dfrac{2\times10^{-3}\ \mathrm{mol}\times\dfrac{250\ \mathrm{mL}}{20\ \mathrm{mL}}\times91\ \mathrm{g/mol}}{2.5\ \mathrm{g}}\times100\%=91\%$。

@@ -1,0 +1,18 @@
+{
+  "subject": "化学",
+  "branch": "chemistry",
+  "checked_at": "2026-10-15T10:28:05.470807+00:00",
+  "nodes": 5159,
+  "edges": 12123,
+  "pages": 457,
+  "checks": [
+    "single-subject data",
+    "default graph",
+    "subject title and tabs",
+    "search reveal",
+    "answer navigation",
+    "source image",
+    "offline assets"
+  ],
+  "javascript_errors": []
+}

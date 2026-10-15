@@ -1,0 +1,172 @@
+<!-- page 91 -->
+
+## 三年模拟
+
+答案 P399
+
+7. ★★（2026届山东青岛期初调研，10）下列对图示分析所得结论正确的是（　　）
+
+[图：甲为能量$E$随反应过程变化的曲线，反应物为$2\mathrm{SO_2(g)}+\mathrm{O_2(g)}$，生成物为$2\mathrm{SO_3(g)}$，生成物能量低于反应物；图中标有催化剂Ⅰ、催化剂Ⅱ，不同路径的能量峰值不同。乙为$\alpha(\mathrm{NO_2})$随温度$T$变化的曲线，曲线随温度升高而下降，$a$点位于$b$点左上方。丙为$c(\mathrm{CO_2})/(\mathrm{mol\cdot L^{-1}})$随时间变化的曲线，先从零升高至平台，在$t_1$时突增，随后下降至原平台。丁为平衡$\mathrm{NH_3}$百分含量随起始$n(\mathrm{H_2})$变化的曲线，先升高后降低，$a$点位于上升段，$b$点为最高点，对应横坐标$n$，$c$点位于下降段。]
+
+A. 图甲，催化剂Ⅰ对反应$2\mathrm{SO_2(g)}+\mathrm{O_2(g)}\rightleftharpoons 2\mathrm{SO_3(g)}$的催化效果更好
+
+B. 图乙，恒容和固定投料条件下，$2\mathrm{NO_2(g)}\rightleftharpoons \mathrm{N_2O_4(g)}$平衡时气体颜色$a$点比$b$点深
+
+C. 图丙，$\mathrm{CaCO_3(s)}$在恒温密闭容器中分解，$t_1\ \mathrm{s}$时可能充入了$\mathrm{CO_2}$
+
+D. 图丁，合成氨反应，固定$\mathrm{N_2}$投料时，$a$、$b$、$c$三点中$\mathrm{N_2}$转化率$b$点最高，$c$点最低
+
+8. ★★（2025届山东青岛期初调研，20节选改编）
+
+（3）$\mathrm{CH_4}$也可以作为制取白磷的还原剂，反应方程式为$6\mathrm{Ca_3(PO_4)_2(s)}+10\mathrm{CH_4(g)}+18\mathrm{SiO_2(s)}\rightleftharpoons 18\mathrm{CaSiO_3(s)}+3\mathrm{P_4(g)}+10\mathrm{CO(g)}+20\mathrm{H_2O(g)}$（Ⅳ）　$\Delta H_4>0$。在一容器中加入足量的$\mathrm{Ca_3(PO_4)_2}$、$\mathrm{SiO_2}$并通入一定量的$\mathrm{CH_4}$，在不同的压强下，反应体系达到平衡时测得$\mathrm{CH_4}$体积分数随温度$T$的变化关系如图所示：
+
+[图：纵轴为$\mathrm{CH_4}$体积分数，横轴为温度$T$。三条曲线均随温度升高而下降并逐渐变缓，从上到下依次标为$p_1$、$p_2$、$p_3$。在$T_0$时，$p_1$曲线对应的$\mathrm{CH_4}$体积分数为$0.67$。$M$点在$p_3$曲线上，位于$T_0$左侧；$N$点在$p_2$曲线上，位于$T_0$右侧。]
+
+①上图中压强由高到低的顺序为________，判断依据是________________________________。
+
+②$M$点与$N$点以$\mathrm{CO}$表示的正反应速率大小关系为$v_M$________$v_N$（填“$>$”“$=$”或“$<$”）。
+
+③温度为$T_0$时，若$p_1=100\ \mathrm{kPa}$，则$\mathrm{CH_4}$的平衡转化率为________（保留两位有效数字），反应Ⅳ的平衡常数$K_{p_1}=$________（列出计算式即可）。
+
+9. ★★★（2026届山东德州开学考，20节选改编）乙酸和氢气制备乙醇的过程中涉及如下反应。
+
+主反应：$\mathrm{CH_3COOH(g)}+2\mathrm{H_2(g)}\rightleftharpoons \mathrm{CH_3CH_2OH(g)}+\mathrm{H_2O(g)}$　$\Delta H_1<0$
+
+副反应：$\mathrm{CH_3COOH(g)}+\mathrm{CH_3CH_2OH(g)}\rightleftharpoons \mathrm{CH_3COOCH_2CH_3(g)}+\mathrm{H_2O(g)}$　$\Delta H_2<0$
+
+已知：①副反应的热效应很小。
+
+②整个过程中生成的$n(\mathrm{CH_3CH_2OH})$明显大于$n(\mathrm{CH_3COOCH_2CH_3})$。
+
+③$S$表示产物选择性：$S(\text{乙醇})=\dfrac{n(\text{乙醇})}{\text{消耗}\,n(\text{乙酸})}\times100\%$，$S(\text{乙酸乙酯})=\dfrac{2n(\text{乙酸乙酯})}{\text{消耗}\,n(\text{乙酸})}\times100\%$。
+
+（2）按$n(\mathrm{H_2})=1\ \mathrm{mol}$，$n(\mathrm{CH_3COOH})=0.1\ \mathrm{mol}$投料发生上述反应，如图表示$2.0\ \mathrm{MPa}$条件下平衡时$S(\text{乙醇})$、$S(\text{乙酸乙酯})$随温度的变化，以及$250\ ℃$条件下平衡时$S(\text{乙醇})$、$S(\text{乙酸乙酯})$随压强的变化。
+
+[图：复合坐标图，上、下横轴均为$S/\%$，范围为$0$～$100$；左纵轴为温度$/℃$，标有$150$、$200$、$250$、$300$、$350$、$400$；右纵轴为压强$/\mathrm{MPa}$，范围为$0.0$～$3.0$。曲线$a$从左上方向右下方延伸，曲线$b$从左下方向右上方延伸；曲线$c$从右侧区域的左上方向右下方延伸，曲线$d$从右侧区域的左下方向右上方延伸。]
+
+①$2.0\ \mathrm{MPa}$条件下$S(\text{乙酸乙酯})$随温度的变化曲线是________，$250\ ℃$条件下$S(\text{乙醇})$随压强变化的曲线是________。
+
+<!-- page 92 -->
+
+# 微专题3　化工生产中多重平衡体系分析
+
+答案 P400
+
+## 考向1　$n-T$图像曲线归属判断
+
+1. ★★★（2025广东，19节选）（3）以$\mathrm{TiCl_4}$为原料可制备$\mathrm{TiCl_3}$。将$5.0\ \mathrm{mol}$ $\mathrm{TiCl_4}$与$10.0\ \mathrm{mol}$ $\mathrm{Ti}$放入容积为$V_0\ \mathrm{L}$的恒容密闭容器中，反应体系存在下列过程。
+
+| 编号 | 过程 | $\Delta H$ |
+|---|---|---|
+| （a） | $\mathrm{Ti(s)}+\mathrm{TiCl_4(g)}\rightleftharpoons 2\mathrm{TiCl_2(s)}$ | $\Delta H_1$ |
+| （b） | $\mathrm{TiCl_2(s)}+\mathrm{TiCl_4(g)}\rightleftharpoons 2\mathrm{TiCl_3(g)}$ | $+200.1\ \mathrm{kJ/mol}$ |
+| （c） | $\mathrm{Ti(s)}+3\mathrm{TiCl_4(g)}\rightleftharpoons 4\mathrm{TiCl_3(g)}$ | $+132.4\ \mathrm{kJ/mol}$ |
+| （d） | $\mathrm{TiCl_3(g)}\rightleftharpoons \mathrm{TiCl_3(s)}$ | $\Delta H_2$ |
+
+[图：纵轴为各物质的量$/\mathrm{mol}$，刻度为$0$、$2$、$4$、$6$、$8$、$10$；横轴为$T/\mathrm{K}$，标有$1073$、$1173$、$1273$。$\mathrm{Ti(s)}$曲线随温度升高而上升并趋于平缓，在$T_0$处标有$(T_0,8.5)$；曲线Ⅰ从约$9\ \mathrm{mol}$下降至接近零；曲线Ⅱ从接近零上升并趋于平缓，在$T_0$处标有$(T_0,6.0)$；下方另标有$\mathrm{TiCl_3(s)}$和$\mathrm{TiCl_4(g)}$曲线。]
+
+①$\Delta H_1=$________$\mathrm{kJ/mol}$。
+
+②不同温度下，平衡时反应体系的组成如图。曲线Ⅰ对应的物质为________。
+
+③温度$T_0\ \mathrm{K}$下，$n[\mathrm{TiCl_4(g)}]=$________$\mathrm{mol}$，反应（c）的平衡常数$K=$________（列出计算式，无须化简）。
+
+## 考向2　分压平衡常数与原位$\mathrm{CO_2}$利用率的计算
+
+2. ★★（2025河南，17节选）$\mathrm{CaCO_3}$的热分解与$\mathrm{Ni_xP_y}$催化的$\mathrm{CH_4}$重整结合，可生产高纯度合成气（$\mathrm{H_2}+\mathrm{CO}$），实现碳资源的二次利用。主要反应如下：
+
+反应Ⅰ：$\mathrm{CaCO_3(s)}\rightleftharpoons \mathrm{CaO(s)}+\mathrm{CO_2(g)}$
+
+$\Delta H_1=+178\ \mathrm{kJ\cdot mol^{-1}}$
+
+反应Ⅱ：$\mathrm{CH_4(g)}+\mathrm{CO_2(g)}\rightleftharpoons 2\mathrm{H_2(g)}+2\mathrm{CO(g)}$
+
+$\Delta H_2=+247\ \mathrm{kJ\cdot mol^{-1}}$
+
+反应Ⅲ：$\mathrm{H_2(g)}+\mathrm{CO_2(g)}\rightleftharpoons \mathrm{H_2O(g)}+\mathrm{CO(g)}$
+
+$\Delta H_3=+41\ \mathrm{kJ\cdot mol^{-1}}$
+
+（4）恒压条件下，$\mathrm{CH_4}$重整反应可以促进$\mathrm{CaCO_3}$分解，原因是________________________________。
+
+（5）在温度分别为$T_1$、$T_2$和$T_3$下，$\mathrm{CH_4}$的平衡转化率与压强的关系如图所示，反应温度最高的是________（填“$T_1$”“$T_2$”或“$T_3$”），原因是________________________________。
+
+[图：纵轴为$\mathrm{CH_4}$的平衡转化率$/\%$，范围为$0$～$100$；横轴为压强$/\mathrm{kPa}$，范围为$0$～$2500$。三条曲线均随压强增大而下降，逐渐变缓；从上到下依次标为$T_1$、$T_2$、$T_3$。]
+
+（6）一定温度、$100\ \mathrm{kPa}$下，向体系中加入$1.0\ \mathrm{mol}$ $\mathrm{CaCO_3}$和$1.0\ \mathrm{mol}$ $\mathrm{CH_4}$，假设此条件下其他副反应可忽略，恒压反应至平衡时，体系中$\mathrm{CaCO_3}$转化率为$80\%$，$\mathrm{CH_4}$转化率为$60\%$，$\mathrm{CO}$物质的量为$1.3\ \mathrm{mol}$，反应Ⅲ的平衡常数$K_p=$________（保留小数点后一位），此时原位$\mathrm{CO_2}$利用率为________。
+
+已知：原位$\mathrm{CO_2}$利用率$=\dfrac{n_{\mathrm{CaCO_3}}(\text{初始})-n_{\mathrm{CaCO_3}}(\text{平衡})-n_{\mathrm{CO_2}}(\text{平衡})}{n_{\mathrm{CaCO_3}}(\text{初始})}\times100\%$
+
+## 考向3　多重平衡体系热效应的计算
+
+3. ★★（2025届山东青岛期初调研，20节选）工业废气中的$\mathrm{CO}$可重整为$\mathrm{CH_4}$（反应①），反应过程中通入一定量的$\mathrm{H_2O}$用于补充$\mathrm{H_2}$（反应②），副反应为$\mathrm{CO}$的歧化（反应③）。
+
+反应①：$\mathrm{CO(g)}+3\mathrm{H_2(g)}\rightleftharpoons \mathrm{CH_4(g)}+\mathrm{H_2O(g)}$
+
+$\Delta H_1=-200\ \mathrm{kJ/mol}$　$K_{p_1}$
+
+反应②：$\mathrm{CO(g)}+\mathrm{H_2O(g)}\rightleftharpoons \mathrm{CO_2(g)}+\mathrm{H_2(g)}$
+
+$\Delta H_2=-40\ \mathrm{kJ/mol}$　$K_{p_2}$
+
+反应③：$2\mathrm{CO(g)}\rightleftharpoons \mathrm{CO_2(g)}+\mathrm{C(s)}$　$\Delta H_3=-170\ \mathrm{kJ/mol}$　$K_{p_3}$
+
+回答下列问题：
+
+（1）三个反应的$\lg K_p$与温度的关系如图所示，反应②对应图中曲线________（填“$a$”或“$b$”），$\mathrm{CH_4}$热裂反应$\mathrm{CH_4(g)}\rightleftharpoons \mathrm{C(s)}+2\mathrm{H_2(g)}$的
+
+<!-- page 93 -->
+
+$\Delta H=$________。
+
+[图：纵轴为$\lg K_p$，横轴为温度$/℃$，标有$0$、$100$、$200$、$300$、$400$、$500$、$600$、$700$。三条曲线分别标为“反应①”、$a$、$b$，均随温度升高而下降；低温时反应①曲线最高，$a$居中，$b$最低，$b$曲线下降较缓，高温区曲线相交。]
+
+（2）在一定的压强下通入$\mathrm{CO}$、$\mathrm{H_2}$与$\mathrm{H_2O}$的混合气体。分析表明，平衡时气体的组成如图所示（未计入$\mathrm{H_2O}$），随着温度升高，$\mathrm{H_2}$体积分数增大，原因为________________________________。
+
+[图：纵轴为体积分数$/\%$，标有$0$、$10$、$20$、$30$、$40$、$50$、$60$；横轴为温度$/℃$，标有$200$、$250$、$300$、$350$、$400$、$450$。$\mathrm{CO_2}$曲线在约$60\%$处基本平稳后下降；$\mathrm{H_2}$曲线随温度升高而上升；$\mathrm{CH_4}$曲线随温度升高而下降；$\mathrm{CO}$曲线接近零，在较高温度时略有上升。]
+
+（3）$T_1\ ℃$时将$5\ \mathrm{mol}$ $\mathrm{CO}$、$2\ \mathrm{mol}$ $\mathrm{H_2}$与$3\ \mathrm{mol}$ $\mathrm{H_2O}$通入恒压容器（压强为$p$），达到平衡时各气体的体积分数（未计入$\mathrm{H_2O}$）如表，$T_1\ ℃$时$K_{p_1}=$________（用含$p$的代数式表示），此时产生$\mathrm{C(s)}$的物质的量为________，整个过程放热________$\mathrm{kJ}$。
+
+| 气体 | $\mathrm{CO}$ | $\mathrm{H_2}$ | $\mathrm{CO_2}$ | $\mathrm{CH_4}$ |
+|---|---|---|---|---|
+| 体积分数 | $\dfrac{5}{14}$ | $\dfrac{5}{28}$ | $\dfrac{9}{28}$ | $\dfrac{1}{7}$ |
+
+## 考向4　复合图像曲线归属判断
+
+4. ★★★（2025陕西青宁，17，15分）$\mathrm{MgCO_3/MgO}$循环在$\mathrm{CO_2}$捕获及转化等方面具有重要应用。科研人员设计了利用$\mathrm{MgCO_3}$与$\mathrm{H_2}$反应生成$\mathrm{CH_4}$的路线，主要反应如下：
+
+Ⅰ. $\mathrm{MgCO_3(s)}\rightleftharpoons \mathrm{MgO(s)}+\mathrm{CO_2(g)}$　$\Delta H_1=+101\ \mathrm{kJ\cdot mol^{-1}}$
+
+Ⅱ. $\mathrm{CO_2(g)}+4\mathrm{H_2(g)}\rightleftharpoons \mathrm{CH_4(g)}+2\mathrm{H_2O(g)}$
+
+$\Delta H_2=-166\ \mathrm{kJ\cdot mol^{-1}}$
+
+Ⅲ. $\mathrm{CO_2(g)}+\mathrm{H_2(g)}\rightleftharpoons \mathrm{H_2O(g)}+\mathrm{CO(g)}$
+
+$\Delta H_3=+41\ \mathrm{kJ\cdot mol^{-1}}$
+
+回答下列问题：
+
+（1）计算$\mathrm{MgCO_3(s)}+4\mathrm{H_2(g)}\rightleftharpoons \mathrm{MgO(s)}+2\mathrm{H_2O(g)}+\mathrm{CH_4(g)}$　$\Delta H_4=$________$\mathrm{kJ\cdot mol^{-1}}$。
+
+（2）提高$\mathrm{CH_4}$平衡产率的条件是________。
+
+A. 高温高压
+
+B. 低温高压
+
+C. 高温低压
+
+D. 低温低压
+
+（3）高温下$\mathrm{MgCO_3}$分解产生的$\mathrm{MgO}$催化$\mathrm{CO_2}$与$\mathrm{H_2}$反应生成$\mathrm{CH_4}$，部分历程如图，其中吸附在催化剂表面的物种用$*$标注。所示步骤中最慢的基元反应是________（填序号），生成水的基元反应方程式为________________________________。
+
+[图：纵轴为相对能量$/\mathrm{eV}$，反应历程依次为$\mathrm{CO_2^*}+4\mathrm{H_2}\xrightarrow{\text{①}}\mathrm{COOH^*}+\mathrm{H^*}+3\mathrm{H_2}$，其后以省略号连接至$\mathrm{HOCH_2^*}+\mathrm{H^*}+\mathrm{H_2}+\mathrm{H_2O}\xrightarrow{\text{②}}\mathrm{HO^*}+\mathrm{CH_3^*}+\mathrm{H_2}+\mathrm{H_2O}\xrightarrow{\text{③}}\mathrm{CH_3^*}+\mathrm{H^*}+2\mathrm{H_2O}\xrightarrow{\text{④}}\mathrm{CH_4}+2\mathrm{H_2O}$。各步能量峰均标注“过渡态”；步骤④的反应物至过渡态能量差最大，最终产物能量最低。]
+
+（4）$100\ \mathrm{kPa}$下，在密闭容器中$\mathrm{H_2(g)}$和$\mathrm{MgCO_3(s)}$各$1\ \mathrm{mol}$发生反应。反应物（$\mathrm{H_2}$、$\mathrm{MgCO_3}$）的平衡转化率和生成物（$\mathrm{CH_4}$、$\mathrm{CO_2}$）的选择性随温度变化关系如下图（反应Ⅲ在$360\ ℃$以下不考虑）。
+
+[图：纵轴为选择性或平衡转化率$/\%$，范围为$0$～$100$；横轴为温度$/℃$，标有$200$、$300$、$400$、$500$、$600$。方形标记曲线$a$从约$25\%$升高至接近$100\%$；三角形标记曲线$b$从接近零升高，在约$400$～$450\ ℃$达到最高值后下降，至$600\ ℃$时约为$65\%$；空心圆标记曲线$c$从接近$100\%$持续下降至接近零；实心圆标记的$\mathrm{H_2}$曲线从接近$100\%$下降，至$600\ ℃$时约为$50\%$。图中约$250$～$300\ ℃$、$40\%$～$60\%$的区域以虚线框标出，并标有$M$。]
+
+[图：上图内点$M$附近区域放大图。纵轴为选择性或平衡转化率$/\%$，标有$48.5$、$49.0$、$49.5$、$50.0$；横轴为温度$/℃$，范围为$265$～$270$。三角形标记的上升曲线与空心圆标记的下降曲线相交于$M$点，$M$点纵坐标为$50.0\%$，横坐标位于$267\ ℃$与$268\ ℃$之间，图中有竖直虚线；方形标记曲线随温度升高而上升，在该虚线处对应约$49.0\%$。]
+
+图为上图内点$M$附近区域放大图

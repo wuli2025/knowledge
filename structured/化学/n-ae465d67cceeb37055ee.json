@@ -1,0 +1,494 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-0477a89b8958bd8886ec"
+      ],
+      "text": "醛是由烃基或氢原子与醛基相连构成的化合物，官能团为醛基（$\\mathrm{-CHO}$），可表示为 $\\mathrm{RCHO}$。甲醛是最简单的醛。饱和一元醛的通式为 $\\mathrm{C_nH_{2n}O}$（$n\\geq 1$）。",
+      "title": "醛的结构与通式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-0477a89b8958bd8886ec"
+      ],
+      "text": "酮是由酮羰基与两个烃基相连构成的化合物，官能团为酮羰基（$\\mathrm{-C(=O)-}$）。最简单的酮是丙酮，结构简式为 $\\mathrm{CH_3-C(=O)-CH_3}$。",
+      "title": "酮的结构",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-10227a0e953f9496258e"
+      ],
+      "text": "羧酸是由烃基或氢原子与羧基相连构成的有机化合物，官能团为羧基（$\\mathrm{-COOH}$）。饱和一元羧酸的通式为 $\\mathrm{C_nH_{2n}O_2}$。",
+      "title": "羧酸的结构与通式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-e905b48de09cc82848aa"
+      ],
+      "text": "羧酸衍生物是羧酸分子中羧基上的羟基被其他原子或原子团取代得到的产物，常见的有酯（$\\mathrm{RCOOR'}$）、酰胺（$\\mathrm{RCONH_2}$）、酰卤（$\\mathrm{RCOX}$）、酸酐［$\\mathrm{(RCO)_2O}$］等。",
+      "title": "羧酸衍生物",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-6a125244ab5d9abce7d2"
+      ],
+      "text": "酯是羧酸分子中羧基上的 $\\mathrm{-OH}$ 被 $\\mathrm{-OR'}$ 取代后的产物，可简写为 $\\mathrm{RCOOR'}$，官能团为酯基（$\\mathrm{-C(=O)-O-R'}$）。",
+      "title": "酯的结构",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-9d9f97602b208b094e75"
+      ],
+      "text": "氨分子中氢原子被烃基取代后的有机化合物称为胺。原文一般写作 $\\mathrm{R—NH_2}$，官能团为氨基（$\\mathrm{—NH_2}$）。胺类化合物属于烃的衍生物，不属于羧酸衍生物。",
+      "title": "胺的定义与类别",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c7",
+      "source_node_ids": [
+        "n-e6bbce21cac1090fe416"
+      ],
+      "text": "酰胺是羧酸分子中羟基被氨基替代得到的化合物。原文所列酰胺基为 $\\mathrm{—C(=O)—NH—}$。",
+      "title": "酰胺的定义",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c8",
+      "source_node_ids": [
+        "n-f405ff948b8ad9e8c7c9"
+      ],
+      "text": "甲酸在工业上可用作还原剂，也是合成医药、农药和染料等的原料。",
+      "title": "甲酸的用途",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c9",
+      "source_node_ids": [
+        "n-f405ff948b8ad9e8c7c9"
+      ],
+      "text": "苯甲酸属于芳香酸，可用于合成香料、药物等，其钠盐是常用的食品防腐剂。",
+      "title": "苯甲酸及其钠盐的用途",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c10",
+      "source_node_ids": [
+        "n-f405ff948b8ad9e8c7c9"
+      ],
+      "text": "乙二酸又称草酸，是分析化学中的还原剂，也是重要的化工原料。",
+      "title": "乙二酸的名称与用途",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-5acbd6c7580bfc18f246"
+      ],
+      "text": "以乙醛为例，醛可发生银镜反应，属于氧化反应：$\\mathrm{CH_3CHO+2[Ag(NH_3)_2]OH}\\xrightarrow{\\Delta}\\mathrm{CH_3COONH_4+2Ag\\downarrow+3NH_3+H_2O}$。",
+      "title": "醛的银镜反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-5acbd6c7580bfc18f246"
+      ],
+      "text": "乙醛与新制 $\\mathrm{Cu(OH)_2}$ 加热反应：$\\mathrm{CH_3CHO+2Cu(OH)_2+NaOH}\\xrightarrow{\\Delta}\\mathrm{CH_3COONa+Cu_2O\\downarrow+3H_2O}$。配制新制 $\\mathrm{Cu(OH)_2}$ 时 $\\mathrm{NaOH}$ 应过量。",
+      "title": "醛与新制氢氧化铜的反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-5acbd6c7580bfc18f246"
+      ],
+      "text": "乙醛在催化剂和加热条件下被氧气氧化：$\\mathrm{2CH_3CHO+O_2}\\xrightarrow[\\Delta]{\\text{催化剂}}\\mathrm{2CH_3COOH}$。乙醛也可被酸性 $\\mathrm{KMnO_4}$ 溶液或溴水氧化生成乙酸。",
+      "title": "乙醛的其他氧化反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-5acbd6c7580bfc18f246"
+      ],
+      "text": "乙醛可发生催化加氢反应：$\\mathrm{CH_3CHO+H_2}\\xrightarrow[\\Delta]{\\text{催化剂}}\\mathrm{CH_3CH_2OH}$；也可与 $\\mathrm{HCN}$ 加成：$\\mathrm{CH_3CHO+HCN}\\xrightarrow{\\text{催化剂}}\\mathrm{CH_3CH(OH)CN}$。",
+      "title": "乙醛的加成反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-5acbd6c7580bfc18f246"
+      ],
+      "text": "原文以乙醛表示羟醛缩合过程：$\\mathrm{CH_3C(=O)-H+H-CH_2CHO}\\xrightarrow{\\mathrm{OH^-}}\\mathrm{CH_3CH(OH)CH_2CHO}\\xrightarrow{-\\mathrm{H_2O}}\\mathrm{CH_3CH=CHCHO}$。",
+      "title": "乙醛的羟醛缩合反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-5acbd6c7580bfc18f246"
+      ],
+      "text": "酮能与氢气、氰化氢、氨及氨的衍生物（如胺 $\\mathrm{RNH_2}$）、醇类等发生加成反应。以丙酮为例：$\\mathrm{CH_3C(=O)CH_3+H_2}\\xrightarrow[\\Delta]{\\text{催化剂}}\\mathrm{CH_3CH(OH)CH_3}$；$\\mathrm{CH_3C(=O)CH_3+HCN}\\xrightarrow{\\text{催化剂}}\\mathrm{(CH_3)_2C(OH)CN}$；$\\mathrm{CH_3C(=O)CH_3+RNH_2}\\xrightarrow[\\Delta]{\\text{催化剂}}\\mathrm{(CH_3)_2C(OH)NHR}$。",
+      "title": "酮的加成反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-b2f8863f4ebb9dede30b"
+      ],
+      "text": "羧酸是弱酸，具有酸的通性，可与碳酸氢钠反应：$\\mathrm{RCOOH+NaHCO_3\\longrightarrow RCOONa+CO_2\\uparrow+H_2O}$。",
+      "title": "羧酸的酸性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-b2f8863f4ebb9dede30b"
+      ],
+      "text": "羧酸与醇在浓硫酸、加热条件下发生可逆的酯化反应，属于取代反应：$\\mathrm{R-C(=O)-OH+R'OH}\\underset{\\Delta}{\\overset{\\text{浓硫酸}}{\\rightleftharpoons}}\\mathrm{R-C(=O)-OR'+H_2O}$。反应遵循“酸脱羟基醇脱氢”。",
+      "title": "羧酸的酯化反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-b2f8863f4ebb9dede30b"
+      ],
+      "text": "原文所列羧酸与氨的取代反应为：$\\mathrm{R-C(=O)-OH+NH_3}\\xrightarrow{\\Delta}\\mathrm{R-C(=O)-NH_2+H_2O}$。",
+      "title": "羧酸与氨反应生成酰胺",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-b2f8863f4ebb9dede30b"
+      ],
+      "text": "羧酸分子中的 $\\alpha\\text{-}\\mathrm{H}$ 较活泼，易被取代：$\\mathrm{RCH_2COOH+Cl_2}\\xrightarrow[\\Delta]{\\text{催化剂}}\\mathrm{RCH(Cl)COOH+HCl}$。",
+      "title": "羧酸的α位取代反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l11",
+      "source_node_ids": [
+        "n-b2f8863f4ebb9dede30b"
+      ],
+      "text": "羧酸可被 $\\mathrm{LiAlH_4}$ 还原：$\\mathrm{RCOOH}\\xrightarrow{\\mathrm{LiAlH_4}}\\mathrm{RCH_2OH}$。",
+      "title": "羧酸的还原反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l12",
+      "source_node_ids": [
+        "n-0badac19cdc4366ba22c"
+      ],
+      "text": "酯在稀硫酸、加热条件下发生可逆水解：$\\mathrm{RCOOR'+H_2O}\\xrightleftharpoons[\\Delta]{\\text{稀硫酸}}\\mathrm{RCOOH+HOR'}$。原图标示断键位置为酯基中羰基碳与氧原子之间。",
+      "title": "酯的酸性水解",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l13",
+      "source_node_ids": [
+        "n-0badac19cdc4366ba22c"
+      ],
+      "text": "酯与氢氧化钠在加热条件下反应：$\\mathrm{RCOOR'+NaOH}\\xrightarrow{\\Delta}\\mathrm{RCOONa+HOR'}$。原图标示断键位置为酯基中羰基碳与氧原子之间。$1\\ \\mathrm{mol}$ 酚酯 $\\mathrm{C_6H_5OCOR}$ 在 $\\mathrm{NaOH}$ 溶液中水解会消耗 $2\\ \\mathrm{mol}$ $\\mathrm{NaOH}$。",
+      "title": "酯的碱性水解及酚酯耗碱量",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l14",
+      "source_node_ids": [
+        "n-9d9f97602b208b094e75"
+      ],
+      "text": "胺类化合物与 $\\mathrm{NH_3}$ 类似，具有碱性，能与盐酸、醋酸等反应。例如：$\\mathrm{C_6H_5NH_2+HCl}\\longrightarrow\\mathrm{C_6H_5NH_3Cl}$。",
+      "title": "胺的碱性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l15",
+      "source_node_ids": [
+        "n-e6bbce21cac1090fe416"
+      ],
+      "text": "酰胺通常情况下难水解，在强酸或强碱存在下加热可水解。酸性条件下：$\\mathrm{RCONH_2+H_2O+H^+}\\xrightarrow{\\Delta}\\mathrm{RCOOH+NH_4^+}$。碱性条件下：$\\mathrm{RCONH_2+NaOH}\\xrightarrow{\\Delta}\\mathrm{RCOONa+NH_3}\\uparrow$。",
+      "title": "酰胺的水解",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-5acbd6c7580bfc18f246"
+      ],
+      "text": "当有机物分子中同时存在醛基和碳碳双键时，先用弱氧化剂［银氨溶液或新制 $\\mathrm{Cu(OH)_2}$］将醛基氧化，酸化后再用酸性 $\\mathrm{KMnO_4}$ 溶液或溴水检验碳碳双键。",
+      "title": "醛基与碳碳双键共存时检验碳碳双键",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-b4478e36fa4071c4f91b"
+      ],
+      "text": "原理：$\\mathrm{CH_3COOH+HOC_2H_5}\\xrightleftharpoons[\\Delta]{\\text{浓硫酸}}\\mathrm{CH_3COOC_2H_5+H_2O}$。反应可逆，浓硫酸作催化剂、吸水剂。试剂依次加入乙醇、浓硫酸、冰醋酸（乙酸），不能先加浓硫酸。加热倾斜试管中的反应液，导气管通向盛有饱和 $\\mathrm{Na_2CO_3}$ 溶液的接收试管，管口位于液面上方，不能插入溶液中，以防倒吸。饱和 $\\mathrm{Na_2CO_3}$ 溶液用于吸收乙醇、中和乙酸、降低乙酸乙酯的溶解度。",
+      "title": "乙酸乙酯的实验室制法",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-e905b48de09cc82848aa"
+      ],
+      "from": "c4",
+      "to": "c5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e905b48de09cc82848aa"
+      ],
+      "from": "c4",
+      "to": "c7",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5acbd6c7580bfc18f246"
+      ],
+      "from": "c1",
+      "to": "l1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5acbd6c7580bfc18f246"
+      ],
+      "from": "c1",
+      "to": "l2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5acbd6c7580bfc18f246"
+      ],
+      "from": "c1",
+      "to": "l3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5acbd6c7580bfc18f246"
+      ],
+      "from": "c1",
+      "to": "l4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5acbd6c7580bfc18f246"
+      ],
+      "from": "c1",
+      "to": "l5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5acbd6c7580bfc18f246"
+      ],
+      "from": "c2",
+      "to": "l6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b2f8863f4ebb9dede30b"
+      ],
+      "from": "c3",
+      "to": "l7",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b2f8863f4ebb9dede30b"
+      ],
+      "from": "c3",
+      "to": "l8",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b2f8863f4ebb9dede30b"
+      ],
+      "from": "c3",
+      "to": "l9",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b2f8863f4ebb9dede30b"
+      ],
+      "from": "c3",
+      "to": "l10",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b2f8863f4ebb9dede30b"
+      ],
+      "from": "c3",
+      "to": "l11",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0badac19cdc4366ba22c"
+      ],
+      "from": "c5",
+      "to": "l12",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0badac19cdc4366ba22c"
+      ],
+      "from": "c5",
+      "to": "l13",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9d9f97602b208b094e75"
+      ],
+      "from": "c6",
+      "to": "l14",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e6bbce21cac1090fe416"
+      ],
+      "from": "c7",
+      "to": "l15",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5acbd6c7580bfc18f246"
+      ],
+      "from": "m1",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5acbd6c7580bfc18f246"
+      ],
+      "from": "m1",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b4478e36fa4071c4f91b",
+        "n-b2f8863f4ebb9dede30b"
+      ],
+      "from": "m2",
+      "to": "l8",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5d54db83982362c4ac06"
+      ],
+      "from": "n-5d54db83982362c4ac06",
+      "to": "l7",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5d54db83982362c4ac06"
+      ],
+      "from": "n-5d54db83982362c4ac06",
+      "to": "l8",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-381214d288fcc09848a0"
+      ],
+      "from": "n-381214d288fcc09848a0",
+      "to": "l2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-381214d288fcc09848a0"
+      ],
+      "from": "n-381214d288fcc09848a0",
+      "to": "l8",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0ff8432362334e494c3e",
+        "n-0badac19cdc4366ba22c"
+      ],
+      "from": "n-0ff8432362334e494c3e",
+      "to": "l13",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0ff8432362334e494c3e",
+        "n-e6bbce21cac1090fe416"
+      ],
+      "from": "n-0ff8432362334e494c3e",
+      "to": "l15",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-ae465d67cceeb37055ee",
+  "source_digest": "fe552ae66f5f6054c9cb3c8634ee33522f402b831d1425e7096c2e9711d15454",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

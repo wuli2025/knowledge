@@ -1,0 +1,220 @@
+<!-- page 106 -->
+
+3. 绚丽多彩的无机颜料的应用曾创造了古代绘画和彩陶的辉煌。硫化镉（$\mathrm{CdS}$）是一种难溶于水的黄色颜料，其在水中的沉淀溶解平衡曲线如图所示。下列说法错误的是（　　）
+
+[图：横坐标为 $c(\mathrm{S^{2-}})/(\mathrm{mol\cdot L^{-1}})$，纵坐标为 $c(\mathrm{Cd^{2+}})/(\mathrm{mol\cdot L^{-1}})$。两条递减曲线分别标为 $T_1$、$T_2$，$T_2$ 曲线位于 $T_1$ 曲线上方。$m$、$p$、$n$ 位于 $T_1$ 曲线上，$q$ 位于 $T_2$ 曲线上；$p$ 点横、纵坐标均为 $a$，$q$ 点横、纵坐标均为 $b$。过原点的虚线依次通过 $p$、$q$。]
+
+A. 图中 $a$ 和 $b$ 分别为 $T_1$、$T_2$ 温度下 $\mathrm{CdS}$ 在水中的溶解度
+
+B. 图中各点对应的 $K_{\mathrm{sp}}$ 的关系为 $K_{\mathrm{sp}}(m)=K_{\mathrm{sp}}(n)<K_{\mathrm{sp}}(p)<K_{\mathrm{sp}}(q)$
+
+C. 向 $m$ 点的溶液中加入少量 $\mathrm{Na_2S}$ 固体，溶液组成由 $m$ 沿 $mpn$ 线向 $p$ 方向移动
+
+D. 温度降低时，$q$ 点的饱和溶液的组成由 $q$ 沿 $qp$ 线向 $p$ 方向移动
+
+针对训练　《精练册》P253
+
+# 考法突破 15　溶液中微粒浓度关系判断
+
+## 1. 溶液中微粒浓度大小比较的原则 [2021 山东 T15D]
+
+| 比较原则 | 示例 |
+|---|---|
+| 单一盐溶液中微粒浓度的比较，需要考虑离子的水解或电离 | ① $\mathrm{Na_2CO_3}$ 溶液中，$\mathrm{CO_3^{2-}+H_2O\rightleftharpoons HCO_3^-+OH^-}$，$\mathrm{HCO_3^-+H_2O\rightleftharpoons H_2CO_3+OH^-}$，则 $c(\mathrm{Na^+})>c(\mathrm{CO_3^{2-}})>c(\mathrm{OH^-})>c(\mathrm{HCO_3^-})>c(\mathrm{H_2CO_3})$。<br>② $\mathrm{NaHCO_3}$ 溶液中，$\mathrm{HCO_3^-}$ 水解程度大于电离程度，所以 $c(\mathrm{Na^+})>c(\mathrm{HCO_3^-})>c(\mathrm{H_2CO_3})>c(\mathrm{CO_3^{2-}})$。<br>③ $\mathrm{NaHSO_3}$ 溶液中，$\mathrm{HSO_3^-}$ 水解程度小于电离程度，所以 $c(\mathrm{Na^+})>c(\mathrm{HSO_3^-})>c(\mathrm{SO_3^{2-}})>c(\mathrm{H_2SO_3})$ |
+| 不同盐溶液中同一离子浓度的比较，要看溶液中其他离子的影响 | 相同浓度的 $\mathrm{NH_4Cl}$（a）、$\mathrm{CH_3COONH_4}$（b）、$\mathrm{NH_4HSO_4}$（c）三种溶液中，因 $\mathrm{Cl^-}$ 对 $\mathrm{NH_4^+}$ 的水解无影响，$\mathrm{CH_3COO^-}$ 对 $\mathrm{NH_4^+}$ 的水解起促进作用，$\mathrm{H^+}$ 对 $\mathrm{NH_4^+}$ 的水解起抑制作用，所以 $c(\mathrm{NH_4^+})$ 由大到小的顺序是 $\mathrm{c>a>b}$ |
+| 混合溶液中微粒浓度的比较，要综合分析水解因素和电离因素带来的影响 | 相同浓度的 $\mathrm{NH_4Cl}$ 和 $\mathrm{NH_3\cdot H_2O}$ 的混合溶液中，因 $\mathrm{NH_3\cdot H_2O}$ 的电离程度大于 $\mathrm{NH_4^+}$ 的水解程度，故浓度顺序为 $c(\mathrm{NH_4^+})>c(\mathrm{Cl^-})>c(\mathrm{NH_3\cdot H_2O})>c(\mathrm{OH^-})>c(\mathrm{H^+})$ |
+
+### 注意
+
+若两份溶液混合时发生反应，需先确定混合后溶液的溶质组成及相应浓度，再分析微粒浓度的大小关系。
+
+## 2. 电解质溶液中的“三大守恒”规律 [2024 山东 T10D，2021 山东 T15B]
+
+| 类型 | 含义 | 示例 |
+|---|---|---|
+| 电荷守恒 | 溶液中阳离子所带的正电荷总数等于阴离子所带的负电荷总数 | $\mathrm{NaHCO_3}$ 溶液中：$c(\mathrm{Na^+})+c(\mathrm{H^+})=c(\mathrm{HCO_3^-})+2c(\mathrm{CO_3^{2-}})+c(\mathrm{OH^-})$ |
+| 元素守恒（物料守恒） | 电解质溶液中，某些离子发生电离或水解，但离子所含的某种元素在变化前后是守恒的 | $0.1\ \mathrm{mol\cdot L^{-1}}$ $\mathrm{NaHCO_3}$ 溶液中：$c(\mathrm{Na^+})=c(\mathrm{HCO_3^-})+c(\mathrm{CO_3^{2-}})+c(\mathrm{H_2CO_3})=0.1\ \mathrm{mol\cdot L^{-1}}$ |
+| 质子守恒 | 电解质溶液中，分子或离子得到质子（$\mathrm{H^+}$）与失去质子（$\mathrm{H^+}$）的物质的量相等 | $\mathrm{Na_2CO_3}$ 溶液中：<br>得质子 ← 基准态物质 → 失质子。<br>以 $\mathrm{CO_3^{2-}}$、$\mathrm{H_2O}$ 为基准态物质：$\mathrm{CO_3^{2-}}$ 得 $\mathrm{H^+}$ 生成 $\mathrm{HCO_3^-}$，得 $2\mathrm{H^+}$ 生成 $\mathrm{H_2CO_3}$；$\mathrm{H_2O}$ 得 $\mathrm{H^+}$ 生成 $\mathrm{H_3O^+}$，失 $\mathrm{H^+}$ 生成 $\mathrm{OH^-}$。<br>$c(\mathrm{HCO_3^-})+2c(\mathrm{H_2CO_3})+c(\mathrm{H^+})=c(\mathrm{OH^-})$ |
+| 三者关系：质子守恒式可通过电荷守恒式与元素守恒式联立得到 |  | $\mathrm{Na_2CO_3}$ 溶液中存在元素守恒：$c(\mathrm{Na^+})=2c(\mathrm{CO_3^{2-}})+2c(\mathrm{HCO_3^-})+2c(\mathrm{H_2CO_3})$，电荷守恒：$c(\mathrm{Na^+})+c(\mathrm{H^+})=c(\mathrm{HCO_3^-})+2c(\mathrm{CO_3^{2-}})+c(\mathrm{OH^-})$，两式联立消去 $c(\mathrm{Na^+})$ 可得 $c(\mathrm{HCO_3^-})+2c(\mathrm{H_2CO_3})+c(\mathrm{H^+})=c(\mathrm{OH^-})$，即质子守恒式 |
+
+<!-- page 107 -->
+
+## 方法技巧　微粒浓度大小比较的常用方法
+
+### （1）定性比较法
+
+- 第一层次：溶质微粒
+  - $\mathrm{CH_3COONa}$ 溶液 → $\mathrm{CH_3COO^-}$、$\mathrm{Na^+}$。
+- 第二层次：主要平衡产物
+  - $\mathrm{CH_3COO^-+H_2O\rightleftharpoons CH_3COOH+OH^-}$ → $\mathrm{CH_3COOH}$、$\mathrm{OH^-}$。
+- 第三层次：次要平衡产物
+  - $\mathrm{H_2O\rightleftharpoons H^++OH^-}$ → $\mathrm{H^+}$。
+- 层次比较：第一层次大于第二层次，第二层次大于第三层次；溶质微粒大于主要平衡产物，主要平衡产物大于次要平衡产物。
+- 助力分析：
+  - $\mathrm{CH_3COO^-}$、$\mathrm{Na^+}$ → $\mathrm{Na^+}>\mathrm{CH_3COO^-}$。
+  - $\mathrm{CH_3COOH}$、$\mathrm{OH^-}$ → $\mathrm{OH^-}>\mathrm{CH_3COOH}$。
+- 微粒浓度大小关系：$\mathrm{Na^+}>\mathrm{CH_3COO^-}$ 所在层次大于 $\mathrm{OH^-}>\mathrm{CH_3COOH}$ 所在层次，后者大于 $\mathrm{H^+}$。
+
+### （2）定量比较法
+
+① 守恒法　如 $\mathrm{CH_3COONa}$、$\mathrm{CH_3COOH}$ 混合溶液中存在电荷守恒：$c(\mathrm{CH_3COO^-})+c(\mathrm{OH^-})=c(\mathrm{H^+})+c(\mathrm{Na^+})$，若该混合溶液呈碱性，有 $c(\mathrm{OH^-})>c(\mathrm{H^+})$，则有 $c(\mathrm{Na^+})>c(\mathrm{CH_3COO^-})$。
+
+② 常数法　已知常温下，$K_{\mathrm a}=\dfrac{c(\mathrm{CH_3COO^-})\cdot c(\mathrm{H^+})}{c(\mathrm{CH_3COOH})}=1.8\times10^{-5}$，若某 $\mathrm{CH_3COONa}$、$\mathrm{CH_3COOH}$ 混合溶液的 $\mathrm{pH}=6$，将 $c(\mathrm{H^+})=10^{-6}\ \mathrm{mol\cdot L^{-1}}$ 代入 $K_{\mathrm a}$ 表达式可得 $\dfrac{c(\mathrm{CH_3COO^-})}{c(\mathrm{CH_3COOH})}=18$，即 $c(\mathrm{CH_3COO^-})>c(\mathrm{CH_3COOH})$。
+
+## 3. 解题模型
+
+- 电解质溶液
+  - 判断组成
+    - 单一溶质溶液
+    - 混合溶液
+      - 发生反应
+      - 不发生反应
+  - 判断溶液中溶质的成分
+  - 判断溶液的酸碱性
+  - 得 $c(\mathrm{OH^-})$ 与 $c(\mathrm{H^+})$ 大小关系
+  - 得水解与电离程度相对大小
+  - 得各离子浓度大小关系
+- 微粒浓度关系等式
+  - 一边全是阴离子，另一边全是阳离子 → 电荷守恒式
+  - 一边全含一种元素，另一边全含另一种元素 → 元素守恒式
+  - 一边微粒能电离 $\mathrm{H^+}$，另一边微粒能结合 $\mathrm{H^+}$ → 质子守恒式
+  - 等式没有明显特征 → 三种等式变形而来
+
+## 即练即清
+
+答案 P325
+
+### 典例
+
+（2021 天津，10，3分）常温下，下列有关电解质溶液的叙述正确的是（　　）
+
+A. 在 $0.1\ \mathrm{mol\cdot L^{-1}}$ $\mathrm{H_3PO_4}$ 溶液中，$c(\mathrm{H_3PO_4})>c(\mathrm{H_2PO_4^-})>c(\mathrm{HPO_4^{2-}})>c(\mathrm{PO_4^{3-}})$
+
+B. 在 $0.1\ \mathrm{mol\cdot L^{-1}}$ $\mathrm{Na_2C_2O_4}$ 溶液中，$c(\mathrm{Na^+})+c(\mathrm{H^+})=c(\mathrm{OH^-})+c(\mathrm{HC_2O_4^-})+c(\mathrm{C_2O_4^{2-}})$
+
+C. 在 $0.1\ \mathrm{mol\cdot L^{-1}}$ $\mathrm{NaHCO_3}$ 溶液中，$c(\mathrm{H_2CO_3})+c(\mathrm{HCO_3^-})=0.1\ \mathrm{mol\cdot L^{-1}}$
+
+D. 氨水和 $\mathrm{NH_4Cl}$ 溶液混合，形成 $\mathrm{pH}=9$ 的溶液中，$c(\mathrm{Cl^-})>c(\mathrm{NH_4^+})>c(\mathrm{OH^-})>c(\mathrm{H^+})$
+
+### 变式1　变考查角度：混合溶液中的元素守恒关系
+
+常温下，下列有关溶液的物质的量浓度关系正确的是（　　）
+
+A. 物质的量浓度相等的① $\mathrm{NH_4Cl}$ 溶液、② $\mathrm{(NH_4)_2SO_4}$ 溶液、③ $\mathrm{NH_4Al(SO_4)_2}$ 溶液中，$c(\mathrm{NH_4^+})$ 由大到小的顺序为③＞②＞①
+
+B. $0.1\ \mathrm{mol\cdot L^{-1}}$ 的 $\mathrm{Na_2CO_3}$ 溶液中：$c(\mathrm{OH^-})=c(\mathrm{H^+})+c(\mathrm{HCO_3^-})+c(\mathrm{H_2CO_3})$
+
+C. $0.1\ \mathrm{mol\cdot L^{-1}}$ $\mathrm{CH_3COOH}$ 溶液与 $0.05\ \mathrm{mol\cdot L^{-1}}$ $\mathrm{NaOH}$ 溶液等体积混合（$\mathrm{pH}<7$）：$c(\mathrm{CH_3COO^-})>c(\mathrm{Na^+})>c(\mathrm{CH_3COOH})>c(\mathrm{H^+})$
+
+D. $0.1\ \mathrm{mol\cdot L^{-1}}$ $\mathrm{Na_2CO_3}$ 溶液与 $0.05\ \mathrm{mol\cdot L^{-1}}$ $\mathrm{NaHCO_3}$ 溶液等体积混合：$5c(\mathrm{Na^+})=3c(\mathrm{CO_3^{2-}})+3c(\mathrm{HCO_3^-})+3c(\mathrm{H_2CO_3})$
+
+### 变式2　变设问方式：与实验探究相结合
+
+（2024 江苏，12，3分）室温下，通过下列实验探究 $\mathrm{SO_2}$ 的性质。已知 $K_{\mathrm{a1}}(\mathrm{H_2SO_3})=1.3\times10^{-2}$，$K_{\mathrm{a2}}(\mathrm{H_2SO_3})=6.2\times10^{-8}$。
+
+实验1：将 $\mathrm{SO_2}$ 气体通入水中，测得溶液 $\mathrm{pH}=3$。
+
+实验2：将 $\mathrm{SO_2}$ 气体通入 $0.1\ \mathrm{mol\cdot L^{-1}}$ $\mathrm{NaOH}$ 溶液中，当溶液 $\mathrm{pH}=4$ 时停止通气。
+
+实验3：将 $\mathrm{SO_2}$ 气体通入 $0.1\ \mathrm{mol\cdot L^{-1}}$ 酸性 $\mathrm{KMnO_4}$ 溶液中，当溶液恰好褪色时停止通气。
+
+下列说法正确的是（　　）
+
+A. 实验1所得溶液中：$c(\mathrm{HSO_3^-})+c(\mathrm{SO_3^{2-}})>c(\mathrm{H^+})$
+
+B. 实验2所得溶液中：$c(\mathrm{SO_3^{2-}})>c(\mathrm{HSO_3^-})$
+
+C. 实验2所得溶液经蒸干、灼烧制得 $\mathrm{NaHSO_3}$ 固体
+
+D. 实验3所得溶液中：$c(\mathrm{SO_4^{2-}})>c(\mathrm{Mn^{2+}})$
+
+针对训练　《精练册》P255
+
+<!-- page 108 -->
+
+# 微专题4　溶液中离子平衡图像分析
+
+## 一、解题策略
+
+### 1. 明确坐标轴的意义
+
+先看清横、纵坐标所表示的量，进而理解整个图像的含义。
+
+### 2. 把握曲线的变化趋势
+
+曲线的变化趋势代表了某物质的某一参数的变化情况，通过分析曲线的变化趋势，判断参数变化的原因以及溶液中溶质的变化情况。
+
+### 3. 关注特殊点
+
+（1）起点：定性或定量判断酸、碱的相对强弱。
+
+（2）反应一半点、中性点、恰好反应点：主要用来确定不同阶段中各反应物与生成物的量的关系，进而分析溶液中各粒子浓度的关系。
+
+（3）交点：某条件下两个值是相等的，交点处信息的应用分析往往是解决问题的关键。
+
+## 二、常见图像类型
+
+### 1. 中和滴定图像
+
+理解图中的关键点对应的溶质是解题关键。如常温下，将 $0.1\ \mathrm{mol\cdot L^{-1}}$ $\mathrm{NaOH}$ 溶液滴加到 $20\ \mathrm{mL}$ $0.1\ \mathrm{mol\cdot L^{-1}}$ $\mathrm{HA}$ 溶液中，溶液 $\mathrm{pH}$ 与 $\mathrm{NaOH}$ 溶液体积的关系如图：
+
+[图：纵坐标为 $\mathrm{pH}$，标有 $3$、$7$；横坐标为 $V(\mathrm{NaOH}\text{溶液})/\mathrm{mL}$，标有 $0$、$10$、$20$、$40$。曲线随加入 $\mathrm{NaOH}$ 溶液体积增大而上升。A 为起点，$\mathrm{pH}=3$；B 对应 $10\ \mathrm{mL}$，$\mathrm{pH}<7$；C 为 $\mathrm{pH}=7$ 的点，位于 B、D 之间；D 对应 $20\ \mathrm{mL}$，$\mathrm{pH}>7$；E 对应 $40\ \mathrm{mL}$，位于曲线上端。]
+
+- 起点A
+  - $0.1\ \mathrm{mol\cdot L^{-1}}$ $\mathrm{HA}$ 溶液的 $\mathrm{pH}>1$，故 $\mathrm{HA}$ 为弱酸。
+- 中和一半点B
+  - 溶质为 $\mathrm{NaA}$ 和 $\mathrm{HA}$ 且 $n(\mathrm{NaA})=n(\mathrm{HA})$。
+  - $\mathrm{pH}<7$。
+  - $c(\mathrm{A^-})>c(\mathrm{Na^+})>c(\mathrm{H^+})>c(\mathrm{OH^-})$。
+- 中性点C
+  - 溶质为 $\mathrm{NaA}$ 和 $\mathrm{HA}$（少量）。
+  - $\mathrm{pH}=7$。
+  - $c(\mathrm{Na^+})=c(\mathrm{A^-})>c(\mathrm{H^+})=c(\mathrm{OH^-})$。
+- 恰好中和点D
+  - 溶质为 $\mathrm{NaA}$。
+  - $\mathrm{pH}>7$。
+  - $c(\mathrm{Na^+})>c(\mathrm{A^-})>c(\mathrm{OH^-})>c(\mathrm{H^+})$。
+- 过量一倍点E
+  - 溶质为 $\mathrm{NaA}$、$\mathrm{NaOH}$ 且 $n(\mathrm{NaA})=n(\mathrm{NaOH})$。
+  - $\mathrm{pH}>7$。
+  - $c(\mathrm{Na^+})>c(\mathrm{OH^-})>c(\mathrm{A^-})>c(\mathrm{H^+})$。
+
+### 2. 沉淀溶解平衡图像
+
+以一定温度下 $\mathrm{BaSO_4}$ 的沉淀溶解平衡体系为例：
+
+[图：横坐标为 $c(\mathrm{SO_4^{2-}})/(\mathrm{mol\cdot L^{-1}})$，标有 $1\times10^{-5}$、$2\times10^{-5}$、$4\times10^{-5}$；纵坐标为 $c(\mathrm{Ba^{2+}})/(\mathrm{mol\cdot L^{-1}})$，标有 $1\times10^{-5}$、$2\times10^{-5}$、$4\times10^{-5}$。曲线呈递减趋势。a、c 点在曲线上，b 点在曲线上方，d 点在曲线下方；c 点的横、纵坐标均为 $1\times10^{-5}$。]
+
+a、c 点在曲线上，$Q=K_{\mathrm{sp}}$，饱和溶液
+
+b：$Q>K_{\mathrm{sp}}$，有沉淀生成
+
+c：$K_{\mathrm{sp}}(\mathrm{BaSO_4})=10^{-5}\times10^{-5}=10^{-10}$
+
+d：$Q<K_{\mathrm{sp}}$，不饱和溶液
+
+#### 解题关键
+
+① 理解图像中线上点、线外点的含义：曲线上任意一点都达到了沉淀溶解平衡状态，此时 $Q=K_{\mathrm{sp}}$；曲线上方的点（b）$Q>K_{\mathrm{sp}}$，会有沉淀析出；曲线下方的点（d）$Q<K_{\mathrm{sp}}$，无沉淀析出。
+
+② $K_{\mathrm{sp}}$ 只受温度影响，在同一曲线上的点，$K_{\mathrm{sp}}$ 相同。
+
+#### 注意
+
+纵、横坐标可能改为 $\lg c(\mathrm{Ba^{2+}})/-\lg c(\mathrm{Ba^{2+}})$、$\lg c(\mathrm{SO_4^{2-}})/-\lg c(\mathrm{SO_4^{2-}})$，曲线变为直线，注意直线上方和下方的点代表的意义可能发生变化。
+
+### 3. 分布系数图像 [2025 山东 T15，2024 山东 T10，2021 山东 T15]
+
+分布曲线是指以 $\mathrm{pH}$ 为横坐标，分布系数即各组分的平衡浓度占总浓度的分数［以 $\mathrm{H_2A}$ 为例，$\delta(\mathrm X)=\dfrac{c(\mathrm X)}{c(\mathrm{H_2A})+c(\mathrm{HA^-})+c(\mathrm{A^{2-}})}$］为纵坐标作出的关系曲线。
+
+[图：一元弱酸（$\mathrm{CH_3COOH}$）的分布系数图像。横坐标为 $\mathrm{pH}$，标有 $3$、$4$、$5$、$6$、$7$；纵坐标为 $\delta$，由 $0$ 至 $1.0$，每格 $0.2$。$\delta_0$ 曲线随 $\mathrm{pH}$ 增大由接近 $1$ 降至接近 $0$，$\delta_1$ 曲线由接近 $0$ 升至接近 $1$；两曲线交点处标有 $\mathrm{pH}=\mathrm pK_{\mathrm a}=4.76$。]
+
+[图：二元弱酸（$\mathrm{H_2C_2O_4}$）的分布系数图像。横坐标为 $\mathrm{pH}$，标有 $1$ 至 $6$；纵坐标为 $\delta$，由 $0$ 至 $1.0$，每格 $0.2$。$\delta_0$ 曲线逐渐下降，$\delta_1$ 曲线先升后降，$\delta_2$ 曲线逐渐上升；$\delta_0$、$\delta_1$ 的交点标有 $\mathrm{pH}=1.2$，$\delta_1$、$\delta_2$ 的交点标有 $\mathrm{pH}=4.2$。]
+
+[图：三元弱酸（$\mathrm{H_3PO_4}$）的分布系数图像。横坐标为 $\mathrm{pH}$，标有 $1$ 至 $14$；纵坐标为 $\delta$，由 $0$ 至 $1.0$，每格 $0.2$。随 $\mathrm{pH}$ 增大，$\delta_0$ 逐渐下降，$\delta_1$、$\delta_2$ 依次先升后降，$\delta_3$ 逐渐上升。相邻曲线交点依次标有 $\mathrm{pH}=2$、$\mathrm{pH}=7.1$、$\mathrm{pH}=12.2$。]
+
+图中需要注意的信息：
+
+（1）曲线代表的微粒
+
+① $\mathrm{CH_3COOH}$：$\delta_0$、$\delta_1$ 分别为 $\mathrm{CH_3COOH}$、$\mathrm{CH_3COO^-}$ 的分布系数。

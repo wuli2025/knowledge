@@ -1,0 +1,512 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-daa44f54e857d21e3c4f"
+      ],
+      "text": "原子（$\\mathrm{{}^{A}_{Z}X}$）由原子核和核外电子构成，原子核包含质子和中子。",
+      "title": "原子的构成",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-f4a117939cab7d4c93e0"
+      ],
+      "text": "元素是具有相同核电荷数的同一类原子的总称，同种元素可有多种不同的核素。",
+      "title": "元素",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-f4a117939cab7d4c93e0"
+      ],
+      "text": "核素是具有一定数目的质子和一定数目的中子的一种原子。核素的中子数可能为 $0$，如 $\\mathrm{{}^{1}_{1}H}$。",
+      "title": "核素",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-f4a117939cab7d4c93e0"
+      ],
+      "text": "同位素是质子数相同、中子数不同的同一元素的不同原子；同一元素的不同核素之间互称同位素。",
+      "title": "同位素",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-e63bc1bae759345e1012"
+      ],
+      "text": "用 $P$ 表示电子在某处出现的概率，$V$ 表示该处的体积，则 $P/V$ 表示概率密度，用 $\\rho$ 表示。",
+      "title": "概率密度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-e63bc1bae759345e1012"
+      ],
+      "text": "核外电子的概率密度分布看起来像一片云雾，形象地称为电子云。",
+      "title": "电子云",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c7",
+      "source_node_ids": [
+        "n-e63bc1bae759345e1012"
+      ],
+      "text": "量子力学把电子在原子核外的一个空间运动状态称为一个原子轨道。常用电子云轮廓图的形状和取向表示原子轨道的形状和取向；$\\mathrm{s}$ 轨道呈球形，$\\mathrm{p}$ 轨道呈哑铃形。",
+      "title": "原子轨道",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c8",
+      "source_node_ids": [
+        "n-8c315943d43e5a0c857f"
+      ],
+      "text": "基态原子吸收能量可变为激发态原子，激发态原子释放能量可变为基态原子。对于同一种原子，基态原子的能量低于激发态原子，稳定性高于激发态原子。",
+      "title": "基态与激发态",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c9",
+      "source_node_ids": [
+        "n-8c315943d43e5a0c857f"
+      ],
+      "text": "基态原子吸收能量变为激发态原子，形成吸收光谱。",
+      "title": "吸收光谱",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c10",
+      "source_node_ids": [
+        "n-8c315943d43e5a0c857f"
+      ],
+      "text": "激发态原子释放能量变为基态原子，形成发射光谱。",
+      "title": "发射光谱",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-daa44f54e857d21e3c4f"
+      ],
+      "text": "对于原子，原子序数＝核电荷数＝质子数＝核外电子数。",
+      "title": "原子中微粒的数量关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-daa44f54e857d21e3c4f"
+      ],
+      "text": "质量数（$A$）＝质子数（$Z$）＋中子数（$N$）。",
+      "title": "质量数与质子数、中子数的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-e63bc1bae759345e1012"
+      ],
+      "text": "$\\mathrm{s}$、$\\mathrm{p}$、$\\mathrm{d}$、$\\mathrm{f}$ 能级上的原子轨道数目分别为 $1$、$3$、$5$、$7$ 个。",
+      "title": "各能级的原子轨道数目",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-e63bc1bae759345e1012"
+      ],
+      "text": "相同能层上，原子轨道能量的高低为 $n\\mathrm{s}<n\\mathrm{p}<n\\mathrm{d}<n\\mathrm{f}$。",
+      "title": "相同能层的轨道能量关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-e63bc1bae759345e1012"
+      ],
+      "text": "形状相同的原子轨道，其能量高低关系示例为 $1\\mathrm{s}<2\\mathrm{s}<3\\mathrm{s}<4\\mathrm{s}\\cdots\\cdots$。",
+      "title": "形状相同的轨道能量关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-e63bc1bae759345e1012"
+      ],
+      "text": "同一能级内各原子轨道的能量相等，如 $2\\mathrm{p}_x$、$2\\mathrm{p}_y$、$2\\mathrm{p}_z$ 轨道的能量相等。",
+      "title": "同一能级内轨道等能",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-a3672fc4c61e379c9985"
+      ],
+      "text": "基态原子的核外电子按构造原理排布，原文顺序为：$1\\mathrm{s}\\rightarrow(2\\mathrm{s},2\\mathrm{p})\\rightarrow(3\\mathrm{s},3\\mathrm{p})\\rightarrow(4\\mathrm{s},3\\mathrm{d},4\\mathrm{p})\\rightarrow(5\\mathrm{s},4\\mathrm{d},5\\mathrm{p})\\rightarrow(6\\mathrm{s},4\\mathrm{f},5\\mathrm{d},6\\mathrm{p})\\rightarrow(7\\mathrm{s},5\\mathrm{f},6\\mathrm{d},7\\mathrm{p})\\rightarrow\\cdots\\cdots$。",
+      "title": "构造原理",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-a3672fc4c61e379c9985"
+      ],
+      "text": "构建基态原子时，电子将尽可能地占据能量最低的原子轨道，使整个原子的能量最低。",
+      "title": "能量最低原理",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-a3672fc4c61e379c9985"
+      ],
+      "text": "在一个原子轨道上最多只能容纳 $2$ 个电子，而且它们的自旋状态相反。",
+      "title": "泡利原理",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-a3672fc4c61e379c9985"
+      ],
+      "text": "当电子排布在同一能级的不同轨道时，基态原子中的电子总是优先单独占据一个轨道，而且自旋方向相同。",
+      "title": "洪特规则",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l11",
+      "source_node_ids": [
+        "n-a3672fc4c61e379c9985"
+      ],
+      "text": "当能量相同的原子轨道在全充满（$p^6$、$d^{10}$、$f^{14}$）、半充满（$p^3$、$d^5$、$f^7$）或全空（$p^0$、$d^0$、$f^0$）时，体系的能量较低。如 ${}_{24}\\mathrm{Cr}$ 的电子排布式为 $[\\mathrm{Ar}]3d^54s^1$，${}_{29}\\mathrm{Cu}$ 的电子排布式为 $[\\mathrm{Ar}]3d^{10}4s^1$。",
+      "title": "全充满、半充满和全空时的能量特点",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l12",
+      "source_node_ids": [
+        "n-a3672fc4c61e379c9985"
+      ],
+      "text": "原子失去电子形成阳离子时，优先失去最外层电子。基态 $\\mathrm{Fe}$ 原子填充电子时先填充 $4\\mathrm{s}$，再填充 $3\\mathrm{d}$，电子排布式为 $\\mathrm{[Ar]3d^64s^2}$；失去电子时先失去 $4\\mathrm{s}$ 电子，基态 $\\mathrm{Fe^{2+}}$ 的电子排布式为 $\\mathrm{[Ar]3d^6}$。",
+      "title": "形成阳离子时的失电子顺序",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-e63bc1bae759345e1012"
+      ],
+      "text": "统计电子的空间运动状态总数时，数电子占有的原子轨道；统计电子的运动状态总数时，数电子总数。每个原子轨道最多容纳两个电子且自旋取向不同，所有电子的运动状态均不相同。如基态 $\\mathrm{Na}$ 原子的核外电子有 $6$ 种空间运动状态，有 $11$ 种运动状态。",
+      "title": "区分并统计电子的两类运动状态",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-a3672fc4c61e379c9985"
+      ],
+      "text": "可用原子结构示意图、电子排布式、简化电子排布式、电子排布图（轨道表示式）和价电子排布式表示基态原子核外电子排布。以硫原子为例：原子结构示意图中核内标有 $+16$，核外三个电子层由内到外的电子数依次为 $2$、$8$、$6$；电子排布式为 $1s^22s^22p^63s^23p^4$；简化电子排布式为 $[\\mathrm{Ne}]3s^23p^4$；电子排布图为 $1s$：$[\\uparrow\\downarrow]$，$2s$：$[\\uparrow\\downarrow]$，$2p$：$[\\uparrow\\downarrow][\\uparrow\\downarrow][\\uparrow\\downarrow]$，$3s$：$[\\uparrow\\downarrow]$，$3p$：$[\\uparrow\\downarrow][\\uparrow][\\uparrow]$；价电子排布式为 $3s^23p^4$。",
+      "title": "基态原子核外电子排布的表示",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-6e600107f8077873caff"
+      ],
+      "text": "基态原子的价电子排布式中，$s$ 能级前面的数字即可表示该元素所处的周期。例如 $\\mathrm{Zr}$ 的基态原子的价电子排布式为 $4d^25s^2$，则 $\\mathrm{Zr}$ 位于第五周期。",
+      "title": "由价电子排布式判断周期",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-ce646c365971181ff10f"
+      ],
+      "text": "题干给出的条件是：同一地域土壤中稳定同位素的 ${}^{87}\\mathrm{Sr}/{}^{86}\\mathrm{Sr}$ 值不变，土壤生物中该比值与土壤中该比值有效相关。在这些条件下，测定土壤生物中 ${}^{87}\\mathrm{Sr}/{}^{86}\\mathrm{Sr}$ 值可进行产地溯源。",
+      "title": "利用锶同位素比值进行产地溯源",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-f4a117939cab7d4c93e0"
+      ],
+      "from": "c2",
+      "to": "c3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f4a117939cab7d4c93e0"
+      ],
+      "from": "c3",
+      "to": "c4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e63bc1bae759345e1012"
+      ],
+      "from": "c5",
+      "to": "c6",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e63bc1bae759345e1012"
+      ],
+      "from": "c6",
+      "to": "c7",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-daa44f54e857d21e3c4f"
+      ],
+      "from": "c1",
+      "to": "l1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-daa44f54e857d21e3c4f"
+      ],
+      "from": "c1",
+      "to": "l2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e63bc1bae759345e1012"
+      ],
+      "from": "c7",
+      "to": "l3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e63bc1bae759345e1012"
+      ],
+      "from": "c7",
+      "to": "l4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e63bc1bae759345e1012"
+      ],
+      "from": "c7",
+      "to": "l5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e63bc1bae759345e1012"
+      ],
+      "from": "c7",
+      "to": "l6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e63bc1bae759345e1012"
+      ],
+      "from": "c7",
+      "to": "m1",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e63bc1bae759345e1012",
+        "n-a3672fc4c61e379c9985"
+      ],
+      "from": "m1",
+      "to": "l9",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a3672fc4c61e379c9985"
+      ],
+      "from": "l7",
+      "to": "m2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a3672fc4c61e379c9985"
+      ],
+      "from": "l8",
+      "to": "m2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a3672fc4c61e379c9985"
+      ],
+      "from": "l9",
+      "to": "m2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a3672fc4c61e379c9985"
+      ],
+      "from": "l10",
+      "to": "m2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a3672fc4c61e379c9985"
+      ],
+      "from": "l11",
+      "to": "l8",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8c315943d43e5a0c857f"
+      ],
+      "from": "c8",
+      "to": "c9",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8c315943d43e5a0c857f"
+      ],
+      "from": "c8",
+      "to": "c10",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3a14ad113b894e1515b0"
+      ],
+      "from": "n-3a14ad113b894e1515b0",
+      "to": "c4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3a14ad113b894e1515b0"
+      ],
+      "from": "n-3a14ad113b894e1515b0",
+      "to": "l2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3a14ad113b894e1515b0"
+      ],
+      "from": "n-3a14ad113b894e1515b0",
+      "to": "m2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ce646c365971181ff10f"
+      ],
+      "from": "n-ce646c365971181ff10f",
+      "to": "c4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ce646c365971181ff10f"
+      ],
+      "from": "n-ce646c365971181ff10f",
+      "to": "l2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ce646c365971181ff10f"
+      ],
+      "from": "n-ce646c365971181ff10f",
+      "to": "m4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d76a1b72bc96c6a79224"
+      ],
+      "from": "n-d76a1b72bc96c6a79224",
+      "to": "m1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d76a1b72bc96c6a79224"
+      ],
+      "from": "n-d76a1b72bc96c6a79224",
+      "to": "m2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d76a1b72bc96c6a79224",
+        "n-a3672fc4c61e379c9985"
+      ],
+      "from": "n-d76a1b72bc96c6a79224",
+      "to": "l10",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d76a1b72bc96c6a79224",
+        "n-e63bc1bae759345e1012"
+      ],
+      "from": "n-d76a1b72bc96c6a79224",
+      "to": "c7",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-b1732be4a6cb16ba0c64",
+  "source_digest": "218249f0533dbd881183aca1c23bd04cd484ee5f636b6d8722b4e9ab93c68e3f",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

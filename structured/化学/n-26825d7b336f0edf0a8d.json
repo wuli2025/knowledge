@@ -1,0 +1,574 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-a4641cad045a979a0b33"
+      ],
+      "text": "物质制备实验包括制备、分离提纯、验纯、测纯和精纯环节。制备关注装置选取与反应条件控制；分离提纯关注方法、仪器用法、操作注意事项及目的；精纯关注方法选择与方案设计。",
+      "title": "物质制备实验的基本环节",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-a4641cad045a979a0b33"
+      ],
+      "text": "验纯针对杂质进行定性检验；测纯针对产品设计纯度测定方案，属于定量测定。",
+      "title": "验纯与测纯",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-f0c574b7493fd4c9c569"
+      ],
+      "text": "酸性干燥剂包括浓硫酸（强氧化性）、$\\mathrm{P_2O_5}$；碱性干燥剂包括碱石灰；中性干燥剂包括无水 $\\mathrm{CaCl_2}$。",
+      "title": "常用干燥剂的分类",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-ddb006c1ab2858d4b4cf"
+      ],
+      "text": "水合肼（$\\mathrm{N_2H_4\\cdot H_2O}$）易溶于水，沸点为 $118.5\\ ^\\circ\\mathrm{C}$，是重要的氢能源稳定剂。",
+      "title": "水合肼的性质与用途",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-76750be0b28d72ab55b3"
+      ],
+      "text": "$\\mathrm{LiH}$ 是制备有机合成的重要还原剂 $\\mathrm{LiAlH_4}$ 的反应物，遇水蒸气剧烈反应。",
+      "title": "氢化锂的用途与遇水性质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-848357a06127cb050b75"
+      ],
+      "text": "亚氯酸钠（$\\mathrm{NaClO_2}$）是一种重要的含氯消毒剂，易溶于水，在碱性溶液中比较稳定，遇酸时放出 $\\mathrm{ClO_2}$。",
+      "title": "亚氯酸钠的性质与用途",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c7",
+      "source_node_ids": [
+        "n-848357a06127cb050b75"
+      ],
+      "text": "$\\mathrm{ClO_2}$ 易溶于水，在温度过高、浓度过大时易发生分解。",
+      "title": "二氧化氯的溶解性与稳定性",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-f0c574b7493fd4c9c569"
+      ],
+      "text": "干燥剂只能吸水而不能与被干燥气体发生反应。酸性干燥剂不能干燥碱性气体，碱性干燥剂不能干燥酸性气体，具有强氧化性的干燥剂不能干燥具有还原性的气体。原文特别注明：浓硫酸可干燥 $\\mathrm{H_2}$ 和 $\\mathrm{SO_2}$，无水 $\\mathrm{CaCl_2}$ 不能干燥 $\\mathrm{NH_3}$。",
+      "title": "气体干燥剂的适用原则",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-a4641cad045a979a0b33"
+      ],
+      "text": "制备环节应选取反应装置，并控制反应条件，如控温、调节 $\\mathrm{pH}$；分离提纯环节应选择方法，明确仪器名称、用法、操作注意事项及具体做法的目的；精纯环节应选择方法并设计实验方案。",
+      "title": "按制备环节设计实验方案",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-a4641cad045a979a0b33"
+      ],
+      "text": "针对杂质，依次进行取样、加水溶解、加检验试剂、观察现象、得出结论，完成定性检验。",
+      "title": "产品验纯的操作思路",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-a4641cad045a979a0b33"
+      ],
+      "text": "若反应物或生成物易与空气中的成分反应，反应开始前应先将装置内的空气排尽。",
+      "title": "反应前排尽空气",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-a4641cad045a979a0b33"
+      ],
+      "text": "制备在空气中易吸水或易水解的物质，如 $\\mathrm{Al_2S_3}$、$\\mathrm{AlCl_3}$ 等，应在制备装置或收集装置后方连接干燥装置，防止空气中的水蒸气进入。",
+      "title": "设置末端干燥装置",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-a4641cad045a979a0b33",
+        "n-5b105c703d46f8fdad76",
+        "n-5d2b388959ce91c65f4e"
+      ],
+      "text": "用液体吸收气体时，若气体溶解度较大，应增加防倒吸装置。净化、吸收气体及停止加热时均应注意防倒吸，尾气处理也应注意防倒吸。",
+      "title": "防倒吸措施的设置条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-5b105c703d46f8fdad76"
+      ],
+      "text": "从原理是否正确可行、操作是否安全合理、步骤是否简单方便、反应速率是否合适、实验效果是否明显等方面评价制备方案。",
+      "title": "从科学性与可行性评价方案",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-5b105c703d46f8fdad76"
+      ],
+      "text": "检查反应原料是否易得、安全、无毒，原料利用率与产率是否较高，以及合成过程是否造成环境污染。",
+      "title": "从绿色化学视角评价方案",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-5b105c703d46f8fdad76"
+      ],
+      "text": "检查净化、吸收气体及停止加热时的防倒吸措施；进行某些易燃易爆实验时，应注意防爆炸、防氧化、防吸水。",
+      "title": "从安全性视角评价方案",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m9",
+      "source_node_ids": [
+        "n-5b105c703d46f8fdad76"
+      ],
+      "text": "为减少易挥发液体反应物的损失并充分利用原料，可在反应装置上加装冷凝回流装置，如长玻璃管、冷凝管等；易挥发液体产物导出时可为蒸气，需及时冷却。",
+      "title": "易挥发反应物与产物的处理",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m10",
+      "source_node_ids": [
+        "n-5b105c703d46f8fdad76"
+      ],
+      "text": "仪器拆卸与组装顺序相反，按照从右向左、从高到低的顺序拆卸；评价方案规范性时还应关注实验操作顺序和试剂加入顺序。",
+      "title": "仪器拆卸与操作规范",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m11",
+      "source_node_ids": [
+        "n-bee1250558c081b20cac"
+      ],
+      "text": "气体制备装置的连接顺序为：气体发生装置→气体净化装置→气体干燥装置→气体收集装置→尾气处理装置。",
+      "title": "气体制备装置的连接顺序",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m12",
+      "source_node_ids": [
+        "n-51fd329590f909cef5e4"
+      ],
+      "text": "依据反应物的状态和反应条件选择气体发生装置。",
+      "title": "气体发生装置的选择依据",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m13",
+      "source_node_ids": [
+        "n-51fd329590f909cef5e4"
+      ],
+      "text": "固体 $\\xrightarrow{\\Delta}$ 气体型装置适用于制 $\\mathrm{O_2}$、$\\mathrm{NH_3}$ 等。原文图示中试管略向下倾斜，试管口塞有带导气管的橡胶塞，下方用酒精灯加热。",
+      "title": "固体加热制气装置",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m14",
+      "source_node_ids": [
+        "n-51fd329590f909cef5e4"
+      ],
+      "text": "固体＋液体 $\\longrightarrow$ 气体型装置适用于制 $\\mathrm{H_2}$、$\\mathrm{CO_2}$、$\\mathrm{NO_2}$、$\\mathrm{C_2H_2}$、$\\mathrm{NO}$ 等。原文列举分液漏斗与试管组合装置、带孔塑料板的可控制反应装置和启普发生器。",
+      "title": "固液常温制气装置",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m15",
+      "source_node_ids": [
+        "n-51fd329590f909cef5e4"
+      ],
+      "text": "使用启普发生器时，固体反应物必须为块状且难溶于水，生成的气体不能易溶于水；制 $\\mathrm{H_2}$、$\\mathrm{CO_2}$ 时可使用启普发生器。",
+      "title": "启普发生器的适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m16",
+      "source_node_ids": [
+        "n-51fd329590f909cef5e4"
+      ],
+      "text": "固体＋液体 $\\xrightarrow{\\Delta}$ 气体型或液体 $\\xrightarrow{\\Delta}$ 气体型装置，适用于制 $\\mathrm{Cl_2}$、$\\mathrm{C_2H_4}$ 等。制 $\\mathrm{C_2H_4}$ 时需将温度控制在 $170\\ ^\\circ\\mathrm{C}$，发生装置中应有温度计，选用原文图 C 中右侧装置。",
+      "title": "固液或液体加热制气装置",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m17",
+      "source_node_ids": [
+        "n-168d4b0e089829d81840"
+      ],
+      "text": "根据除杂试剂的性质和状态选择洗气瓶、球形干燥管、U 形管或硬质玻璃管等。洗气瓶进气管伸入液面以下，出气管位于液面上方；U 形管或球形干燥管内装固体净化剂；需加热的净化剂放在水平固定的硬质玻璃管内，下方用酒精灯加热。",
+      "title": "气体净化装置的选择与使用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m18",
+      "source_node_ids": [
+        "n-168d4b0e089829d81840"
+      ],
+      "text": "用盛有氢氧化钠溶液的洗气瓶除去 $\\mathrm{O_2}$ 中的 $\\mathrm{Cl_2}$。",
+      "title": "除去氧气中的氯气",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m19",
+      "source_node_ids": [
+        "n-168d4b0e089829d81840"
+      ],
+      "text": "用盛有硫酸铜溶液的洗气瓶除去 $\\mathrm{H_2}$ 中的 $\\mathrm{H_2S}$。",
+      "title": "除去氢气中的硫化氢",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m20",
+      "source_node_ids": [
+        "n-168d4b0e089829d81840"
+      ],
+      "text": "用盛有饱和碳酸氢钠溶液的洗气瓶除去 $\\mathrm{CO_2}$ 中的 $\\mathrm{HCl}$ 或 $\\mathrm{SO_2}$。",
+      "title": "除去二氧化碳中的氯化氢或二氧化硫",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m21",
+      "source_node_ids": [
+        "n-168d4b0e089829d81840"
+      ],
+      "text": "用盛有饱和食盐水的洗气瓶除去 $\\mathrm{Cl_2}$ 中的 $\\mathrm{HCl}$。",
+      "title": "除去氯气中的氯化氢",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m22",
+      "source_node_ids": [
+        "n-168d4b0e089829d81840"
+      ],
+      "text": "用盛有饱和亚硫酸氢钠溶液的洗气瓶除去 $\\mathrm{SO_2}$ 中的 $\\mathrm{HCl}$。",
+      "title": "除去二氧化硫中的氯化氢",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m23",
+      "source_node_ids": [
+        "n-168d4b0e089829d81840"
+      ],
+      "text": "用盛有溴水的洗气瓶除去 $\\mathrm{CH_4}$ 中的乙烯。",
+      "title": "除去甲烷中的乙烯",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m24",
+      "source_node_ids": [
+        "n-168d4b0e089829d81840"
+      ],
+      "text": "用装有碱石灰的 U 形管或球形干燥管除去 $\\mathrm{CO}$ 中的 $\\mathrm{CO_2}$ 和 $\\mathrm{H_2O}$。",
+      "title": "除去一氧化碳中的二氧化碳与水",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m25",
+      "source_node_ids": [
+        "n-168d4b0e089829d81840"
+      ],
+      "text": "用加热的硬质玻璃管内的灼热铜网除去 $\\mathrm{N_2}$ 中的 $\\mathrm{O_2}$。",
+      "title": "除去氮气中的氧气",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m26",
+      "source_node_ids": [
+        "n-168d4b0e089829d81840"
+      ],
+      "text": "用加热的硬质玻璃管内的灼热氧化铜除去 $\\mathrm{CO_2}$ 中的 $\\mathrm{CO}$。",
+      "title": "除去二氧化碳中的一氧化碳",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m27",
+      "source_node_ids": [
+        "n-64d21116578f08f8d75e"
+      ],
+      "text": "根据气体的密度、溶解性及是否与水或空气中的 $\\mathrm{O_2}$ 等发生反应，确定气体收集方法。",
+      "title": "气体收集方法的选择依据",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m28",
+      "source_node_ids": [
+        "n-64d21116578f08f8d75e"
+      ],
+      "text": "排水法适用于不易溶于水且不与水发生反应的气体，如 $\\mathrm{O_2}$、$\\mathrm{H_2}$、$\\mathrm{NO}$、$\\mathrm{C_2H_4}$ 等。",
+      "title": "排水法收集气体",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m29",
+      "source_node_ids": [
+        "n-64d21116578f08f8d75e"
+      ],
+      "text": "能溶于水但溶解度不大的气体，可采用排某些饱和溶液的方法收集，如 $\\mathrm{Cl_2}$ 可采用排饱和食盐水的方法收集。",
+      "title": "排饱和溶液法收集气体",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m30",
+      "source_node_ids": [
+        "n-64d21116578f08f8d75e"
+      ],
+      "text": "排空气法适用于不与空气中各成分反应的气体。密度比空气大的气体用向上排空气法，如 $\\mathrm{O_2}$、$\\mathrm{CO_2}$、$\\mathrm{Cl_2}$、$\\mathrm{SO_2}$、$\\mathrm{NO_2}$ 等；密度比空气小的气体用向下排空气法，如 $\\mathrm{H_2}$、$\\mathrm{NH_3}$ 等。密度与空气相近的气体，如 $\\mathrm{CO}$、$\\mathrm{N_2}$ 等，不用排空气法收集。",
+      "title": "排空气法收集气体",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m31",
+      "source_node_ids": [
+        "n-5d2b388959ce91c65f4e"
+      ],
+      "text": "根据尾气性质选择合适试剂处理尾气，并注意防倒吸。",
+      "title": "尾气处理试剂的选择",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m32",
+      "source_node_ids": [
+        "n-ddb006c1ab2858d4b4cf"
+      ],
+      "text": "原文给出的水合肼制备原理为 $\\mathrm{NaClO+2NH_3}\\longrightarrow\\mathrm{N_2H_4\\cdot H_2O+NaCl}$。",
+      "title": "水合肼的制备原理",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m33",
+      "source_node_ids": [
+        "n-848357a06127cb050b75"
+      ],
+      "text": "原文给出的制备路线为由 $\\mathrm{ClO_2}$ 与 $\\mathrm{H_2O_2}$、$\\mathrm{NaOH}$ 制备 $\\mathrm{NaClO_2}$。",
+      "title": "亚氯酸钠的制备路线",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-a4641cad045a979a0b33"
+      ],
+      "from": "c1",
+      "to": "c2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a4641cad045a979a0b33"
+      ],
+      "from": "m2",
+      "to": "c2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a4641cad045a979a0b33"
+      ],
+      "from": "m1",
+      "to": "c1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f0c574b7493fd4c9c569"
+      ],
+      "from": "l1",
+      "to": "c3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5b105c703d46f8fdad76"
+      ],
+      "from": "m8",
+      "to": "m5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-51fd329590f909cef5e4"
+      ],
+      "from": "m12",
+      "to": "m13",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-51fd329590f909cef5e4"
+      ],
+      "from": "m12",
+      "to": "m14",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-51fd329590f909cef5e4"
+      ],
+      "from": "m12",
+      "to": "m16",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-51fd329590f909cef5e4"
+      ],
+      "from": "m14",
+      "to": "m15",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-64d21116578f08f8d75e"
+      ],
+      "from": "m27",
+      "to": "m28",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-64d21116578f08f8d75e"
+      ],
+      "from": "m27",
+      "to": "m29",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-64d21116578f08f8d75e"
+      ],
+      "from": "m27",
+      "to": "m30",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5d2b388959ce91c65f4e"
+      ],
+      "from": "m31",
+      "to": "m5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ddb006c1ab2858d4b4cf"
+      ],
+      "from": "m32",
+      "to": "c4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-848357a06127cb050b75"
+      ],
+      "from": "m33",
+      "to": "c6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-848357a06127cb050b75"
+      ],
+      "from": "m33",
+      "to": "c7",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-777d3c68ad3331b533b5"
+      ],
+      "from": "n-777d3c68ad3331b533b5",
+      "to": "m17",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ddb006c1ab2858d4b4cf"
+      ],
+      "from": "n-ddb006c1ab2858d4b4cf",
+      "to": "m32",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-76750be0b28d72ab55b3"
+      ],
+      "from": "n-76750be0b28d72ab55b3",
+      "to": "c5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-848357a06127cb050b75"
+      ],
+      "from": "n-848357a06127cb050b75",
+      "to": "m33",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-848357a06127cb050b75"
+      ],
+      "from": "n-848357a06127cb050b75",
+      "to": "c7",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-26825d7b336f0edf0a8d",
+  "source_digest": "71912b1eed7298f30537423deb52d3e7b4c3bde2b1f6342fbfa83db9a886e1f4",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

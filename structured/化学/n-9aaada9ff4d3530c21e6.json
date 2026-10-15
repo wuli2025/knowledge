@@ -1,0 +1,402 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-f75d976cff498effd946",
+        "n-f4f0a0be6f7e4f25695d"
+      ],
+      "text": "芳香烃是分子里含有一个或多个苯环的烃。",
+      "title": "芳香烃",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-307d6bee08ff0844c485"
+      ],
+      "text": "卤代烃的官能团为碳卤键（卤素原子）。饱和一元卤代烷烃的通式为 $\\mathrm{C_nH_{2n+1}X}$。",
+      "title": "卤代烃的官能团与饱和一元卤代烷烃通式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-b6c6fd499e4fe1762a10"
+      ],
+      "text": "在含官能团的有机化合物分子中，与官能团直接相连的碳原子为 $\\alpha\\text{-}\\mathrm{C}$，其上的氢原子为 $\\alpha\\text{-}\\mathrm{H}$；与 $\\alpha\\text{-}\\mathrm{C}$ 相连的碳原子为 $\\beta\\text{-}\\mathrm{C}$，其上的氢原子为 $\\beta\\text{-}\\mathrm{H}$。",
+      "title": "α、β位碳原子与氢原子",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-d9be673bcc3c562be33d"
+      ],
+      "text": "煤的气化生成水煤气，属于化学变化：$\\mathrm{C+H_2O(g)}\\xrightarrow{\\text{高温}}\\mathrm{CO+H_2}$。",
+      "title": "煤的气化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-d9be673bcc3c562be33d"
+      ],
+      "text": "煤直接液化是使煤与氢气作用生成液体燃料；煤间接液化一般是先转化为一氧化碳和氢气，再在催化剂作用下合成甲醇等。煤的液化属于化学变化。",
+      "title": "煤的液化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-d9be673bcc3c562be33d"
+      ],
+      "text": "煤的干馏可获得焦炭、煤焦油、粗氨水、粗苯、焦炉气等化工原料，属于化学变化。",
+      "title": "煤的干馏",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c7",
+      "source_node_ids": [
+        "n-d9be673bcc3c562be33d"
+      ],
+      "text": "石油的分馏根据沸点不同分离得到汽油、煤油、柴油等轻质油，属于物理变化。",
+      "title": "石油的分馏",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c8",
+      "source_node_ids": [
+        "n-d9be673bcc3c562be33d"
+      ],
+      "text": "石油裂化的目的是将重油转化为汽油等，属于化学变化。",
+      "title": "石油的裂化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c9",
+      "source_node_ids": [
+        "n-d9be673bcc3c562be33d"
+      ],
+      "text": "石油裂解可得到乙烯、丙烯、甲烷等重要的化工原料，属于化学变化。",
+      "title": "石油的裂解",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-2d39e4f2c2e4cd767187"
+      ],
+      "text": "烷烃：$\\mathrm{C_nH_{2n+2}}\\ (n\\geqslant1)$；单烯烃：$\\mathrm{C_nH_{2n}}\\ (n\\geqslant2)$；单炔烃：$\\mathrm{C_nH_{2n-2}}\\ (n\\geqslant2)$。",
+      "title": "烷烃、单烯烃与单炔烃的通式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-3386b8054dd602634ff7",
+        "n-3cf6a557c08ce67d9c9c"
+      ],
+      "text": "脂肪烃常温下碳原子数 $\\leqslant4$ 时为气体；新戊烷常温下也为气体。随碳原子数增多，熔、沸点升高，密度增大；密度均比水小，均难溶于水。原文另述“碳原子数相同时，支链越多，熔、沸点越低”【待核对：该表述中熔点变化规律的适用范围】。",
+      "title": "脂肪烃的物理性质及变化趋势",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-7576fa4316390a1dee2a"
+      ],
+      "text": "原文列举的取代反应及条件：$\\mathrm{CH_3CH_3+Cl_2}\\xrightarrow{\\text{光照}}\\mathrm{CH_3CH_2Cl+HCl}$；$\\mathrm{CH_3CH=CH_2+Cl_2}\\xrightarrow{\\Delta}\\mathrm{CH_2ClCH=CH_2+HCl}$。",
+      "title": "脂肪烃的取代反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-7576fa4316390a1dee2a"
+      ],
+      "text": "原文列举的加成反应：$\\mathrm{CH_2=CH_2+Br_2}\\longrightarrow\\mathrm{CH_2Br-CH_2Br}$；$\\mathrm{CH\\equiv CH+HCl}\\xrightarrow[\\Delta]{\\text{催化剂}}\\mathrm{CH_2=CHCl}$；$\\mathrm{CH\\equiv CH+H_2O}\\xrightarrow[\\Delta]{\\text{催化剂}}\\mathrm{CH_3CHO}$。其中 $\\mathrm{CH_2=CH-OH}$ 不稳定，易转化为乙醛。",
+      "title": "乙烯、乙炔的加成反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-7576fa4316390a1dee2a"
+      ],
+      "text": "乙烯、乙炔在催化剂作用下发生加聚反应：$n\\mathrm{CH_2=CH_2}\\xrightarrow{\\text{催化剂}}\\left[-\\mathrm{CH_2-CH_2}-\\right]_n$；$n\\mathrm{CH\\equiv CH}\\xrightarrow{\\text{催化剂}}\\left[-\\mathrm{CH=CH}-\\right]_n$。",
+      "title": "乙烯、乙炔的加聚反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-7576fa4316390a1dee2a"
+      ],
+      "text": "原文以1，3—丁二烯与溴的反应说明两种加成方式。1，4—加成：$\\mathrm{CH_2=CH-CH=CH_2+Br_2}\\longrightarrow\\mathrm{CH_2Br-CH=CH-CH_2Br}$；1，2—加成：$\\mathrm{CH_2=CH-CH=CH_2+Br_2}\\longrightarrow\\mathrm{CH_2Br-CHBr-CH=CH_2}$。",
+      "title": "二烯烃的1，4—加成与1，2—加成",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-7576fa4316390a1dee2a"
+      ],
+      "text": "烃燃烧生成二氧化碳和水的反应通式：$\\mathrm{C_xH_y}+\\left(x+\\dfrac y4\\right)\\mathrm{O_2}\\xrightarrow{\\text{点燃}}x\\mathrm{CO_2}+\\dfrac y2\\mathrm{H_2O}$。",
+      "title": "烃的燃烧反应通式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-7576fa4316390a1dee2a"
+      ],
+      "text": "烷烃不能使酸性高锰酸钾溶液褪色，烯烃、炔烃可以。",
+      "title": "烷烃、烯烃和炔烃对酸性高锰酸钾溶液的作用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-438939f96fa7dd3c8b87"
+      ],
+      "text": "甲苯的卤代反应分为光照条件下的侧链取代和催化剂作用下的苯环取代。侧链取代示例：$\\mathrm{C_6H_5CH_3+Br_2(g)}\\xrightarrow{\\text{光照}}\\mathrm{C_6H_5CH_2Br+HBr}$。苯环取代示例：$\\mathrm{C_6H_5CH_3+3Br_2(l)}\\xrightarrow{\\mathrm{FeBr_3}}\\mathrm{C_6H_2Br_3CH_3+3HBr}\\uparrow$；后一产物的三个溴原子分别位于甲基的两个邻位和一个对位。",
+      "title": "甲苯卤代反应的条件与取代位置",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-438939f96fa7dd3c8b87"
+      ],
+      "text": "苯和甲苯在浓硫酸、加热条件下发生硝化反应：$\\mathrm{C_6H_6+HNO_3}\\xrightarrow[\\Delta]{\\text{浓硫酸}}\\mathrm{C_6H_5NO_2+H_2O}$；$\\mathrm{C_6H_5CH_3+3HNO_3}\\xrightarrow[\\Delta]{\\text{浓硫酸}}\\mathrm{CH_3C_6H_2(NO_2)_3+3H_2O}$。后一产物中，三个硝基分别位于甲基的两个邻位和一个对位。原文以此说明烷基活化苯环。",
+      "title": "苯及甲苯的硝化反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l11",
+      "source_node_ids": [
+        "n-438939f96fa7dd3c8b87"
+      ],
+      "text": "苯的磺化反应：$\\mathrm{C_6H_6+HO-SO_3H}\\overset{\\Delta}{\\rightleftharpoons}\\mathrm{C_6H_5SO_3H+H_2O}$。",
+      "title": "苯的磺化反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l12",
+      "source_node_ids": [
+        "n-438939f96fa7dd3c8b87"
+      ],
+      "text": "甲苯在催化剂、加热条件下与氢气加成，生成甲基环己烷：$\\mathrm{C_6H_5CH_3+3H_2}\\xrightarrow[\\Delta]{\\text{催化剂}}\\mathrm{C_6H_{11}CH_3}$。",
+      "title": "甲苯的加氢反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l13",
+      "source_node_ids": [
+        "n-438939f96fa7dd3c8b87"
+      ],
+      "text": "苯不能被酸性高锰酸钾溶液氧化。苯的同系物中，与苯环直接相连的碳原子上有氢原子时，才可被酸性高锰酸钾溶液氧化。示例：$\\mathrm{C_6H_5C_2H_5}\\xrightarrow[\\mathrm{H^+}]{\\mathrm{KMnO_4}}\\mathrm{C_6H_5COOH}$。原文以此说明苯环活化烷基。",
+      "title": "苯及其同系物被酸性高锰酸钾氧化的条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l14",
+      "source_node_ids": [
+        "n-307d6bee08ff0844c485",
+        "n-de506fcbcef4d247f1d5"
+      ],
+      "text": "卤代烃常温下除 $\\mathrm{CH_3Cl}$ 等少数为气体外，大多数为液体或固体；不溶于水，可溶于有机溶剂。密度、沸点分别大于、高于相应的烃；密度一般随碳原子数目增加而减小，沸点随碳原子数目增加而升高。",
+      "title": "卤代烃的物理性质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l15",
+      "source_node_ids": [
+        "n-b6c6fd499e4fe1762a10"
+      ],
+      "text": "以溴乙烷为例，在氢氧化钠水溶液中加热发生水解反应，属于取代反应：$\\mathrm{CH_3CH_2Br+NaOH}\\xrightarrow[\\Delta]{\\text{水}}\\mathrm{CH_3CH_2OH+NaBr}$。",
+      "title": "卤代烃的水解反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l16",
+      "source_node_ids": [
+        "n-b6c6fd499e4fe1762a10"
+      ],
+      "text": "以溴乙烷为例，在氢氧化钠乙醇溶液中加热发生消去反应：$\\mathrm{CH_3CH_2Br+NaOH}\\xrightarrow[\\Delta]{\\text{乙醇}}\\mathrm{CH_2=CH_2}\\uparrow+\\mathrm{NaBr+H_2O}$。有 $\\beta\\text{-}\\mathrm{H}$ 的卤代烃才能发生消去反应。",
+      "title": "卤代烃的消去反应及结构条件",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-f5e28643e993da3fd53d"
+      ],
+      "text": "反应原理：$\\mathrm{CH_3CH_2OH}\\xrightarrow[170\\ ^\\circ\\mathrm{C}]{\\text{浓硫酸}}\\mathrm{CH_2=CH_2+H_2O}$。乙醇和浓硫酸的体积比为 $1:3$，浓硫酸是催化剂和脱水剂；加入沸石或碎瓷片以防止暴沸。装置使用圆底烧瓶、温度计和导气管，加热反应液，采用排水法收集乙烯。制得的乙烯含有 $\\mathrm{CO_2}$、$\\mathrm{SO_2}$、乙醇蒸气等杂质，用溴水或酸性 $\\mathrm{KMnO_4}$ 溶液检验乙烯前可用 $\\mathrm{NaOH}$ 溶液除杂。",
+      "title": "乙烯的实验室制备、收集与除杂",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-f5e28643e993da3fd53d"
+      ],
+      "text": "反应原理：$\\mathrm{CaC_2+2H_2O}\\longrightarrow\\mathrm{Ca(OH)_2+CH\\equiv CH}\\uparrow$。为得到平稳的乙炔气流，常用饱和食盐水代替水，用分液漏斗控制滴加速度；采用排水法收集乙炔。生成的乙炔含有 $\\mathrm{H_2S}$、$\\mathrm{PH_3}$ 等杂质，用溴水或酸性 $\\mathrm{KMnO_4}$ 溶液检验乙炔前可用 $\\mathrm{CuSO_4}$ 溶液除杂。",
+      "title": "乙炔的实验室制备、收集与除杂",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-706b383d2692a57cb69c"
+      ],
+      "text": "向 $\\mathrm{RX}$ 中加入 $\\mathrm{NaOH}$ 水溶液并加热，再加稀硝酸酸化，最后加 $\\mathrm{AgNO_3}$ 溶液。若产生白色沉淀，$\\mathrm{X}$ 是氯原子；若产生浅黄色沉淀，$\\mathrm{X}$ 是溴原子；若产生黄色沉淀，$\\mathrm{X}$ 是碘原子。",
+      "title": "卤代烃中卤素原子的检验",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-b6c6fd499e4fe1762a10"
+      ],
+      "from": "c3",
+      "to": "l16",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-307d6bee08ff0844c485",
+        "n-b6c6fd499e4fe1762a10"
+      ],
+      "from": "c2",
+      "to": "l15",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-307d6bee08ff0844c485",
+        "n-b6c6fd499e4fe1762a10"
+      ],
+      "from": "c2",
+      "to": "l16",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b6c6fd499e4fe1762a10",
+        "n-706b383d2692a57cb69c"
+      ],
+      "from": "m3",
+      "to": "l15",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-307d6bee08ff0844c485",
+        "n-706b383d2692a57cb69c"
+      ],
+      "from": "m3",
+      "to": "c2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d7453e0f99cc83246852",
+        "n-7576fa4316390a1dee2a"
+      ],
+      "from": "n-d7453e0f99cc83246852",
+      "to": "l6",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5fc047e6d432270a2ed5",
+        "n-7576fa4316390a1dee2a"
+      ],
+      "from": "n-5fc047e6d432270a2ed5",
+      "to": "l5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-607197356b2a7129d030",
+        "n-b6c6fd499e4fe1762a10"
+      ],
+      "from": "n-607197356b2a7129d030",
+      "to": "l16",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d9be673bcc3c562be33d"
+      ],
+      "from": "n-d9be673bcc3c562be33d",
+      "to": "c4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d9be673bcc3c562be33d"
+      ],
+      "from": "n-d9be673bcc3c562be33d",
+      "to": "c5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d9be673bcc3c562be33d"
+      ],
+      "from": "n-d9be673bcc3c562be33d",
+      "to": "c6",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d9be673bcc3c562be33d"
+      ],
+      "from": "n-d9be673bcc3c562be33d",
+      "to": "c7",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d9be673bcc3c562be33d"
+      ],
+      "from": "n-d9be673bcc3c562be33d",
+      "to": "c8",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d9be673bcc3c562be33d"
+      ],
+      "from": "n-d9be673bcc3c562be33d",
+      "to": "c9",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-9aaada9ff4d3530c21e6",
+  "source_digest": "6c634c7d1a61ae2c2c6245c06d5a6f36588fff1b8852408c5e2e8bbbd0e8a97d",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

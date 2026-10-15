@@ -1,0 +1,441 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-9265cb51b2f165577464",
+        "n-150416b36d66b7f9e6d5"
+      ],
+      "text": "硫单质是黄色固体，质脆，难溶于水，微溶于酒精，易溶于 $\\mathrm{CS_2}$。",
+      "title": "硫单质的物理性质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-4d5f56eeeea07e874a9a",
+        "n-0802e88448bf9811519b"
+      ],
+      "text": "二氧化硫是无色、有刺激性气味的气体，密度比空气大，易溶于水；通常情况下 $1$ 体积水约溶解 $40$ 体积 $\\mathrm{SO_2}$。",
+      "title": "二氧化硫的物理性质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-10516d28fa711a262445"
+      ],
+      "text": "$\\mathrm{SO_2}$ 具有酸性氧化物的性质，也具有氧化性、还原性和漂白性；能使品红褪色，加热后恢复。",
+      "title": "二氧化硫的化学性质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-4d5f56eeeea07e874a9a",
+        "n-ad4e8fa4ee3cf730cdae"
+      ],
+      "text": "二氧化硫可作漂白剂，用于漂白纸浆、毛、丝等；可用于杀菌消毒；可作食品添加剂，用在红酒、干果中等。",
+      "title": "二氧化硫的用途",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-1b027dcd18fc952e503f",
+        "n-56cdeb0d3a9566616e09"
+      ],
+      "text": "三氧化硫的熔点和沸点较低，常温常压下为液体，标准状况下为固体。",
+      "title": "三氧化硫的物理性质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-6f7979602f7f84806c71",
+        "n-dc11977513e666c47c96"
+      ],
+      "text": "硫化氢是无色、有臭鸡蛋气味的气体，能溶于水。",
+      "title": "硫化氢的物理性质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c7",
+      "source_node_ids": [
+        "n-6f7979602f7f84806c71",
+        "n-fdeeca24ef8a8fa17d8d"
+      ],
+      "text": "硫化氢具有弱酸性、还原性，能与某些金属离子反应。",
+      "title": "硫化氢的化学性质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c8",
+      "source_node_ids": [
+        "n-6b4cd4190e0e7354e9f7",
+        "n-c5dd7d892e1b3818c72f"
+      ],
+      "text": "硫酸是无色油状液体，密度比水大，沸点高，难挥发。",
+      "title": "硫酸的物理性质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c9",
+      "source_node_ids": [
+        "n-e1b34e9af83b71b899ae"
+      ],
+      "text": "稀硫酸具有酸的通性；浓硫酸具有吸水性、脱水性和强氧化性三大特性。",
+      "title": "稀硫酸与浓硫酸的性质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c10",
+      "source_node_ids": [
+        "n-e6a122961be51f4f47ea"
+      ],
+      "text": "硫元素的“价—类”二维图以化合价为纵轴、物质类别为横轴。$+6$ 价物质包括酸 $\\mathrm{H_2SO_4}$、氧化物 $\\mathrm{SO_3}$、盐 $\\mathrm{Na_2SO_4}$；$+4$ 价物质包括酸 $\\mathrm{H_2SO_3}$、氧化物 $\\mathrm{SO_2}$、盐 $\\mathrm{Na_2SO_3}$；$0$ 价物质为单质 $\\mathrm{S}$；$-2$ 价物质包括酸 $\\mathrm{H_2S}$、盐 $\\mathrm{Na_2S}$。",
+      "title": "硫元素的“价—类”二维图",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-638a508d1d7db8a10f46"
+      ],
+      "text": "硫与氧气反应时表现还原性：$\\mathrm{S}\\xrightarrow{\\mathrm{O_2}/\\text{点燃}}\\mathrm{SO_2}$。硫与变价金属或氢气反应时表现氧化性：$\\mathrm{S}\\xrightarrow{\\text{变价金属}/\\Delta}$ 低价硫化物（$\\mathrm{FeS、Cu_2S}$ 等）；$\\mathrm{S}\\xrightarrow{\\mathrm{H_2}/\\Delta}\\mathrm{H_2S}$。",
+      "title": "硫单质的氧化性与还原性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-10516d28fa711a262445"
+      ],
+      "text": "二氧化硫与硫化氢反应时表现氧化性：$\\mathrm{SO_2}\\xrightarrow{\\mathrm{H_2S}}\\mathrm{S+H_2O}$。",
+      "title": "二氧化硫的氧化性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-10516d28fa711a262445"
+      ],
+      "text": "二氧化硫可被氧气、溴水、高锰酸钾氧化：$\\mathrm{SO_2}\\xrightarrow[\\text{催化剂}/\\Delta]{\\mathrm{O_2}}\\mathrm{SO_3}$；$\\mathrm{SO_2}\\xrightarrow{\\mathrm{Br_2+H_2O}\\text{（溴水）}}\\mathrm{HBr+H_2SO_4}$（褪色）；$\\mathrm{SO_2}\\xrightarrow{\\mathrm{KMnO_4}}\\mathrm{Mn^{2+}+SO_4^{2-}}$（褪色）。",
+      "title": "二氧化硫的还原性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-1b027dcd18fc952e503f",
+        "n-0fce1b9fb7a7eb3b16ac"
+      ],
+      "text": "三氧化硫具有酸性氧化物的通性，与水反应生成 $\\mathrm{H_2SO_4}$，与碱反应生成盐和水，与碱性氧化物反应生成相应的盐。",
+      "title": "三氧化硫的酸性氧化物性质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-fdeeca24ef8a8fa17d8d"
+      ],
+      "text": "硫化氢的还原性可由反应 $\\mathrm{H_2S+Cl_2=S\\downarrow+2HCl}$ 表示；与某些金属离子的反应可由 $\\mathrm{Cu^{2+}+H_2S=CuS\\downarrow+2H^+}$ 表示。",
+      "title": "硫化氢的典型反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-e1b34e9af83b71b899ae"
+      ],
+      "text": "浓硫酸与铜、碳共热发生反应：$\\mathrm{Cu+2H_2SO_4}\\text{（浓）}\\xrightarrow{\\Delta}\\mathrm{CuSO_4+SO_2\\uparrow+2H_2O}$；$\\mathrm{C+2H_2SO_4}\\text{（浓）}\\xrightarrow{\\Delta}\\mathrm{CO_2\\uparrow+2SO_2\\uparrow+2H_2O}$。常温下，浓硫酸可使 $\\mathrm{Fe、Al}$ 钝化。",
+      "title": "浓硫酸的强氧化性及钝化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-e6a122961be51f4f47ea"
+      ],
+      "text": "原文按硫元素化合价归纳：$+6$ 价只有氧化性；$+4$ 价和 $0$ 价既有氧化性又有还原性；$-2$ 价只有还原性。原文同时注明：$\\mathrm{Na_2SO_4}$ 不体现氧化性。",
+      "title": "硫元素化合价与氧化还原性质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-16fabde89880303fafd2"
+      ],
+      "text": "硫元素化合价变化时，一般升高或降低至相邻价态，呈台阶式升降。阶梯依次为 $-2$ 价的 $\\mathrm{H_2S}$、$0$ 价的 $\\mathrm{S}$、$+4$ 价的 $\\mathrm{SO_2}$、$+6$ 价的 $\\mathrm{SO_3、H_2SO_4}$；上升为被氧化，下降为被还原。例如：$\\mathrm{H_2S+H_2SO_4}\\text{（浓）}=\\mathrm{S\\downarrow+SO_2+2H_2O}$。",
+      "title": "硫元素化合价的台阶式升降",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-16fabde89880303fafd2"
+      ],
+      "text": "含硫物质的连续转化：$\\mathrm{H_2S}\\xrightarrow{\\mathrm{O_2}\\text{、点燃}}\\mathrm{S}\\xrightarrow{\\mathrm{O_2}\\text{、点燃}}\\mathrm{SO_2}\\xrightarrow{\\mathrm{O_2}\\text{、催化剂、}\\Delta}\\mathrm{SO_3}\\xrightarrow{\\mathrm{H_2O}}\\mathrm{H_2SO_4}$；$\\mathrm{H_2S}\\xrightarrow{\\text{足量}\\mathrm{O_2}\\text{、点燃}}\\mathrm{SO_2}$；$\\mathrm{SO_2}\\xrightarrow{\\mathrm{H_2O}}\\mathrm{H_2SO_3}\\xrightarrow{\\mathrm{O_2}}\\mathrm{H_2SO_4}$。注意：$\\mathrm{S}$ 不能被 $\\mathrm{O_2}$ 一步氧化为 $\\mathrm{SO_3}$。",
+      "title": "含硫物质的连续氧化与后续转化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-16fabde89880303fafd2"
+      ],
+      "text": "$+4$ 价硫的不同化合物间可发生下列转化：$\\mathrm{SO_2}\\xrightarrow{\\mathrm{H_2O}}\\mathrm{H_2SO_3}$；$\\mathrm{H_2SO_3}\\rightarrow\\mathrm{SO_2}$；$\\mathrm{H_2SO_3}\\xrightarrow{\\mathrm{OH^-}}\\mathrm{HSO_3^-}$；$\\mathrm{HSO_3^-}\\xrightarrow{\\mathrm{H^+}}\\mathrm{H_2SO_3}$；$\\mathrm{HSO_3^-}\\xrightarrow{\\mathrm{OH^-}}\\mathrm{SO_3^{2-}}$；$\\mathrm{SO_3^{2-}}\\xrightarrow{\\mathrm{H^+}}\\mathrm{HSO_3^-}$；$\\mathrm{HSO_3^-}\\xrightarrow{\\Delta}\\mathrm{SO_3^{2-}}$；$\\mathrm{SO_3^{2-}}\\xrightarrow{\\mathrm{SO_2+H_2O}}\\mathrm{HSO_3^-}$。以上保留原文转化示意式。",
+      "title": "$+4$ 价硫的化合物间转化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l11",
+      "source_node_ids": [
+        "n-e6a122961be51f4f47ea"
+      ],
+      "text": "“价—类”图给出的转化关系为：$\\mathrm{SO_3}\\rightarrow\\mathrm{H_2SO_4}$；$\\mathrm{SO_3}\\rightarrow\\mathrm{Na_2SO_4}$；$\\mathrm{H_2SO_4}\\rightarrow\\mathrm{SO_2}$；$\\mathrm{H_2SO_3}\\rightleftharpoons\\mathrm{SO_2}$；$\\mathrm{SO_2}\\rightleftharpoons\\mathrm{Na_2SO_3}$；$\\mathrm{SO_2}\\rightarrow\\mathrm{SO_3}$；$\\mathrm{Na_2SO_3}\\rightarrow\\mathrm{Na_2SO_4}$；$\\mathrm{SO_2}\\rightleftharpoons\\mathrm{S}$；$\\mathrm{H_2S}\\rightarrow\\mathrm{H_2SO_3}$；$\\mathrm{H_2S}\\rightleftharpoons\\mathrm{S}$；$\\mathrm{Na_2S}\\rightarrow\\mathrm{Na_2SO_3}$；$\\mathrm{Na_2S}\\rightleftharpoons\\mathrm{S}$。原文此图未列各转化的具体条件。",
+      "title": "硫及其化合物的“价—类”转化关系",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-10516d28fa711a262445"
+      ],
+      "text": "$\\mathrm{SO_2}$ 和 $\\mathrm{CO_2}$ 都可使澄清石灰水变浑浊。检验二者同时存在时，依次通过：①品红溶液，褪色用于检验 $\\mathrm{SO_2}$；②酸性 $\\mathrm{KMnO_4}$ 溶液，除去 $\\mathrm{SO_2}$，预期褪色或变浅；③品红溶液，不褪色用于检验 $\\mathrm{SO_2}$ 是否除尽；④澄清石灰水，变浑浊用于检验 $\\mathrm{CO_2}$。",
+      "title": "二氧化硫与二氧化碳同时存在的检验",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-920aeb0ffcb6b5dfa550"
+      ],
+      "text": "用 $\\mathrm{Na_2SO_3}$ 固体与较浓的硫酸反应制取二氧化硫：$\\mathrm{Na_2SO_3+H_2SO_4}\\text{（浓）}=\\mathrm{Na_2SO_4+SO_2\\uparrow+H_2O}$，属于非氧化还原反应。原文文字条件为“较浓的硫酸”，反应式标注为“浓”，均按原文保留。",
+      "title": "亚硫酸钠与硫酸反应制取二氧化硫",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-920aeb0ffcb6b5dfa550"
+      ],
+      "text": "将 $\\mathrm{Cu}$ 与浓硫酸共热制取二氧化硫：$\\mathrm{Cu+2H_2SO_4}\\text{（浓）}\\xrightarrow{\\Delta}\\mathrm{CuSO_4+SO_2\\uparrow+2H_2O}$。",
+      "title": "铜与浓硫酸共热制取二氧化硫",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-70f4038255c809613f61"
+      ],
+      "text": "接触法制硫酸流程为煅烧黄铁矿或硫黄造气，净化 $\\mathrm{SO_2}$，通入 $\\mathrm{O_2}$ 后在接触室生成 $\\mathrm{SO_3}$，再在吸收塔生成 $\\mathrm{H_2SO_4}$。原文列出的反应及设备：Ⅰ. 沸腾炉，$\\mathrm{4FeS_2+11O_2}\\xrightarrow{\\text{高温}}\\mathrm{2Fe_2O_3+8SO_2}$；Ⅱ. 接触室，$\\mathrm{2SO_2+O_2}\\underset{\\Delta}{\\overset{\\text{催化剂}}{\\rightleftharpoons}}\\mathrm{2SO_3}$；Ⅲ. 吸收塔，$\\mathrm{SO_3+H_2O=H_2SO_4}$，用浓硫酸吸收 $\\mathrm{SO_3}$。",
+      "title": "接触法制硫酸",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-79f4f53f0071cbf4587d"
+      ],
+      "text": "检验原理：$\\mathrm{Ba^{2+}+SO_4^{2-}=BaSO_4\\downarrow}$。操作：向待测液加足量盐酸酸化，取清液，滴加 $\\mathrm{BaCl_2}$ 溶液，根据有无白色沉淀确定有无 $\\mathrm{SO_4^{2-}}$。加盐酸用于防止 $\\mathrm{CO_3^{2-}、SO_3^{2-}、Ag^+}$ 等的干扰。",
+      "title": "硫酸根离子的检验",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-16fabde89880303fafd2"
+      ],
+      "text": "浓硫酸可用于干燥 $\\mathrm{SO_2}$ 气体；原文依据为二者硫元素处于相邻价态，不发生氧化还原反应。",
+      "title": "用浓硫酸干燥二氧化硫",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-638a508d1d7db8a10f46"
+      ],
+      "from": "n-9265cb51b2f165577464",
+      "to": "l1",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-10516d28fa711a262445"
+      ],
+      "from": "c3",
+      "to": "l2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-10516d28fa711a262445"
+      ],
+      "from": "c3",
+      "to": "l3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-10516d28fa711a262445"
+      ],
+      "from": "m1",
+      "to": "c3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-10516d28fa711a262445"
+      ],
+      "from": "m1",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0fce1b9fb7a7eb3b16ac"
+      ],
+      "from": "n-1b027dcd18fc952e503f",
+      "to": "l4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-fdeeca24ef8a8fa17d8d"
+      ],
+      "from": "c7",
+      "to": "l5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e1b34e9af83b71b899ae"
+      ],
+      "from": "c9",
+      "to": "l6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-920aeb0ffcb6b5dfa550",
+        "n-e1b34e9af83b71b899ae"
+      ],
+      "from": "m3",
+      "to": "l6",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e6a122961be51f4f47ea"
+      ],
+      "from": "c10",
+      "to": "l7",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e6a122961be51f4f47ea"
+      ],
+      "from": "c10",
+      "to": "l11",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-16fabde89880303fafd2"
+      ],
+      "from": "m6",
+      "to": "l8",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-16fabde89880303fafd2"
+      ],
+      "from": "n-2fb8a9b329ec24808923",
+      "to": "l8",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-16fabde89880303fafd2"
+      ],
+      "from": "n-2fb8a9b329ec24808923",
+      "to": "l9",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-16fabde89880303fafd2"
+      ],
+      "from": "n-2fb8a9b329ec24808923",
+      "to": "l10",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3b0dc3ed7256f26f960c",
+        "n-10516d28fa711a262445"
+      ],
+      "from": "n-3b0dc3ed7256f26f960c",
+      "to": "c3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-910c8e0656d2e9323022",
+        "n-16fabde89880303fafd2"
+      ],
+      "from": "n-910c8e0656d2e9323022",
+      "to": "l9",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e9693becc702df7470f1",
+        "n-e6a122961be51f4f47ea"
+      ],
+      "from": "n-e9693becc702df7470f1",
+      "to": "c10",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e9693becc702df7470f1",
+        "n-e6a122961be51f4f47ea"
+      ],
+      "from": "n-e9693becc702df7470f1",
+      "to": "l7",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-82156058135cf8d67ead",
+  "source_digest": "61be334450433dc0ad0fbcb2f8e3e82a4228c6feb8fb421e29a6263146958a77",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

@@ -1,0 +1,469 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-2a9688ecff89e602107d"
+      ],
+      "text": "以单位体积溶液里所含溶质 $\\mathrm B$ 的物质的量来表示溶液组成的物理量，符号是 $c_{\\mathrm B}$，常用单位为 $\\mathrm{mol\\cdot L^{-1}}$。",
+      "title": "物质的量浓度",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-2a9688ecff89e602107d",
+        "n-3ccd1b7b068cb3fc2ec2"
+      ],
+      "text": "$c_{\\mathrm B}=\\dfrac{n_{\\mathrm B}}{V}$。其中体积为溶液体积；物质的量用 $\\mathrm{mol}$、溶液体积用 $\\mathrm L$ 时，物质的量浓度单位为 $\\mathrm{mol\\cdot L^{-1}}$。",
+      "title": "物质的量浓度与物质的量、溶液体积的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-2a9688ecff89e602107d"
+      ],
+      "text": "利用溶质 $\\mathrm B$ 的质量分数（$w$）和溶液的密度（$\\rho$，单位为 $\\mathrm{g\\cdot cm^{-3}}$）计算：$c_{\\mathrm B}=\\dfrac{1000\\cdot\\rho\\cdot w}{M_{\\mathrm B}}$。",
+      "title": "物质的量浓度与质量分数、密度的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-2a9688ecff89e602107d"
+      ],
+      "text": "溶液稀释前后，溶液中溶质的物质的量不变，据此有 $c(\\text{浓})\\cdot V(\\text{浓})=c(\\text{稀})\\cdot V(\\text{稀})$。",
+      "title": "溶液稀释时溶质的物质的量守恒",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-6d0af8a5256a4c91575d"
+      ],
+      "text": "根据 $c=\\dfrac{n}{V}$ 分析误差：在另一变量不变时，$n$ 实际值比理论值小或 $V$ 实际值比理论值大，浓度偏低；$n$ 实际值比理论值大或 $V$ 实际值比理论值小，浓度偏高。",
+      "title": "配制溶液浓度误差的判断依据",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-6d0af8a5256a4c91575d"
+      ],
+      "text": "容量瓶不干燥及定容摇匀后液面低于刻度线，均对实验结果无影响。",
+      "title": "配制溶液中不影响结果的情形",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-3ccd1b7b068cb3fc2ec2"
+      ],
+      "text": "各反应物和生成物的物质的量通过化学方程式换算。",
+      "title": "利用化学方程式换算物质的量",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-3ccd1b7b068cb3fc2ec2"
+      ],
+      "text": "物质的量 $\\times N_{\\mathrm A}$ → 粒子数目；粒子数目 $\\div N_{\\mathrm A}$ → 物质的量。粒子包括原子、分子、离子、电子等，物质的量单位为 $\\mathrm{mol}$。",
+      "title": "物质的量与粒子数目的换算",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-3ccd1b7b068cb3fc2ec2"
+      ],
+      "text": "通过化学式换算原子、离子的物质的量。",
+      "title": "利用化学式换算物质的量",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-3ccd1b7b068cb3fc2ec2"
+      ],
+      "text": "物质的量 $\\times M(\\mathrm{g\\cdot mol^{-1}})$ → 质量；质量 $\\div M(\\mathrm{g\\cdot mol^{-1}})$ → 物质的量。质量单位为 $\\mathrm g$，物质的量单位为 $\\mathrm{mol}$。",
+      "title": "物质的量与质量的换算",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-3ccd1b7b068cb3fc2ec2"
+      ],
+      "text": "适用于标准状况下的气体：物质的量 $\\times 22.4\\ \\mathrm{L\\cdot mol^{-1}}$ → 标准状况下气体的体积；标准状况下气体的体积 $\\div 22.4\\ \\mathrm{L\\cdot mol^{-1}}$ → 物质的量。气体体积单位为 $\\mathrm L$，物质的量单位为 $\\mathrm{mol}$。",
+      "title": "物质的量与标准状况下气体体积的换算",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-3ccd1b7b068cb3fc2ec2"
+      ],
+      "text": "物质的量 $\\div$ 溶液体积（$\\mathrm L$）→ 物质的量浓度；物质的量浓度 $\\times$ 溶液体积（$\\mathrm L$）→ 物质的量。物质的量浓度单位为 $\\mathrm{mol\\cdot L^{-1}}$，物质的量单位为 $\\mathrm{mol}$。",
+      "title": "物质的量与物质的量浓度的换算",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-3ccd1b7b068cb3fc2ec2"
+      ],
+      "text": "通过电离方程式，由物质的量浓度换算溶液中离子的浓度。",
+      "title": "利用电离方程式换算离子浓度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-6d0af8a5256a4c91575d"
+      ],
+      "text": "配制一定物质的量浓度溶液所需仪器包括天平（或量筒）、药匙、烧杯、容量瓶、玻璃棒、胶头滴管。",
+      "title": "配制溶液的仪器准备",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m9",
+      "source_node_ids": [
+        "n-6d0af8a5256a4c91575d"
+      ],
+      "text": "配制步骤为：算→量→溶→冷→移→洗→定→摇。原文以氯化钠溶液为例：取用 $\\mathrm{NaCl}$，用量筒量取蒸馏水倒入烧杯，用玻璃棒搅拌溶解；冷却后沿玻璃棒将溶液转移至容量瓶；洗涤烧杯和玻璃棒并将洗涤液转入容量瓶；用胶头滴管逐滴加水，视线与凹液面最低处及刻度线相平；塞紧瓶塞，倒转摇匀。",
+      "title": "一定物质的量浓度溶液的配制流程",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m10",
+      "source_node_ids": [
+        "n-6d0af8a5256a4c91575d"
+      ],
+      "text": "容量瓶的常用规格有 $100\\ \\mathrm{mL}$、$250\\ \\mathrm{mL}$、$500\\ \\mathrm{mL}$ 和 $1000\\ \\mathrm{mL}$ 等。选择时遵循“大而近”原则，即容量瓶容积应等于或略大于所需溶液的体积。原文示例：需用 $240\\ \\mathrm{mL}$ 某溶液，应选择 $250\\ \\mathrm{mL}$ 容量瓶配制。",
+      "title": "容量瓶规格的选择",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m11",
+      "source_node_ids": [
+        "n-6d0af8a5256a4c91575d"
+      ],
+      "text": "使用前向容量瓶中加入适量水，塞紧瓶塞，右手食指顶住瓶塞，左手托住瓶底，倒置观察瓶口处是否漏水。若不漏水，将容量瓶正立并将瓶塞旋转 $180$ 度，再次倒置检查；若仍不漏水，表明密封性良好。",
+      "title": "容量瓶检漏",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m12",
+      "source_node_ids": [
+        "n-6d0af8a5256a4c91575d"
+      ],
+      "text": "转移时溶液应为室温，用玻璃棒引流，玻璃棒下端靠在刻度线以下。转移后洗涤烧杯和玻璃棒 $2\\sim3$ 次，洗涤液也要转移到容量瓶中。",
+      "title": "溶液转移与洗涤",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m13",
+      "source_node_ids": [
+        "n-6d0af8a5256a4c91575d"
+      ],
+      "text": "定容时用胶头滴管逐滴加水，视线与凹液面最低处及刻度线相平。加蒸馏水时若不慎超过刻度线，应重新配制。定容后塞紧瓶塞，倒转摇匀。",
+      "title": "定容与摇匀",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m14",
+      "source_node_ids": [
+        "n-6d0af8a5256a4c91575d"
+      ],
+      "text": "按操作引起的 $n$、$V$ 变化判断：用量筒量取待稀释溶液时仰视读数，$n$ 增大、$V$ 不变，浓度偏大；定容时俯视容量瓶刻度线，或溶液未冷却就转入容量瓶进行定容，均为 $n$ 不变、$V$ 减小，浓度偏大。",
+      "title": "导致配制浓度偏大的操作分析",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m15",
+      "source_node_ids": [
+        "n-6d0af8a5256a4c91575d"
+      ],
+      "text": "以下操作均使 $n$ 减小、$V$ 不变，浓度偏小：药品和砝码位置颠倒且使用游码；药品已潮解或含有其他杂质；用量筒量取待稀释溶液时俯视读数；转移时有少量液体洒在容量瓶外；没有洗涤烧杯和玻璃棒；定容时蒸馏水加多后用滴管吸出。",
+      "title": "溶质物质的量减小引起的浓度误差分析",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m16",
+      "source_node_ids": [
+        "n-6d0af8a5256a4c91575d"
+      ],
+      "text": "定容时仰视容量瓶刻度线，或定容摇匀后又补加蒸馏水至刻度线，均使 $n$ 不变、$V$ 增大，浓度偏小。",
+      "title": "溶液体积增大引起的浓度误差分析",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-2a9688ecff89e602107d"
+      ],
+      "from": "c1",
+      "to": "l1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2a9688ecff89e602107d"
+      ],
+      "from": "c1",
+      "to": "l2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2a9688ecff89e602107d"
+      ],
+      "from": "c1",
+      "to": "l3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2a9688ecff89e602107d",
+        "n-3ccd1b7b068cb3fc2ec2"
+      ],
+      "from": "m6",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3ccd1b7b068cb3fc2ec2"
+      ],
+      "from": "c1",
+      "to": "m7",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6d0af8a5256a4c91575d"
+      ],
+      "from": "m8",
+      "to": "m9",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6d0af8a5256a4c91575d"
+      ],
+      "from": "m10",
+      "to": "m9",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6d0af8a5256a4c91575d"
+      ],
+      "from": "m11",
+      "to": "m9",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6d0af8a5256a4c91575d"
+      ],
+      "from": "m9",
+      "to": "m12",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6d0af8a5256a4c91575d"
+      ],
+      "from": "m9",
+      "to": "m13",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6d0af8a5256a4c91575d"
+      ],
+      "from": "l5",
+      "to": "m9",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6d0af8a5256a4c91575d"
+      ],
+      "from": "l4",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6d0af8a5256a4c91575d"
+      ],
+      "from": "m14",
+      "to": "l4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6d0af8a5256a4c91575d"
+      ],
+      "from": "m15",
+      "to": "l4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6d0af8a5256a4c91575d"
+      ],
+      "from": "m16",
+      "to": "l4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e58b6b5d9fa8a00afb00",
+        "n-2a9688ecff89e602107d"
+      ],
+      "from": "n-e58b6b5d9fa8a00afb00",
+      "to": "c1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e58b6b5d9fa8a00afb00",
+        "n-3ccd1b7b068cb3fc2ec2"
+      ],
+      "from": "n-e58b6b5d9fa8a00afb00",
+      "to": "m7",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e58b6b5d9fa8a00afb00",
+        "n-3ccd1b7b068cb3fc2ec2"
+      ],
+      "from": "n-e58b6b5d9fa8a00afb00",
+      "to": "m1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-981d98d98bd490087936",
+        "n-6d0af8a5256a4c91575d"
+      ],
+      "from": "n-981d98d98bd490087936",
+      "to": "m12",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-981d98d98bd490087936",
+        "n-6d0af8a5256a4c91575d"
+      ],
+      "from": "n-981d98d98bd490087936",
+      "to": "m13",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-10dbc68e179b51db246a",
+        "n-2a9688ecff89e602107d"
+      ],
+      "from": "n-10dbc68e179b51db246a",
+      "to": "l2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-10dbc68e179b51db246a",
+        "n-2a9688ecff89e602107d"
+      ],
+      "from": "n-10dbc68e179b51db246a",
+      "to": "l3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-10dbc68e179b51db246a",
+        "n-6d0af8a5256a4c91575d"
+      ],
+      "from": "n-10dbc68e179b51db246a",
+      "to": "m8",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-10dbc68e179b51db246a",
+        "n-6d0af8a5256a4c91575d"
+      ],
+      "from": "n-10dbc68e179b51db246a",
+      "to": "m10",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-10dbc68e179b51db246a",
+        "n-6d0af8a5256a4c91575d"
+      ],
+      "from": "n-10dbc68e179b51db246a",
+      "to": "m11",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-10dbc68e179b51db246a",
+        "n-6d0af8a5256a4c91575d"
+      ],
+      "from": "n-10dbc68e179b51db246a",
+      "to": "l4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-10dbc68e179b51db246a",
+        "n-6d0af8a5256a4c91575d"
+      ],
+      "from": "n-10dbc68e179b51db246a",
+      "to": "l5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-2a77b3a5d706044f91db",
+  "source_digest": "2ac52769b12a729c9cff48a2f267eb254b5a47ba9d9cc158265b6be8b8b9e828",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

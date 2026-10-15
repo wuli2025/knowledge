@@ -1,0 +1,477 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-ddb4f3508be3638b7163"
+      ],
+      "text": "电解池是将电能转化为化学能的装置。",
+      "title": "电解池",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-ddb4f3508be3638b7163"
+      ],
+      "text": "电解池的构成条件：有与直流电源相连的两个电极；有电解质溶液或熔融电解质；形成闭合回路。",
+      "title": "电解池的构成条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-ddb4f3508be3638b7163"
+      ],
+      "text": "阴极连接电源负极，发生还原反应；阳极连接电源正极，发生氧化反应。原文工作原理图以阳极为惰性电极为条件。",
+      "title": "电解池的阴极与阳极",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-ddb4f3508be3638b7163"
+      ],
+      "text": "原文将除 $\\mathrm{Au、Pt}$ 外的金属列为活性电极，将 $\\mathrm{Pt、Au}$、石墨棒列为惰性电极。",
+      "title": "活性电极与惰性电极",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-4bf131737f0beedaaf9f"
+      ],
+      "text": "用惰性电极电解电解质溶液时，原文归纳为电解水型、电解电解质型、放 $\\mathrm{H_2}$ 生碱型和放 $\\mathrm{O_2}$ 生酸型。",
+      "title": "惰性电极电解电解质溶液的类型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-e834f4a09d8fe91e6b9b"
+      ],
+      "text": "离子交换膜法电解饱和食盐水：阳极室通入精制饱和 $\\mathrm{NaCl}$ 溶液，流出淡盐水并产生 $\\mathrm{Cl_2}$；阴极室通入 $\\mathrm{H_2O}$（含少量 $\\mathrm{NaOH}$），流出 $\\mathrm{NaOH}$ 溶液并产生 $\\mathrm{H_2}$。两室由阳离子交换膜隔开，$\\mathrm{Na^+}$ 通过膜向阴极室迁移。",
+      "title": "氯碱工业",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c7",
+      "source_node_ids": [
+        "n-e834f4a09d8fe91e6b9b"
+      ],
+      "text": "电镀以镀层金属为阳极、镀件为阴极，电镀液为含有镀层金属离子的溶液。原文示例以铜片为阳极、待镀铁件为阴极，使用 $\\mathrm{CuSO_4}$ 溶液。",
+      "title": "电镀",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c8",
+      "source_node_ids": [
+        "n-e834f4a09d8fe91e6b9b"
+      ],
+      "text": "电解精炼铜以粗铜为阳极、纯铜为阴极，使用 $\\mathrm{CuSO_4}$ 溶液。",
+      "title": "电解精炼铜",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c9",
+      "source_node_ids": [
+        "n-e834f4a09d8fe91e6b9b"
+      ],
+      "text": "电解精炼铜时，失电子能力比铜弱的杂质形成阳极泥，如 $\\mathrm{Au、Ag}$。",
+      "title": "阳极泥",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c10",
+      "source_node_ids": [
+        "n-e834f4a09d8fe91e6b9b"
+      ],
+      "text": "电冶金通过电解熔融盐或氧化物冶炼活泼金属。",
+      "title": "电冶金",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c11",
+      "source_node_ids": [
+        "n-cc055ac3eede2e661c22"
+      ],
+      "text": "题干图示列出三种电催化还原 $\\mathrm{N_2}$ 制 $\\mathrm{NH_3}$ 的类型：固态质子导电电解、固态氧阴离子导电电解、含有 $\\mathrm{N^{3-}}$ 的熔融盐电解。固态质子导电装置中，$\\mathrm{H^+}$ 向通入 $\\mathrm{N_2}$ 并生成 $\\mathrm{NH_3}$ 的一侧迁移；固态氧阴离子导电装置中，$\\mathrm{O^{2-}}$ 向放出 $\\mathrm{O_2}$ 的一侧迁移；熔融盐装置中，$\\mathrm{N^{3-}}$ 向通入 $\\mathrm{H_2}$ 并生成 $\\mathrm{NH_3}$ 的一侧迁移。",
+      "title": "电催化还原氮气制氨的装置类型",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-ddb4f3508be3638b7163"
+      ],
+      "text": "在原文阳极为惰性电极的工作原理图中，电子由电源负极流向阴极，由阳极流向电源正极；电解质中的阳离子移向阴极，阴离子移向阳极。",
+      "title": "电解池中电子与离子的移动方向",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-ddb4f3508be3638b7163"
+      ],
+      "text": "阴极放电顺序与电极材料无关，氧化性强的先放电。原文顺序为 $\\mathrm{K^+、Ca^{2+}、Na^+、Mg^{2+}、Al^{3+}、H^+(水)、Zn^{2+}、Fe^{2+}、Sn^{2+}、Pb^{2+}、H^+(酸)、Cu^{2+}、Fe^{3+}、Hg^{2+}、Ag^+}$，从左到右放电由难到易。",
+      "title": "阴极放电顺序",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-ddb4f3508be3638b7163"
+      ],
+      "text": "阳极放电与电极材料有关。活性电极作阳极时，电极本身失去电子，发生氧化反应；铁作阳极生成 $\\mathrm{Fe^{2+}}$，而不是 $\\mathrm{Fe^{3+}}$。",
+      "title": "活性阳极的反应特点",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-ddb4f3508be3638b7163"
+      ],
+      "text": "惰性电极作阳极时，原文离子放电顺序为 $\\mathrm{S^{2-}、I^-、Fe^{2+}、Br^-、Cl^-、OH^-}$、含氧酸根离子（$\\mathrm{NO_3^-、CO_3^{2-}}$ 等）、$\\mathrm{F^-}$，从左到右放电由易到难。",
+      "title": "惰性阳极的离子放电顺序",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-4bf131737f0beedaaf9f"
+      ],
+      "text": "用惰性电极电解时，原文将含氧酸、可溶性强碱、活泼金属含氧酸盐归入电解水型，实例分别为 $\\mathrm{H_2SO_4}$、$\\mathrm{NaOH}$、$\\mathrm{KNO_3}$。阴极为 $\\mathrm{H^+}$ 放电生成氢气，阳极为 $\\mathrm{OH^-}$ 放电生成氧气；电解对象为水，电解质溶液浓度增大。",
+      "title": "电解水型的反应与溶液变化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-4bf131737f0beedaaf9f"
+      ],
+      "text": "用惰性电极电解时，原文将无氧酸、不活泼金属无氧酸盐归入电解电解质型，实例分别为 $\\mathrm{HCl}$、$\\mathrm{CuCl_2}$。电解质电离出的阴、阳离子分别在两极放电；电解对象为电解质，电解质溶液浓度减小。",
+      "title": "电解电解质型的反应与溶液变化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-4bf131737f0beedaaf9f"
+      ],
+      "text": "用惰性电极电解时，原文将活泼金属无氧酸盐归入放 $\\mathrm{H_2}$ 生碱型，以 $\\mathrm{NaCl}$ 为例。阴极为 $\\mathrm{H^+}$ 放电生成氢气，阳极为电解质阴离子放电；电解对象为电解质和水，溶液中生成碱。",
+      "title": "放氢生碱型的反应与溶液变化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-4bf131737f0beedaaf9f"
+      ],
+      "text": "用惰性电极电解时，原文将不活泼金属含氧酸盐归入放 $\\mathrm{O_2}$ 生酸型，以 $\\mathrm{CuSO_4}$ 为例。阴极为电解质阳离子放电，阳极为 $\\mathrm{OH^-}$ 放电生成氧气；电解对象为电解质和水，溶液中生成酸。",
+      "title": "放氧生酸型的反应与溶液变化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-e834f4a09d8fe91e6b9b"
+      ],
+      "text": "电解饱和食盐水时，阳极：$\\mathrm{2Cl^--2e^-=Cl_2}\\uparrow$；阴极：$\\mathrm{2H_2O+2e^-=H_2}\\uparrow+\\mathrm{2OH^-}$；总反应：$\\mathrm{2Cl^-+2H_2O}\\xrightarrow{\\text{电解}}\\mathrm{2OH^-+Cl_2}\\uparrow+\\mathrm{H_2}\\uparrow$。",
+      "title": "氯碱工业的电极反应与总反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-e834f4a09d8fe91e6b9b"
+      ],
+      "text": "电镀时，作为阳极的镀层金属质量减小，作为阴极的镀件质量增大，电镀液浓度在电镀前后基本不变。",
+      "title": "电镀中的质量与浓度变化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l11",
+      "source_node_ids": [
+        "n-e834f4a09d8fe91e6b9b"
+      ],
+      "text": "电解精炼铜时，阳极的铜及比铜活泼的杂质放电，主要反应为 $\\mathrm{Cu-2e^-=Cu^{2+}}$；阴极反应为 $\\mathrm{Cu^{2+}+2e^-=Cu}$。电解精炼过程中 $\\mathrm{CuSO_4}$ 溶液浓度减小。",
+      "title": "电解精炼铜的电极反应与浓度变化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l12",
+      "source_node_ids": [
+        "n-e834f4a09d8fe91e6b9b"
+      ],
+      "text": "电解熔融盐或氧化物冶炼活泼金属的原文反应：$\\mathrm{2NaCl(熔融)}\\xrightarrow{\\text{电解}}\\mathrm{2Na+Cl_2}\\uparrow$；$\\mathrm{MgCl_2(熔融)}\\xrightarrow{\\text{电解}}\\mathrm{Mg+Cl_2}\\uparrow$；$\\mathrm{2Al_2O_3(熔融)}\\xrightarrow[\\text{冰晶石}]{\\text{电解}}\\mathrm{4Al+3O_2}\\uparrow$。",
+      "title": "电冶金的反应实例",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-ddb4f3508be3638b7163"
+      ],
+      "text": "根据与直流电源的连接关系识别电极：连接电源负极的是阴极，发生还原反应；连接电源正极的是阳极，发生氧化反应。原文工作原理图的阳极为惰性电极。",
+      "title": "由电源连接关系识别电极",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-ddb4f3508be3638b7163"
+      ],
+      "text": "判断放电时，阴极依据氧化性强的先放电及阴极放电顺序；阳极先区分电极材料，活性阳极考虑电极本身失电子，惰性阳极依据原文离子放电顺序判断。",
+      "title": "结合电极材料与放电顺序判断放电",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-4bf131737f0beedaaf9f"
+      ],
+      "text": "对原文列出的惰性电极电解实例，按电解类型选择溶液复原措施：电解水型的 $\\mathrm{H_2SO_4}$、$\\mathrm{NaOH}$、$\\mathrm{KNO_3}$ 溶液加 $\\mathrm{H_2O}$；电解 $\\mathrm{HCl}$ 溶液通 $\\mathrm{HCl}$；电解 $\\mathrm{CuCl_2}$ 溶液加 $\\mathrm{CuCl_2}$；电解 $\\mathrm{NaCl}$ 溶液通 $\\mathrm{HCl}$；电解 $\\mathrm{CuSO_4}$ 溶液加 $\\mathrm{CuO}$。",
+      "title": "按电解实例选择溶液复原措施",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-892d47d0c77f5422e7ee"
+      ],
+      "text": "题干给出的酸性含铬废水处理过程：以铁板作阴、阳极，电解产生的 $\\mathrm{Fe^{2+}}$ 将 $\\mathrm{Cr_2O_7^{2-}}$ 还原为 $\\mathrm{Cr^{3+}}$；随着电解进行，溶液 $\\mathrm{pH}$ 升高，产生 $\\mathrm{Cr(OH)_3}$ 和 $\\mathrm{Fe(OH)_3}$ 沉淀。",
+      "title": "电解法处理酸性含铬废水",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-ddb4f3508be3638b7163"
+      ],
+      "from": "c2",
+      "to": "c1",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ddb4f3508be3638b7163"
+      ],
+      "from": "c1",
+      "to": "c3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ddb4f3508be3638b7163"
+      ],
+      "from": "c3",
+      "to": "l1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ddb4f3508be3638b7163"
+      ],
+      "from": "m1",
+      "to": "c3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ddb4f3508be3638b7163"
+      ],
+      "from": "m2",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ddb4f3508be3638b7163"
+      ],
+      "from": "m2",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ddb4f3508be3638b7163"
+      ],
+      "from": "m2",
+      "to": "l4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ddb4f3508be3638b7163"
+      ],
+      "from": "c4",
+      "to": "m2",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4bf131737f0beedaaf9f"
+      ],
+      "from": "c5",
+      "to": "l5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4bf131737f0beedaaf9f"
+      ],
+      "from": "c5",
+      "to": "l6",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4bf131737f0beedaaf9f"
+      ],
+      "from": "c5",
+      "to": "l7",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4bf131737f0beedaaf9f"
+      ],
+      "from": "c5",
+      "to": "l8",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4bf131737f0beedaaf9f"
+      ],
+      "from": "m3",
+      "to": "c5",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e834f4a09d8fe91e6b9b"
+      ],
+      "from": "c6",
+      "to": "l9",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4bf131737f0beedaaf9f",
+        "n-e834f4a09d8fe91e6b9b"
+      ],
+      "from": "c6",
+      "to": "l7",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e834f4a09d8fe91e6b9b"
+      ],
+      "from": "c7",
+      "to": "l10",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e834f4a09d8fe91e6b9b"
+      ],
+      "from": "c8",
+      "to": "c9",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e834f4a09d8fe91e6b9b"
+      ],
+      "from": "c8",
+      "to": "l11",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e834f4a09d8fe91e6b9b"
+      ],
+      "from": "c10",
+      "to": "l12",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7b7769bd5dc7d9c1ee12",
+        "n-ddb4f3508be3638b7163"
+      ],
+      "from": "n-7b7769bd5dc7d9c1ee12",
+      "to": "m1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7b7769bd5dc7d9c1ee12",
+        "n-4bf131737f0beedaaf9f"
+      ],
+      "from": "n-7b7769bd5dc7d9c1ee12",
+      "to": "c5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-892d47d0c77f5422e7ee"
+      ],
+      "from": "n-892d47d0c77f5422e7ee",
+      "to": "m4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-892d47d0c77f5422e7ee",
+        "n-ddb4f3508be3638b7163"
+      ],
+      "from": "m4",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-cc055ac3eede2e661c22"
+      ],
+      "from": "n-cc055ac3eede2e661c22",
+      "to": "c11",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-0339a3049f45fd7de018",
+  "source_digest": "bb1a2a1299dfff42e124717a38669fa44463a74a5205d48bd63bbf608e8f5582",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

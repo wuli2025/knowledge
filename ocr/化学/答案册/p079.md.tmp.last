@@ -1,0 +1,132 @@
+<!-- page 79 -->
+
+参与反应，即 $\mathrm{Li^+}$ 优先于 $\mathrm{K^+}$ 通过固态电解质膜，B正确；放电时，$\mathrm{O_2}$ 参与反应生成 $\mathrm{O^{2-}}$、$\mathrm{O_2^{2-}}$，对应电子转移关系为 $\mathrm{O_2}\sim4\mathrm{e^-}\sim2\mathrm{O^{2-}}$、$\mathrm{O_2}\sim2\mathrm{e^-}\sim\mathrm{O_2^{2-}}$，由于随温度升高 $Q$ 增大，则应是 $\mathrm{O_2^{2-}}$ 转化为 $\mathrm{O^{2-}}$，C错误；放电时，$\mathrm{Li}$ 在负极发生氧化反应生成 $\mathrm{Li^+}$，充电时，$\mathrm{Li^+}$ 在阴极发生还原反应，锂电极作为阴极应连接电源负极，D正确。
+
+**5.C** 根据题图，a电极上 $\mathrm{O_2}$ 转化为 $\mathrm{OH^-}$，发生还原反应，为正极，则b电极为负极，b电极上 $\mathrm{CuO}$ 通过 $\mathrm{Cu(Ⅱ)}$ 和 $\mathrm{Cu(Ⅰ)}$ 相互转变起催化作用，实现了葡萄糖向葡萄糖酸的转化。电池总反应为 $\mathrm{2C_6H_{12}O_6+O_2\xrightarrow{}2C_6H_{12}O_7}$，A项正确。综上分析可知，B项正确。根据电池总反应可知 $\mathrm{2C_6H_{12}O_6}\sim\mathrm{O_2}\sim4\mathrm{e^-}$，消耗 $18\ \mathrm{mg}$（即 $0.1\ \mathrm{mmol}$）葡萄糖，a电极有 $0.2\ \mathrm{mmol}$ 电子流入，C项错误。原电池中，阳离子从负极向正极迁移，则 $\mathrm{Na^+}$ 的迁移方向为 $\mathrm{b\to a}$，D项正确。
+
+## 三年模拟
+
+**6.AD** 由题给反应式可知，放电时b极反应为 $\mathrm{Li_xSi}-x\mathrm{e^-}\xrightarrow{}x\mathrm{Li^+}+\mathrm{Si}$，故b极为负极，$\mathrm{Li_xSi}$ 可看作是 $\mathrm{Li}$ 嵌入硅基形成的，$\mathrm{Li}$ 会与水反应生成 $\mathrm{H_2}$，故电解质溶液不可选用水溶液，A项错误。放电时，负极（b极）脱嵌的 $\mathrm{Li^+}$ 通过聚合物隔膜向正极（a极）移动，正极反应为 $4x\mathrm{Li^+}+x\mathrm{FeS_2}+4x\mathrm{e^-}\xrightarrow{}x\mathrm{Fe}+2x\mathrm{Li_2S}$，充电时a极为阳极，$\mathrm{Li^+}$ 从a极脱嵌：$x\mathrm{Fe}+2x\mathrm{Li_2S}-4x\mathrm{e^-}\xrightarrow{}4x\mathrm{Li^+}+x\mathrm{FeS_2}$，B项、C项正确。放电时外电路通过 $1\ \mathrm{mol}$ 电子，负极有 $1\ \mathrm{mol}\ \mathrm{Li^+}$ 脱嵌，正极有 $1\ \mathrm{mol}\ \mathrm{Li^+}$ 嵌入，两电极质量变化的差值为 $2\ \mathrm{mol}\times7\ \mathrm{g\cdot mol^{-1}}=14\ \mathrm{g}$，D项错误。
+
+**7.AD** 根据 $\mathrm{Ag}$ 元素化合价的变化可知，放电时 $\mathrm{AgCl}$ 得电子转化为 $\mathrm{Ag}$，故N极为正极，则M极为负极；充电过程为放电过程的逆过程，则充电时M极得电子，为阴极，A项错误。放电时N极处 $\mathrm{AgCl}$ 得电子转化为 $\mathrm{Ag}$，则充电时 $\mathrm{Ag}$ 失电子转化为 $\mathrm{AgCl}$，B项正确。放电时M极反应为 $\mathrm{4Sb-12e^-+2Cl^-+5H_2O\xrightarrow{}Sb_4O_5Cl_2+10H^+}$，故M极周围电解质溶液中 $\mathrm{H^+}$ 的浓度增大，$\mathrm{pH}$ 降低，C项正确。放电时N极反应为 $\mathrm{AgCl+e^-\xrightarrow{}Ag+Cl^-}$，转移 $1.2\ \mathrm{mol}$ 电子时，M极有 $0.4\ \mathrm{mol}\ \mathrm{Sb}$ 转化为 $0.1\ \mathrm{mol}\ \mathrm{Sb_4O_5Cl_2}$，M极质量增加 $[0.1\times(16\times5+35.5\times2)]\ \mathrm{g}=15.1\ \mathrm{g}$，N极有 $1.2\ \mathrm{mol}\ \mathrm{AgCl}$ 转化为 $1.2\ \mathrm{mol}\ \mathrm{Ag}$，N极质量减少 $(1.2\times35.5)\ \mathrm{g}=42.6\ \mathrm{g}$，故两电极的总质量减少 $42.6\ \mathrm{g}-15.1\ \mathrm{g}=27.5\ \mathrm{g}$，D项错误。
+
+**8.BC** 由N元素化合价的变化可知，碳布上 $\mathrm{NO_2}$ 得电子被还原为 $\mathrm{NO_2^-}$，故碳布为正极，则 $\mathrm{LiFePO_4}$ 为负极，A项错误。结合电流方向可知，负极室中的 $\mathrm{Li^+}$ 通过交换膜移向正极室，在正极室可得 $\mathrm{LiNO_2}$，$\mathrm{LiNO_2}$ 进一步被 $\mathrm{O_2}$ 氧化为 $\mathrm{LiNO_3}$，故交换膜为锂离子交换膜，B项正确。正极反应式为 $\mathrm{NO_2+e^-\xrightarrow{}NO_2^-}$，负极反应式为 $\mathrm{LiFePO_4-e^-\xrightarrow{}Li^++FePO_4}$，将两极反应式相加可得 $\mathrm{LiFePO_4+NO_2\xrightarrow{}Li^++NO_2^-+FePO_4}$，故总反应的化学方程式为 $\mathrm{LiFePO_4+NO_2\xrightarrow{}LiNO_2+FePO_4}$，C项正确。由正极反应式可知，每 $4\ \mathrm{mol}\ \mathrm{e^-}$ 通过电路时会生成 $4\ \mathrm{mol}\ \mathrm{LiNO_2}$，$\mathrm{2LiNO_2+O_2\xrightarrow{}2LiNO_3}$，则需消耗 $2\ \mathrm{mol}\ \mathrm{O_2}$，标准状况下的体积为 $44.8\ \mathrm{L}$，D项错误。
+
+### 易错警示
+
+$\mathrm{LiNO_3}$ 并非由 $\mathrm{NO_2}$ 在电极上直接放电产生，结合题干中“工作过程中有 $\mathrm{NO_2^-}$ 生成”可判断 $\mathrm{NO_2}$ 放电先生成 $\mathrm{LiNO_2}$，$\mathrm{LiNO_2}$ 再被 $\mathrm{O_2}$ 氧化成 $\mathrm{LiNO_3}$，正极反应中转移的电子数与生成 $\mathrm{LiNO_3}$ 的反应中转移的电子数无直接关系。
+
+**9.D** 根据题意和题图可知，在左侧热化学电池的冷端，胍离子（$\mathrm{Gdm^+}$）选择性地诱导 $\mathrm{[Fe(CN)_6]^{4-}}$ 结晶，使得冷端溶液中 $\mathrm{[Fe(CN)_6]^{4-}}$ 减少，与 $\mathrm{[Fe(CN)_6]^{3-}}$ 之间的转化平衡被打破，促使冷端发生 $\mathrm{[Fe(CN)_6]^{3-}}$ 转化为 $\mathrm{[Fe(CN)_6]^{4-}}$ 的反应，即还原反应；在电池的热端结晶重新溶解，使得热端溶液中 $\mathrm{[Fe(CN)_6]^{4-}}$ 增多，促使热端发生 $\mathrm{[Fe(CN)_6]^{4-}}$ 转化为 $\mathrm{[Fe(CN)_6]^{3-}}$ 的反应，即氧化反应。根据分析可知该热化学电池的冷端电极作正极，热端电极作负极，故冷端电极电势高于热端电极电势，A错误；电池热端发生 $\mathrm{[Fe(CN)_6]^{4-}\to[Fe(CN)_6]^{3-}}$ 的氧化反应，电极反应式为 $\mathrm{[Fe(CN)_6]^{4-}-e^-\xrightarrow{}[Fe(CN)_6]^{3-}}$，B错误；充电时，a极与热端电极（负极）相连，故a极为阴极，电极反应式为 $x\mathrm{Li^+}+\mathrm{Si}+x\mathrm{e^-}\xrightarrow{}\mathrm{Li_xSi}$，b极为阳极，电极反应式为 $\mathrm{LiCoO_2}-x\mathrm{e^-}\xrightarrow{}x\mathrm{Li^+}+\mathrm{Li_{1-x}CoO_2}$，$\mathrm{Li^+}$ 通过 $\mathrm{LiPON}$ 薄膜由阳极（b极）移向阴极（a极），C错误；充电时，热端电极转移 $x\ \mathrm{mol}$ 电子，则锂离子电池中也转移 $x\ \mathrm{mol}$ 电子，根据b极电极反应式可知生成 $1\ \mathrm{mol}\ \mathrm{Li_{1-x}CoO_2}$，D正确。
+
+### 快解方法
+
+根据题给锂离子电池总反应可知，充电时a极处 $\mathrm{Si}$ 转化为 $\mathrm{Li_xSi}$，$\mathrm{Si}$ 元素的化合价降低，得到电子，故a极为阴极，则与a极相连的热端电极为负极，进而得出冷端电极为正极。
+
+# 第2节 电解原理及其应用
+
+## 五年高考
+
+**1.D** 油脂的主要成分是高级脂肪酸甘油酯，在碱性条件下可水解为可溶于水的高级脂肪酸盐和甘油，A正确；铁锈的主要成分是 $\mathrm{Fe_2O_3\cdot xH_2O}$，易与盐酸反应生成可溶性盐 $\mathrm{FeCl_3}$，B正确；向 $\mathrm{CuSO_4}$ 溶液中滴加足量氨水，可生成 $\mathrm{[Cu(NH_3)_4]SO_4}$，即可制得铜氨溶液，C正确；铁钉镀铜时应使用电解装置，D错误。
+
+### 回归教材 人教版选必1第四章实验活动4：简单的电镀实验
+
+1. 用砂纸把铁制镀件打磨干净，放入 $1\ \mathrm{mol/L}\ \mathrm{NaOH}$ 溶液中除去油污，然后用蒸馏水洗净。再放入 $20\%$ 盐酸中除锈，几分钟后取出，并用蒸馏水洗净。
+2. 把铁制镀件与 $2\sim3\ \mathrm{V}$ 的直流电源的负极相连，铜片与直流电源的正极相连。将两极平行浸入电镀液（在 $\mathrm{CuSO_4}$ 溶液中加入一些氨水，制成铜氨溶液，可使镀层光亮）中，两极间距 $5\ \mathrm{cm}$，$5\sim10\ \mathrm{min}$ 后取出，观察镀件表面发生的变化（镀件表面形成光亮的紫红色镀层）。
+
+[图：电镀实验装置。铜片和铁制镀件浸入电镀液中，铜片经电流表接直流电源正极，铁制镀件接负极。图中标注“铜片”“电镀液”“铁制镀件”。]
+
+<!-- page 80 -->
+
+**2.D**
+
+### 装置分析
+
+由题图可知，电极1上 $\mathrm{Mg\to Mg(OH)_2}$，$\mathrm{Mg}$ 发生氧化反应，则电极1为负极，电极反应为 $\mathrm{Mg+2OH^--2e^-\xrightarrow{}Mg(OH)_2}$，电极2为正极，电极反应为 $\mathrm{2H_2O+2e^-\xrightarrow{}H_2\uparrow+2OH^-}$，电极3、4分别为阳极、阴极，电极反应分别为 $\mathrm{4OH^--4e^-\xrightarrow{}O_2\uparrow+2H_2O}$、$\mathrm{2H_2O+2e^-\xrightarrow{}H_2\uparrow+2OH^-}$。
+
+**解析** 将催化剂生长在泡沫镍电极上，与反应物的接触面积大，催化效率高，A项正确；在外电路中，电子从负极沿导线流向阴极，即电子从电极1流向电极4，B项正确；由上述分析可知，C项正确；电池和电解池中同时产生氢气，结合正极、阴极的电极反应可知，每通过 $2\ \mathrm{mol}$ 电子，可产生 $2\ \mathrm{mol}\ \mathrm{H_2}$，D项错误。
+
+**3.B**
+
+### 装置分析
+
+由题图可知，右室中电极上 $\mathrm{Cl^-\to Cl_2}$，$\mathrm{Cl}$ 元素化合价升高，失去电子发生氧化反应，则右室中电极作阳极，左室中电极作阴极。
+
+**解析** 电解过程中，阳离子向阴极移动，则 $\mathrm{K^+}$ 向左室迁移，A正确；电解过程中，$\mathrm{NO_2^-}$ 先生成，再消耗，是中间产物，其浓度是增大还是减小，取决于生成速率与消耗速率的相对大小，题给条件无法得出其浓度持续下降的结论，B错误；b处有 $\mathrm{Cl_2}$ 逸出，$\mathrm{Cl_2}$ 与水反应生成 $\mathrm{HCl}$ 和 $\mathrm{HClO}$，$\mathrm{HCl}$ 能使湿润的蓝色石蕊试纸变红，$\mathrm{HClO}$ 能使变红的试纸褪色，C正确；$\mathrm{NO_3^-}$ 完全转化为 $\mathrm{NH_3}$ 时阴极的电极反应是 $\mathrm{NO_3^-+8e^-+6H_2O\xrightarrow{}NH_3\uparrow+9OH^-}$，阳极的电极反应是 $\mathrm{2Cl^--2e^-\xrightarrow{}Cl_2\uparrow}$，根据电子转移守恒，阴极电极反应式＋阳极电极反应式 $\times4$ 可得电解总反应为 $\mathrm{NO_3^-+8Cl^-+6H_2O\xrightarrow{电解}NH_3\uparrow+9OH^-+4Cl_2\uparrow}$，D正确。
+
+**4.D**
+
+### 审题指导
+
+电极A上 $\mathrm{Br^-}$ 转化为 $\mathrm{Br_2}$，$\mathrm{Br}$ 元素化合价升高，失去电子，故电极A为阳极，电极B为阴极，阳极的电极反应式为 $\mathrm{2Br^--2e^-\xrightarrow{}Br_2}$，阴极的电极反应式为 $\mathrm{O_2+2H^++2e^-\xrightarrow{}H_2O_2}$。根据“提高电流利用效率”和“氧化性：$\mathrm{H_2O_2>Br_2}$”可知，阴极生成的 $\mathrm{H_2O_2}$ 可进一步发生反应 $\mathrm{H_2O_2+2Br^-+2H^+\xrightarrow{}Br_2+2H_2O}$，该反应和阳极反应生成的 $\mathrm{Br_2}$ 均能发生反应：
+
+[图：$\mathrm{Br_2}$ 与环己烯发生加成反应，生成1,2-二溴环己烷，反应物和产物以键线式表示。]
+
+**解析** A项，根据前述分析，电极A为阳极，应与电源正极相连，正确。B项，根据前述分析可知该选项正确。C项，根据前述分析，$\mathrm{H_2SO_4}$ 电离出的 $\mathrm{H^+}$ 参与相关反应，而 $\mathrm{SO_4^{2-}}$ 未参与反应，故可用氢溴酸代替 $\mathrm{H_2SO_4}$，$\mathrm{HBr}$ 电离出的 $\mathrm{H^+}$ 和 $\mathrm{Br^-}$ 均可参与相关反应，正确。D项，根据前述电极反应式，理论上电路中转移 $0.2\ \mathrm{mol}\ \mathrm{e^-}$ 时，阳极生成 $0.1\ \mathrm{mol}\ \mathrm{Br_2}$，阴极生成 $0.1\ \mathrm{mol}\ \mathrm{H_2O_2}$，而 $0.1\ \mathrm{mol}\ \mathrm{H_2O_2}$ 可进一步发生反应生成 $0.1\ \mathrm{mol}\ \mathrm{Br_2}$，故总共生成 $0.2\ \mathrm{mol}\ \mathrm{Br_2}$，最终可得到 $0.2\ \mathrm{mol}$ [图：1,2-二溴环己烷的键线式]，错误。
+
+### 易错警示
+
+部分电化学装置中，两极均可得到目标产物，计算产物的物质的量时应注意避免遗漏。
+
+**5.B** 由题图电解装置可知，电极b上发生 $\mathrm{Br^-\to BrO_3^-}$ 的氧化反应，溴元素化合价升高，则电极b为阳极，电极a为阴极，连接电源负极，A正确；电极a的电极反应式为 $\mathrm{2H_2O+2e^-\xrightarrow{}H_2\uparrow+2OH^-}$，电极b的电极反应式为 $\mathrm{Br^--6e^-+6OH^-\xrightarrow{}BrO_3^-+3H_2O}$，电解总反应式为 $\mathrm{Br^-+3H_2O\xrightarrow{电解}BrO_3^-+3H_2\uparrow}$，$\mathrm{BrO_3^-}$ 又在催化阶段分解为 $\mathrm{O_2}$ 和 $\mathrm{Br^-}$，总效果相当于 $\mathrm{H_2O}$ 分解为 $\mathrm{H_2}$ 和 $\mathrm{O_2}$，故需补充 $\mathrm{H_2O}$，B错误；C正确；催化阶段产生 $\mathrm{O_2}$（Z）和 $\mathrm{Br^-}$，即 $\mathrm{2BrO_3^-\xrightarrow{催化剂}2Br^-+3O_2\uparrow}$，$n(\mathrm{O_2}):n(\mathrm{Br^-})=3:2$，D正确。
+
+## 三年模拟
+
+**6.BC** 电解池工作时，阳离子向阴极移动，$\mathrm{Na^+}$ 从右室向左室移动，故电极a为阴极，电极b为阳极，电极a接电源负极，A错误；由题干信息知，该装置通过电解可获得铅酸蓄电池的两极材料，则阳极电极反应为 $\mathrm{PbSO_4-2e^-+4OH^-\xrightarrow{}PbO_2+SO_4^{2-}+2H_2O}$，每生成 $1\ \mathrm{mol}\ \mathrm{PbO_2}$（阳极产物），电路中转移 $2\ \mathrm{mol}\ \mathrm{e^-}$，为传递电荷，则有 $2\ \mathrm{mol}\ \mathrm{Na^+}$ 通过离子交换膜，B、C正确；阴极电极反应式为 $\mathrm{PbSO_4+2e^-\xrightarrow{}Pb+SO_4^{2-}}$，故电解一段时间后，左室中 $c(\mathrm{OH^-})$ 不变，$\mathrm{pH}$ 不变，D错误。
+
+**7.D** ①中 $\mathrm{H^+}$ 和 $\mathrm{Cu^{2+}}$ 都在阴极得电子，分别转化为 $\mathrm{H_2}$ 和 $\mathrm{Cu}$，且经检验发现溶液中有 $\mathrm{Fe^{2+}}$，说明产生 $\mathrm{H_2}$ 的原因可能是 $\mathrm{Fe}$ 直接与 $\mathrm{H^+}$ 反应，故①中气体（$\mathrm{H_2}$）减少的原因是随着反应进行 $c(\mathrm{H^+})$ 减小，还可能是生成的 $\mathrm{Cu}$ 覆盖在 $\mathrm{Fe}$ 的表面，阻碍了 $\mathrm{H^+}$ 与 $\mathrm{Fe}$ 的接触，A项错误。应使用 $\mathrm{K_3[Fe(CN)_6]}$ 溶液检验 $\mathrm{Fe^{2+}}$，B项错误。②中电解质溶液中无铁元素，说明 $\mathrm{Fe}$ 未发生反应，阴极反应为 $\mathrm{Cu^{2+}+2e^-\xrightarrow{}Cu}$，阳极反应为 $\mathrm{Cu-2e^-\xrightarrow{}Cu^{2+}}$，根据电子转移守恒，阴极消耗的 $\mathrm{Cu^{2+}}$ 与阳极生成的 $\mathrm{Cu^{2+}}$ 数目相同，故 $c(\mathrm{Cu^{2+}})$ 不变，C项错误。②中 $\mathrm{Cu^{2+}}$ 与 $\mathrm{NH_3}$ 结合形成 $\mathrm{[Cu(NH_3)_4]^{2+}}$，使得 $c(\mathrm{Cu^{2+}})$ 比①中的小，$\mathrm{Cu}$ 缓慢析出，形成致密镀层，故适当降低 $c(\mathrm{Cu^{2+}})$，电镀效果更好，D项正确。
+
+**8.AD** 根据题图2中电子和空穴的移动方向可以判断，X电极为负极，Y电极为正极；根据题图1可知，A电极处 $\mathrm{C_2O_5^{2-}}$ 失电子：$\mathrm{2C_2O_5^{2-}-4e^-\xrightarrow{}4CO_2\uparrow+O_2\uparrow}$，则A电极为阳极，与Y电极相连；B电极处 $\mathrm{CO_3^{2-}}$ 得电子：$\mathrm{CO_3^{2-}+4e^-\xrightarrow{}C+3O^{2-}}$，则B电极为阴极，与X电极相连，A项错误，B项正确。$\mathrm{CCl_4}$ 为非电解质，不导电，不能代替熔盐，C项正确。阳极反应为 $\mathrm{2C_2O_5^{2-}-4e^-\xrightarrow{}4CO_2\uparrow+O_2\uparrow}$，阴极反应为 $\mathrm{CO_3^{2-}+4e^-\xrightarrow{}C+3O^{2-}}$，$\mathrm{CO_2}$ 在熔盐中发生反应 $\mathrm{CO_2+O^{2-}\xrightarrow{}CO_3^{2-}}$、$\mathrm{2CO_2+O^{2-}\xrightarrow{}C_2O_5^{2-}}$，可得总反应为 $\mathrm{CO_2\xrightarrow{电解}C+O_2\uparrow}$，则 $n(\mathrm{CO_2})=n(\mathrm{C})=1\ \mathrm{mol}$，标准状况下 $V(\mathrm{CO_2})=22.4\ \mathrm{L}$，D项错误。
+
+<!-- page 81 -->
+
+### 关键点拨
+
+D项，书写总反应方程式时，先将阳极反应式与阴极反应式相加消去电子，再利用 $\mathrm{CO_2}$ 在熔盐中发生反应的两个离子方程式消去 $\mathrm{CO_3^{2-}}$ 和 $\mathrm{C_2O_5^{2-}}$，即可得到总反应方程式。
+
+# 第3节 金属的腐蚀与防护
+
+## 五年高考
+
+**1.D** A项，发蓝处理是用化学方法在钢件表面形成一层致密的氧化膜，不符合题意；B项，阳极氧化是让金属作阳极，通过电解在其表面形成一层致密的氧化膜而钝化，不符合题意；C项，表面渗镀可在金属表面形成稳定的钝化膜，不符合题意；D项，喷涂油漆是隔绝空气，防止金属与空气反应，没有形成表面钝化膜，符合题意。
+
+### 回归教材 人教版选必1第四章第三节
+
+在金属表面覆盖致密的保护层，将金属制品与周围物质隔开是一种普遍采用的防护方法。例如，在钢铁制品的表面喷涂油漆、矿物性油脂或覆盖搪瓷、塑料等；用电镀等方法在钢铁表面镀上一层锌、锡、铬、镍等金属；用化学方法在钢铁零部件表面进行发蓝处理（生成一层致密的四氧化三铁薄膜）；利用阳极氧化处理铝制品的表面，使之形成致密的氧化膜而钝化；等等。另外，采用离子注入、表面渗镀等方式在金属表面也可以形成稳定的钝化膜。
+
+**2.A** 酸性环境中铁发生析氢腐蚀，$\mathrm{Fe}$ 作负极，电极反应式为 $\mathrm{Fe-2e^-\xrightarrow{}Fe^{2+}}$，A正确；铁锈的主要成分为 $\mathrm{Fe_2O_3\cdot xH_2O}$，B错误；用浓硝酸对铁进行发蓝处理，是采用化学方法在铁的表面生成稳定、致密的四氧化三铁（$\mathrm{Fe_3O_4}$）氧化膜，形成保护层，C错误；安装锌块保护船的外壳，属于牺牲阳极法，锌作原电池的负极被消耗，作为船体的铁是原电池的正极被保护，铁电极上可能是水中的 $\mathrm{O_2}$ 得电子，发生还原反应，电极反应式为 $\mathrm{O_2+2H_2O+4e^-\xrightarrow{}4OH^-}$，D错误。
+
+**3.B** A项，题图1为牺牲阳极法，阳极应为比 $\mathrm{Fe}$ 更活泼的金属，则其本身会失去电子；题图2为外加电流法，辅助阳极一般为惰性电极，本身不失去电子；错误。B项，题图2中外加电压偏高时，钢闸门表面会聚集较多的电子，则促使溶解在水中的 $\mathrm{O_2}$ 发生还原反应：$\mathrm{O_2+4e^-+2H_2O\xrightarrow{}4OH^-}$，正确。C项，由B项分析可知，外加电压偏高时，钢闸门表面会生成较多的 $\mathrm{OH^-}$，久之可能会形成污染；如果外加电压偏低，则可能导致钢闸门失电子，被腐蚀，即外加电压应随着海水导电性的强弱作出动态调整，才能提高对钢闸门的防护效果，错误。D项，题图1中，当钢闸门表面的腐蚀电流为零时，说明钢闸门正在被保护，阳极发生化学反应；题图2中，当钢闸门表面的腐蚀电流为零时，说明钢闸门被保护，阳极材料本身不发生反应，错误。
+
+### 回归教材 人教版选必1第四章第三节
+
+牺牲阳极法示意图：
+
+[图：钢闸门（阴极）与锌板（牺牲阳极）浸在海水中并用导线连接，电子沿导线由锌板流向钢闸门。]
+
+外加电流法示意图（用惰性电极作为辅助阳极）：
+
+[图：钢闸门（阴极）与辅助阳极（不溶性）浸在海水中。钢闸门连接外加直流电源负极，辅助阳极连接正极；电子由电源负极流向钢闸门，由辅助阳极流向电源正极。]
+
+[图：蓝色圆形资料印章，文字为“更多资料”“公众号：翰升学堂”“V：ttzsk666”。]
+
+## 三年模拟
+
+**4.C** 由题图知，负极处 $\mathrm{Fe}$ 失去电子生成 $\mathrm{Fe^{2+}}$，A项正确；金属接缝处正极的电极反应式为 $\mathrm{O_2+2H_2O+4e^-\xrightarrow{}4OH^-}$，$c(\mathrm{OH^-})$ 增大，溶液 $\mathrm{pH}$ 增大，B项正确；由题图及A、B项分析可知，金属外表面为正极，内表面为负极，C项错误；阴离子由正极向负极移动，故大量 $\mathrm{Cl^-}$ 进入缝隙，D项正确。
+
+**5.D** 红色区域形成的原因是 $\mathrm{O_2}$ 在正极发生反应：$\mathrm{O_2+2H_2O+4e^-\xrightarrow{}4OH^-}$，生成的 $\mathrm{OH^-}$ 使酚酞变红，相同时间内实验Ⅱ中铁钉周边变红的程度大于实验Ⅰ，可知实验Ⅱ的反应速率大于实验Ⅰ，A、C项正确。实验Ⅰ中蓝色区域形成的原因是负极上的 $\mathrm{Fe}$ 发生反应：$\mathrm{Fe-2e^-\xrightarrow{}Fe^{2+}}$，$\mathrm{Fe^{2+}}$ 与 $\mathrm{K_3[Fe(CN)_6]}$ 反应生成 $\mathrm{KFe[Fe(CN)_6]}$ 蓝色沉淀，B项正确。实验Ⅰ中被氧化的 $\mathrm{Fe}$ 转化成 $\mathrm{KFe[Fe(CN)_6]}$ 蓝色沉淀和少量铁锈，故有 $0.1\ \mathrm{mol}\ \mathrm{KFe[Fe(CN)_6]}$ 生成时无法计算转移电子的总的物质的量，D项错误。
+
+### 回归教材 人教版选必1第四章第三节
+
+将 $1\ \mathrm{g}$ 琼脂加入 $250\ \mathrm{mL}$ 烧杯中，再加入 $50\ \mathrm{mL}$ 饱和食盐水和 $150\ \mathrm{mL}$ 水。搅拌、加热煮沸，使琼脂溶解。稍冷后，趁热把琼脂溶液分别倒入两个培养皿中，各滴入 $5\sim6$ 滴酚酞溶液和 $\mathrm{K_3[Fe(CN)_6]}$ 溶液，混合均匀。取两个 $2\sim3\ \mathrm{cm}$ 长的铁钉，用砂纸擦光。将其中洁净的铁钉放入上述的一个培养皿中，将缠有铜丝的铁钉放入另一个培养皿中。实验中可观察到，靠近锌皮处颜色无变化，靠近裸露在外的铁钉处出现红色；靠近铜丝处出现红色，靠近裸露在外的铁钉处出现蓝色。
+
+# 考法突破9 电极反应式的书写
+
+## 五年高考
+
+**1.C** 电池工作一段时间后，$\mathrm{MnO_2}$ 电极上检测到 $\mathrm{MnOOH}$ 和少量 $\mathrm{ZnMn_2O_4}$，$\mathrm{Mn}$ 元素的化合价从 $+4$ 降低到 $+3$，则 $\mathrm{MnO_2}$ 电极为正极，$\mathrm{Zn}$ 电极为负极。充电时，$\mathrm{Zn^{2+}}$ 向阴极方向迁移，A项错误；放电时，会发生反应 $\mathrm{Zn+2MnO_2\xrightarrow{}ZnMn_2O_4}$，B项错误；$\mathrm{MnOOH}$ 为正极放电产物，正极反应有 $\mathrm{MnO_2+H_2O+e^-\xrightarrow{}MnOOH+OH^-}$，C项正确；放电时，$\mathrm{Zn}$ 电极质量减少 $0.65\ \mathrm{g}$，转移电子 $0.020\ \mathrm{mol}$，但 $\mathrm{MnO_2}$ 得电子转化的产物有 $\mathrm{MnOOH}$ 和 $\mathrm{ZnMn_2O_4}$，故 $\mathrm{MnO_2}$ 电极上生成 $\mathrm{MnOOH}$ 的物质的量小于 $0.020\ \mathrm{mol}$，D项错误。
+
+**2.B**
+
+### 装置分析
+
+根据题图可知该装置为电解池，右侧 $\mathrm{Pt}$ 电极上有 $\mathrm{O_2}$ 生成，电极反应式为 $\mathrm{2H_2O-4e^-\xrightarrow{}O_2\uparrow+4H^+}$，即 $\mathrm{Pt}$ 电极上发生氧化反应，$\mathrm{Pt}$ 电极为阳极，则 $\mathrm{Li_xCoO_2}$ 电极为阴极，发生还原反应，阴极电极反应式为 $\mathrm{Li_xCoO_2}+(1-x)\mathrm{e^-}+(1-x)\mathrm{Li^+}\xrightarrow{}\mathrm{LiCoO_2}$。

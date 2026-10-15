@@ -1,0 +1,244 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-20ff99c9917f617068e2"
+      ],
+      "text": "大多数化学反应分几步完成，其中每一步反应称为基元反应。",
+      "title": "基元反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-20ff99c9917f617068e2",
+        "n-a137c635e201fe9f524e"
+      ],
+      "text": "对于基元反应 $a\\mathrm{A(g)}+b\\mathrm{B(g)}\\longrightarrow c\\mathrm{C(g)}+d\\mathrm{D(g)}$，速率表达式 $v=kc^a(\\mathrm{A})\\cdot c^b(\\mathrm{B})$ 中的 $k$ 称为反应速率常数，简称速率常数。$k_{\\text{正}}$、$k_{\\text{逆}}$ 分别表示正、逆反应的速率常数。",
+      "title": "反应速率常数",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-f0ac3dd32ef71ba8d3ac"
+      ],
+      "text": "由两个或多个基元反应组成的反应称为复杂反应。",
+      "title": "复杂反应",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-20ff99c9917f617068e2"
+      ],
+      "text": "反应速率常数 $k$ 与浓度无关，但受温度、催化剂、固体表面性质等因素的影响。",
+      "title": "速率常数的影响因素",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-a137c635e201fe9f524e"
+      ],
+      "text": "基元反应的反应速率与反应物浓度以其化学计量数为指数的幂的乘积成正比。对于 $a\\mathrm{A(g)}+b\\mathrm{B(g)}\\rightleftharpoons c\\mathrm{C(g)}+d\\mathrm{D(g)}$，$v_{\\text{正}}=k_{\\text{正}}c^a(\\mathrm{A})\\cdot c^b(\\mathrm{B})$，$v_{\\text{逆}}=k_{\\text{逆}}c^c(\\mathrm{C})\\cdot c^d(\\mathrm{D})$。有时也可用物质的量分数或分压代替浓度表达速率方程。",
+      "title": "基元反应的速率方程",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-f0ac3dd32ef71ba8d3ac"
+      ],
+      "text": "原文指出，对于总反应，决定反应速率的步骤是最慢的一个基元反应。所举反应 $\\mathrm{A_2+B\\longrightarrow A_2B}$ 分为慢反应 $\\mathrm{A_2\\longrightarrow 2A\\boldsymbol{\\cdot}}$ 和快反应 $2\\mathrm{A\\boldsymbol{\\cdot}}+\\mathrm{B}\\longrightarrow\\mathrm{A_2B}$，其总反应速率方程为 $v=kc(\\mathrm{A_2})$，而不是 $v=kc(\\mathrm{A_2})\\cdot c(\\mathrm{B})$。",
+      "title": "复杂反应的速率决定步骤",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-1f850e95b3e235392960"
+      ],
+      "text": "一定温度下，对于基元反应 $a\\mathrm{A(g)}+b\\mathrm{B(g)}\\rightleftharpoons c\\mathrm{C(g)}+d\\mathrm{D(g)}$，平衡时 $v_{\\text{正}}=v_{\\text{逆}}$，故 $k_{\\text{正}}\\cdot c^a(\\mathrm{A})\\cdot c^b(\\mathrm{B})=k_{\\text{逆}}\\cdot c^c(\\mathrm{C})\\cdot c^d(\\mathrm{D})$，从而 $\\dfrac{k_{\\text{正}}}{k_{\\text{逆}}}=\\dfrac{c^c(\\mathrm{C})\\cdot c^d(\\mathrm{D})}{c^a(\\mathrm{A})\\cdot c^b(\\mathrm{B})}=K$。",
+      "title": "正逆反应速率常数与平衡常数的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-cb0b73cac5dc1075e389"
+      ],
+      "text": "题设给出正、逆反应速率常数符合阿伦尼乌斯公式 $R\\ln k=-\\dfrac{E_{\\mathrm a}}{T}+C$，其中 $E_{\\mathrm a}$ 为活化能，$T$ 为温度，$R$、$C$ 为常数。题图纵轴为 $R\\ln k/(\\mathrm{J\\cdot mol^{-1}\\cdot K^{-1}})$，横轴为 $\\dfrac{1}{T}/(10^{-3}\\ \\mathrm{K^{-1}})$。",
+      "title": "阿伦尼乌斯公式",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-d091758c6db09241f43e"
+      ],
+      "text": "通过实验探究，根据浓度变量与速率数值确定含 $k$、$c$ 的速率方程。",
+      "title": "根据实验数据确定速率方程",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-d091758c6db09241f43e",
+        "n-20ff99c9917f617068e2"
+      ],
+      "text": "改变外界因素时，结合含 $k$、$c$ 的速率方程分析速率变化；分析中区分浓度的变化与速率常数的变化，$k$ 与浓度无关，但受温度、催化剂、固体表面性质等因素影响。",
+      "title": "利用速率方程分析速率变化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-d091758c6db09241f43e",
+        "n-1f850e95b3e235392960"
+      ],
+      "text": "将平衡条件 $v_{\\text{正}}=v_{\\text{逆}}$ 代入正、逆反应速率方程，整理得到化学平衡常数。对于原文给定的基元反应速率方程，可由 $\\dfrac{k_{\\text{正}}}{k_{\\text{逆}}}=K$ 进行换算。",
+      "title": "由正逆反应速率方程求平衡常数",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-f0ac3dd32ef71ba8d3ac"
+      ],
+      "text": "对原文所述由快、慢基元反应组成的复杂反应，先识别最慢的基元反应，再据其写出总反应的速率方程。原文示例由慢步骤得到 $v=kc(\\mathrm{A_2})$，不能直接按总反应写成 $v=kc(\\mathrm{A_2})\\cdot c(\\mathrm{B})$。",
+      "title": "根据慢步骤确定复杂反应的速率方程",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-f0ac3dd32ef71ba8d3ac"
+      ],
+      "from": "c3",
+      "to": "c1",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-20ff99c9917f617068e2"
+      ],
+      "from": "c2",
+      "to": "l1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a137c635e201fe9f524e"
+      ],
+      "from": "c1",
+      "to": "l2",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a137c635e201fe9f524e"
+      ],
+      "from": "l2",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f0ac3dd32ef71ba8d3ac"
+      ],
+      "from": "c3",
+      "to": "l3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1f850e95b3e235392960"
+      ],
+      "from": "l2",
+      "to": "l4",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d091758c6db09241f43e",
+        "n-20ff99c9917f617068e2"
+      ],
+      "from": "m2",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d091758c6db09241f43e",
+        "n-1f850e95b3e235392960"
+      ],
+      "from": "m3",
+      "to": "l4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f0ac3dd32ef71ba8d3ac"
+      ],
+      "from": "m4",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-cb0b73cac5dc1075e389"
+      ],
+      "from": "n-cb0b73cac5dc1075e389",
+      "to": "l5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-cb0b73cac5dc1075e389"
+      ],
+      "from": "n-cb0b73cac5dc1075e389",
+      "to": "l4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f4d0ae0bb5ecd5aafca2"
+      ],
+      "from": "n-f4d0ae0bb5ecd5aafca2",
+      "to": "c2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-64eaff00bc2d8f4bb6af"
+      ],
+      "from": "n-64eaff00bc2d8f4bb6af",
+      "to": "l1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-5e3dfd57be7336f9205a",
+  "source_digest": "a1a48f3649e430dfc0f1a079b8792a54f51593b865c4b3c00f3e7c39641ff735",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

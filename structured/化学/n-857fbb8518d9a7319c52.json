@@ -1,0 +1,340 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-0a0fa72e359401d4c43a"
+      ],
+      "text": "在等温条件下，化学反应体系向环境释放或从环境吸收的热量，称为化学反应的热效应，简称反应热。",
+      "title": "反应热",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-0a0fa72e359401d4c43a"
+      ],
+      "text": "在等压条件下进行的化学反应，其反应热等于焓变，符号为 $\\Delta H$，常用单位是 $\\mathrm{kJ\\cdot mol^{-1}}$。",
+      "title": "焓变",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-8d0acc233773cefc22b3"
+      ],
+      "text": "吸热反应的生成物能量高于反应物，$E_{\\text{生成物}}>E_{\\text{反应物}}$，$\\Delta H>0$。",
+      "title": "吸热反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-8d0acc233773cefc22b3"
+      ],
+      "text": "放热反应的生成物能量低于反应物，$E_{\\text{生成物}}<E_{\\text{反应物}}$，$\\Delta H<0$。",
+      "title": "放热反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-8d0acc233773cefc22b3"
+      ],
+      "text": "在原文反应能量变化曲线中，反应物至曲线峰顶的能量差 $E_1$ 为正反应的活化能；生成物至曲线峰顶的能量差 $E_2$ 为逆反应的活化能。此处符号的含义与原文化学键角度分析中的 $E_1$、$E_2$ 不同，应结合语境区分。",
+      "title": "正、逆反应的活化能",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-ef02e161e2d88527176f"
+      ],
+      "text": "在 $101\\ \\mathrm{kPa}$ 时，$1\\ \\mathrm{mol}$ 纯物质完全燃烧生成指定产物时所放出的热量。可燃物为 $1\\ \\mathrm{mol}$，能量变化为放热，$\\Delta H<0$。指定产物包括 $\\mathrm{C\\rightarrow CO_2(g)}$、$\\mathrm{H\\rightarrow H_2O(l)}$、$\\mathrm{S\\rightarrow SO_2(g)}$、$\\mathrm{N\\rightarrow N_2(g)}$ 等。",
+      "title": "燃烧热",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c7",
+      "source_node_ids": [
+        "n-ef02e161e2d88527176f"
+      ],
+      "text": "在稀溶液里，酸和碱发生中和反应时所放出的热量。反应物不一定为 $1\\ \\mathrm{mol}$，能量变化为放热，$\\Delta H<0$。",
+      "title": "中和反应反应热",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-8d0acc233773cefc22b3"
+      ],
+      "text": "反应物转化为生成物时，旧化学键断裂吸收能量 $E_1$，新化学键形成放出能量 $E_2$。$E_1>E_2$，$\\Delta H>0$，为吸热反应；$E_1<E_2$，$\\Delta H<0$，为放热反应。这里的 $E_1$、$E_2$ 分别指断键吸收和成键放出的能量。",
+      "title": "断键、成键与反应的吸放热",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-8d0acc233773cefc22b3"
+      ],
+      "text": "催化剂参与反应并改变反应历程，降低反应活化能，增大正、逆反应速率，缩短达到平衡的时间；不能改变反应热（$\\Delta H$），不能使平衡移动，不能改变平衡常数（$K$）和平衡转化率（$\\alpha$）。",
+      "title": "催化剂对反应的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-8d0acc233773cefc22b3"
+      ],
+      "text": "常见吸热反应包括：大多数分解反应；盐类的水解；$\\mathrm{Ba(OH)_2\\cdot8H_2O}$ 与 $\\mathrm{NH_4Cl}$ 的反应；$\\mathrm C$ 和水蒸气、$\\mathrm C$ 和 $\\mathrm{CO_2}$ 的反应；$\\mathrm{NaHCO_3}$ 与盐酸或柠檬酸的反应等。“大多数分解反应”不能扩大为所有分解反应。",
+      "title": "常见吸热反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-8d0acc233773cefc22b3"
+      ],
+      "text": "常见放热反应包括：可燃物的燃烧；中和反应；大多数化合反应；金属与酸的置换反应；缓慢氧化等。“大多数化合反应”不能扩大为所有化合反应。",
+      "title": "常见放热反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-ef02e161e2d88527176f"
+      ],
+      "text": "在 $25\\ ^\\circ\\mathrm C$ 和 $101\\ \\mathrm{kPa}$ 下，强酸的稀溶液与强碱的稀溶液发生中和反应生成 $1\\ \\mathrm{mol}$ $\\mathrm{H_2O}$ 时，放出 $57.3\\ \\mathrm{kJ}$ 的热量。若为弱酸或弱碱的稀溶液，或者产生沉淀，则放出的热量不等于 $57.3\\ \\mathrm{kJ}$。",
+      "title": "强酸、强碱稀溶液中和放热的条件",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-8d0acc233773cefc22b3"
+      ],
+      "text": "比较反应物和生成物的能量：$E_{\\text{生成物}}>E_{\\text{反应物}}$，$\\Delta H>0$，判断为吸热反应；$E_{\\text{生成物}}<E_{\\text{反应物}}$，$\\Delta H<0$，判断为放热反应。能量变化曲线中可比较反应物与生成物对应的能量水平。",
+      "title": "根据能量高低判断吸热、放热",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-4f65d42fbf80820d03f7"
+      ],
+      "text": "使用简易量热计测定中和反应反应热，装置包括温度计、玻璃搅拌器、内筒、杯盖、隔热层和外壳。温度计和玻璃搅拌器穿过杯盖伸入内筒。杯盖、隔热层、外壳用于保温、减少热量损失；通常采用稍过量的碱，保证酸被完全中和；终止温度 $t_2$ 应取反应过程中的最高温度。",
+      "title": "中和反应反应热的实验测定",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-4f65d42fbf80820d03f7"
+      ],
+      "text": "计算公式为 $\\Delta H=-\\dfrac{c\\cdot(m_{\\text{酸}}+m_{\\text{碱}})\\cdot(t_2-t_1)}{n}$。$c$ 为反应后生成的溶液的比热容，近似为 $4.18\\ \\mathrm{J\\cdot g^{-1}\\cdot{}^\\circ C^{-1}}$；$t_1$ 为起始温度；$t_2$ 为终止温度，应取反应过程中的最高温度；$n$ 为生成 $\\mathrm{H_2O}$ 的物质的量。【待核对】原文公式未注明所得 $\\Delta H$ 的单位及单位换算，保留原式。",
+      "title": "根据量热数据计算中和反应焓变",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-01f351f8ce0117dd6837"
+      ],
+      "text": "利用题干给出的气态物质相对能量及相应成键反应计算键能。原文示例：标准状态下，根据 $\\mathrm{HO(g)+HO(g)=H_2O_2(g)}$，以及表中 $\\mathrm{HO}$、$\\mathrm{H_2O_2}$ 的相对能量分别为 $39$、$-136$（单位为 $\\mathrm{kJ\\cdot mol^{-1}}$），可计算出 $\\mathrm{H_2O_2}$ 中氧氧单键的键能为 $214\\ \\mathrm{kJ\\cdot mol^{-1}}$。",
+      "title": "利用气态物质相对能量计算键能",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-0a0fa72e359401d4c43a"
+      ],
+      "from": "c1",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8d0acc233773cefc22b3"
+      ],
+      "from": "l1",
+      "to": "c3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8d0acc233773cefc22b3"
+      ],
+      "from": "l1",
+      "to": "c4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8d0acc233773cefc22b3"
+      ],
+      "from": "l2",
+      "to": "c5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8d0acc233773cefc22b3"
+      ],
+      "from": "l2",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8d0acc233773cefc22b3"
+      ],
+      "from": "l3",
+      "to": "c3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8d0acc233773cefc22b3"
+      ],
+      "from": "l4",
+      "to": "c4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ef02e161e2d88527176f"
+      ],
+      "from": "c6",
+      "to": "c4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ef02e161e2d88527176f"
+      ],
+      "from": "c7",
+      "to": "c4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ef02e161e2d88527176f"
+      ],
+      "from": "l5",
+      "to": "c7",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8d0acc233773cefc22b3"
+      ],
+      "from": "m1",
+      "to": "c3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8d0acc233773cefc22b3"
+      ],
+      "from": "m1",
+      "to": "c4",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4f65d42fbf80820d03f7"
+      ],
+      "from": "m2",
+      "to": "c7",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4f65d42fbf80820d03f7"
+      ],
+      "from": "m2",
+      "to": "m3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4f65d42fbf80820d03f7"
+      ],
+      "from": "m3",
+      "to": "c7",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-acd8cc128052cc7bbecf"
+      ],
+      "from": "n-acd8cc128052cc7bbecf",
+      "to": "m2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-acd8cc128052cc7bbecf",
+        "n-ef02e161e2d88527176f"
+      ],
+      "from": "n-acd8cc128052cc7bbecf",
+      "to": "l5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-eea7fc4c92568d08feb5"
+      ],
+      "from": "n-eea7fc4c92568d08feb5",
+      "to": "c6",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-eea7fc4c92568d08feb5",
+        "n-8d0acc233773cefc22b3"
+      ],
+      "from": "n-eea7fc4c92568d08feb5",
+      "to": "m1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-01f351f8ce0117dd6837"
+      ],
+      "from": "n-01f351f8ce0117dd6837",
+      "to": "m4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-857fbb8518d9a7319c52",
+  "source_digest": "442cbfff7df7f4e704c087d9af6cc456fa6a67167b057ee4ff74eee6478f9fbf",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

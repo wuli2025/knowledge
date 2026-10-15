@@ -1,0 +1,612 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-49ad0fcae17115336757"
+      ],
+      "text": "化学键分为离子键、共价键和金属键；共价键包含配位键，并可分为极性键和非极性键。",
+      "title": "化学键的分类",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-2ecb4036bad459ed46cb",
+        "n-49ad0fcae17115336757"
+      ],
+      "text": "阴、阳离子之间通过静电作用形成的化学键。形成离子键的原子所属元素的电负性差值较大。离子键只存在于离子化合物，没有方向性和饱和性。",
+      "title": "离子键",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-bd93498cb3003e0c7a88"
+      ],
+      "text": "共价键可按原子轨道重叠方式分为$\\sigma$键和$\\pi$键，按共用电子对是否偏移分为极性键和非极性键。共价键具有方向性和饱和性。",
+      "title": "共价键",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-bd93498cb3003e0c7a88"
+      ],
+      "text": "原子轨道以“头碰头”方式重叠形成的共价键。",
+      "title": "$\\sigma$键",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-bd93498cb3003e0c7a88"
+      ],
+      "text": "原子轨道以“肩并肩”方式重叠形成的共价键。",
+      "title": "$\\pi$键",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-bd93498cb3003e0c7a88",
+        "n-49ad0fcae17115336757"
+      ],
+      "text": "共用电子对发生偏移的共价键，形成于不同种元素原子间，可存在于离子化合物和共价化合物中。",
+      "title": "极性键",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c7",
+      "source_node_ids": [
+        "n-bd93498cb3003e0c7a88",
+        "n-49ad0fcae17115336757"
+      ],
+      "text": "共用电子对不偏移的共价键，形成于同种元素原子间，可存在于离子化合物、共价化合物和非金属单质中。",
+      "title": "非极性键",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c8",
+      "source_node_ids": [
+        "n-bd93498cb3003e0c7a88"
+      ],
+      "text": "原文列出的共价键键参数为键能、键长和键角。",
+      "title": "共价键的键参数",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c9",
+      "source_node_ids": [
+        "n-bd93498cb3003e0c7a88"
+      ],
+      "text": "配位键是一种特殊的共价键，由一方提供孤电子对，另一方接受孤电子对，形成“电子对给予—接受”键。可表示为$\\mathrm{A\\rightarrow B}$，其中$\\mathrm{A}$是能够提供孤电子对的原子或离子，$\\mathrm{B}$是具有能够接受孤电子对的空轨道的原子或离子。",
+      "title": "配位键",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c10",
+      "source_node_ids": [
+        "n-bd93498cb3003e0c7a88"
+      ],
+      "text": "通常把金属离子或原子与某些分子或离子以配位键结合形成的化合物称为配位化合物，简称配合物；其中金属离子或原子称为中心离子或原子，参与配位的分子或离子称为配体或配位体。",
+      "title": "配合物、中心离子与配体",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c11",
+      "source_node_ids": [
+        "n-bd93498cb3003e0c7a88"
+      ],
+      "text": "原文以$\\mathrm{[Cu(NH_3)_4]SO_4}$说明配合物的组成：$\\mathrm{NH_3}$为配位体，其中的$\\mathrm{N}$为配位原子，下标$4$为配位数；$\\mathrm{[Cu(NH_3)_4]^{2+}}$为内界，$\\mathrm{SO_4^{2-}}$为外界离子，内界和外界共同组成配合物。原文标注“$\\mathrm{Cu}$为中心离子”【待核对】。",
+      "title": "配合物组成示例",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c12",
+      "source_node_ids": [
+        "n-6e9e9dc769acb9c269db",
+        "n-49ad0fcae17115336757"
+      ],
+      "text": "金属阳离子和自由电子之间的强的相互作用，本质上也是一种电性作用。金属键存在于金属晶体，没有方向性和饱和性。",
+      "title": "金属键",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c13",
+      "source_node_ids": [
+        "n-ff05dddfda887688f70e"
+      ],
+      "text": "只含有共价键的化合物，如酸、非金属氧化物、非金属氢化物等。",
+      "title": "共价化合物",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c14",
+      "source_node_ids": [
+        "n-ff05dddfda887688f70e"
+      ],
+      "text": "含有离子键的化合物，如强碱、大部分盐、大部分金属氧化物、金属过氧化物、金属氢化物等。",
+      "title": "离子化合物",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c15",
+      "source_node_ids": [
+        "n-3c231bc3d80389453d1d"
+      ],
+      "text": "原文用电子式表示原子、离子和物质的电子情况，例如$\\mathrm{N_2}\\rightarrow\\mathrm{:N:::N:}$；书写时需按原子、离子、共价化合物或单质、离子化合物分别处理。",
+      "title": "电子式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c16",
+      "source_node_ids": [
+        "n-3c231bc3d80389453d1d"
+      ],
+      "text": "将电子式中的共用电子对用短线“—”代替，省略未成键电子，得到结构式，如$\\mathrm{HCl}\\rightarrow\\mathrm{H-Cl}$。",
+      "title": "结构式",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-2ecb4036bad459ed46cb"
+      ],
+      "text": "离子半径越小，离子所带电荷越多，离子键越强。",
+      "title": "离子键强弱的影响因素",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-6e9e9dc769acb9c269db"
+      ],
+      "text": "一般来说，金属阳离子半径越小，所带电荷越多，金属键越强。",
+      "title": "金属键强弱的影响因素",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-bd93498cb3003e0c7a88"
+      ],
+      "text": "共价单键是$\\sigma$键；1个共价双键中有1个$\\sigma$键、1个$\\pi$键；1个共价三键中有1个$\\sigma$键、2个$\\pi$键。",
+      "title": "共价单键、双键和三键的组成",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-bd93498cb3003e0c7a88"
+      ],
+      "text": "键能决定分子的稳定性；键长、键角决定分子的空间结构；分子的稳定性和空间结构决定分子的性质。",
+      "title": "键参数对分子性质的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-bd93498cb3003e0c7a88"
+      ],
+      "text": "一般来说，共价键的键能越大、键长越短，共价键越牢固，分子越稳定。",
+      "title": "共价键牢固程度与分子稳定性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-6e9e9dc769acb9c269db"
+      ],
+      "text": "原文在金属键与金属性质的联系中指出：金属不透明，但有金属光泽；金属有良好的导电性、导热性和延展性。",
+      "title": "金属的典型性质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-49ad0fcae17115336757"
+      ],
+      "text": "原文指出稀有气体中无化学键；某物质中有阳离子，不一定有阴离子，如金属晶体。",
+      "title": "化学键与离子存在的判断注意事项",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-ff05dddfda887688f70e"
+      ],
+      "text": "仅由非金属元素形成的化合物可能为离子化合物，如$\\mathrm{NH_4Cl}$、$\\mathrm{NH_4NO_3}$；金属元素和非金属元素间也可能形成共价化合物，如$\\mathrm{AlCl_3}$。",
+      "title": "元素组成与化合物类型的关系",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-3c231bc3d80389453d1d"
+      ],
+      "text": "把原子的最外层电子全部排列在元素符号周围。",
+      "title": "原子电子式的书写",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-3c231bc3d80389453d1d"
+      ],
+      "text": "金属阳离子的电子式直接写为其离子符号。",
+      "title": "金属阳离子电子式的书写",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-3c231bc3d80389453d1d"
+      ],
+      "text": "将最外层电子和得到的电子标在元素符号周围，并用“［ ］”括上，右上角标出所带的电荷数。",
+      "title": "非金属阴离子电子式的书写",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-3c231bc3d80389453d1d"
+      ],
+      "text": "将共用电子对写在两原子之间，每个原子的最外层未成键电子也应写出。适用于共价化合物和单质的电子式书写。",
+      "title": "共价化合物与单质电子式的书写",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-3c231bc3d80389453d1d"
+      ],
+      "text": "由阴、阳离子的电子式组合而成，相同的离子不能合并。",
+      "title": "离子化合物电子式的书写",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-3c231bc3d80389453d1d"
+      ],
+      "text": "把电子式中的共用电子对替换为短线“—”，省略未成键电子。",
+      "title": "由电子式书写结构式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-ff05dddfda887688f70e"
+      ],
+      "text": "按所含化学键判断化合物类型：只含共价键的是共价化合物，含有离子键的是离子化合物。判断时注意原文所列仅由非金属元素组成的离子化合物，以及由金属元素和非金属元素组成的共价化合物。",
+      "title": "依据化学键判断化合物类型",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-49ad0fcae17115336757"
+      ],
+      "from": "c1",
+      "to": "c2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-49ad0fcae17115336757"
+      ],
+      "from": "c1",
+      "to": "c3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-49ad0fcae17115336757"
+      ],
+      "from": "c1",
+      "to": "c12",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-bd93498cb3003e0c7a88"
+      ],
+      "from": "c3",
+      "to": "c4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-bd93498cb3003e0c7a88"
+      ],
+      "from": "c3",
+      "to": "c5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-bd93498cb3003e0c7a88"
+      ],
+      "from": "c3",
+      "to": "c6",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-bd93498cb3003e0c7a88"
+      ],
+      "from": "c3",
+      "to": "c7",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-bd93498cb3003e0c7a88"
+      ],
+      "from": "c3",
+      "to": "c9",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-bd93498cb3003e0c7a88"
+      ],
+      "from": "c9",
+      "to": "c10",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-bd93498cb3003e0c7a88"
+      ],
+      "from": "c10",
+      "to": "c11",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2ecb4036bad459ed46cb"
+      ],
+      "from": "c2",
+      "to": "l1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6e9e9dc769acb9c269db"
+      ],
+      "from": "c12",
+      "to": "l2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6e9e9dc769acb9c269db"
+      ],
+      "from": "c12",
+      "to": "l6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-bd93498cb3003e0c7a88"
+      ],
+      "from": "l3",
+      "to": "c4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-bd93498cb3003e0c7a88"
+      ],
+      "from": "l3",
+      "to": "c5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-bd93498cb3003e0c7a88"
+      ],
+      "from": "c8",
+      "to": "l4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-bd93498cb3003e0c7a88"
+      ],
+      "from": "c8",
+      "to": "l5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ff05dddfda887688f70e"
+      ],
+      "from": "c13",
+      "to": "c3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ff05dddfda887688f70e"
+      ],
+      "from": "c14",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ff05dddfda887688f70e"
+      ],
+      "from": "l8",
+      "to": "m7",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ff05dddfda887688f70e"
+      ],
+      "from": "m7",
+      "to": "c13",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ff05dddfda887688f70e"
+      ],
+      "from": "m7",
+      "to": "c14",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3c231bc3d80389453d1d"
+      ],
+      "from": "m1",
+      "to": "c15",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3c231bc3d80389453d1d"
+      ],
+      "from": "m2",
+      "to": "c15",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3c231bc3d80389453d1d"
+      ],
+      "from": "m3",
+      "to": "c15",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3c231bc3d80389453d1d"
+      ],
+      "from": "m4",
+      "to": "c15",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3c231bc3d80389453d1d"
+      ],
+      "from": "m5",
+      "to": "c15",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3c231bc3d80389453d1d"
+      ],
+      "from": "c15",
+      "to": "m6",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3c231bc3d80389453d1d"
+      ],
+      "from": "m6",
+      "to": "c16",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a9f3a5415278239cde74"
+      ],
+      "from": "n-a9f3a5415278239cde74",
+      "to": "c14",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a9f3a5415278239cde74"
+      ],
+      "from": "n-a9f3a5415278239cde74",
+      "to": "c3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-aadfbced20f36b4f309d"
+      ],
+      "from": "n-aadfbced20f36b4f309d",
+      "to": "c15",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d2ddcef0524ccbff81d3"
+      ],
+      "from": "n-d2ddcef0524ccbff81d3",
+      "to": "c10",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d2ddcef0524ccbff81d3"
+      ],
+      "from": "n-d2ddcef0524ccbff81d3",
+      "to": "c11",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d2ddcef0524ccbff81d3"
+      ],
+      "from": "n-d2ddcef0524ccbff81d3",
+      "to": "c4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-3a4adeda0869027f8096",
+  "source_digest": "8576725aee7ecb07d9e7a99f40f95567127109374a577a0e1ce70ced2e7e5926",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

@@ -1,0 +1,374 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-cdc5780e1cd05a2b69a4"
+      ],
+      "text": "体系的混乱度增加即熵增，表示为 $\\Delta S>0$。",
+      "title": "熵增",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-5c82c7929c723517d960"
+      ],
+      "text": "反应原理为 $\\mathrm{N_2(g)+3H_2(g)\\rightleftharpoons 2NH_3(g)}$，$\\Delta H=-92.4\\ \\mathrm{kJ\\cdot mol^{-1}}$。该反应可逆，正反应放热且气体分子数减小。",
+      "title": "合成氨反应及其特点",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-cdc5780e1cd05a2b69a4"
+      ],
+      "text": "放热过程中体系能量降低，$\\Delta H<0$，具有自发进行的倾向；有些吸热反应也可以自发进行，因此焓变只是影响反应方向的一种因素。",
+      "title": "焓判据及其局限",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-cdc5780e1cd05a2b69a4"
+      ],
+      "text": "同种物质，熵值大小的顺序为气态＞液态＞固态。",
+      "title": "同种物质不同状态的熵值顺序",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-cdc5780e1cd05a2b69a4"
+      ],
+      "text": "体系的混乱度增加，即熵增，$\\Delta S>0$，反应有自发进行的倾向；有些熵减过程也能自发进行，因此熵变只是影响反应方向的一种因素。",
+      "title": "熵判据及其局限",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-cdc5780e1cd05a2b69a4"
+      ],
+      "text": "$\\Delta G=\\Delta H-T\\Delta S>0$，反应不能自发进行；$\\Delta G=\\Delta H-T\\Delta S=0$，反应达到平衡状态；$\\Delta G=\\Delta H-T\\Delta S<0$，反应能自发进行。",
+      "title": "反应方向的复合判据",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-1063bb84f6227ff4b6cd"
+      ],
+      "text": "当 $\\Delta H$ 为负、$\\Delta S$ 为正时，$\\Delta H-T\\Delta S$ 永远是负值，反应在任何温度下均能自发进行。",
+      "title": "焓减熵增反应的方向",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-1063bb84f6227ff4b6cd"
+      ],
+      "text": "当 $\\Delta H$ 为正、$\\Delta S$ 为负时，$\\Delta H-T\\Delta S$ 永远是正值，反应在任何温度下均不能自发进行。",
+      "title": "焓增熵减反应的方向",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-1063bb84f6227ff4b6cd"
+      ],
+      "text": "当 $\\Delta H$、$\\Delta S$ 均为正时，$\\Delta H-T\\Delta S$ 低温为正、高温为负；反应低温时不能自发进行，高温时能自发进行。",
+      "title": "焓增熵增反应的温度条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-1063bb84f6227ff4b6cd"
+      ],
+      "text": "当 $\\Delta H$、$\\Delta S$ 均为负时，$\\Delta H-T\\Delta S$ 低温为负、高温为正；反应低温时能自发进行，高温时不能自发进行。",
+      "title": "焓减熵减反应的温度条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-5c82c7929c723517d960"
+      ],
+      "text": "对合成氨反应，从平衡移动的角度考虑，压强越大越有利于氨气的合成，温度越高越不利于氨气的合成。",
+      "title": "压强和温度对合成氨平衡的影响",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-0c9934218fd25cc2f32b"
+      ],
+      "text": "选择化工生产适宜条件时，应综合考虑：反应速率既不能太慢，也不能太快；外界条件对平衡转化率和反应速率的影响是否一致；选用易得、廉价原料或增大其用量，提高不易得、高价原料的利用率；设备承受高温、高压的能力；温度等条件对催化剂活性的影响。",
+      "title": "化工生产适宜条件的综合选择",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-93639a5ce1ec66f6099d"
+      ],
+      "text": "通过改变反应体系的温度、溶液的浓度、气体的压强（或浓度）、固体的表面积以及使用催化剂等途径，调控反应速率和单位时间内的转化率。",
+      "title": "控制反应速率的措施",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-93639a5ce1ec66f6099d"
+      ],
+      "text": "通过改变可逆反应体系的温度、溶液的浓度、气体的压强（或浓度）等，改变可逆反应的限度，从而提高平衡转化率。",
+      "title": "提高平衡转化率的措施",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-5c82c7929c723517d960"
+      ],
+      "text": "合成氨投料比选择为 $n(\\mathrm{N_2}):n(\\mathrm{H_2})$ 略大于 $1:3$。",
+      "title": "合成氨投料比的选择",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-5c82c7929c723517d960"
+      ],
+      "text": "合成氨压强采用 $10\\sim30\\ \\mathrm{MPa}$。从平衡移动的角度考虑，压强越大越有利于氨气的合成，但增大压强也提高了对设备的要求，需综合考虑。",
+      "title": "合成氨压强的选择",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-5c82c7929c723517d960"
+      ],
+      "text": "合成氨温度采用 $400\\sim500\\ ^\\circ\\mathrm{C}$。从平衡移动的角度考虑，温度越高越不利于氨气的合成，但还需考虑反应速率和催化剂活性。",
+      "title": "合成氨温度的选择",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-5c82c7929c723517d960"
+      ],
+      "text": "合成氨使用铁触媒作催化剂；为防止催化剂中毒，原料气必须净化除去杂质。",
+      "title": "合成氨催化剂的选择与原料气净化",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-cdc5780e1cd05a2b69a4"
+      ],
+      "from": "c1",
+      "to": "l3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-cdc5780e1cd05a2b69a4"
+      ],
+      "from": "l1",
+      "to": "l4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-cdc5780e1cd05a2b69a4"
+      ],
+      "from": "l3",
+      "to": "l4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-cdc5780e1cd05a2b69a4",
+        "n-1063bb84f6227ff4b6cd"
+      ],
+      "from": "l5",
+      "to": "l4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-cdc5780e1cd05a2b69a4",
+        "n-1063bb84f6227ff4b6cd"
+      ],
+      "from": "l6",
+      "to": "l4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-cdc5780e1cd05a2b69a4",
+        "n-1063bb84f6227ff4b6cd"
+      ],
+      "from": "l7",
+      "to": "l4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-cdc5780e1cd05a2b69a4",
+        "n-1063bb84f6227ff4b6cd"
+      ],
+      "from": "l8",
+      "to": "l4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1b9fdecc667b9d6e7d1f",
+        "n-cdc5780e1cd05a2b69a4"
+      ],
+      "from": "n-1b9fdecc667b9d6e7d1f",
+      "to": "l4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-93639a5ce1ec66f6099d"
+      ],
+      "from": "n-93639a5ce1ec66f6099d",
+      "to": "m2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-93639a5ce1ec66f6099d"
+      ],
+      "from": "n-93639a5ce1ec66f6099d",
+      "to": "m3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5c82c7929c723517d960"
+      ],
+      "from": "c2",
+      "to": "l9",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5c82c7929c723517d960"
+      ],
+      "from": "m4",
+      "to": "c2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5c82c7929c723517d960"
+      ],
+      "from": "m5",
+      "to": "c2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5c82c7929c723517d960"
+      ],
+      "from": "m6",
+      "to": "c2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5c82c7929c723517d960"
+      ],
+      "from": "m7",
+      "to": "c2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5c82c7929c723517d960"
+      ],
+      "from": "m5",
+      "to": "l9",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5c82c7929c723517d960"
+      ],
+      "from": "m6",
+      "to": "l9",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0c9934218fd25cc2f32b",
+        "n-5c82c7929c723517d960"
+      ],
+      "from": "m5",
+      "to": "m1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0c9934218fd25cc2f32b",
+        "n-5c82c7929c723517d960"
+      ],
+      "from": "m6",
+      "to": "m1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c4c92ec7ea62f8cfa7e0",
+        "n-0c9934218fd25cc2f32b"
+      ],
+      "from": "n-c4c92ec7ea62f8cfa7e0",
+      "to": "m1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-735a0b91ac349e42532a",
+        "n-93639a5ce1ec66f6099d"
+      ],
+      "from": "n-735a0b91ac349e42532a",
+      "to": "m3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-9e1aa4d3ae31bd1b7c07",
+  "source_digest": "03af5a3cad6518d465266fbd93c2606ef2422fa7deff677486fbeb8e03583909",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

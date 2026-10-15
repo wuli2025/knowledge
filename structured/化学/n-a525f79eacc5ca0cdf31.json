@@ -1,0 +1,526 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-e57a1ce66c127075a7c7"
+      ],
+      "text": "将混合物中的各组分分离开来，获得多种纯净物的过程。",
+      "title": "物质的分离",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-e57a1ce66c127075a7c7"
+      ],
+      "text": "将混合物中的杂质除去得到目标物质的过程，又叫物质的净化或除杂。",
+      "title": "物质的提纯",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-d4b1d01c4417850a21f0"
+      ],
+      "text": "不增：尽量不增加新的杂质；不减：尽量不减少被提纯的物质；易分离；易复原：被提纯物质若发生转化，要易复原。",
+      "title": "分离和提纯的“四原则”",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-d4b1d01c4417850a21f0"
+      ],
+      "text": "除杂试剂必须过量；过量试剂必须除尽，因为过量会带入新的杂质；必须选最佳除杂途径；除去多种杂质时，必须考虑加入试剂的顺序。",
+      "title": "分离和提纯的“四必须”",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-159b4a9392ec1728b781"
+      ],
+      "text": "适用于不溶性固体与液体的分离。液体沿玻璃棒流入装有滤纸的漏斗，下方用烧杯承接滤液。操作注意“一贴、二低、三靠”；沉淀要洗涤。",
+      "title": "过滤",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-159b4a9392ec1728b781",
+        "n-86c8cb12c99fad22b418"
+      ],
+      "text": "适用于溶解度随温度升高变化不大的物质。蒸发结晶时要不断搅拌，最后用余热蒸干；液体体积不超过蒸发皿容积的 $2/3$。例如从 $\\mathrm{NaCl}$ 溶液中获取 $\\mathrm{NaCl}$ 固体。",
+      "title": "蒸发结晶",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-159b4a9392ec1728b781",
+        "n-86c8cb12c99fad22b418"
+      ],
+      "text": "适用于溶解度随温度升高明显增大的物质。操作过程包括加热浓缩、冷却结晶、过滤、洗涤、干燥。例如从硫酸铜溶液中获取胆矾晶体，可采用蒸发浓缩、降温结晶。",
+      "title": "冷却结晶",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-159b4a9392ec1728b781",
+        "n-86c8cb12c99fad22b418"
+      ],
+      "text": "选择萃取剂时，要求溶质在萃取剂中的溶解度大，溶剂与萃取剂互不相溶，溶质不与萃取剂反应。例如从碘水中提取碘。",
+      "title": "萃取及萃取剂选择",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-159b4a9392ec1728b781",
+        "n-86c8cb12c99fad22b418"
+      ],
+      "text": "用于不互溶液体的分离，例如分离乙酸乙酯和饱和 $\\mathrm{Na_2CO_3}$ 溶液。操作时先打开分液漏斗上口玻璃塞，平衡气压，便于液体顺利流下；下层液体从下口流出，上层液体从上口倒出。",
+      "title": "分液",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-159b4a9392ec1728b781",
+        "n-86c8cb12c99fad22b418"
+      ],
+      "text": "用于分离含易升华组分的混合物，例如分离 $\\mathrm{NaCl}$ 和 $\\mathrm{I_2}$。",
+      "title": "升华",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-159b4a9392ec1728b781",
+        "n-86c8cb12c99fad22b418"
+      ],
+      "text": "可分离互溶且沸点有一定差距的液体，一般相差 $30\\ ^\\circ\\mathrm{C}$ 及以上。温度计的水银球位于蒸馏烧瓶的支管口处；烧瓶内要加沸石或碎瓷片，防止暴沸；冷凝管水流方向为“下口进、上口出”。原文列举的应用还包括从海水中获取蒸馏水、从石油中获取汽油和煤油等。",
+      "title": "蒸馏",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-159b4a9392ec1728b781",
+        "n-86c8cb12c99fad22b418"
+      ],
+      "text": "利用溶解性不同除去气体中的杂质气体，也可利用化学反应除杂。洗气瓶长管进气、短管出气。例如除去 $\\mathrm{CO}$ 中的 $\\mathrm{CO_2}$，可通入 $\\mathrm{NaOH}$ 溶液。",
+      "title": "洗气",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m9",
+      "source_node_ids": [
+        "n-159b4a9392ec1728b781"
+      ],
+      "text": "用于分离胶体与溶液。装置中半透膜袋悬挂并浸入烧杯内的液体中。",
+      "title": "渗析",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m10",
+      "source_node_ids": [
+        "n-159b4a9392ec1728b781"
+      ],
+      "text": "操作步骤：加热溶解→趁热过滤→冷却结晶→过滤、洗涤、干燥。选择溶剂时，要求杂质在其中的溶解度很大或很小，便于除去；被提纯物质在其中的溶解度受温度影响较大，能够进行冷却结晶。",
+      "title": "重结晶",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m11",
+      "source_node_ids": [
+        "n-159b4a9392ec1728b781"
+      ],
+      "text": "将杂质转化为沉淀。例如用 $\\mathrm{CaCl_2}$ 除去 $\\mathrm{NaCl}$ 溶液中的 $\\mathrm{Na_2CO_3}$。",
+      "title": "沉淀法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m12",
+      "source_node_ids": [
+        "n-159b4a9392ec1728b781"
+      ],
+      "text": "将杂质转化为气体。例如用稀盐酸除去 $\\mathrm{NaCl}$ 溶液中的 $\\mathrm{NaHCO_3}$。",
+      "title": "化气法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m13",
+      "source_node_ids": [
+        "n-159b4a9392ec1728b781"
+      ],
+      "text": "将杂质转化为需要提纯的物质。例如通入 $\\mathrm{Cl_2}$ 除去 $\\mathrm{FeCl_3}$ 溶液中的 $\\mathrm{FeCl_2}$。",
+      "title": "杂转纯法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m14",
+      "source_node_ids": [
+        "n-159b4a9392ec1728b781"
+      ],
+      "text": "原文示例：用酸性 $\\mathrm{KMnO_4}$ 溶液除去 $\\mathrm{CO_2}$ 中的 $\\mathrm{SO_2}$。",
+      "title": "氧化还原法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m15",
+      "source_node_ids": [
+        "n-159b4a9392ec1728b781",
+        "n-86c8cb12c99fad22b418"
+      ],
+      "text": "加热使不稳定的物质分解除去。例如除去 $\\mathrm{Na_2CO_3}$ 中的 $\\mathrm{NaHCO_3}$，或除去 $\\mathrm{NaCl}$ 中的 $\\mathrm{NH_4Cl}$。",
+      "title": "热分解法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m16",
+      "source_node_ids": [
+        "n-159b4a9392ec1728b781"
+      ],
+      "text": "原文示例：用过量的 $\\mathrm{NaOH}$ 溶液除去 $\\mathrm{Fe_2O_3}$ 中的 $\\mathrm{Al_2O_3}$。",
+      "title": "酸碱溶解法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m17",
+      "source_node_ids": [
+        "n-159b4a9392ec1728b781"
+      ],
+      "text": "原文示例：铜的电解精炼。",
+      "title": "电解法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m18",
+      "source_node_ids": [
+        "n-159b4a9392ec1728b781"
+      ],
+      "text": "原文示例：通过调 $\\mathrm{pH}$ 将 $\\mathrm{Fe^{3+}}$ 与 $\\mathrm{Cu^{2+}}$ 分离。",
+      "title": "调 pH 法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m19",
+      "source_node_ids": [
+        "n-86c8cb12c99fad22b418"
+      ],
+      "text": "“固＋固”混合物可按组分性质选择方法：加热时可采用升华法或分解法；加水后均易溶的可采用结晶法，例如分离 $\\mathrm{KNO_3}$ 和 $\\mathrm{NaCl}$；难溶与易溶组分的混合物可采用过滤法，例如分离 $\\mathrm{NaCl}$ 和 $\\mathrm{Mg(OH)_2}$；还可采用其他方法，例如用磁铁吸引分离 $\\mathrm{FeS}$ 和 $\\mathrm{Fe}$。",
+      "title": "固体与固体混合物的分离方法选择",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m20",
+      "source_node_ids": [
+        "n-86c8cb12c99fad22b418"
+      ],
+      "text": "“固＋液”混合物中，固体不溶时采用过滤；固体可溶时，原文列举萃取、蒸发浓缩后降温结晶、蒸发结晶、蒸馏等方法，分别用于从碘水中提取碘、从硫酸铜溶液中获取胆矾晶体、从 $\\mathrm{NaCl}$ 溶液中获取 $\\mathrm{NaCl}$ 固体、从海水中获取蒸馏水。",
+      "title": "固体与液体混合物的分离方法选择",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m21",
+      "source_node_ids": [
+        "n-86c8cb12c99fad22b418"
+      ],
+      "text": "“液＋液”混合物中，互溶液体可采用蒸馏法，例如从石油中获取汽油、煤油等；不互溶液体采用分液法，例如分离乙酸乙酯和饱和 $\\mathrm{Na_2CO_3}$ 溶液。",
+      "title": "液体与液体混合物的分离方法选择",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m22",
+      "source_node_ids": [
+        "n-86c8cb12c99fad22b418"
+      ],
+      "text": "“气＋气”混合物的分离或提纯可采用洗气法、转化法、干燥法、灼烧法。原文示例依次为：除去 $\\mathrm{CO}$ 中的 $\\mathrm{CO_2}$，通入 $\\mathrm{NaOH}$ 溶液；除去 $\\mathrm{NO}$ 中的 $\\mathrm{NO_2}$，通入水；除去 $\\mathrm{SO_2}$ 中的 $\\mathrm{H_2O}$，通入浓硫酸；除去 $\\mathrm{N_2}$ 中的 $\\mathrm{O_2}$，通过灼热的铜网。",
+      "title": "气体与气体混合物的分离方法选择",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-e57a1ce66c127075a7c7"
+      ],
+      "from": "c1",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d4b1d01c4417850a21f0"
+      ],
+      "from": "l1",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d4b1d01c4417850a21f0"
+      ],
+      "from": "l1",
+      "to": "c2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d4b1d01c4417850a21f0"
+      ],
+      "from": "l2",
+      "to": "c2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-159b4a9392ec1728b781"
+      ],
+      "from": "m10",
+      "to": "m1",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-159b4a9392ec1728b781"
+      ],
+      "from": "m10",
+      "to": "m3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-159b4a9392ec1728b781"
+      ],
+      "from": "m3",
+      "to": "m1",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-159b4a9392ec1728b781"
+      ],
+      "from": "m4",
+      "to": "m5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-86c8cb12c99fad22b418"
+      ],
+      "from": "m19",
+      "to": "m6",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-86c8cb12c99fad22b418"
+      ],
+      "from": "m19",
+      "to": "m15",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-86c8cb12c99fad22b418"
+      ],
+      "from": "m19",
+      "to": "m1",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-86c8cb12c99fad22b418"
+      ],
+      "from": "m20",
+      "to": "m1",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-86c8cb12c99fad22b418"
+      ],
+      "from": "m20",
+      "to": "m2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-86c8cb12c99fad22b418"
+      ],
+      "from": "m20",
+      "to": "m3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-86c8cb12c99fad22b418"
+      ],
+      "from": "m20",
+      "to": "m4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-86c8cb12c99fad22b418"
+      ],
+      "from": "m20",
+      "to": "m7",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-86c8cb12c99fad22b418"
+      ],
+      "from": "m21",
+      "to": "m5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-86c8cb12c99fad22b418"
+      ],
+      "from": "m21",
+      "to": "m7",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-86c8cb12c99fad22b418"
+      ],
+      "from": "m22",
+      "to": "m8",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-31bbd6cfe76fb05c2e6a"
+      ],
+      "from": "n-31bbd6cfe76fb05c2e6a",
+      "to": "m15",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-31bbd6cfe76fb05c2e6a"
+      ],
+      "from": "n-31bbd6cfe76fb05c2e6a",
+      "to": "m7",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-31bbd6cfe76fb05c2e6a"
+      ],
+      "from": "n-31bbd6cfe76fb05c2e6a",
+      "to": "m8",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-31bbd6cfe76fb05c2e6a"
+      ],
+      "from": "n-31bbd6cfe76fb05c2e6a",
+      "to": "m5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5ea6aa5beec3bfa2692e"
+      ],
+      "from": "n-5ea6aa5beec3bfa2692e",
+      "to": "m14",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5ea6aa5beec3bfa2692e"
+      ],
+      "from": "n-5ea6aa5beec3bfa2692e",
+      "to": "m8",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6105e317f60a0b658b50"
+      ],
+      "from": "n-6105e317f60a0b658b50",
+      "to": "m1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6105e317f60a0b658b50"
+      ],
+      "from": "n-6105e317f60a0b658b50",
+      "to": "m7",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6105e317f60a0b658b50"
+      ],
+      "from": "n-6105e317f60a0b658b50",
+      "to": "m10",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-13de24f8474a5d16f726"
+      ],
+      "from": "n-13de24f8474a5d16f726",
+      "to": "m5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-13de24f8474a5d16f726"
+      ],
+      "from": "n-13de24f8474a5d16f726",
+      "to": "m7",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-a525f79eacc5ca0cdf31",
+  "source_digest": "8ca5558ca1432e8e3e990b18ba65ddf8ebff2108e1b9dd751f9acd535e314965",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

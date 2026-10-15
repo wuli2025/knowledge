@@ -1,0 +1,758 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-d95b7c3a6eb9d335798c"
+      ],
+      "text": "化工流程的基本结构为：原料 $\\xrightarrow{\\text{原料预处理、除杂、净化}}$ 核心化学反应 $\\xrightarrow{\\text{产品分离提纯}}$ 产品。核心化学反应涉及加入试剂和控制反应条件，流程还包括物质循环利用及排放物的无害化处理。",
+      "title": "化工流程图的基本结构",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-d95b7c3a6eb9d335798c",
+        "n-133fe37e612df2139505"
+      ],
+      "text": "物质循环利用是将生产过程中可利用的物质返回前面的流程。循环物质可表现为后面反应步骤的生成物同时是前面反应步骤的反应物，流程图上常表现为箭头回头。",
+      "title": "物质循环利用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-a69f8169ac5ea2424430"
+      ],
+      "text": "原料预处理用于便于后续操作，使原料更易与杂质分离并得到产品。常见操作有研磨、粉碎、水浸、酸浸、碱浸、盐浸和焙烧等。",
+      "title": "原料预处理",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-a69f8169ac5ea2424430"
+      ],
+      "text": "浸取的作用是使原料转化为离子进入溶液中；原文列出的类型包括水浸、酸浸、碱浸和盐浸。",
+      "title": "浸取",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-3f3a15bb7cf6904e1730"
+      ],
+      "text": "被萃取物萃入有机相后，使负载有机相与反萃剂接触，使被萃取物重新转入水相的过程称为反萃取，相当于萃取的逆过程。反萃剂一般为无机酸或碱的水溶液。",
+      "title": "反萃取",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-31fd37ebaf5d1ae782e5"
+      ],
+      "text": "气体的溶解度随温度升高而减小。",
+      "title": "温度对气体溶解度的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-672208dd9b1c042044ce"
+      ],
+      "text": "主反应为吸热反应时，温度过低可使平衡逆向移动，反应物转化率（原料利用率）及生成物产率下降；主反应为放热反应时，温度过高可使平衡逆向移动，反应物转化率（原料利用率）及生成物产率下降。",
+      "title": "温度变化对主反应平衡及产率的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-3f3a15bb7cf6904e1730",
+        "n-828939638d13aab3bc20"
+      ],
+      "text": "减小压强可使液体沸点降低，从而降低蒸馏温度，用于防止物质受热分解。",
+      "title": "减压降低液体沸点",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-5272678a127fef850711"
+      ],
+      "text": "调节溶液 $\\mathrm{pH}$ 时，$\\mathrm{pH}$ 过小会导致某些离子沉淀不完全，过大可能导致主体离子损失，也可能使已形成的沉淀再次溶解，如 $\\mathrm{Al(OH)_3}$。$\\mathrm{pH}$ 过大或过小还可能改变离子形态，$\\mathrm{V}$、$\\mathrm{Cr}$ 均存在受 $\\mathrm{pH}$ 影响的“同价不同形”情况。",
+      "title": "溶液酸碱性对沉淀及离子形态的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-a69f8169ac5ea2424430"
+      ],
+      "text": "增大反应物接触面积可加快反应速率，使反应更充分，提高原料利用率；粉碎、研磨、球磨和乳化均可起到这一作用。",
+      "title": "接触面积对反应的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-3fd7e28295eedb2b9f15"
+      ],
+      "text": "题干已知条件指出，金属氢氧化物胶体具有吸附性，可吸附金属阳离子。",
+      "title": "金属氢氧化物胶体的吸附性",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-d95b7c3a6eb9d335798c"
+      ],
+      "text": "读题时先对比原料与产品的成分，初步分析生产过程中保留、除去和引入了哪些元素或物质，再结合流程图判断杂质元素在哪些工序中被除去。",
+      "title": "比较原料与产品成分分析流程",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-d95b7c3a6eb9d335798c"
+      ],
+      "text": "比较原料与产品中主要元素的化合价：若升高或降低，结合流程图寻找可能使用的氧化剂或还原剂；若不变，中间过程中加入的氧化剂或还原剂一般用于除去杂质等。",
+      "title": "利用化合价变化分析试剂作用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-a69f8169ac5ea2424430"
+      ],
+      "text": "通过粉碎、研磨、球磨或乳化增大反应物接触面积，加快反应速率，使反应更充分，提高原料利用率。",
+      "title": "增大原料接触面积",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-a69f8169ac5ea2424430"
+      ],
+      "text": "通过溶解、过滤，分离溶解性不同的物质。",
+      "title": "水浸",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-a69f8169ac5ea2424430"
+      ],
+      "text": "用酸使原料中的碱性物质、两性物质、活泼金属等进入溶液。应考虑酸的性质及其对后续操作的影响：用硫酸浸取时，体系中的 $\\mathrm{Ba^{2+}}$、$\\mathrm{Ca^{2+}}$、$\\mathrm{Pb^{2+}}$ 等会形成相应硫酸盐沉淀，可过滤除去；因 $\\mathrm{CaSO_4}$ 微溶，可能需要二次除杂以除尽 $\\mathrm{Ca^{2+}}$。用盐酸浸取时，应控制温度防止 $\\mathrm{HCl}$ 大量挥发；后续加入 $\\mathrm{ClO^-}$、$\\mathrm{MnO_4^-}$ 等氧化剂时，会与 $\\mathrm{Cl^-}$ 反应产生 $\\mathrm{Cl_2}$。",
+      "title": "酸浸及试剂影响分析",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-a69f8169ac5ea2424430"
+      ],
+      "text": "用碱使原料中的酸性物质、两性物质、部分金属或 $\\mathrm{Si}$ 等溶解进入溶液，也可用于除去原料中的油污。",
+      "title": "碱浸",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-a69f8169ac5ea2424430"
+      ],
+      "text": "利用盐类水解调节溶液 $\\mathrm{pH}$，起到相当于酸浸或碱浸的作用；也可利用盐与原料中的成分发生氧化还原反应。",
+      "title": "盐浸",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-a69f8169ac5ea2424430"
+      ],
+      "text": "提高浸出率可采用适当升温、适当增大酸或碱的浓度、粉碎矿石以减小矿粉粒径、搅拌、超声、延长浸取时间等方法。",
+      "title": "提高浸出率",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m9",
+      "source_node_ids": [
+        "n-a69f8169ac5ea2424430"
+      ],
+      "text": "焙烧、煅烧、灼烧可使热稳定性差的物质分解，便于后续提取；可除去木炭、有机物等可燃性杂质；也可将低价元素氧化为高价元素，例如将金属硫化物中的硫元素转化为 $\\mathrm{SO_2}$ 而除去。",
+      "title": "焙烧、煅烧与灼烧的作用分析",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m10",
+      "source_node_ids": [
+        "n-31fd37ebaf5d1ae782e5"
+      ],
+      "text": "分析温度控制的目的时，可从改变反应速率和物质溶解度、防止物质分解或挥发、促进或抑制平衡移动、控制催化剂活性及防止副反应等方面考虑。原文列举 $\\mathrm{H_2O_2}$、$\\mathrm{NH_3\\cdot H_2O}$、铵盐、硝酸等易分解，有机溶剂、气体等易挥发；催化剂活性在某温度下达到最高。",
+      "title": "分析反应温度的控制目的",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m11",
+      "source_node_ids": [
+        "n-672208dd9b1c042044ce"
+      ],
+      "text": "回答温度过低的影响时，可结合具体流程考虑：反应速率或溶解速率过慢，生产效率低；主反应为吸热反应时，平衡逆向移动，转化率及产率下降；大部分固态物质的溶解度下降。",
+      "title": "分析温度过低的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m12",
+      "source_node_ids": [
+        "n-672208dd9b1c042044ce"
+      ],
+      "text": "回答温度过高的影响时，可结合具体流程考虑：物质可能分解、挥发或升华；主反应为放热反应时，平衡逆向移动，转化率及产率下降；催化剂活性降低；发生副反应；某些物质溶解度下降；胶体聚沉；能源成本及对设备的要求增加。",
+      "title": "分析温度过高的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m13",
+      "source_node_ids": [
+        "n-828939638d13aab3bc20"
+      ],
+      "text": "分析改变压强的目的时，可考虑控制反应速率、促进或抑制平衡移动、改变气体溶解度、真空防氧化、减压蒸馏降低蒸馏温度以防分解，以及减压降低对设备的要求。防氧化也可采用充入氩气、氮气等保护气的方法。",
+      "title": "分析压强的控制目的",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m14",
+      "source_node_ids": [
+        "n-5272678a127fef850711"
+      ],
+      "text": "调节溶液 $\\mathrm{pH}$ 可用于使某些金属离子生成沉淀而除去、促进或抑制水解，或满足核心反应所需的酸性或碱性条件。可加入氧化物、碳酸盐、碱、碱式碳酸盐或酸；选择时应遵循不引入新杂质离子、不使主体离子或物质损失的原则，并考虑沉淀不完全、沉淀再次溶解及离子形态变化。",
+      "title": "调节溶液酸碱性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m15",
+      "source_node_ids": [
+        "n-d9bc03add9c81847f4a1"
+      ],
+      "text": "原文示例中，除去 $\\mathrm{Mn^{2+}}$ 溶液中的 $\\mathrm{Fe^{2+}}$，可先用氧化剂将 $\\mathrm{Fe^{2+}}$ 氧化为 $\\mathrm{Fe^{3+}}$，再调节至 $3.7\\leqslant\\mathrm{pH}<8.3$。该范围依据例中给定的 $\\mathrm{Fe(OH)_3}$ 沉淀完全及 $\\mathrm{Mn(OH)_2}$ 开始沉淀的 $\\mathrm{pH}$，适用于该例条件。调节 $\\mathrm{pH}$ 的过程常涉及 $K_{\\mathrm{sp}}$ 计算。",
+      "title": "先氧化再调节酸碱性除铁",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m16",
+      "source_node_ids": [
+        "n-d9bc03add9c81847f4a1"
+      ],
+      "text": "$\\mathrm{Cu^{2+}}$、$\\mathrm{Ag^+}$、$\\mathrm{Pb^{2+}}$ 常用 $\\mathrm{H_2S}$ 或 $\\mathrm{Na_2S}$ 等作沉淀剂；$\\mathrm{Mg^{2+}}$、$\\mathrm{Ca^{2+}}$ 常用 $\\mathrm{HF}$ 或 $\\mathrm{NaF}$ 等作沉淀剂。",
+      "title": "选择常用沉淀剂",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m17",
+      "source_node_ids": [
+        "n-3f3a15bb7cf6904e1730"
+      ],
+      "text": "过滤用于分离难溶物和可溶物，可根据特殊需要采用趁热过滤或抽滤等方法。",
+      "title": "过滤",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m18",
+      "source_node_ids": [
+        "n-3f3a15bb7cf6904e1730"
+      ],
+      "text": "抽滤又称减压过滤，其过滤速度快，并可缩短干燥时间。",
+      "title": "抽滤",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m19",
+      "source_node_ids": [
+        "n-3f3a15bb7cf6904e1730"
+      ],
+      "text": "判断趁热过滤的目的时，先确定目标产物的位置：目标产物在滤渣中时，目的是避免杂质降温析出而降低产品纯度；目标产物在滤液中时，目的是避免产物降温析出而降低产率。",
+      "title": "根据产物位置分析趁热过滤",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m20",
+      "source_node_ids": [
+        "n-3f3a15bb7cf6904e1730"
+      ],
+      "text": "利用物质在互不相溶的溶剂中溶解度不同，通过萃取和分液分离、提纯物质。",
+      "title": "萃取和分液",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m21",
+      "source_node_ids": [
+        "n-3f3a15bb7cf6904e1730",
+        "n-b73360aae22c1632d7ab"
+      ],
+      "text": "蒸发结晶用于提取溶解度随温度升高变化不大的物质，如 $\\mathrm{NaCl}$。除去 $\\mathrm{NaCl}$ 中少量 $\\mathrm{KNO_3}$、获得 $\\mathrm{NaCl}$ 晶体时，可采用蒸发结晶、趁热过滤。",
+      "title": "蒸发结晶",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m22",
+      "source_node_ids": [
+        "n-3f3a15bb7cf6904e1730",
+        "n-b73360aae22c1632d7ab"
+      ],
+      "text": "蒸发浓缩、冷却结晶用于提取溶解度随温度升高明显增大的物质、易水解物质或结晶水合物，如 $\\mathrm{KNO_3}$、$\\mathrm{FeCl_3}$、$\\mathrm{CuSO_4\\cdot5H_2O}$。除去 $\\mathrm{KNO_3}$ 中少量 $\\mathrm{NaCl}$、获得 $\\mathrm{KNO_3}$ 晶体时，可采用该方法。",
+      "title": "蒸发浓缩、冷却结晶",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m23",
+      "source_node_ids": [
+        "n-3f3a15bb7cf6904e1730"
+      ],
+      "text": "蒸馏和分馏用于分离沸点不同且互溶的液体混合物。",
+      "title": "蒸馏和分馏",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m24",
+      "source_node_ids": [
+        "n-3f3a15bb7cf6904e1730",
+        "n-828939638d13aab3bc20"
+      ],
+      "text": "减压蒸馏或减压蒸发通过减小压强降低液体沸点和操作温度。原文列出的目的包括防止物质受热分解或挥发。",
+      "title": "减压蒸馏与减压蒸发",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m25",
+      "source_node_ids": [
+        "n-3f3a15bb7cf6904e1730"
+      ],
+      "text": "利用某些气体易液化的特点分离气体，例如合成氨工业中采用冷却法分离氨气。",
+      "title": "冷却法分离气体",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m26",
+      "source_node_ids": [
+        "n-b73360aae22c1632d7ab"
+      ],
+      "text": "可采用冷水、热水、饱和溶液或有机溶剂洗涤，以减少产品溶解损失；有机溶剂洗涤还能缩短干燥时间。",
+      "title": "产品洗涤",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m27",
+      "source_node_ids": [
+        "n-b73360aae22c1632d7ab"
+      ],
+      "text": "从溶液中析出 $\\mathrm{FeCl_3}$、$\\mathrm{AlCl_3}$ 等溶质时，应在 $\\mathrm{HCl}$ 气流中加热，以防水解。",
+      "title": "在气体氛围中蒸发",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m28",
+      "source_node_ids": [
+        "n-b73360aae22c1632d7ab"
+      ],
+      "text": "重结晶用于提纯晶体。",
+      "title": "重结晶",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m29",
+      "source_node_ids": [
+        "n-133fe37e612df2139505"
+      ],
+      "text": "在流程图上标注每一步的物质，寻找后续步骤生成、前面步骤需要的物质，并注意滤渣和滤液中的成分。流程中加入的物质若在后续步骤中再次产生，可以循环利用；可逆反应中未完全转化的反应物也可循环利用。",
+      "title": "确定流程中的循环物质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m30",
+      "source_node_ids": [
+        "n-133fe37e612df2139505"
+      ],
+      "text": "若母液为产品结晶析出后的饱和溶液，可循环利用以提高产率、减少产品损失；若母液含有流程中加入的过量反应物，也可循环利用。",
+      "title": "判断母液能否循环利用",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-d95b7c3a6eb9d335798c"
+      ],
+      "from": "c1",
+      "to": "c2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d95b7c3a6eb9d335798c"
+      ],
+      "from": "c1",
+      "to": "c3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d95b7c3a6eb9d335798c"
+      ],
+      "from": "m1",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d95b7c3a6eb9d335798c"
+      ],
+      "from": "m2",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a69f8169ac5ea2424430"
+      ],
+      "from": "c3",
+      "to": "c4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a69f8169ac5ea2424430"
+      ],
+      "from": "c3",
+      "to": "m3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a69f8169ac5ea2424430"
+      ],
+      "from": "c3",
+      "to": "m9",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a69f8169ac5ea2424430"
+      ],
+      "from": "c4",
+      "to": "m4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a69f8169ac5ea2424430"
+      ],
+      "from": "c4",
+      "to": "m5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a69f8169ac5ea2424430"
+      ],
+      "from": "c4",
+      "to": "m6",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a69f8169ac5ea2424430"
+      ],
+      "from": "c4",
+      "to": "m7",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a69f8169ac5ea2424430"
+      ],
+      "from": "m8",
+      "to": "c4",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a69f8169ac5ea2424430"
+      ],
+      "from": "m3",
+      "to": "l5",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a69f8169ac5ea2424430"
+      ],
+      "from": "m8",
+      "to": "m3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-31fd37ebaf5d1ae782e5"
+      ],
+      "from": "m10",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-672208dd9b1c042044ce"
+      ],
+      "from": "m11",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-672208dd9b1c042044ce"
+      ],
+      "from": "m12",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-828939638d13aab3bc20"
+      ],
+      "from": "m13",
+      "to": "m24",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3f3a15bb7cf6904e1730",
+        "n-828939638d13aab3bc20"
+      ],
+      "from": "m24",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5272678a127fef850711"
+      ],
+      "from": "m14",
+      "to": "l4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d9bc03add9c81847f4a1"
+      ],
+      "from": "m15",
+      "to": "m14",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3f3a15bb7cf6904e1730"
+      ],
+      "from": "m17",
+      "to": "m18",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3f3a15bb7cf6904e1730"
+      ],
+      "from": "m17",
+      "to": "m19",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3f3a15bb7cf6904e1730"
+      ],
+      "from": "c5",
+      "to": "m20",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b73360aae22c1632d7ab"
+      ],
+      "from": "m21",
+      "to": "m19",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-133fe37e612df2139505"
+      ],
+      "from": "m29",
+      "to": "c2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-133fe37e612df2139505"
+      ],
+      "from": "m30",
+      "to": "c2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-133fe37e612df2139505"
+      ],
+      "from": "m29",
+      "to": "m30",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d9bc03add9c81847f4a1"
+      ],
+      "from": "n-d9bc03add9c81847f4a1",
+      "to": "m15",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c946041e27fedd063c06"
+      ],
+      "from": "n-c946041e27fedd063c06",
+      "to": "m5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c946041e27fedd063c06"
+      ],
+      "from": "n-c946041e27fedd063c06",
+      "to": "m14",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c946041e27fedd063c06"
+      ],
+      "from": "n-c946041e27fedd063c06",
+      "to": "m9",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d162b80fc8cf3d6d23b7"
+      ],
+      "from": "n-d162b80fc8cf3d6d23b7",
+      "to": "m14",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d162b80fc8cf3d6d23b7"
+      ],
+      "from": "n-d162b80fc8cf3d6d23b7",
+      "to": "m29",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d162b80fc8cf3d6d23b7"
+      ],
+      "from": "n-d162b80fc8cf3d6d23b7",
+      "to": "m9",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3fd7e28295eedb2b9f15"
+      ],
+      "from": "n-3fd7e28295eedb2b9f15",
+      "to": "m20",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3fd7e28295eedb2b9f15"
+      ],
+      "from": "n-3fd7e28295eedb2b9f15",
+      "to": "m10",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3fd7e28295eedb2b9f15"
+      ],
+      "from": "n-3fd7e28295eedb2b9f15",
+      "to": "m14",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3fd7e28295eedb2b9f15"
+      ],
+      "from": "n-3fd7e28295eedb2b9f15",
+      "to": "l6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4a91f263d27dcb253833"
+      ],
+      "from": "n-4a91f263d27dcb253833",
+      "to": "m22",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4a91f263d27dcb253833"
+      ],
+      "from": "n-4a91f263d27dcb253833",
+      "to": "m26",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-64f5b74aacfefd34950b",
+  "source_digest": "79af6c00a7f60c9054bdbd68d4abde1eea53f804864b31d573aec54f59ff18d8",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

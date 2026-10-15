@@ -1,0 +1,392 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-8c9e2a9378bf513af4ad"
+      ],
+      "text": "表示含有一定数目粒子的集合体的物理量，符号是 $n$，单位为 $\\mathrm{mol}$（摩尔）。描述对象是微观粒子，如分子、原子、离子、中子、质子、电子等。",
+      "title": "物质的量",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-c92992a509330e1b0a4b"
+      ],
+      "text": "$1\\ \\mathrm{mol}$ 任何粒子的粒子数，符号是 $N_{\\mathrm{A}}$，单位为 $\\mathrm{mol^{-1}}$。$1\\ \\mathrm{mol}$ 粒子集合体所含的粒子数约为 $6.02\\times10^{23}$。",
+      "title": "阿伏加德罗常数",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-6fc1bbfd73b02d0fd227"
+      ],
+      "text": "单位物质的量的物质所具有的质量，符号是 $M$，常用单位为 $\\mathrm{g\\cdot mol^{-1}}$。",
+      "title": "摩尔质量",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-baf92fdd0af6922d3eff"
+      ],
+      "text": "一定温度和压强下，单位物质的量的气体所占的体积，符号是 $V_{\\mathrm{m}}$，常用单位为 $\\mathrm{L\\cdot mol^{-1}}$。适用对象是气体，大小与温度、压强有关。",
+      "title": "气体摩尔体积",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-baf92fdd0af6922d3eff"
+      ],
+      "text": "标准状况为 $0\\ ^\\circ\\mathrm{C}$、$101\\ \\mathrm{kPa}$，不是常温常压。",
+      "title": "标准状况",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-c92992a509330e1b0a4b"
+      ],
+      "text": "微粒的数目（$N$）、物质的量（$n$）与阿伏加德罗常数的关系为 $N=n\\cdot N_{\\mathrm{A}}$。",
+      "title": "微粒数与物质的量的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-6fc1bbfd73b02d0fd227"
+      ],
+      "text": "物质的质量（$m$）、物质的量（$n$）与摩尔质量（$M$）的关系为 $m=n\\cdot M$。",
+      "title": "质量与物质的量的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-6fc1bbfd73b02d0fd227"
+      ],
+      "text": "摩尔质量以 $\\mathrm{g\\cdot mol^{-1}}$ 为单位时，在数值上等于该物质的相对原子质量或相对分子质量。",
+      "title": "摩尔质量与相对原子质量或相对分子质量的数值关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-baf92fdd0af6922d3eff"
+      ],
+      "text": "气体的体积（$V$）、物质的量（$n$）与气体摩尔体积的关系为 $V=n\\cdot V_{\\mathrm{m}}$。气体摩尔体积的取值与温度、压强有关。",
+      "title": "气体体积与物质的量的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-baf92fdd0af6922d3eff"
+      ],
+      "text": "在标准状况（$0\\ ^\\circ\\mathrm{C}$，$101\\ \\mathrm{kPa}$）下，$V_{\\mathrm{m}}\\approx22.4\\ \\mathrm{L\\cdot mol^{-1}}$。非标准状况下，气体摩尔体积可能是 $22.4\\ \\mathrm{L\\cdot mol^{-1}}$，也可能不是；$1\\ \\mathrm{mol}$ 气体的体积若为 $22.4\\ \\mathrm{L}$，所处状况不一定是标准状况。",
+      "title": "标准状况下的气体摩尔体积及其条件限制",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-cd0ad81751afb2c843df"
+      ],
+      "text": "同温同压下，相同体积的任何气体含有相同数目的分子，或物质的量相同。同温、同压、同体积的任何气体的分子数相等，但各自的原子总数不一定相等。",
+      "title": "阿伏加德罗定律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-1a48562005a9150e4de5"
+      ],
+      "text": "同温、同压下，气体的体积与其物质的量成正比：$\\dfrac{V_1}{V_2}=\\dfrac{n_1}{n_2}$。",
+      "title": "同温同压下气体体积与物质的量之比",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-1a48562005a9150e4de5"
+      ],
+      "text": "同温、同压下，气体的密度与其摩尔质量成正比：$\\dfrac{\\rho_1}{\\rho_2}=\\dfrac{M_1}{M_2}$。",
+      "title": "同温同压下气体密度与摩尔质量之比",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-1a48562005a9150e4de5"
+      ],
+      "text": "同温、同体积下，气体的压强与其物质的量成正比：$\\dfrac{p_1}{p_2}=\\dfrac{n_1}{n_2}$。",
+      "title": "同温同体积下气体压强与物质的量之比",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-1a48562005a9150e4de5"
+      ],
+      "text": "根据同温同压或同温同体积的条件，运用 $pV=nRT$、$n=\\dfrac{m}{M}$ 及 $\\rho=\\dfrac{m}{V}$，导出气体体积与物质的量、密度与摩尔质量、压强与物质的量的比例关系。",
+      "title": "阿伏加德罗定律推论的推导",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-baf92fdd0af6922d3eff"
+      ],
+      "text": "应用气体摩尔体积时，先确认对象是气体，并核对温度、压强条件。标准状况为 $0\\ ^\\circ\\mathrm{C}$、$101\\ \\mathrm{kPa}$，此时使用 $V_{\\mathrm{m}}\\approx22.4\\ \\mathrm{L\\cdot mol^{-1}}$；不能仅凭 $1\\ \\mathrm{mol}$ 气体的体积为 $22.4\\ \\mathrm{L}$ 判定其处于标准状况。",
+      "title": "气体摩尔体积的适用条件检查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-c92992a509330e1b0a4b"
+      ],
+      "from": "c2",
+      "to": "l1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c92992a509330e1b0a4b"
+      ],
+      "from": "c1",
+      "to": "l1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6fc1bbfd73b02d0fd227"
+      ],
+      "from": "c3",
+      "to": "l2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6fc1bbfd73b02d0fd227"
+      ],
+      "from": "c3",
+      "to": "l3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-baf92fdd0af6922d3eff"
+      ],
+      "from": "c4",
+      "to": "l4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-baf92fdd0af6922d3eff"
+      ],
+      "from": "c5",
+      "to": "l5",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1a48562005a9150e4de5"
+      ],
+      "from": "l6",
+      "to": "l7",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1a48562005a9150e4de5"
+      ],
+      "from": "l6",
+      "to": "l8",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1a48562005a9150e4de5"
+      ],
+      "from": "l6",
+      "to": "l9",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1a48562005a9150e4de5"
+      ],
+      "from": "m1",
+      "to": "l7",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1a48562005a9150e4de5"
+      ],
+      "from": "m1",
+      "to": "l8",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1a48562005a9150e4de5"
+      ],
+      "from": "m1",
+      "to": "l9",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-baf92fdd0af6922d3eff"
+      ],
+      "from": "m2",
+      "to": "l5",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e12e12b0e81b96c74c6e"
+      ],
+      "from": "n-e12e12b0e81b96c74c6e",
+      "to": "c3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e12e12b0e81b96c74c6e"
+      ],
+      "from": "n-e12e12b0e81b96c74c6e",
+      "to": "c1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7cacf5999f7c14130094"
+      ],
+      "from": "n-7cacf5999f7c14130094",
+      "to": "c4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7cacf5999f7c14130094"
+      ],
+      "from": "n-7cacf5999f7c14130094",
+      "to": "l6",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-02d806aa148ef833090c"
+      ],
+      "from": "n-02d806aa148ef833090c",
+      "to": "l1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-02d806aa148ef833090c"
+      ],
+      "from": "n-02d806aa148ef833090c",
+      "to": "l2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-02d806aa148ef833090c"
+      ],
+      "from": "n-02d806aa148ef833090c",
+      "to": "l4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-02d806aa148ef833090c"
+      ],
+      "from": "n-02d806aa148ef833090c",
+      "to": "l8",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1c0bf0c88ded1ad99be7"
+      ],
+      "from": "n-1c0bf0c88ded1ad99be7",
+      "to": "l6",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1c0bf0c88ded1ad99be7"
+      ],
+      "from": "n-1c0bf0c88ded1ad99be7",
+      "to": "l8",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1c0bf0c88ded1ad99be7"
+      ],
+      "from": "n-1c0bf0c88ded1ad99be7",
+      "to": "l9",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1ee0dc0a49c674d53dd6"
+      ],
+      "from": "n-1ee0dc0a49c674d53dd6",
+      "to": "l1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1ee0dc0a49c674d53dd6"
+      ],
+      "from": "n-1ee0dc0a49c674d53dd6",
+      "to": "c4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-d504d41c7a3dcb8848dd",
+  "source_digest": "4d7d7a29a9f10752a1ab863d26fa557ba0677fe4dbdf714e93587b755d2633d8",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

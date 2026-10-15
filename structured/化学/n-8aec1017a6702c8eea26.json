@@ -1,0 +1,371 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-177f0c06f8b718b6ddbc"
+      ],
+      "text": "化学反应的实质是原子间的重新组合，反应中存在质量守恒、元素守恒、原子守恒、得失电子守恒、电荷守恒等现象。",
+      "title": "化学反应中的守恒",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-60f9639c549081ac7d8a"
+      ],
+      "text": "化学反应前后的“差量”包括质量差、气体体积差、物质的量差、气体压强差等。",
+      "title": "差量",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-e6a1e3f3938ea4c3e51d"
+      ],
+      "text": "理论差量是根据化学方程式求出的理论上的差值；实际差量是结合题中条件求出或表示出的实际差值。",
+      "title": "理论差量与实际差量",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-177f0c06f8b718b6ddbc"
+      ],
+      "text": "化学方程式遵循质量守恒定律。宏观上：$m(\\text{参加反应的反应物})=m(\\text{反应生成的生成物})$。",
+      "title": "质量守恒定律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-177f0c06f8b718b6ddbc"
+      ],
+      "text": "化学反应中，各元素原子个数守恒。",
+      "title": "原子守恒",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-177f0c06f8b718b6ddbc"
+      ],
+      "text": "化合物中正化合价总数 $=|\\text{负化合价总数}|$。",
+      "title": "化合物中化合价的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-177f0c06f8b718b6ddbc"
+      ],
+      "text": "电解质溶液中，所有阳离子所带正电荷总数 $=$ 所有阴离子所带负电荷总数。",
+      "title": "电解质溶液中的电荷守恒",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-177f0c06f8b718b6ddbc"
+      ],
+      "text": "离子反应的等号两边符合电荷守恒。",
+      "title": "离子反应中的电荷守恒",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-177f0c06f8b718b6ddbc"
+      ],
+      "text": "对于单一氧化还原反应，氧化剂得电子总数 $=$ 还原剂失电子总数。",
+      "title": "氧化还原反应中的得失电子守恒",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-177f0c06f8b718b6ddbc"
+      ],
+      "text": "电化学过程中，阳（负）极失电子总数 $=$ 阴（正）极得电子总数。",
+      "title": "电化学中的得失电子守恒",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-177f0c06f8b718b6ddbc"
+      ],
+      "text": "串联的原电池（电解池），各极上转移电子数相等。",
+      "title": "串联电池的电子转移关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-60f9639c549081ac7d8a"
+      ],
+      "text": "差量法依据的数量关系是：化学反应前后的某些差量与反应物或生成物的量成正比，可据此列比例式。",
+      "title": "差量与反应物或生成物的比例关系",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-177f0c06f8b718b6ddbc",
+        "n-7f2e24ff4249c1c4a2ec"
+      ],
+      "text": "利用质量、元素、原子、得失电子、电荷等守恒关系解题，着眼于始态和终态。步骤：①明确题目要求解的量；②分析反应过程中物质的变化，找出守恒类型及相关的量；③梳理前后守恒的量，列式计算。",
+      "title": "守恒法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-177f0c06f8b718b6ddbc"
+      ],
+      "text": "对于多个连续的氧化还原反应，找出化合价在变化前后真正变化的物质及所反应的量，再运用得失电子守恒关系。",
+      "title": "连续氧化还原反应的守恒分析",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-60f9639c549081ac7d8a",
+        "n-e6a1e3f3938ea4c3e51d"
+      ],
+      "text": "当反应前后的某些差量与反应物或生成物的量成正比时，将差量看作化学方程式右端的一项，列比例式求解。步骤：①明确产生差量的原因，根据化学方程式求出理论差量；②结合题中条件求出或表示出实际差量；③列比例式求解。",
+      "title": "差量法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-a85caaa851081124dcdc"
+      ],
+      "text": "适用于多步反应：根据各步反应的化学方程式，找出起始物质与最终物质之间的量的关系，据此列比例式计算。可节省不必要的中间运算步骤，避免计算错误。",
+      "title": "关系式法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-086fd6e3255549003503"
+      ],
+      "text": "写出各步反应的化学方程式，再逐一递进找出关系式；若是氧化还原反应，可直接根据得失电子守恒写出关系式。",
+      "title": "逐步递进建立关系式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-086fd6e3255549003503"
+      ],
+      "text": "根据某原子守恒，直接写出关系式。",
+      "title": "利用原子守恒直接建立关系式",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-177f0c06f8b718b6ddbc"
+      ],
+      "from": "m1",
+      "to": "c1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-177f0c06f8b718b6ddbc"
+      ],
+      "from": "m1",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-177f0c06f8b718b6ddbc"
+      ],
+      "from": "m1",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-177f0c06f8b718b6ddbc"
+      ],
+      "from": "m1",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-177f0c06f8b718b6ddbc"
+      ],
+      "from": "m1",
+      "to": "l4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-177f0c06f8b718b6ddbc"
+      ],
+      "from": "m1",
+      "to": "l5",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-177f0c06f8b718b6ddbc"
+      ],
+      "from": "m1",
+      "to": "l6",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-177f0c06f8b718b6ddbc"
+      ],
+      "from": "m1",
+      "to": "l7",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-177f0c06f8b718b6ddbc"
+      ],
+      "from": "m1",
+      "to": "l8",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-177f0c06f8b718b6ddbc"
+      ],
+      "from": "m1",
+      "to": "m2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-177f0c06f8b718b6ddbc"
+      ],
+      "from": "l1",
+      "to": "l2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-60f9639c549081ac7d8a"
+      ],
+      "from": "m3",
+      "to": "c2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e6a1e3f3938ea4c3e51d"
+      ],
+      "from": "m3",
+      "to": "c3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-60f9639c549081ac7d8a"
+      ],
+      "from": "m3",
+      "to": "l9",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a85caaa851081124dcdc",
+        "n-086fd6e3255549003503"
+      ],
+      "from": "m4",
+      "to": "m5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a85caaa851081124dcdc",
+        "n-086fd6e3255549003503"
+      ],
+      "from": "m4",
+      "to": "m6",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-086fd6e3255549003503",
+        "n-177f0c06f8b718b6ddbc"
+      ],
+      "from": "m5",
+      "to": "l6",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-086fd6e3255549003503",
+        "n-177f0c06f8b718b6ddbc"
+      ],
+      "from": "m6",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2ca5172b0cca99296427"
+      ],
+      "from": "n-2ca5172b0cca99296427",
+      "to": "l4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2ca5172b0cca99296427"
+      ],
+      "from": "n-2ca5172b0cca99296427",
+      "to": "l6",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3a36650d058fe7f4a432"
+      ],
+      "from": "n-3a36650d058fe7f4a432",
+      "to": "m3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-8aec1017a6702c8eea26",
+  "source_digest": "80d42230147adffe46cdeb1ee0f06f004f39bff36f07582b39f68273b37f8f73",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}
