@@ -1,0 +1,395 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-f83f71dc08b47c7fac32"
+      ],
+      "text": "热化学方程式表明化学反应中的物质变化和能量变化。",
+      "title": "热化学方程式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-f83f71dc08b47c7fac32"
+      ],
+      "text": "$\\Delta H$ 单位中的“$\\mathrm{mol^{-1}}$”指每摩尔反应，而不是每摩尔某物质；$\\Delta H$ 的数值必须与具体化学方程式对应。无论化学反应是否可逆，热化学方程式中的 $\\Delta H$ 都表示反应进行到底时的能量变化。",
+      "title": "热化学方程式中焓变的含义",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-f83f71dc08b47c7fac32"
+      ],
+      "text": "热化学方程式中各物质的聚集状态用固态（$\\mathrm{s}$）、液态（$\\mathrm{l}$）、气态（$\\mathrm{g}$）、水溶液（$\\mathrm{aq}$）表示。",
+      "title": "物质聚集状态的表示",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-60f13e566f2315afae90"
+      ],
+      "text": "不管化学反应是一步完成还是分几步完成，其反应热是相同的。化学反应的反应热只与反应体系的始态和终态有关，而与反应的途径无关。",
+      "title": "盖斯定律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-f83f71dc08b47c7fac32",
+        "n-4d7b5875a65dcb82e080"
+      ],
+      "text": "吸热反应 $\\Delta H>0$，放热反应 $\\Delta H<0$，因此吸热反应的 $\\Delta H$ 大于放热反应的 $\\Delta H$。",
+      "title": "反应吸放热与焓变符号",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-f83f71dc08b47c7fac32"
+      ],
+      "text": "若化学方程式中各物质的化学计量数加倍，则 $\\Delta H$ 的数值也加倍；若化学方程式逆向书写，则 $\\Delta H$ 改变符号，但绝对值不变。",
+      "title": "方程式变换与焓变的对应关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-4d7b5875a65dcb82e080"
+      ],
+      "text": "对于同一可燃物，完全燃烧比不完全燃烧放出的热量更多，$\\Delta H$ 更小。",
+      "title": "燃烧程度与反应热",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-d904d73390271f5a6655"
+      ],
+      "text": "离子电荷相同时，半径越小，离子键越强。",
+      "title": "离子半径与离子键强弱",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-f83f71dc08b47c7fac32"
+      ],
+      "text": "写出正确的化学方程式，注明反应的温度和压强，$25\\ ℃$、$101\\ \\mathrm{kPa}$ 下的反应可不注明。注明各物质的聚集状态，不用“$\\uparrow$”和“$\\downarrow$”。吸热反应 $\\Delta H$ 的数值为“$+$”，放热反应为“$-$”。化学计量数可以是整数或分数，但 $\\Delta H$ 的数值必须与具体化学方程式对应。",
+      "title": "热化学方程式的书写",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-d98f079f107f364d10d2"
+      ],
+      "text": "根据反应物和生成物的能量计算：$\\Delta H=\\text{生成物的总能量}-\\text{反应物的总能量}$。",
+      "title": "根据物质总能量计算反应热",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-d98f079f107f364d10d2"
+      ],
+      "text": "根据键能计算：$\\Delta H=\\text{反应物的键能总和}-\\text{生成物的键能总和}$。",
+      "title": "根据键能计算反应热",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-d98f079f107f364d10d2"
+      ],
+      "text": "根据反应的活化能计算：$\\Delta H=\\text{正反应的活化能}-\\text{逆反应的活化能}$。",
+      "title": "根据活化能计算反应热",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-60f13e566f2315afae90",
+        "n-d98f079f107f364d10d2"
+      ],
+      "text": "对于难以直接测定反应热的反应，可利用盖斯定律间接计算。常用方法包括虚拟路径法、留元法和消元法；部分题目需要同时使用留元法和消元法。",
+      "title": "根据盖斯定律计算反应热",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-d98f079f107f364d10d2"
+      ],
+      "text": "构造始态和终态相同的不同反应路径，将分步反应的焓变相加。原文中 $\\mathrm{A\\rightarrow D}$ 可经由 $\\mathrm{A}\\xrightarrow{\\Delta H_1}\\mathrm{B}\\xrightarrow{\\Delta H_2}\\mathrm{C}\\xrightarrow{\\Delta H_3}\\mathrm{D}$ 完成，则有 $\\Delta H=\\Delta H_1+\\Delta H_2+\\Delta H_3$。",
+      "title": "虚拟路径法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-d98f079f107f364d10d2"
+      ],
+      "text": "对比已知与目标热化学方程式，找出目标方程式中有、且在已知方程式中只出现一次的物质 $\\mathrm{X}$。统一其化学计量数：$\\mathrm{X}$ 在目标与已知方程式同边时，将已知方程式的 $\\Delta H$ 乘以“$+n$”；异边时乘以“$-n$”。将所得各焓变的倍数关系相加并计算，检查相加后的方程式是否为目标热化学方程式。",
+      "title": "留元法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-d98f079f107f364d10d2"
+      ],
+      "text": "选择目标热化学方程式中没有、但在已知热化学方程式中出现两次的物质 $\\mathrm{Y}$。调整已知方程式的化学计量数或适当颠倒方程式，再叠加消去 $\\mathrm{Y}$，直至得到目标方程式。消元过程中的加减和倍数关系即为焓变的加减和倍数关系。",
+      "title": "消元法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m9",
+      "source_node_ids": [
+        "n-4d7b5875a65dcb82e080"
+      ],
+      "text": "比较反应热时，依次关注能量变化、物质状态、反应程度和反应之间的关系。先判断吸热或放热；仅物质状态不同时，可结合状态转化与盖斯定律比较；同一可燃物可比较完全燃烧与不完全燃烧；多个反应之间存在关系时，可利用盖斯定律比较。",
+      "title": "反应热大小的比较步骤",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m10",
+      "source_node_ids": [
+        "n-4d7b5875a65dcb82e080"
+      ],
+      "text": "若两个反应仅物质状态不同，可写出不同状态之间的转化式，利用盖斯定律确定焓变关系。原文以生成气态水和液态水的反应为例，由 $\\mathrm{H_2O(l)=H_2O(g)}$ 的焓变 $\\Delta H_3$ 得到 $\\Delta H_1=\\Delta H_2+2\\Delta H_3$；汽化吸热，$\\Delta H_3>0$，故 $\\Delta H_1>\\Delta H_2$。",
+      "title": "利用状态转化比较反应热",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m11",
+      "source_node_ids": [
+        "n-4d7b5875a65dcb82e080"
+      ],
+      "text": "找出多个反应之间的关系，利用盖斯定律建立焓变关系后比较大小。例如已有 $\\Delta H_1=\\Delta H_2-\\Delta H_3$，且已知 $\\Delta H_1>0$，则 $\\Delta H_2-\\Delta H_3>0$，故 $\\Delta H_2>\\Delta H_3$。",
+      "title": "利用反应关系比较反应热",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m12",
+      "source_node_ids": [
+        "n-4d7b5875a65dcb82e080"
+      ],
+      "text": "对于物质状态不同的反应，可利用能量图比较反应热。原文中反应物均为 $\\mathrm{2H_2(g)+O_2(g)}$，生成物分别为 $\\mathrm{2H_2O(g)}$ 和 $\\mathrm{2H_2O(l)}$；图示液态水能级更低，且两反应均放热，故 $|\\Delta H_2|>|\\Delta H_1|$，$\\Delta H_2<\\Delta H_1$。",
+      "title": "利用能量图比较反应热",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-f83f71dc08b47c7fac32"
+      ],
+      "from": "c1",
+      "to": "c2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f83f71dc08b47c7fac32"
+      ],
+      "from": "c3",
+      "to": "m1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f83f71dc08b47c7fac32"
+      ],
+      "from": "c2",
+      "to": "m1",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f83f71dc08b47c7fac32"
+      ],
+      "from": "l2",
+      "to": "m1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-60f13e566f2315afae90",
+        "n-d98f079f107f364d10d2"
+      ],
+      "from": "l1",
+      "to": "m5",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d98f079f107f364d10d2"
+      ],
+      "from": "m5",
+      "to": "m6",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d98f079f107f364d10d2"
+      ],
+      "from": "m5",
+      "to": "m7",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d98f079f107f364d10d2"
+      ],
+      "from": "m5",
+      "to": "m8",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d98f079f107f364d10d2"
+      ],
+      "from": "m7",
+      "to": "m8",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4d7b5875a65dcb82e080"
+      ],
+      "from": "l2",
+      "to": "m9",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4d7b5875a65dcb82e080"
+      ],
+      "from": "l4",
+      "to": "m9",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4d7b5875a65dcb82e080"
+      ],
+      "from": "m9",
+      "to": "m10",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4d7b5875a65dcb82e080"
+      ],
+      "from": "m9",
+      "to": "m11",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4d7b5875a65dcb82e080"
+      ],
+      "from": "m9",
+      "to": "m12",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4d7b5875a65dcb82e080"
+      ],
+      "from": "l1",
+      "to": "m10",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4d7b5875a65dcb82e080"
+      ],
+      "from": "l1",
+      "to": "m11",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c4b851dd82c10a6a3941"
+      ],
+      "from": "n-c4b851dd82c10a6a3941",
+      "to": "m5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c4b851dd82c10a6a3941"
+      ],
+      "from": "n-c4b851dd82c10a6a3941",
+      "to": "c3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-dfadbf7ef7a00163c9b8"
+      ],
+      "from": "n-dfadbf7ef7a00163c9b8",
+      "to": "m9",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-dfadbf7ef7a00163c9b8"
+      ],
+      "from": "n-dfadbf7ef7a00163c9b8",
+      "to": "m5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d904d73390271f5a6655"
+      ],
+      "from": "n-d904d73390271f5a6655",
+      "to": "l5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d904d73390271f5a6655"
+      ],
+      "from": "n-d904d73390271f5a6655",
+      "to": "m6",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-597abe9a8d8682fbce4c",
+  "source_digest": "46e016d784098732035e86931bcb308707b81a777708525da63a32148195091a",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

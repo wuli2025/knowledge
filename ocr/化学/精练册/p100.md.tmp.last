@@ -1,0 +1,186 @@
+<!-- page 100 -->
+
+## 三年模拟
+
+答案 P405
+
+7. ★★【不定项】（2025届山东青岛一模，11）下列实验操作、现象及结论分析均正确的是（　　）
+
+| 选项 | 操作 | 现象 | 结论 |
+|---|---|---|---|
+| A | 向某溶液中滴加盐酸，将产生的气体通入品红溶液 | 品红溶液褪色 | 该溶液中含有 $\mathrm{SO_3^{2-}}$ 或 $\mathrm{HSO_3^-}$ |
+| B | 用 $\mathrm{pH}$ 试纸分别测定等物质的量浓度的 $\mathrm{NaClO}$ 溶液与 $\mathrm{CH_3COONa}$ 溶液的 $\mathrm{pH}$ | 前者的 $\mathrm{pH}$ 大于后者的 $\mathrm{pH}$ | 酸性：$\mathrm{CH_3COOH>HClO}$ |
+| C | 将 $\mathrm{NaHCO_3}$ 溶液滴入 $\mathrm{Na[Al(OH)_4]}$ 溶液 | 有白色沉淀产生 | $\mathrm{[Al(OH)_4]^-}$ 和 $\mathrm{HCO_3^-}$ 相互促进水解 |
+| D | 分别向 $\mathrm{MgCl_2}$ 溶液和 $\mathrm{AlCl_3}$ 溶液滴加 $\mathrm{NaOH}$ 溶液至过量 | $\mathrm{MgCl_2}$ 溶液中产生白色沉淀，$\mathrm{AlCl_3}$ 溶液中先产生白色沉淀，后沉淀消失 | 失电子能力：$\mathrm{Mg>Al}$ |
+
+8. ★★★（2026届北京朝阳期中，14）为探究溶液 $\mathrm{pH}$ 对 $\mathrm{Fe^{3+}}$ 水解平衡的影响，向稀 $\mathrm{Fe(NO_3)_3}$ 溶液中分别加入不同的酸（控制温度不变，忽略溶液体积变化）。实验过程及现象如下。
+
+| 编号 | ① | ② | ③ | ④ | ⑤ | ⑥ | ⑦ |
+|---|---|---|---|---|---|---|---|
+| 试剂 | 无 | 浓盐酸 | 浓盐酸 | 浓硝酸 | 浓硝酸 | 浓硫酸 | 浓硫酸 |
+| 体积/滴 | — | 2 | 10 | 2 | 10 | 2 | 10 |
+| 现象 | 黄色 | 均为黄色，颜色深浅：②＜①＜③ | 均为黄色，颜色深浅：②＜①＜③ | 接近无色 | 浅黄色 | 均接近无色 | 均接近无色 |
+
+已知：$\mathrm{[FeCl_4]^-}$ 为黄色，浓度较小时 $\mathrm{[Fe(H_2O)_6]^{3+}}$（用 $\mathrm{Fe^{3+}}$ 表示）几乎无色。
+
+下列分析不正确的是（　　）
+
+A. ①中溶液显黄色的原因是 $\mathrm{Fe^{3+}}$ 发生了水解
+
+B. 加入浓盐酸促进 $\mathrm{Fe^{3+}+4Cl^-\rightleftharpoons [FeCl_4]^-}$ 平衡正向移动
+
+C. 少量浓盐酸使 $\mathrm{Fe^{3+}}$ 水解平衡逆向移动，过量浓盐酸使 $\mathrm{Fe^{3+}}$ 水解平衡正向移动
+
+D. 探究 $\mathrm{pH}$ 对 $\mathrm{Fe^{3+}}$ 水解平衡的影响，最好选用稀 $\mathrm{Fe(NO_3)_3}$ 溶液和浓硫酸
+
+9. ★★★【教考衔接：鲁科版选必1第3章第2节】（2025届广东广州第一次调研，16）$25\ ℃$ 时，向三羟甲基甲胺（简写为 $\mathrm{RNH_2}$）与其盐酸盐（$\mathrm{RNH_3^+Cl^-}$）组成的 $10\ \mathrm{mL}$ 混合溶液中，分别逐滴滴入 $0.02\ \mathrm{mol\cdot L^{-1}}$ 盐酸和 $0.02\ \mathrm{mol\cdot L^{-1}}$ $\mathrm{NaOH}$ 溶液，测得 $\mathrm{pH}$ 与滴入溶液体积的关系如图所示。已知：起始时，$c(\mathrm{RNH_2})=0.02\ \mathrm{mol\cdot L^{-1}}$，图中Ⅰ、Ⅱ、Ⅲ分别表示起始时 $c(\mathrm{RNH_2}):c(\mathrm{RNH_3^+Cl^-})$ 为 $1:1$、$1:3$、$1:4$ 的曲线。下列说法正确的是（　　）
+
+[图：纵轴为 $\mathrm{pH}$，标有 $5、6、7、8、9$；横轴以纵轴处为起点，向左为 $V[\mathrm{HCl(aq)}]/\mathrm{mL}$，向右为 $V[\mathrm{NaOH(aq)}]/\mathrm{mL}$，左右均标有 $5.0$。三条曲线自左向右升高，自上而下依次为Ⅰ、Ⅱ、Ⅲ。曲线Ⅰ与纵轴相交处标有 $8.14$ 及点 $a$，曲线Ⅲ与纵轴相交处标有点 $b$，曲线Ⅲ上位于 $b$ 左下方处标有点 $c$。]
+
+A. $K_{\mathrm b}(\mathrm{RNH_2})$ 的数量级为 $10^{-5}$
+
+B. 溶液中水的电离程度：$c<a<b$
+
+C. 当 $V[\mathrm{NaOH(aq)}]=10\ \mathrm{mL}$ 时，各混合溶液中都有 $c(\mathrm{RNH_3^+})+c(\mathrm{H^+})>c(\mathrm{OH^-})$
+
+D. 三羟甲基甲胺与其盐酸盐可组成缓冲体系
+
+10. ★★★【不定项】（2025届山东烟台、德州二模，15）$\mathrm{H_2A}$ 为二元弱酸，其电离常数分别为 $K_{\mathrm{a}_1}$、$K_{\mathrm{a}_2}$，且 $K_{\mathrm{a}_1}\cdot K_{\mathrm{a}_2}<K_{\mathrm w}$。$25\ ℃$ 时，浓度为 $c_0\ \mathrm{mol\cdot L^{-1}}$ 的 $\mathrm{NaHA}$ 溶液中 $\mathrm{pX}$ 与 $\mathrm{p}c_0$ 的关系如图所示［其中 $\mathrm{pX}=-\lg c(\mathrm X)$，$\mathrm X$ 代表 $\mathrm{H_2A}$、$\mathrm{H^+}$、$\mathrm{OH^-}$ 和 $\mathrm{A^{2-}}$；$\mathrm{p}c_0=-\lg c_0$］。下列说法正确的是（　　）
+
+[图：横轴为 $\mathrm{p}c_0$，刻度为 $1$ 至 $6$；纵轴为 $\mathrm{pX}$，刻度为 $3$ 至 $9$。曲线①先近似水平，后向右下方弯曲；曲线②先近似水平，后向右上方弯曲；曲线③、④从左下方向右上方延伸。图中标出 $\mathrm M(1,8.3)$、$(1,3)$、$\mathrm P(2,4)$；$\mathrm N$ 位于 $\mathrm{p}c_0=5$ 附近，为曲线①与上升曲线的交点。]
+
+A. 曲线③代表 $\mathrm{pH_2A}$
+
+B. $K_{\mathrm{a}_1}$ 约为 $1.0\times10^{-6.3}$
+
+C. $\mathrm{p}c_0=5$ 时，溶液中 $c(\mathrm{H_2A})>c(\mathrm{A^{2-}})>c(\mathrm{OH^-})>c(\mathrm{H^+})$
+
+D. $\mathrm M$、$\mathrm N$、$\mathrm P$ 三点对应的溶液中水的电离程度：$\mathrm M<\mathrm P<\mathrm N$
+
+<!-- page 101 -->
+
+# 第4节　沉淀溶解平衡
+
+## 五年高考
+
+答案 P406
+
+1. ★★★（2024浙江1月选考，15，3分）常温下，将等体积、浓度均为 $0.40\ \mathrm{mol\cdot L^{-1}}$ $\mathrm{BaCl_2}$ 溶液与新制 $\mathrm{H_2SO_3}$ 溶液混合，出现白色浑浊；再滴加过量的 $\mathrm{H_2O_2}$ 溶液，振荡，出现白色沉淀。
+
+已知：$\mathrm{H_2SO_3}$ 的 $K_{\mathrm{a}_1}=1.4\times10^{-2}$，$K_{\mathrm{a}_2}=6.0\times10^{-8}$；$K_{\mathrm{sp}}(\mathrm{BaSO_3})=5.0\times10^{-10}$；$K_{\mathrm{sp}}(\mathrm{BaSO_4})=1.1\times10^{-10}$。
+
+下列说法不正确的是（　　）
+
+A. $\mathrm{H_2SO_3}$ 溶液中存在 $c(\mathrm{H^+})>c(\mathrm{HSO_3^-})>c(\mathrm{SO_3^{2-}})>c(\mathrm{OH^-})$
+
+B. 将 $0.40\ \mathrm{mol\cdot L^{-1}}$ $\mathrm{H_2SO_3}$ 溶液稀释到 $0.20\ \mathrm{mol\cdot L^{-1}}$，$c(\mathrm{SO_3^{2-}})$ 几乎不变
+
+C. $\mathrm{BaCl_2}$ 溶液与 $\mathrm{H_2SO_3}$ 溶液混合后出现的白色浑浊不含有 $\mathrm{BaSO_3}$
+
+D. 存在反应 $\mathrm{Ba^{2+}+H_2SO_3+H_2O_2=BaSO_4\downarrow+2H^++H_2O}$ 是出现白色沉淀的主要原因
+
+2. ★★★（2023全国乙，13，6分）一定温度下，$\mathrm{AgCl}$ 和 $\mathrm{Ag_2CrO_4}$ 的沉淀溶解平衡曲线如图所示。
+
+[图：纵轴为 $-\lg[c(\mathrm{Ag^+})/(\mathrm{mol\cdot L^{-1}})]$，刻度为 $0$ 至 $8$；横轴为 $-\lg[c(\mathrm{Cl^-})/(\mathrm{mol\cdot L^{-1}})]$ 或 $-\lg[c(\mathrm{CrO_4^{2-}})/(\mathrm{mol\cdot L^{-1}})]$，刻度为 $0$ 至 $12$。两条直线均向右下方倾斜，$\mathrm{AgCl}$ 直线较陡，经过 $(4.8,5)$；$\mathrm{Ag_2CrO_4}$ 直线较缓，经过 $(1.7,5)$。两直线交于点 $b$；点 $a$ 位于左上部，处于 $\mathrm{AgCl}$ 直线的右上方。]
+
+下列说法正确的是（　　）
+
+A. $a$ 点条件下能生成 $\mathrm{Ag_2CrO_4}$ 沉淀，也能生成 $\mathrm{AgCl}$ 沉淀
+
+B. $b$ 点时，$c(\mathrm{Cl^-})=c(\mathrm{CrO_4^{2-}})$，$K_{\mathrm{sp}}(\mathrm{AgCl})=K_{\mathrm{sp}}(\mathrm{Ag_2CrO_4})$
+
+C. $\mathrm{Ag_2CrO_4+2Cl^-\rightleftharpoons 2AgCl+CrO_4^{2-}}$ 的平衡常数 $K=10^{7.9}$
+
+D. 向 $\mathrm{NaCl}$、$\mathrm{Na_2CrO_4}$ 均为 $0.1\ \mathrm{mol\cdot L^{-1}}$ 的混合溶液中滴加 $\mathrm{AgNO_3}$ 溶液，先产生 $\mathrm{Ag_2CrO_4}$ 沉淀
+
+3. ★★★（2025浙江6月选考，15，3分）已知：$\mathrm{AgCl(s)\rightleftharpoons Ag^+(aq)+Cl^-(aq)}$　$K_{\mathrm{sp}}=1.8\times10^{-10}$
+
+$\mathrm{Ag^+(aq)+2Cl^-(aq)\rightleftharpoons [AgCl_2]^-(aq)}$　$K=1.1\times10^5$
+
+下列有关说法不正确的是（　　）
+
+A. 过量 $\mathrm{AgCl}$ 在 $1.0\ \mathrm{mol/L}$ $\mathrm{NaCl}$ 溶液中，$c(\mathrm{Ag^+})=1.8\times10^{-10}\ \mathrm{mol/L}$
+
+B. 过量 $\mathrm{AgCl}$ 在水中所得的饱和溶液中滴加 $0.001\ \mathrm{mol/L}$ $\mathrm{AgNO_3}$ 溶液，有 $\mathrm{AgCl}$ 生成
+
+C. 过量 $\mathrm{AgCl}$ 在水中溶解的质量大于在相同体积 $3.0\ \mathrm{mol/L}$ $\mathrm{NaCl}$ 溶液中溶解的质量
+
+D. $0.010\ \mathrm{mol}$ $\mathrm{AgCl}$ 在 $1\ \mathrm L$ $10\ \mathrm{mol/L}$ 的盐酸中不能完全溶解
+
+4. ★★【不定项】（2022山东，14，4分）工业上以 $\mathrm{SrSO_4(s)}$ 为原料生产 $\mathrm{SrCO_3(s)}$，对其工艺条件进行研究。现有含 $\mathrm{SrCO_3(s)}$ 的 $0.1\ \mathrm{mol\cdot L^{-1}}$、$1.0\ \mathrm{mol\cdot L^{-1}}$ $\mathrm{Na_2CO_3}$ 溶液，含 $\mathrm{SrSO_4(s)}$ 的 $0.1\ \mathrm{mol\cdot L^{-1}}$、$1.0\ \mathrm{mol\cdot L^{-1}}$ $\mathrm{Na_2SO_4}$ 溶液。在一定 $\mathrm{pH}$ 范围内，四种溶液中 $\lg[c(\mathrm{Sr^{2+}})/\mathrm{mol\cdot L^{-1}}]$ 随 $\mathrm{pH}$ 的变化关系如图所示。下列说法错误的是（　　）
+
+[图：横轴为 $\mathrm{pH}$，刻度为 $6.0$ 至 $9.0$；纵轴为 $\lg[c(\mathrm{Sr^{2+}})/\mathrm{mol\cdot L^{-1}}]$，向上增大。曲线①、②为水平线，①位于②上方；曲线③、④均随 $\mathrm{pH}$ 增大而下降，③位于④上方。曲线④与①交于 $(6.2,-5.5)$，曲线③与①交于 $(6.8,-5.5)$；曲线④与②交于 $(6.9,a)$，曲线③与②交于 $(7.7,a)$。]
+
+A. 反应 $\mathrm{SrSO_4(s)+CO_3^{2-}\rightleftharpoons SrCO_3(s)+SO_4^{2-}}$ 的平衡常数 $K=\dfrac{K_{\mathrm{sp}}(\mathrm{SrSO_4})}{K_{\mathrm{sp}}(\mathrm{SrCO_3})}$
+
+B. $a=-6.5$
+
+C. 曲线④代表含 $\mathrm{SrCO_3(s)}$ 的 $1.0\ \mathrm{mol\cdot L^{-1}}$ $\mathrm{Na_2CO_3}$ 溶液的变化曲线
+
+D. 对含 $\mathrm{SrSO_4(s)}$ 且 $\mathrm{Na_2SO_4}$ 和 $\mathrm{Na_2CO_3}$ 初始浓度均为 $1.0\ \mathrm{mol\cdot L^{-1}}$ 的混合溶液，$\mathrm{pH}\geqslant7.7$ 时才发生沉淀转化
+
+5. ★★（2025湖北，16节选）（2）$20\ ℃$ 时，$\mathrm{CaF_2}$ 饱和溶液的浓度为 $c\ \mathrm{mol\cdot L^{-1}}$，用 $c$ 表示 $\mathrm{CaF_2}$ 的溶度积 $K_{\mathrm{sp}}=$________。
+
+<!-- page 102 -->
+
+6. ★★★（2025江苏，14节选）$\mathrm{ZnS}$ 可用于制备光学材料和回收铟。
+
+（1）制备 $\mathrm{ZnS}$。由闪锌矿［含 $\mathrm{ZnS}$、$\mathrm{FeS}$ 及少量硫化镉（$\mathrm{CdS}$）等］制备 $\mathrm{ZnS}$ 的过程如下：
+
+[图：工艺流程为“闪锌矿→酸浸→除铁→除镉→调 $\mathrm{pH}$→沉锌→$\mathrm{ZnS}$”。酸浸步骤加入 $\mathrm{H_2SO_4}$、$\mathrm{O_2}$，排出 $\mathrm S$；除镉步骤通入 $\mathrm{H_2S}$，排出 $\mathrm{CdS}$。]
+
+已知：$K_{\mathrm{sp}}(\mathrm{ZnS})=1.6\times10^{-24}$，$K_{\mathrm{sp}}(\mathrm{CdS})=8.0\times10^{-27}$，$K_{\mathrm{a}_1}(\mathrm{H_2S})=1.0\times10^{-7}$，$K_{\mathrm{a}_2}(\mathrm{H_2S})=1.2\times10^{-13}$。当离子浓度小于 $1.0\times10^{-5}\ \mathrm{mol\cdot L^{-1}}$ 时，认为离子沉淀完全。
+
+①酸浸时通入 $\mathrm{O_2}$ 可提高 $\mathrm{Zn^{2+}}$ 浸出率的原因是________________________________________________。
+
+②通入 $\mathrm{H_2S}$ 除镉。通过计算判断当溶液 $\mathrm{pH}=0$、$c(\mathrm{H_2S})=0.01\ \mathrm{mol\cdot L^{-1}}$ 时，$\mathrm{Cd^{2+}}$ 是否沉淀完全（写出计算过程）。
+
+## 三年模拟
+
+答案 P407
+
+7. ★★（2025届重庆南开中学第一次质检，8）下列叙述错误的是（　　）
+
+A. 向含足量 $\mathrm{AgCl}$ 固体的悬浊液中加少量水，$c(\mathrm{Ag^+})$ 减小
+
+B. 醋酸钠溶液中的离子浓度关系满足 $c(\mathrm{OH^-})=c(\mathrm{H^+})+c(\mathrm{CH_3COOH})$
+
+C. 已知 $\mathrm{NaHSO_3}$ 溶液呈酸性，则溶液中 $c(\mathrm{SO_3^{2-}})>c(\mathrm{H_2SO_3})$
+
+D. 除去 $\mathrm{MgCl_2}$ 酸性溶液中的 $\mathrm{Fe^{3+}}$，可在加热并搅拌下加入适量 $\mathrm{MgO}$
+
+8. ★★（2024届贵州贵阳一中三模，14）常温下，$\mathrm{Fe(OH)_3(s)}$、$\mathrm{Cu(OH)_2(s)}$ 分别在溶液中达到沉淀溶解平衡后，改变溶液 $\mathrm{pH}$，金属阳离子浓度的变化如图所示。据图分析，下列判断正确的是（　　）
+
+[图：横轴为 $\mathrm{pH}$，纵轴为 $c/(\mathrm{mol\cdot L^{-1}})$。$\mathrm{Fe^{3+}}$、$\mathrm{Cu^{2+}}$ 两条曲线均随 $\mathrm{pH}$ 增大而下降，$\mathrm{Fe^{3+}}$ 曲线位于左侧，$\mathrm{Cu^{2+}}$ 曲线位于右侧。点 $a$、$b$ 在 $\mathrm{Fe^{3+}}$ 曲线上，$a$ 位于 $b$ 左上方；点 $c$ 在 $\mathrm{Cu^{2+}}$ 曲线上，与 $b$ 等高。$b$、$c$ 对应的 $\mathrm{pH}$ 分别为 $1.3$、$4.4$。点 $d$ 位于 $c$ 左下方，点 $e$ 位于 $\mathrm{Cu^{2+}}$ 曲线右上方。]
+
+A. $K_{\mathrm{sp}}[\mathrm{Fe(OH)_3}]>K_{\mathrm{sp}}[\mathrm{Cu(OH)_2}]$
+
+B. $e$ 点对应的含 $\mathrm{Cu(OH)_2}$ 的分散系很稳定
+
+C. 加适量 $\mathrm{NH_4Cl}$ 固体可使溶液由 $a$ 点变到 $b$ 点
+
+D. $c$、$d$ 两点代表的溶液中 $c(\mathrm{H^+})$ 与 $c(\mathrm{OH^-})$ 乘积相等
+
+9. ★★（2024届山东泰安一模，8改编）$25\ ℃$ 时，在含一定质量 $\mathrm{Mg(OH)_2}$ 的悬浊液中，分 $6$ 次快速注入等浓度、等体积的盐酸，体系 $\mathrm{pH}$ 的变化曲线如图。下列说法错误的是（　　）
+
+[图：横轴为 $t(\mathrm s)$，刻度有 $0、500、1000、1500、2000$；纵轴为 $\mathrm{pH}$，刻度为 $1$ 至 $11$。图中依次标出六次注入盐酸的位置①至⑥。初始 $\mathrm{pH}$ 为 $10.60$；前五次注入后 $\mathrm{pH}$ 均迅速下降，随后逐渐回升，回升后的数值依次为 $9.95、9.63、9.31、8.89、8.23$；第六次注入后 $\mathrm{pH}$ 下降至约 $2$，随后保持不变。]
+
+A. 由图可知，酸碱中和反应速率大于 $\mathrm{Mg(OH)_2}$ 沉淀溶解速率
+
+B. 第 $6$ 次加入盐酸时，$\mathrm{Mg(OH)_2}$ 沉淀消耗完全
+
+C. 总反应可表示为 $\mathrm{Mg(OH)_2+2H^+=Mg^{2+}+2H_2O}$
+
+D. $25\ ℃$ 时，$K_{\mathrm{sp}}[\mathrm{Mg(OH)_2}]=5\times10^{-32.8}$
+
+10. ★★［2026届山东菏泽期中（B卷），16节选］向含有 $\mathrm{Ca^{2+}}$、$\mathrm{Mg^{2+}}$ 的溶液中加入 $\mathrm{MnF_2}$，可将 $\mathrm{Ca^{2+}}$、$\mathrm{Mg^{2+}}$ 分别转化为相应的氟化物沉淀除去，写出 $\mathrm{MnF_2}$ 除去 $\mathrm{Mg^{2+}}$ 的离子方程式：________________________________________________，该反应的平衡常数的数值为________（保留两位有效数字）。（已知 $\mathrm{MnF_2}$ 的 $K_{\mathrm{sp}}=5.3\times10^{-3}$，$\mathrm{MgF_2}$ 的 $K_{\mathrm{sp}}=7.4\times10^{-11}$。）
+
+11. ★★（2024届山东滨州二模，17节选）$\mathrm{S_2O_3^{2-}}$ 在碱性条件下很稳定，常温下可与 $\mathrm{Ag^+}$ 结合：
+
+$\mathrm{Ag^+(aq)+2S_2O_3^{2-}(aq)\rightleftharpoons [Ag(S_2O_3)_2]^{3-}(aq)}$
+
+$K=3.0\times10^{13}$
+
+（4）已知“溶浸”时发生反应：$\mathrm{AgCl(s)+2S_2O_3^{2-}(aq)\rightleftharpoons [Ag(S_2O_3)_2]^{3-}(aq)+Cl^-(aq)}$。该反应的平衡常数 $K_1=$________［已知 $K_{\mathrm{sp}}(\mathrm{AgCl})=2.0\times10^{-10}$］。
+
+12. ★★★（2026届山东潍坊期中，16节选）向含有 $\mathrm{Ca^{2+}}$、$\mathrm{Mg^{2+}}$ 的溶液中加入 $\mathrm{NaF}$ 可以“沉钙镁”。假设反应前 $1\ \mathrm L$ 该溶液中 $\mathrm{Ca^{2+}}$ 和 $\mathrm{Mg^{2+}}$ 的浓度均为 $0.01\ \mathrm{mol\cdot L^{-1}}$，则至少需要投入 $\mathrm{NaF}$ 固体的物质的量为________ $\mathrm{mol}$。［忽略溶液体积变化和 $\mathrm{F^-}$ 的水解，$K_{\mathrm{sp}}(\mathrm{MgF_2})=7.4\times10^{-11}$，$K_{\mathrm{sp}}(\mathrm{CaF_2})=1.6\times10^{-10}$；当溶液组分浓度 $\leqslant10^{-5}\ \mathrm{mol\cdot L^{-1}}$ 时，可认为已除尽。］

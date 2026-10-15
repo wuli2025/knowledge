@@ -1,0 +1,431 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-bd4e9b020a1bc3489fe5"
+      ],
+      "text": "锂电池是一类由金属锂或锂合金为负极材料、使用非水电解质溶液的电池。",
+      "title": "锂电池",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-a58c83e32f70e5248b89"
+      ],
+      "text": "锂离子电池基于“嵌入/脱嵌”反应原理，在两极形成的电压驱动下，$\\mathrm{Li^+}$ 向电极材料提供的“空间”中“嵌入”或“脱嵌”。负极材料多采用石墨；正极材料一般为含 $\\mathrm{Li^+}$ 的化合物，常用材料有 $\\mathrm{LiFePO_4}$、$\\mathrm{LiCoO_2}$、$\\mathrm{LiMn_2O_4}$。",
+      "title": "锂离子电池",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-aacc2053ad1044e8a0ba"
+      ],
+      "text": "金属—空气电池以金属（铝、铁、锌等）为负极，以空气中的氧气或纯氧为正极反应物。电解质溶液一般采用碱性电解质水溶液；采用更活泼的钾、钠、钙等作负极时，因其可以和水反应，需采用非水的有机介质作为电解质溶液中的溶剂。",
+      "title": "金属—空气电池",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-372d4bf21d3613f1fd27"
+      ],
+      "text": "有机物参与的电极反应通常与一些氧化态—还原态互变的特定官能团有关，原文列举了醌—酚互变及醛—羧酸互变。",
+      "title": "有机物、高分子电池与电有机合成",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-125c98570b39d8d58dc6"
+      ],
+      "text": "浓差电池是利用物质的浓度差产生电势差的一种电化学装置。左右两侧用离子交换膜隔开，两侧溶液中特定物质的浓度不同，导致两极发生氧化/还原反应，从而产生电流。",
+      "title": "浓差电池",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-c4930bfc87dd9c954b2d"
+      ],
+      "text": "原文以两侧均为 $\\mathrm{Ag}$ 电极、分别浸于 $\\mathrm{KCl}$ 和 $\\mathrm{AgNO_3}$ 溶液并用盐桥连接的装置，说明存在总反应为非氧化还原反应的电池。该装置总反应为 $\\mathrm{Ag^++Cl^-=AgCl}\\downarrow$。",
+      "title": "总反应为非氧化还原反应的电池",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c7",
+      "source_node_ids": [
+        "n-c98d1f8a2abaf6495466",
+        "n-f776dea61fdf67efbb4a"
+      ],
+      "text": "法拉第效率表示生成指定产物所需电子的物质的量占通过电路电子的物质的量的百分比，或相应电量所占百分比。原文定义为 $\\eta(\\mathrm B)=\\dfrac{n(\\text{生成 B 所需电子})}{n(\\text{通过电路的电子})}\\times100\\%$；对还原产物也写为 $FE\\%=\\dfrac{Q_X(\\text{生成还原产物 X 所需要的电量})}{Q_{\\text{总}}(\\text{电解过程中通过的总电量})}\\times100\\%$。",
+      "title": "法拉第效率",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-d9b631d0e12293c6e327"
+      ],
+      "text": "一般情况下，原电池中反应能自发进行，电解池中反应不能自发进行。",
+      "title": "装置类型与反应自发性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-d9b631d0e12293c6e327"
+      ],
+      "text": "分析电子流向时，若表述为电子通过溶液，应判断错误。",
+      "title": "电子流向的判断限制",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-d9b631d0e12293c6e327"
+      ],
+      "text": "正极电势高于负极；判断外接电源与电极的连接时，电源正极连阳极，电源负极连阴极。",
+      "title": "电极电势与外接电源连接",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-bd4e9b020a1bc3489fe5"
+      ],
+      "text": "锂电池放电时，$\\mathrm{Li}$ 失去电子被氧化为 $\\mathrm{Li^+}$，负极反应为 $\\mathrm{Li-e^-=Li^+}$；负极生成的 $\\mathrm{Li^+}$ 定向移动到正极。",
+      "title": "锂电池放电时的负极反应与离子移动",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-a58c83e32f70e5248b89"
+      ],
+      "text": "以石墨为负极材料的锂离子电池，充电时阴极反应式一般为 $6\\mathrm{C}+x\\mathrm{Li^+}+x\\mathrm{e^-}=\\mathrm{Li}_x\\mathrm{C}_6$；放电时负极反应是其逆过程：$\\mathrm{Li}_x\\mathrm{C}_6-x\\mathrm{e^-}=6\\mathrm{C}+x\\mathrm{Li^+}$。原文钴酸锂体系图示中，放电时 $\\mathrm{Li^+}$ 由石墨侧移向钴酸锂侧，充电时反向移动；放电正极充电时为阳极，放电负极充电时为阴极。",
+      "title": "锂离子电池的充放电反应与迁移",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-aacc2053ad1044e8a0ba"
+      ],
+      "text": "原文金属—空气电池模型中，负极反应为 $\\mathrm{M}-n\\mathrm{e^-}=\\mathrm{M^{n+}}$；碱性水溶液条件下，正极反应为 $\\mathrm{O_2+2H_2O+4e^-=4OH^-}$。电子由金属电极流向空气电极。负极生成的金属阳离子可能与电解质溶液进一步反应，例如 $\\mathrm{Al^{3+}}$ 能与 $\\mathrm{OH^-}$ 反应。",
+      "title": "金属—空气电池的电极反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-372d4bf21d3613f1fd27"
+      ],
+      "text": "在有机反应中，失去 $\\mathrm{H}$ 或者加入 $\\mathrm{O}$ 为失电子的氧化反应，加入 $\\mathrm{H}$ 或者失去 $\\mathrm{O}$ 为得电子的还原反应。",
+      "title": "有机反应中氢氧变化与氧化还原的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-125c98570b39d8d58dc6"
+      ],
+      "text": "原文银浓差电池中，两极均为 $\\mathrm{Ag}$，两侧均为 $\\mathrm{AgNO_3}$ 溶液，以阴离子交换膜隔开。浓溶液侧 $\\mathrm{b}$ 极的 $\\mathrm{Ag^+}$ 得电子能力较强，为正极，反应为 $\\mathrm{Ag^++e^-=Ag}$；稀溶液侧 $\\mathrm{a}$ 极为负极，反应为 $\\mathrm{Ag-e^-=Ag^+}$。工作时 $\\mathrm{a}$ 极区 $c(\\mathrm{Ag^+})$ 逐渐增大，$\\mathrm{b}$ 极区逐渐减小；$\\mathrm{NO_3^-}$ 由 $\\mathrm{b}$ 极区通过膜进入 $\\mathrm{a}$ 极区。当两侧 $c(\\mathrm{Ag^+})$ 相等时，电流表指针归零。",
+      "title": "银浓差电池的工作变化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-c4930bfc87dd9c954b2d"
+      ],
+      "text": "原文两银电极装置中，浸在 $\\mathrm{AgNO_3}$ 溶液中的右侧电极为正极，反应为 $\\mathrm{Ag^++e^-=Ag}$；浸在 $\\mathrm{KCl}$ 溶液中的左侧电极为负极，反应为 $\\mathrm{Ag-e^-+Cl^-=AgCl}$。两极反应相加得到总反应 $\\mathrm{Ag^++Cl^-=AgCl}\\downarrow$。",
+      "title": "氯化银生成电池的电极反应与总反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-177139ba8bf084b8aeae"
+      ],
+      "text": "串联电路中转移的电子数目相等，可作为阴阳两极产物、正负两极产物计算的依据。",
+      "title": "串联电路中的电子转移守恒",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l11",
+      "source_node_ids": [
+        "n-8a161dbed0fb70f4db03"
+      ],
+      "text": "电化学计算中，电路通过的电荷量可由 $q=I\\times t=n(\\text{电子})\\times N_{\\mathrm A}\\times1.6\\times10^{-19}\\ \\mathrm{C}$ 计算；$1$ 个电子所带的电荷量为 $1.6\\times10^{-19}\\ \\mathrm{C}$。",
+      "title": "电荷量与电流、时间及电子物质的量的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l12",
+      "source_node_ids": [
+        "n-f776dea61fdf67efbb4a"
+      ],
+      "text": "生成还原产物 $\\mathrm{X}$ 所需要的电量满足 $Q_X=nF$，其中 $n$ 表示电解生成还原产物 $\\mathrm{X}$ 所转移电子的物质的量，$F$ 表示法拉第常数。",
+      "title": "产物所需电量与电子物质的量的关系",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-d9b631d0e12293c6e327"
+      ],
+      "text": "按四步分析新型电化学装置：①根据总反应式、电极反应式、装置图等信息判断是原电池还是电解池；②根据元素化合价变化分析得失电子，确定正负极或阴阳极，也可依据电子或离子的移动方向、电极材料等判断；③根据总反应式或其他信息，结合装置类型和电极名称写出电极反应式；④分析具体问题，包括离子与电子流向、放电顺序、电势、外接电源连接、溶液 $\\mathrm{pH}$、产物、总反应式、离子交换膜、转移电子数及电极或溶液质量变化等。",
+      "title": "新型电化学装置分析的四个步骤",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-372d4bf21d3613f1fd27"
+      ],
+      "text": "有机物发生氧化/还原反应时，可根据碳元素化合价变化确定得失电子数，也可根据得失氢、氧原子数确定：$1$ 个氢原子对应 $1$ 个电子，$1$ 个氧原子对应 $2$ 个电子。原文例子 $\\mathrm{CH_3CH_2OH\\rightarrow CH_3COOH}$ 中，每个乙醇分子失去 $2$ 个氢原子并得到 $1$ 个氧原子，发生氧化反应，失去 $2\\times1+2=4$ 个电子。",
+      "title": "有机电极反应转移电子数的确定",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-372d4bf21d3613f1fd27"
+      ],
+      "text": "对于高分子链节中发生的氧化/还原反应，计算转移电子数时需要乘以聚合度。",
+      "title": "高分子电极反应转移电子数的计算",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-177139ba8bf084b8aeae"
+      ],
+      "text": "先写出电极反应式，再写出总反应式，最后根据总反应式列比例式计算。",
+      "title": "根据总反应式进行电化学计算",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-177139ba8bf084b8aeae"
+      ],
+      "text": "依据电路中转移的电子数目相等，计算串联电路的阴阳两极产物、正负两极产物；电子转移守恒也用于混合溶液电解的分阶段计算。",
+      "title": "根据电子转移守恒进行电化学计算",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-177139ba8bf084b8aeae"
+      ],
+      "text": "根据电子转移守恒建立已知量与未知量之间的关系，得出计算所需关系式。以电路中通过 $4\\ \\mathrm{mol}\\ \\mathrm{e^-}$ 为桥梁，原文给出：$4\\mathrm{e^-}\\sim\\underbrace{2\\mathrm{Cl_2}(\\mathrm{Br_2},\\mathrm{I_2})\\sim\\mathrm{O_2}}_{\\text{阳极产物}}\\sim\\underbrace{2\\mathrm{H_2}\\sim2\\mathrm{Cu}\\sim4\\mathrm{Ag}\\sim\\frac{4}{n}\\mathrm{M}}_{\\text{阴极产物}}$。式中 $\\mathrm{M}$ 为金属，$n$ 为其离子所带电荷数。",
+      "title": "以转移电子为桥梁建立计算关系式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-c98d1f8a2abaf6495466",
+        "n-f776dea61fdf67efbb4a"
+      ],
+      "text": "根据法拉第效率定义，将生成指定产物所需的电子物质的量与通过电路的电子物质的量相联系，或将生成产物所需电量与总电量相联系；结合 $Q_X=nF$ 进行相关计算。使用该式时，$n$ 是生成指定还原产物所转移电子的物质的量。",
+      "title": "根据法拉第效率进行电化学计算",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-bd4e9b020a1bc3489fe5"
+      ],
+      "from": "c1",
+      "to": "l4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a58c83e32f70e5248b89"
+      ],
+      "from": "c2",
+      "to": "l5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-aacc2053ad1044e8a0ba"
+      ],
+      "from": "c3",
+      "to": "l6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-372d4bf21d3613f1fd27"
+      ],
+      "from": "c4",
+      "to": "l7",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-372d4bf21d3613f1fd27"
+      ],
+      "from": "m2",
+      "to": "c4",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-372d4bf21d3613f1fd27"
+      ],
+      "from": "m3",
+      "to": "c4",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-372d4bf21d3613f1fd27"
+      ],
+      "from": "m2",
+      "to": "l7",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-125c98570b39d8d58dc6"
+      ],
+      "from": "c5",
+      "to": "l8",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c4930bfc87dd9c954b2d"
+      ],
+      "from": "c6",
+      "to": "l9",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d9b631d0e12293c6e327"
+      ],
+      "from": "m1",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d9b631d0e12293c6e327"
+      ],
+      "from": "m1",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d9b631d0e12293c6e327"
+      ],
+      "from": "m1",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-177139ba8bf084b8aeae"
+      ],
+      "from": "m5",
+      "to": "l10",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-177139ba8bf084b8aeae"
+      ],
+      "from": "m6",
+      "to": "l10",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-177139ba8bf084b8aeae"
+      ],
+      "from": "m6",
+      "to": "m5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c98d1f8a2abaf6495466",
+        "n-f776dea61fdf67efbb4a"
+      ],
+      "from": "m7",
+      "to": "c7",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f776dea61fdf67efbb4a"
+      ],
+      "from": "m7",
+      "to": "l12",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c98d1f8a2abaf6495466"
+      ],
+      "from": "n-c98d1f8a2abaf6495466",
+      "to": "c7",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f776dea61fdf67efbb4a"
+      ],
+      "from": "n-f776dea61fdf67efbb4a",
+      "to": "m7",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-877eadad5b0c8dfa9b30"
+      ],
+      "from": "n-877eadad5b0c8dfa9b30",
+      "to": "c4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-1be319b2e599f3cb8e54",
+  "source_digest": "038c774fad826cda5b7dfb0e72e8bb1779e1a638f3112ae74311a50cda692cee",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

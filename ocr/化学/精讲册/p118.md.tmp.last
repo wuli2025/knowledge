@@ -1,0 +1,237 @@
+<!-- page 118 -->
+
+### 3.化学性质（以乙醇为例）
+
+[2025 山东 T14CD，2024 山东 T8B、T11C、T17（5），2022 山东 T19（1），2021 山东 T12C、T19（3）]
+
+[图：乙醇分子结构及断键位置。$\mathrm{CH_3CH_2OH}$ 中，$\mathrm{O-H}$ 键标为 a，$\mathrm{C-O}$ 键标为 b，与羟基相连碳原子上的 $\mathrm{C-H}$ 键标为 c，相邻甲基上的 $\mathrm{C-H}$ 键标为 d。]
+
+在乙醇分子中，由于 $\mathrm{O}$ 原子有较强的吸电子能力，导致 a、b 处共价键极性较强，更容易发生断裂，发生取代反应；c、d 处也被活化，易发生催化氧化反应和消去反应。
+
+（1）与金属钠反应：$\mathrm{2C_2H_5OH+2Na\longrightarrow 2C_2H_5ONa+H_2\uparrow}$（a 处断）。
+
+（2）与浓氢溴酸反应：$\mathrm{C_2H_5OH+HBr}\xrightarrow{\Delta}\mathrm{C_2H_5Br+H_2O}$（b 处断）。
+
+（3）分子间脱水反应：$\mathrm{2C_2H_5OH}\xrightarrow[\ 140\ ^\circ\mathrm{C}\ ]{\text{浓硫酸}}\mathrm{C_2H_5OC_2H_5+H_2O}$（a、b 处断）。
+
+（4）消去反应：$\mathrm{C_2H_5OH}\xrightarrow[\ 170\ ^\circ\mathrm{C}\ ]{\text{浓硫酸}}\mathrm{CH_2=CH_2\uparrow+H_2O}$（b、d 处断）。
+
+（5）酯化反应：$\mathrm{CH_3COOH+C_2H_5OH}\underset{\Delta}{\overset{\text{浓硫酸}}{\rightleftharpoons}}\mathrm{CH_3COOC_2H_5+H_2O}$（a 处断）。
+
+（6）催化氧化反应：$\mathrm{2C_2H_5OH+O_2}\xrightarrow[\Delta]{\mathrm{Cu/Ag}}\mathrm{2CH_3CHO+2H_2O}$（a、c 处断）。
+
+（7）与强氧化剂反应：乙醇能被酸性高锰酸钾溶液或酸性重铬酸钾溶液氧化为乙酸。
+
+### 总结　醇的消去反应和催化氧化反应规律
+
+①醇的消去反应规律：没有 $\beta\text{-}\mathrm{H}$ 的醇不能发生消去反应，如 $\mathrm{CH_3OH}$、$\mathrm{C_6H_5CH_2OH}$ 等不能发生消去反应。
+
+[图：$\mathrm{C_6H_5CH_2OH}$ 的结构为苯环连接 $\mathrm{-CH_2OH}$。]
+
+②醇的催化氧化反应规律
+
+- $\alpha\text{-}\mathrm{H}$ 的个数
+  - 2～3个：生成醛，如 $\mathrm{R-CH_2OH\longrightarrow R-CHO}$。
+  - 1个：生成酮，如 $\mathrm{R-CH(OH)-R'\longrightarrow R-C(=O)-R'}$。
+  - 无 $\alpha\text{-}\mathrm{H}$：不能被催化氧化，如 $\mathrm{(CH_3)_3C-OH}$。
+
+## 二、酚
+
+### 1.分子结构
+
+酚是羟基与苯环直接相连而形成的化合物，最简单的酚为苯酚。苯酚的分子式为 $\mathrm{C_6H_6O}$，结构简式为 $\mathrm{C_6H_5OH}$，官能团为 $\mathrm{-OH}$。
+
+[图：苯酚的结构简式为苯环直接连接一个 $\mathrm{-OH}$。]
+
+### 2.物理性质（以苯酚为例）
+
+纯净的苯酚是无色晶体，易溶于乙醇等有机溶剂，常温下在水中的溶解度不大，温度高于 $65\ ^\circ\mathrm{C}$ 时能与水混溶。
+
+### 注意
+
+久置的苯酚呈粉红色，是部分苯酚被空气中的氧气氧化所致。
+
+### 3.化学性质（以苯酚为例）
+
+[2024 山东 T8AD，2022 山东 T7AB，2021 山东 T19（2）]
+
+由于苯环对羟基的影响，酚羟基比醇羟基活泼；由于羟基对苯环的影响，苯酚中苯环上的氢原子比苯中的氢原子活泼。
+
+- 苯酚
+  - 弱酸性
+    - 电离：$\mathrm{C_6H_5OH\rightleftharpoons H^++C_6H_5O^-}$。
+    - 与 $\mathrm{Na}$ 反应：$\mathrm{2C_6H_5OH+2Na\longrightarrow 2C_6H_5ONa+H_2\uparrow}$。
+    - 与 $\mathrm{NaOH}$ 反应：$\mathrm{C_6H_5OH+NaOH\longrightarrow C_6H_5ONa+H_2O}$。
+  - 浓溴水，取代反应：$\mathrm{C_6H_5OH+3Br_2\longrightarrow C_6H_2Br_3OH\downarrow+3HBr}$。
+    - [图：生成物为2，4，6-三溴苯酚，三个溴原子分别位于羟基的两个邻位和一个对位。]
+  - $\mathrm{H_2}$，加成反应：$\mathrm{C_6H_5OH+3H_2}\xrightarrow[\Delta]{\mathrm{Ni}}\mathrm{C_6H_{11}OH}$。
+    - [图：苯酚加氢生成环己醇。]
+  - 显色反应：遇 $\mathrm{FeCl_3}$ 溶液显紫色，利用此反应检验酚羟基。
+  - 氧化反应：易被 $\mathrm{O_2}$、酸性 $\mathrm{KMnO_4}$ 溶液氧化。
+
+### 注意
+
+①苯酚俗称石炭酸，酸性很弱，不能使紫色石蕊溶液变红。
+
+②酸性强弱：$\mathrm{H_2CO_3}$＞苯酚＞$\mathrm{HCO_3^-}$。
+
+$\mathrm{C_6H_5ONa+CO_2+H_2O\longrightarrow C_6H_5OH+NaHCO_3}$
+
+（不能生成 $\mathrm{Na_2CO_3}$）
+
+$\mathrm{C_6H_5OH+Na_2CO_3\longrightarrow C_6H_5ONa+NaHCO_3}$
+
+（不能生成 $\mathrm{CO_2}$）
+
+<!-- page 119 -->
+
+### 总结　醇羟基、酚羟基和羧基中氢原子的活性比较
+
+| 基团 | 醇羟基 | 酚羟基 | 羧基 |
+|---|---|---|---|
+| 酸碱性 | 中性 | 弱酸性 | 弱酸性 |
+| 与 $\mathrm{Na}$ | 生成醇钠和 $\mathrm{H_2}$ | 生成酚钠和 $\mathrm{H_2}$ | 生成羧酸钠和 $\mathrm{H_2}$ |
+| 与 $\mathrm{NaOH}$ | 不反应 | 生成酚钠和水 | 生成羧酸钠和水 |
+| 与 $\mathrm{Na_2CO_3}$ | 不反应 | 生成酚钠和 $\mathrm{NaHCO_3}$ | 生成羧酸钠、$\mathrm{CO_2}$、$\mathrm{H_2O}$（羧酸过量时） |
+| 与 $\mathrm{NaHCO_3}$ | 不反应 | 不反应 | 生成羧酸钠、$\mathrm{CO_2}$、$\mathrm{H_2O}$ |
+| 氢原子的活泼性 | 醇羟基 | → 酚羟基 → | 羧基（逐渐增强） |
+
+## 即练即清
+
+答案 P327
+
+1.既可以发生消去反应，又能被氧化成醛的物质是（　　）
+
+A.2，3-二甲基-2-丁醇
+
+B.2，2-二甲基-1-丁醇
+
+C.2-甲基-1-丁醇
+
+D.2-甲基-2-丁醇
+
+2.金合欢醇主要用作铃兰、丁香、玫瑰、紫罗兰、橙花、仙客来等具有花香香韵香精的调和料，其结构简式如图所示。下列说法不正确的是（　　）
+
+[图：金合欢醇的键线式，含三个碳碳双键和一个端位 $\mathrm{-CH_2OH}$，可表示为 $\mathrm{HOCH_2CH=C(CH_3)CH_2CH_2CH=C(CH_3)CH_2CH_2CH=C(CH_3)_2}$。]
+
+A.金合欢醇的分子式为 $\mathrm{C_{15}H_{26}O}$
+
+B.金合欢醇可发生加成、取代、氧化反应
+
+C.$1\ \mathrm{mol}$ 金合欢醇和足量 $\mathrm{Na}$ 反应生成 $0.5\ \mathrm{mol}$ $\mathrm{H_2}$
+
+D.金合欢醇有芳香族类的同分异构体
+
+3.去甲肾上腺素可以调控动物机体的植物性神经功能，其结构简式如图所示。下列说法正确的是（　　）
+
+[图：去甲肾上腺素结构为 $\mathrm{(HO)_2C_6H_3CH(OH)CH_2NH_2}$，以侧链连接的苯环碳原子为1位，两个酚羟基分别位于3、4位。]
+
+A.每个去甲肾上腺素分子中含有3个酚羟基
+
+B.每个去甲肾上腺素分子中含有2个手性碳原子
+
+C.与溴水反应时，$1\ \mathrm{mol}$ 去甲肾上腺素最多能与 $2\ \mathrm{mol}$ $\mathrm{Br_2}$ 发生取代反应
+
+D.去甲肾上腺素既能与盐酸反应，又能与氢氧化钠溶液反应
+
+4.具有美白功效的化合物乙的合成反应如图所示。下列说法错误的是（　　）
+
+[图：甲为间苯二酚，在苯乙烯、一定条件下生成乙；乙为间苯二酚苯环上连接一个 $\mathrm{-CH(CH_3)C_6H_5}$ 基团，该基团与两个羟基均处于间位。]
+
+$\text{甲}\xrightarrow[\text{一定条件}]{\text{苯乙烯}}\text{乙}$
+
+A.该反应为加成反应
+
+B.可用酸性 $\mathrm{KMnO_4}$ 溶液检验乙中是否混有苯乙烯
+
+C.乙的苯环上的一氯代物有5种
+
+D.$1\ \mathrm{mol}$ 甲与足量溴水反应，最多消耗 $3\ \mathrm{mol}$ $\mathrm{Br_2}$
+
+针对训练　《精练册》P266
+
+# 第4节　醛和酮　羧酸及其衍生物
+
+## 知识清单
+
+## 一、醛和酮
+
+### 1.醛和酮的结构
+
+（1）醛：由烃基或氢原子与醛基相连而构成的化合物，官能团为醛基（$\mathrm{-CHO}$），可表示为 $\mathrm{RCHO}$。甲醛是最简单的醛。饱和一元醛的通式为 $\mathrm{C_nH_{2n}O}$（$n\geq 1$）。
+
+（2）酮：由酮羰基与两个烃基相连而构成的化合物，官能团是酮羰基（$\mathrm{-C(=O)-}$）。最简单的酮是丙酮，结构简式为 $\mathrm{CH_3-C(=O)-CH_3}$。
+
+<!-- page 120 -->
+
+### 2.醛和酮的化学性质
+
+（1）醛的化学性质（以乙醛为例）[2025 山东 T14BC，2023 山东 T12D]
+
+| 反应类型 | 反应 |
+|---|---|
+| 氧化反应 | ①银镜反应：$\mathrm{CH_3CHO+2[Ag(NH_3)_2]OH}\xrightarrow{\Delta}\mathrm{CH_3COONH_4+2Ag\downarrow+3NH_3+H_2O}$ |
+| 氧化反应 | ②与新制 $\mathrm{Cu(OH)_2}$ 反应：$\mathrm{CH_3CHO+2Cu(OH)_2+NaOH}\xrightarrow{\Delta}\mathrm{CH_3COONa+Cu_2O\downarrow+3H_2O}$［配制新制 $\mathrm{Cu(OH)_2}$ 时 $\mathrm{NaOH}$ 应过量］ |
+| 氧化反应 | ③催化氧化反应：$\mathrm{2CH_3CHO+O_2}\xrightarrow[\Delta]{\text{催化剂}}\mathrm{2CH_3COOH}$ |
+| 氧化反应 | ④乙醛可被酸性 $\mathrm{KMnO_4}$ 溶液或溴水氧化生成乙酸 |
+| 加成反应 | ①催化加氢：$\mathrm{CH_3CHO+H_2}\xrightarrow[\Delta]{\text{催化剂}}\mathrm{CH_3CH_2OH}$ |
+| 加成反应 | ②与 $\mathrm{HCN}$ 加成：$\mathrm{CH_3CHO+HCN}\xrightarrow{\text{催化剂}}\mathrm{CH_3CH(OH)CN}$ |
+| 羟醛缩合反应 | $\mathrm{CH_3C(=O)-H+H-CH_2CHO}\xrightarrow{\mathrm{OH^-}}\mathrm{CH_3CH(OH)CH_2CHO}\xrightarrow{-\mathrm{H_2O}}\mathrm{CH_3CH=CHCHO}$ |
+
+### 注意
+
+当有机物分子中同时存在醛基和碳碳双键时，要检验碳碳双键，应先用弱氧化剂［银氨溶液或新制 $\mathrm{Cu(OH)_2}$］将醛基氧化，酸化后再用酸性 $\mathrm{KMnO_4}$ 溶液或溴水检验碳碳双键。
+
+（2）酮的化学性质（以丙酮为例）
+
+能与氢气、氰化氢、氨及氨的衍生物（如胺 $\mathrm{RNH_2}$）、醇类等发生加成反应。
+
+$\mathrm{CH_3C(=O)CH_3+H_2}\xrightarrow[\Delta]{\text{催化剂}}\mathrm{CH_3CH(OH)CH_3}$
+
+$\mathrm{CH_3C(=O)CH_3+HCN}\xrightarrow{\text{催化剂}}\mathrm{(CH_3)_2C(OH)CN}$
+
+$\mathrm{CH_3C(=O)CH_3+RNH_2}\xrightarrow[\Delta]{\text{催化剂}}\mathrm{(CH_3)_2C(OH)NHR}$
+
+## 二、羧酸
+
+### 1.分子结构
+
+由烃基或氢原子与羧基相连构成的有机化合物。饱和一元羧酸的通式为 $\mathrm{C_nH_{2n}O_2}$，官能团为羧基（$\mathrm{-COOH}$）。
+
+### 2.化学性质
+
+[2025 山东 T14D，2024 山东 T11C，2023 山东 T7D，2022 山东 T9、T19（1），2021 山东 T19（3）]
+
+（1）弱酸，具有酸的通性
+
+$\mathrm{RCOOH+NaHCO_3\longrightarrow RCOONa+CO_2\uparrow+H_2O}$
+
+（2）取代反应
+
+$\mathrm{R-C(=O)-OH+R'OH}\underset{\Delta}{\overset{\text{浓硫酸}}{\rightleftharpoons}}\mathrm{R-C(=O)-OR'+H_2O}$（酯化反应，“酸脱羟基醇脱氢”）
+
+$\mathrm{R-C(=O)-OH+NH_3}\xrightarrow{\Delta}\mathrm{R-C(=O)-NH_2+H_2O}$
+
+$\mathrm{RCH_2COOH+Cl_2}\xrightarrow[\Delta]{\text{催化剂}}\mathrm{RCH(Cl)COOH+HCl}$（羧酸分子中的 $\alpha\text{-}\mathrm{H}$ 较活泼，易被取代）
+
+（3）还原反应
+
+$\mathrm{RCOOH}\xrightarrow{\mathrm{LiAlH_4}}\mathrm{RCH_2OH}$
+
+### 3.用途
+
+（1）甲酸在工业上可用作还原剂，也是合成医药、农药和染料等的原料。
+
+（2）苯甲酸属于芳香酸，可用于合成香料、药物等，它的钠盐是常用的食品防腐剂。
+
+（3）乙二酸又称草酸，是分析化学中的还原剂，也是重要的化工原料。
+
+## 三、羧酸衍生物
+
+羧酸衍生物是指羧酸分子中羧基上的羟基被其他原子或原子团取代得到的产物，常见的有酯（$\mathrm{RCOOR'}$）、酰胺（$\mathrm{RCONH_2}$）、酰卤（$\mathrm{RCOX}$）、酸酐［$\mathrm{(RCO)_2O}$］等。
+
+### 1.酯
+
+（1）酯的结构
+
+酯是羧酸分子中羧基上的 $\mathrm{-OH}$ 被 $\mathrm{-OR'}$ 取代后的产物，可简写为 $\mathrm{RCOOR'}$，官能团为酯基（$\mathrm{-C(=O)-O-R'}$）。

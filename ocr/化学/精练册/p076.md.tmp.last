@@ -1,0 +1,206 @@
+<!-- page 76 -->
+
+# 第九章 化学反应速率与化学平衡
+
+## 第1节 化学反应速率
+
+### 五年高考
+
+答案 P389
+
+1. ★（2024 甘肃，4，3分）下列措施能降低化学反应速率的是（　　）
+
+A. 催化氧化氨制备硝酸时加入铂
+
+B. 中和滴定时，边滴边摇锥形瓶
+
+C. 锌粉和盐酸反应时加水稀释
+
+D. 石墨合成金刚石时增大压强
+
+2. ★★★（2024 安徽，12，3分）室温下，为探究纳米铁去除水样中 $\mathrm{SeO_4^{2-}}$ 的影响因素，测得不同条件下 $\mathrm{SeO_4^{2-}}$ 浓度随时间变化关系如下图。
+
+| 实验序号 | 水样体积/$\mathrm{mL}$ | 纳米铁质量/$\mathrm{mg}$ | 水样初始 $\mathrm{pH}$ |
+|---|---:|---:|---:|
+| ① | 50 | 8 | 6 |
+| ② | 50 | 2 | 6 |
+| ③ | 50 | 2 | 8 |
+
+[图：$\mathrm{SeO_4^{2-}}$ 浓度随时间变化曲线。横轴为 $t/\mathrm{h}$，标有 $0、2、4、6、8、10、12$；纵轴为 $c/(10^{-5}\ \mathrm{mol\cdot L^{-1}})$，标有 $0.0～5.0$。三条曲线均从约 $5.0$ 开始下降，①下降最快，②次之，③最慢；①在 $t=2\ \mathrm{h}$ 时对应纵轴读数 $1.0$，有虚线标示。]
+
+下列说法正确的是（　　）
+
+A. 实验①中，$0～2$ 小时内平均反应速率 $v(\mathrm{SeO_4^{2-}})=2.0\ \mathrm{mol\cdot L^{-1}\cdot h^{-1}}$
+
+B. 实验③中，反应的离子方程式为 $2\mathrm{Fe}+\mathrm{SeO_4^{2-}}+8\mathrm{H^+}\longrightarrow 2\mathrm{Fe^{3+}}+\mathrm{Se}+4\mathrm{H_2O}$
+
+C. 其他条件相同时，适当增加纳米铁质量可加快反应速率
+
+D. 其他条件相同时，水样初始 $\mathrm{pH}$ 越小，$\mathrm{SeO_4^{2-}}$ 的去除效果越好
+
+3. ★★★ 教考衔接：鲁科版选必1第2章第3节（2024 浙江6月选考，11，3分）二氧化碳氧化乙烷制备乙烯，主要发生如下两个反应：
+
+Ⅰ　$\mathrm{C_2H_6(g)+CO_2(g)\rightleftharpoons C_2H_4(g)+CO(g)+H_2O(g)}\quad \Delta H_1>0$
+
+Ⅱ　$\mathrm{C_2H_6(g)+2CO_2(g)\rightleftharpoons 4CO(g)+3H_2(g)}\quad \Delta H_2>0$
+
+向容积为 $10\ \mathrm{L}$ 的密闭容器中投入 $2\ \mathrm{mol}$ $\mathrm{C_2H_6}$ 和 $3\ \mathrm{mol}$ $\mathrm{CO_2}$，不同温度下，测得 $5\ \mathrm{min}$ 时（反应均未平衡）的相关数据见下表，下列说法不正确的是（　　）
+
+| 温度（$\mathrm{^\circ C}$） | 400 | 500 | 600 |
+|---|---:|---:|---:|
+| 乙烷转化率（%） | 2.2 | 9.0 | 17.8 |
+| 乙烯选择性（%） | 92.6 | 80.0 | 61.8 |
+
+注：乙烯选择性 $=\dfrac{\text{转化为乙烯的乙烷的物质的量}}{\text{转化的乙烷的总物质的量}}\times100\%$
+
+A. 反应活化能：Ⅰ＜Ⅱ
+
+B. $500\ \mathrm{^\circ C}$ 时，$0～5\ \mathrm{min}$ 反应Ⅰ的平均速率为 $v(\mathrm{C_2H_4})=2.88\times10^{-3}\ \mathrm{mol\cdot L^{-1}\cdot min^{-1}}$
+
+C. 其他条件不变，平衡后及时移除 $\mathrm{H_2O(g)}$，可提高乙烯的产率
+
+D. 其他条件不变，增大投料比 $[n(\mathrm{C_2H_6})/n(\mathrm{CO_2})]_{\text{投料}}$，平衡后可提高乙烷转化率
+
+4. ★★（2025 浙江6月选考，18节选）（3）某研究小组提出，商用 $\mathrm{ClO_2}$（常含杂质 $\mathrm{Cl_2}$）在水中易发生如下反应，影响自来水消毒效果。
+
+Ⅳ　$2\mathrm{ClO_2(aq)}+\mathrm{H_2O(l)}\longrightarrow \mathrm{ClO_3^-(aq)}+\mathrm{ClO_2^-(aq)}+2\mathrm{H^+(aq)}$
+
+Ⅴ　$2\mathrm{ClO_2(aq)}+\mathrm{ClO^-(aq)}+\mathrm{H_2O(l)}\longrightarrow 2\mathrm{ClO_3^-(aq)}+2\mathrm{H^+(aq)}+\mathrm{Cl^-(aq)}$
+
+$\mathrm{ClO_2}$ 中 $\mathrm{Cl_2}$ 含量对 $\mathrm{ClO_2}$ 反应初始速率 $[v_{\text{初始}}(\mathrm{ClO_2})]$ 的影响如图所示。实验条件：$T_2\ \mathrm{^\circ C}$，$\mathrm{ClO_2}$ 初始浓度相同。
+
+[图：横轴为 $\mathrm{pH}$，标有 $2、4、6、8$；纵轴为 $\lg v_{\text{初始}}(\mathrm{ClO_2})$，标有 $-8、-7、-6、-5$。无 $\mathrm{Cl_2}$ 的曲线近似水平，纵轴读数约为 $-7.5$；含 $1.5\times10^{-3}\ \mathrm{mol/L}$ $\mathrm{Cl_2}$ 和 $2.0\times10^{-4}\ \mathrm{mol/L}$ $\mathrm{Cl_2}$ 的两条曲线均随 $\mathrm{pH}$ 增大而上升，前者在较低 $\mathrm{pH}$ 时即明显上升。]
+
+① $\mathrm{Cl_2}$ 的存在主要加快了反应________（填“Ⅳ”或“Ⅴ”）。
+
+<!-- page 77 -->
+
+② 指出改变 $v_{\text{初始}}(\mathrm{ClO_2})$ 的影响因素，并解释原因：________________________________________________。
+
+### 三年模拟
+
+答案 P390
+
+5. ★★【不定项】（2026 届山东潍坊一中开学考，13）为减轻大气污染，可将汽车尾气中的 $\mathrm{CO}$ 和 $\mathrm{NO}$ 转化为无污染气体。在一定条件下，向一容积为 $2\ \mathrm{L}$ 的恒容密闭容器中充入 $10\ \mathrm{mol}$ $\mathrm{CO}$ 和 $10\ \mathrm{mol}$ $\mathrm{NO}$，使之在催化剂作用下发生反应 $2\mathrm{CO(g)}+2\mathrm{NO(g)}\overset{\text{催化剂}}{\rightleftharpoons}2\mathrm{CO_2(g)}+\mathrm{N_2(g)}$，测得反应过程中部分物质的物质的量随反应时间变化的曲线如图所示。下列说法不正确的是（　　）
+
+[图：横轴为时间/$\mathrm{min}$，标有 $0、2、5$；纵轴为物质的量/$\mathrm{mol}$，标有 $0、2、4、6、8、10$。曲线Ⅰ从 $0$ 上升至 $8$，曲线Ⅱ从 $0$ 上升至 $4$，曲线Ⅲ从 $10$ 下降至 $2$，三条曲线在 $5\ \mathrm{min}$ 左右变为水平。$a$ 点位于曲线Ⅲ上、纵轴读数为 $8$；$b$ 点位于曲线Ⅱ前段；$c$ 点为曲线Ⅰ与Ⅲ的交点，对应时间 $2\ \mathrm{min}$、物质的量 $5\ \mathrm{mol}$；$d$ 点位于曲线Ⅰ上，对应时间 $5\ \mathrm{min}$、物质的量 $8\ \mathrm{mol}$。]
+
+A. $2\ \mathrm{min}$ 时，$v_{\text{正}}(\mathrm{NO})=v_{\text{逆}}(\mathrm{NO})$
+
+B. 曲线Ⅱ表示 $n(\mathrm{N_2})$ 随时间的变化
+
+C. 用同一物质表示反应速率时，$b$ 点的正反应速率大于 $c$ 点的逆反应速率
+
+D. $0～5\ \mathrm{min}$ 内，$\bar v(\mathrm{CO})=0.8\ \mathrm{mol\cdot L^{-1}\cdot min^{-1}}$
+
+6. ★★★【不定项】（2024 届山东德州期末，14）已知橙红色的配离子 $[\mathrm{FeR_3}]^{2+}$ 可被 $\mathrm{HNO_3}$ 氧化成淡蓝色的配离子 $[\mathrm{FeR_3}]^{3+}$（$\mathrm{HNO_3}$ 的还原产物是 $\mathrm{HNO_2}$），现用浓度分别为 $2.0\ \mathrm{mol\cdot L^{-1}}$、$2.5\ \mathrm{mol\cdot L^{-1}}$、$3.0\ \mathrm{mol\cdot L^{-1}}$ 的 $\mathrm{HNO_3}$ 溶液进行实验，$c\{[\mathrm{FeR_3}]^{2+}\}$ 随时间 $t$ 的变化曲线如图所示。下列有关说法错误的是（　　）
+
+[图：横轴为 $t/\mathrm{min}$，标有 $0、2、4、6、8$；纵轴为 $c\{[\mathrm{FeR_3}]^{2+}\}/(10^{-4}\ \mathrm{mol\cdot L^{-1}})$，标有 $0.0、0.1、0.2、0.4、0.8、1.2、1.5、1.6$。三条曲线初始纵轴读数均约为 $1.5$，均呈先缓后陡再缓的下降趋势；Ⅰ最慢，Ⅱ次之，Ⅲ最快，最终分别趋于约 $0.2、0.15、0.1$。]
+
+A. 实验中 $n\{[\mathrm{FeR_3}]^{2+}\}$、$n\{[\mathrm{FeR_3}]^{3+}\}$ 之和不变时，反应达到平衡状态
+
+B. 三组实验中，反应速率都是前期速率增大，后期速率减小
+
+C. $2.0\ \mathrm{mol\cdot L^{-1}}$ 的 $\mathrm{HNO_3}$ 溶液进行实验，平衡时 $[\mathrm{FeR_3}]^{2+}$ 的平均消耗速率为 $4.7\times10^{-5}\ \mathrm{mol\cdot L^{-1}\cdot min^{-1}}$
+
+D. 平衡后加水稀释，$\dfrac{c\{[\mathrm{FeR_3}]^{2+}\}}{c\{[\mathrm{FeR_3}]^{3+}\}}$ 增大
+
+7. ★★★【不定项】（2025 届山东滕州期中，11）某科研小组利用如下反应消除 $\mathrm{NO}$ 和 $\mathrm{CO}$ 的污染：
+
+$2\mathrm{NO(g)}+2\mathrm{CO(g)}\rightleftharpoons \mathrm{N_2(g)}+2\mathrm{CO_2(g)}$
+
+$\Delta H=x\ \mathrm{kJ\cdot mol^{-1}}$。$T\ \mathrm{^\circ C}$ 时，在容积为 $2\ \mathrm{L}$ 的恒容密闭容器中充入 $2\ \mathrm{mol}$ $\mathrm{NO}$ 和 $2\ \mathrm{mol}$ $\mathrm{CO}$，保持温度不变，$5\ \mathrm{min}$ 时达到平衡状态，此时 $c(\mathrm{N_2})=0.4\ \mathrm{mol\cdot L^{-1}}$。下列说法中不正确的是（　　）
+
+A. $x<0$
+
+B. $\alpha(\mathrm{NO})=20\%$
+
+C. $0～5\ \mathrm{min}$ 内，$v(\mathrm{CO})=0.16\ \mathrm{mol\cdot L^{-1}\cdot min^{-1}}$
+
+D. 保持温度不变，若再向上述平衡体系中充入 $2\ \mathrm{mol}$ $\mathrm{NO}$ 和 $2\ \mathrm{mol}$ $\mathrm{CO}$，重新达到平衡时，$c(\mathrm{N_2})=0.8\ \mathrm{mol\cdot L^{-1}}$
+
+8. ★★★（2025 届山东德州高三下学期开学考，20节选）乙炔和乙烯是重要的基础化工原料，利用乙炔制乙烯的过程如下。
+
+反应Ⅰ：$\mathrm{C_2H_2(g)+H_2(g)\rightleftharpoons C_2H_4(g)}$（主反应）
+
+反应Ⅱ：$\mathrm{C_2H_2(g)+2H_2(g)\rightleftharpoons C_2H_6(g)}$（副反应）
+
+（2）在 $T_1\ \mathrm{^\circ C}$ 时，将体积比为 $1:2$ 的 $\mathrm{C_2H_2}$ 和 $\mathrm{H_2}$ 充入某恒容容器中，发生上述反应。
+
+① 初始压强为 $p_0\ \mathrm{kPa}$，$5\ \mathrm{min}$ 后达到平衡，$\mathrm{H_2}$ 的体积分数为 $\dfrac49$，$\mathrm{C_2H_4}$ 与 $\mathrm{C_2H_6}$ 的物质的量之比为 $2:1$，则 $\mathrm{H_2}$ 的转化率为________，$v(\mathrm{C_2H_4})=$________$\mathrm{kPa\cdot min^{-1}}$（用含 $p_0$ 的代数式表示）。
+
+<!-- page 78 -->
+
+## 第2节 化学平衡
+
+### 五年高考
+
+答案 P391
+
+1. ★（2023 北京，4，3分）下列事实能用平衡移动原理解释的是（　　）
+
+A. $\mathrm{H_2O_2}$ 溶液中加入少量 $\mathrm{MnO_2}$ 固体，促进 $\mathrm{H_2O_2}$ 分解
+
+B. 密闭烧瓶内的 $\mathrm{NO_2}$ 和 $\mathrm{N_2O_4}$ 的混合气体，受热后颜色加深
+
+C. 铁钉放入浓 $\mathrm{HNO_3}$ 中，待不再变化后，加热能产生大量红棕色气体
+
+D. 锌片与稀 $\mathrm{H_2SO_4}$ 反应过程中，加入少量 $\mathrm{CuSO_4}$ 固体，促进 $\mathrm{H_2}$ 的产生
+
+2. ★（2025 甘肃，4，3分）$\mathrm{CO_2}$ 加氢转化成甲烷，是综合利用 $\mathrm{CO_2}$ 实现“碳中和”和“碳达峰”的重要方式。$525\ \mathrm{^\circ C}$、$101\ \mathrm{kPa}$ 下，$\mathrm{CO_2(g)+4H_2(g)}\longrightarrow\mathrm{CH_4(g)+2H_2O(g)}\quad \Delta H=-185\ \mathrm{kJ/mol}$。反应达到平衡时，能使平衡向正反应方向移动的是（　　）
+
+A. 减小体系压强
+
+B. 升高温度
+
+C. 增大 $\mathrm{H_2}$ 浓度
+
+D. 恒容下充入惰性气体
+
+3. ★★（2022 广东，13，4分）恒容密闭容器中，$\mathrm{BaSO_4(s)+4H_2(g)\rightleftharpoons BaS(s)+4H_2O(g)}$ 在不同温度下达到平衡时，各组分的物质的量（$n$）如图所示。下列说法正确的是（　　）
+
+[图：横轴为 $T/\mathrm{^\circ C}$，标有 $200、400、600、800$；纵轴为 $n/\mathrm{mol}$，标有 $0、1、2、3、4$。起始组成：$4\ \mathrm{mol}$ $\mathrm{H_2}$、$1\ \mathrm{mol}$ $\mathrm{BaSO_4}$。四条曲线随温度升高分别表现为：最上方曲线由约 $3.3$ 上升至约 $3.7$ 后趋于水平；标为 $a$ 的曲线由约 $0.8$ 上升至接近 $1$ 后趋于水平；标为 $\mathrm{H_2}$ 的曲线由约 $0.7$ 下降至约 $0.4$ 后趋于水平；最下方曲线由约 $0.2$ 下降至约 $0.1$ 后趋于水平。]
+
+A. 该反应的 $\Delta H<0$
+
+B. $a$ 为 $n(\mathrm{H_2O})$ 随温度的变化曲线
+
+C. 向平衡体系中充入惰性气体，平衡不移动
+
+D. 向平衡体系中加入 $\mathrm{BaSO_4}$，$\mathrm{H_2}$ 的平衡转化率增大
+
+4. ★★（2025 安徽，17节选）Ⅰ. 通过甲酸分解可获得超高纯度的 $\mathrm{CO}$。甲酸有两种可能的分解反应：
+
+① $\mathrm{HCOOH(g)}\longrightarrow\mathrm{CO(g)+H_2O(g)}\quad \Delta H_1=+26.3\ \mathrm{kJ\cdot mol^{-1}}$
+
+② $\mathrm{HCOOH(g)}\longrightarrow\mathrm{CO_2(g)+H_2(g)}\quad \Delta H_2=-14.9\ \mathrm{kJ\cdot mol^{-1}}$
+
+（2）一定温度下，向恒容密闭容器中通入一定量的 $\mathrm{HCOOH(g)}$，发生上述两个分解反应，下列说法中能表明反应达到平衡状态的是________（填标号）。
+
+a. 气体密度不变
+
+b. 气体总压强不变
+
+c. $\mathrm{H_2O(g)}$ 的浓度不变
+
+d. $\mathrm{CO}$ 和 $\mathrm{CO_2}$ 的物质的量相等
+
+5. ★★（2025 浙江6月选考，18节选）氯气、二氧化氯常用于漂白、杀菌，有重要的应用价值。
+
+（1）下列措施中能提高新制饱和氯水中 $\mathrm{HClO}$ 浓度的是________。
+
+A. 加 $\mathrm{NaCl}$ 固体
+
+B. 加水
+
+C. 加 $\mathrm{CaCO_3}$ 粉末
+
+D. 加足量 $\mathrm{Ca(OH)_2}$ 溶液
+
+6. ★★（2025 北京，15节选）（4）$\mathrm{MgCl_2}$ 和 $\mathrm{NH_3}$ 反应过程中能量变化示意图如下。
+
+[图：纵轴为能量，横轴为反应过程，原点标为 $O$。两条反应路径均从 $\mathrm{MgCl_2(s)+6NH_3(g)}$ 的同一能量水平出发。较低峰对应活化能 $E_2$，产物为 $[\mathrm{Mg(NH_3)_6}]\mathrm{Cl_2(s)}$；较高峰对应活化能 $E_1$，产物为 $[\mathrm{Mg(NH_3)}]\mathrm{Cl_2(s)}+5\mathrm{NH_3(g)}$。$E_1>E_2$；两种产物的能量均低于反应物，后一产物能量更低。]
+
+① 室温下，$\mathrm{MgCl_2}$ 和 $\mathrm{NH_3}$ 反应生成 $[\mathrm{Mg(NH_3)_6}]\mathrm{Cl_2}$ 而不生成 $[\mathrm{Mg(NH_3)}]\mathrm{Cl_2}$。分析原因：________________________________________________。
+
+② 从平衡的角度推断利于 $[\mathrm{Mg(NH_3)_6}]\mathrm{Cl_2}$ 脱除 $\mathrm{NH_3}$ 生成 $\mathrm{MgCl_2}$ 的条件并说明理由：________________________________________________。

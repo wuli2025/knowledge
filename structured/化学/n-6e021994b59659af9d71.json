@@ -1,0 +1,453 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-d69eb9d17b4a5a44fc57"
+      ],
+      "text": "可逆反应是在相同条件下，既能向正反应方向进行，同时又能向逆反应方向进行的反应。正、逆反应同时进行，不能完全转化，反应物和生成物同时存在，任一反应物的转化率均小于 $100\\%$。化学方程式中用“$\\rightleftharpoons$”表示。",
+      "title": "可逆反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-e64428fa5a71f4fa6c04"
+      ],
+      "text": "化学平衡的研究对象是可逆反应，平衡是一种动态平衡，满足 $v(\\text{正})=v(\\text{逆})\\ne 0$；反应物和生成物的质量（或浓度、物质的量、体积分数）保持不变。条件改变，平衡状态可能改变并重新建立。",
+      "title": "化学平衡状态",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-9eb9e07092bbc56e236d"
+      ],
+      "text": "在一定条件（恒温恒容或恒温恒压）下，以不同投料方式进行同一可逆反应，达到化学平衡状态时，同种物质的百分含量（质量分数、物质的量分数、体积分数等）相同，这样的平衡互称为等效平衡。",
+      "title": "等效平衡",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-95e6b65cb7dc154165e5"
+      ],
+      "text": "增大反应物浓度或减小生成物浓度，平衡正向移动；减小反应物浓度或增大生成物浓度，平衡逆向移动。",
+      "title": "浓度改变对化学平衡的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-95e6b65cb7dc154165e5",
+        "n-99d4c8042eed18bc9ad6"
+      ],
+      "text": "恒温下，通过改变容积使反应气体分压同比例变化时，压缩容积使平衡向气体分子数减小的方向移动，扩大容积使其向气体分子数增大的方向移动；反应前后气体分子数相等时不因这种压强变化移动。恒温恒容充入不参与反应的气体虽增大总压强，各反应气体分压不变，平衡不移动。",
+      "title": "压强改变对化学平衡的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-95e6b65cb7dc154165e5"
+      ],
+      "text": "升高温度，平衡向吸热反应方向移动；降低温度，平衡向放热反应方向移动。",
+      "title": "温度改变对化学平衡的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-95e6b65cb7dc154165e5",
+        "n-05376d217759ab10f01a"
+      ],
+      "text": "催化剂同等程度地改变 $v_{\\text{正}}$、$v_{\\text{逆}}$，平衡不移动，对平衡转化率没有影响。",
+      "title": "催化剂对平衡及平衡转化率的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-99d4c8042eed18bc9ad6"
+      ],
+      "text": "恒温恒容时，充入无关气体使总压强增大，但各组分浓度不变，反应速率不变，平衡不移动。",
+      "title": "恒温恒容下充入无关气体",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-99d4c8042eed18bc9ad6",
+        "n-95e6b65cb7dc154165e5"
+      ],
+      "text": "恒温恒压时，充入无关气体使总体积增大，各组分浓度等比例减小，相当于减压。反应前后气体分子数不等时，平衡向气体分子数增大的方向移动；气体分子数相等时，平衡不移动。",
+      "title": "恒温恒压下充入无关气体",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-05376d217759ab10f01a"
+      ],
+      "text": "对于 $a\\mathrm{A(g)}+b\\mathrm{B(g)}\\rightleftharpoons c\\mathrm{C(g)}+d\\mathrm{D(g)}$ 型反应，若反应物起始物质的量之比等于化学计量数之比，达到平衡后，各反应物的转化率相等。",
+      "title": "按化学计量数之比投料时的平衡转化率",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-05376d217759ab10f01a"
+      ],
+      "text": "对于 $a\\mathrm{A(g)}+b\\mathrm{B(g)}\\rightleftharpoons c\\mathrm{C(g)}+d\\mathrm{D(g)}$ 型反应，原文给出：加入一定量的 $\\mathrm{A}$，平衡正向移动，$\\alpha(\\mathrm{B})$ 增大而 $\\alpha(\\mathrm{A})$ 减小。该条原文未单独注明容器条件。",
+      "title": "增加一种反应物对各反应物转化率的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-05376d217759ab10f01a"
+      ],
+      "text": "对于 $a\\mathrm{A(g)}+b\\mathrm{B(g)}\\rightleftharpoons c\\mathrm{C(g)}+d\\mathrm{D(g)}$ 型反应，恒容时按原比例同等程度增大（或减小）$\\mathrm{A}$、$\\mathrm{B}$ 的物质的量，相当于加压（或减压）。当 $a+b=c+d$ 时，$\\alpha(\\mathrm{A})$、$\\alpha(\\mathrm{B})$ 不变；当 $a+b>c+d$ 时，二者增大（或减小）；当 $a+b<c+d$ 时，二者减小（或增大）。",
+      "title": "恒容下同比例改变两种反应物投料量",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-05376d217759ab10f01a"
+      ],
+      "text": "对于 $a\\mathrm{A(g)}\\rightleftharpoons b\\mathrm{B(g)}+c\\mathrm{C(g)}$ 型反应，恒容时增大（或减小）$\\mathrm{A}$ 的物质的量：当 $a=b+c$ 时，$\\alpha(\\mathrm{A})$ 不变；当 $a>b+c$ 时，$\\alpha(\\mathrm{A})$ 增大（或减小）；当 $a<b+c$ 时，$\\alpha(\\mathrm{A})$ 减小（或增大）。",
+      "title": "恒容下改变单一反应物投料量",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-e64428fa5a71f4fa6c04"
+      ],
+      "text": "判断化学平衡时，速率必须分别对应一个正反应和一个逆反应，经过换算后，用同一物质表示的消耗速率和生成速率相等。对于 $m\\mathrm{A(g)}+n\\mathrm{B(g)}\\rightleftharpoons p\\mathrm{C(g)}+q\\mathrm{D(g)}$，单位时间内消耗 $m\\ \\mathrm{mol}$ $\\mathrm{A}$ 同时生成 $m\\ \\mathrm{mol}$ $\\mathrm{A}$，或消耗 $n\\ \\mathrm{mol}$ $\\mathrm{B}$ 同时消耗 $p\\ \\mathrm{mol}$ $\\mathrm{C}$，均可判断达到平衡。仅有 $v(\\mathrm{A}):v(\\mathrm{B}):v(\\mathrm{C}):v(\\mathrm{D})=m:n:p:q$，或单位时间内生成 $n\\ \\mathrm{mol}$ $\\mathrm{B}$ 同时消耗 $q\\ \\mathrm{mol}$ $\\mathrm{D}$，不能据此判断达到平衡。",
+      "title": "用正、逆反应速率相等判断平衡",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-e64428fa5a71f4fa6c04"
+      ],
+      "text": "先判断某个量是否随反应进行而改变：若是变量，当其保持不变时可判断达到平衡；若该量在反应过程中始终不变，则不能作为平衡判据。各物质的物质的量、物质的量分数、质量、质量分数、各气体的体积或体积分数一定，可判断达到平衡；总压强、总体积或总物质的量一定，不一定达到平衡。反应体系颜色不变，即有色物质浓度不变，可作为平衡判据。",
+      "title": "用“变量不变”判断平衡",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-e64428fa5a71f4fa6c04"
+      ],
+      "text": "以 $m\\mathrm{A(g)}+n\\mathrm{B(g)}\\rightleftharpoons p\\mathrm{C(g)}+q\\mathrm{D(g)}$ 为例：恒容时压强不再变化，若 $m+n\\ne p+q$，可判断达到平衡；若 $m+n=p+q$，则不一定平衡。混合气体的平均相对分子质量 $\\overline{M}_{\\mathrm r}$ 一定时，同样需区分上述两种情况，分别为平衡和不一定平衡。恒容时混合气体密度一定，不一定平衡。",
+      "title": "结合气体分子数变化选择平衡判据",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-e64428fa5a71f4fa6c04"
+      ],
+      "text": "可利用 $Q$（浓度商）是否等于 $K$ 判断化学平衡状态。原文未在本条给出二者的计算表达式。",
+      "title": "比较浓度商与平衡常数判断平衡",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-3ae5f38f65916698e579"
+      ],
+      "text": "先分析反应特点：是否有气体参加，是否有固体或纯液体参加，反应前后气体体积是否变化，反应是吸热还是放热；再分析容器条件是恒温恒容还是恒温恒压；最后根据勒夏特列原理，结合温度、压强、浓度的影响判断平衡移动方向。",
+      "title": "判断化学平衡移动方向的思维流程",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-9eb9e07092bbc56e236d"
+      ],
+      "text": "恒温恒容条件下，对于反应前后气体分子数改变的可逆反应，只改变起始加入物质的物质的量时，将投料换算成化学方程式同一半边的物质；对应物质的物质的量相同，则建立的化学平衡等效。",
+      "title": "恒温恒容、气体分子数改变时的等效平衡判断",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-9eb9e07092bbc56e236d"
+      ],
+      "text": "恒温恒容条件下，对于反应前后气体分子数不变的可逆反应，只改变起始加入物质的物质的量时，将投料换算成化学方程式同一半边的物质；对应组分的物质的量之比相同，则建立的化学平衡等效。原文 $\\mathrm{H_2(g)}+\\mathrm{I_2(g)}\\rightleftharpoons 2\\mathrm{HI(g)}$ 的三组投料实例中，各物质百分含量及混合气体平均摩尔质量（$\\overline{M}$）相同，各物质浓度、物质的量、混合气体密度、体系压强不同但成比例。",
+      "title": "恒温恒容、气体分子数不变时的等效平衡判断",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-9eb9e07092bbc56e236d"
+      ],
+      "text": "恒温恒压条件下，只改变起始加入物质的物质的量时，将投料换算成化学方程式同一半边的物质；对应组分的物质的量之比相同，则建立的化学平衡等效。原文反应 $2\\mathrm{SO_2(g)}+\\mathrm{O_2(g)}\\underset{\\Delta}{\\overset{\\text{催化剂}}{\\rightleftharpoons}}2\\mathrm{SO_3(g)}$ 中，初始投料分别为 $a\\ \\mathrm{mol}$、$b\\ \\mathrm{mol}$、$c\\ \\mathrm{mol}$ 时，换算后的反应物物质的量分别为 $(a+c)\\ \\mathrm{mol}$、$\\left(b+\\dfrac{c}{2}\\right)\\ \\mathrm{mol}$；与原文基准投料等效的条件为 $\\dfrac{a+c}{b+\\frac{c}{2}}=\\dfrac{2}{1}$。",
+      "title": "恒温恒压下的等效平衡判断",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m9",
+      "source_node_ids": [
+        "n-05376d217759ab10f01a"
+      ],
+      "text": "分析温度对转化率的影响时，先区分是否达到平衡。若是平衡转化率，由 $\\Delta H$ 确定改变温度时平衡移动的方向，再判断平衡转化率变化；若是未平衡时的转化率，由温度变化确定反应速率变化，再判断相同时间内转化率变化。",
+      "title": "区分平衡与未平衡情形分析温度对转化率的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m10",
+      "source_node_ids": [
+        "n-05376d217759ab10f01a"
+      ],
+      "text": "催化剂对平衡转化率没有影响。在工业生产中，未达平衡时，可选择适当的催化剂提高一定时间内反应物的转化率，或利用催化剂的选择性提高一定时间内多重反应中主产物的产率。",
+      "title": "利用催化剂提高未达平衡时的转化率或主产物产率",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-e64428fa5a71f4fa6c04"
+      ],
+      "from": "c1",
+      "to": "c2",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9eb9e07092bbc56e236d"
+      ],
+      "from": "c2",
+      "to": "c3",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e64428fa5a71f4fa6c04"
+      ],
+      "from": "m1",
+      "to": "c2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e64428fa5a71f4fa6c04"
+      ],
+      "from": "m2",
+      "to": "c2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e64428fa5a71f4fa6c04"
+      ],
+      "from": "m3",
+      "to": "m2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e64428fa5a71f4fa6c04"
+      ],
+      "from": "m4",
+      "to": "c2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3ae5f38f65916698e579",
+        "n-95e6b65cb7dc154165e5"
+      ],
+      "from": "m5",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3ae5f38f65916698e579",
+        "n-95e6b65cb7dc154165e5"
+      ],
+      "from": "m5",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3ae5f38f65916698e579",
+        "n-95e6b65cb7dc154165e5"
+      ],
+      "from": "m5",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-99d4c8042eed18bc9ad6",
+        "n-95e6b65cb7dc154165e5"
+      ],
+      "from": "l6",
+      "to": "l2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-05376d217759ab10f01a",
+        "n-95e6b65cb7dc154165e5"
+      ],
+      "from": "l9",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9eb9e07092bbc56e236d"
+      ],
+      "from": "m6",
+      "to": "c3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9eb9e07092bbc56e236d"
+      ],
+      "from": "m7",
+      "to": "c3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9eb9e07092bbc56e236d"
+      ],
+      "from": "m8",
+      "to": "c3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-05376d217759ab10f01a",
+        "n-95e6b65cb7dc154165e5"
+      ],
+      "from": "m9",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-05376d217759ab10f01a"
+      ],
+      "from": "m10",
+      "to": "l4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-094193e5263781e8d6b9"
+      ],
+      "from": "n-094193e5263781e8d6b9",
+      "to": "c2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-094193e5263781e8d6b9",
+        "n-e64428fa5a71f4fa6c04"
+      ],
+      "from": "n-094193e5263781e8d6b9",
+      "to": "m2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1e4fa13889ca7b825822",
+        "n-d69eb9d17b4a5a44fc57"
+      ],
+      "from": "n-1e4fa13889ca7b825822",
+      "to": "c1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1e4fa13889ca7b825822",
+        "n-95e6b65cb7dc154165e5"
+      ],
+      "from": "n-1e4fa13889ca7b825822",
+      "to": "l1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e33d864f92f7214ed5f1",
+        "n-95e6b65cb7dc154165e5"
+      ],
+      "from": "n-e33d864f92f7214ed5f1",
+      "to": "l1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e33d864f92f7214ed5f1",
+        "n-95e6b65cb7dc154165e5"
+      ],
+      "from": "n-e33d864f92f7214ed5f1",
+      "to": "l2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e33d864f92f7214ed5f1",
+        "n-95e6b65cb7dc154165e5"
+      ],
+      "from": "n-e33d864f92f7214ed5f1",
+      "to": "l4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e33d864f92f7214ed5f1",
+        "n-05376d217759ab10f01a"
+      ],
+      "from": "n-e33d864f92f7214ed5f1",
+      "to": "l8",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-6e021994b59659af9d71",
+  "source_digest": "5afbfa05e4d750599212cd9537635f36a8b587e1dd2ef09b5c63cc162d59bedd",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

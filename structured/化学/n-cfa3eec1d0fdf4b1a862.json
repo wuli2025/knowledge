@@ -1,0 +1,350 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-398ff0b1fb671c9d9604"
+      ],
+      "text": "本节涉及的中心原子杂化轨道类型包括 $\\mathrm{sp}$、$\\mathrm{sp^2}$、$\\mathrm{sp^3}$，可依据中心原子的价层电子对数判断。",
+      "title": "中心原子的杂化轨道类型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-b8eb23c9fa6279293b04"
+      ],
+      "text": "原文列举的极性分子包括：双原子分子 $\\mathrm{HCl、NO、IBr}$；V 形分子 $\\mathrm{H_2O、H_2S、SO_2、O_3}$；三角锥形分子 $\\mathrm{NH_3、PH_3}$；四面体形分子 $\\mathrm{CHCl_3、CH_2Cl_2}$；其他分子如 $\\mathrm{H_2O_2}$。【待核对】原文将 $\\mathrm{O_3}$ 列在“含极性键”分支下，此处保留原文分类。",
+      "title": "极性分子的结构与实例",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-b8eb23c9fa6279293b04"
+      ],
+      "text": "原文列举的非极性分子包括：单质分子 $\\mathrm{Cl_2、N_2、P_4、I_2}$；直线形分子 $\\mathrm{CO_2、CS_2、C_2H_2}$；平面三角形分子 $\\mathrm{BF_3}$；正四面体形分子 $\\mathrm{CH_4、CCl_4、CF_4}$。",
+      "title": "非极性分子的结构与实例",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-398ff0b1fb671c9d9604"
+      ],
+      "text": "中心原子的价层电子对数为 $2$、$3$、$4$ 时，对应的杂化轨道类型分别为 $\\mathrm{sp}$、$\\mathrm{sp^2}$、$\\mathrm{sp^3}$。",
+      "title": "价层电子对数与杂化轨道类型的对应关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-cb42c55c1beb3440aab2"
+      ],
+      "text": "原文列举的直线形分子 $\\mathrm{CO_2、CS_2、BeCl_2、HC{\\equiv}CH、HC{\\equiv}N}$ 等，对应中心原子的杂化轨道类型为 $\\mathrm{sp}$。",
+      "title": "直线形结构与杂化类型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-cb42c55c1beb3440aab2"
+      ],
+      "text": "原文列举的平面三角形分子或离子 $\\mathrm{BF_3、BCl_3、SO_3、NO_3^-、CO_3^{2-}}$ 等，其中心原子的杂化轨道类型为 $\\mathrm{sp^2}$。",
+      "title": "平面三角形结构与杂化类型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-cb42c55c1beb3440aab2"
+      ],
+      "text": "原文列举的正四面体形分子或离子 $\\mathrm{CH_4、CCl_4、SiF_4、ClO_4^-、SO_4^{2-}、PO_4^{3-}}$ 等，其中心原子的杂化轨道类型为 $\\mathrm{sp^3}$。",
+      "title": "正四面体形结构与杂化类型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-cb42c55c1beb3440aab2"
+      ],
+      "text": "原文列举的三角锥形分子或离子 $\\mathrm{NH_3、NCl_3、PH_3、SO_3^{2-}、ClO_3^-}$ 等，其中心原子的杂化轨道类型为 $\\mathrm{sp^3}$。",
+      "title": "三角锥形结构与杂化类型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-cb42c55c1beb3440aab2"
+      ],
+      "text": "对于 V 形结构，中心原子的杂化轨道类型可能是 $\\mathrm{sp^2}$，例如 $\\mathrm{SO_2}$；也可能是 $\\mathrm{sp^3}$，例如 $\\mathrm{H_2O}$。",
+      "title": "V 形结构的杂化类型不唯一",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-b8eb23c9fa6279293b04"
+      ],
+      "text": "含极性键的分子，极性向量和不为 $0$ 时为极性分子，极性向量和为 $0$ 时为非极性分子。",
+      "title": "极性向量和与分子极性的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-b8eb23c9fa6279293b04"
+      ],
+      "text": "原文给出的判断规律为：只含非极性键的分子是非极性分子。【待核对】该表述与同一节点中 $\\mathrm{O_3}$ 的键极性分类需结合原文核对。",
+      "title": "只含非极性键时的分子极性判断",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-ec523154006d9eebc729"
+      ],
+      "text": "对于 $\\mathrm{AB_n}$ 型分子，一般来说，若中心原子 $\\mathrm{A}$ 的化合价绝对值等于该元素所在的主族序数，则为非极性分子，否则为极性分子。此为原文给出的经验规律，保留“一般来说”的适用限定。",
+      "title": "依据中心原子化合价判断分子极性的经验规律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-ec523154006d9eebc729"
+      ],
+      "text": "对于 $\\mathrm{AB_n}$ 型分子，一般来说，若中心原子 $\\mathrm{A}$ 无孤电子对，则该分子为非极性分子；有孤电子对，则为极性分子。此为原文给出的经验规律，保留“一般来说”的适用限定。",
+      "title": "依据中心原子孤电子对判断分子极性的经验规律",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-398ff0b1fb671c9d9604"
+      ],
+      "text": "先确定中心原子的价层电子对数，再按 $2$、$3$、$4$ 分别对应 $\\mathrm{sp}$、$\\mathrm{sp^2}$、$\\mathrm{sp^3}$ 的关系判断杂化轨道类型。",
+      "title": "根据价层电子对数判断杂化类型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-cb42c55c1beb3440aab2"
+      ],
+      "text": "根据已知分子或离子的空间结构，利用原文所列结构与杂化类型的对应关系判断：直线形对应 $\\mathrm{sp}$，平面三角形对应 $\\mathrm{sp^2}$，正四面体形和三角锥形对应 $\\mathrm{sp^3}$。对于 V 形结构，应注意中心原子可能采用 $\\mathrm{sp^2}$ 或 $\\mathrm{sp^3}$ 杂化，不能仅凭 V 形这一信息唯一确定。",
+      "title": "根据空间结构判断杂化类型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-c66b337164a10a9663b6"
+      ],
+      "text": "对于能够明确结构式的分子或离子，根据结构式得出中心原子的 $\\sigma$ 键数和孤电子对数，再据此判断杂化轨道类型。原文以三聚氰胺为例：环外氮原子形成 $3$ 个 $\\sigma$ 键，余下 $1$ 个孤电子对，价层电子对数为 $3+1=4$，判为 $\\mathrm{sp^3}$ 杂化；环上氮原子形成 $2$ 个 $\\sigma$ 键、$1$ 个 $\\pi$ 键，余下 $1$ 个孤电子对，价层电子对数为 $2+1=3$，判为 $\\mathrm{sp^2}$ 杂化。【待核对】三聚氰胺环外氮原子的杂化判定保留原文表述。",
+      "title": "根据结构式统计键与孤电子对",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-da4d872a2ed5e976ab1b"
+      ],
+      "text": "以熟悉的分子为原型，用其他原子或原子团取代其中的部分原子或原子团，按原文方法将新分子的中心原子与原型分子对应中心原子的杂化轨道类型视为相同。例如，$\\mathrm{H_2O_2}$ 可看作用 $1$ 个 $\\mathrm{—OH}$ 取代 $\\mathrm{H_2O}$ 中的 $1$ 个 $\\mathrm{—H}$；由 $\\mathrm{H_2O}$ 中的 $\\mathrm{O}$ 采用 $\\mathrm{sp^3}$ 杂化，判断 $\\mathrm{H_2O_2}$ 中的 $\\mathrm{O}$ 也采用 $\\mathrm{sp^3}$ 杂化。",
+      "title": "应用取代法判断杂化类型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-b8eb23c9fa6279293b04"
+      ],
+      "text": "对于含极性键的分子，判断键的极性向量和是否为 $0$：不为 $0$ 时判为极性分子，为 $0$ 时判为非极性分子；结合原文所列分子空间结构与实例进行判断。",
+      "title": "利用键的极性向量和判断分子极性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-ec523154006d9eebc729"
+      ],
+      "text": "判断 $\\mathrm{AB_n}$ 型分子的极性时，可使用原文给出的两种经验判据：比较中心原子 $\\mathrm{A}$ 的化合价绝对值与所在主族序数，或判断中心原子 $\\mathrm{A}$ 是否有孤电子对。两种判据均带有“一般来说”的限定。",
+      "title": "应用经验规律判断 ABn 型分子极性",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-398ff0b1fb671c9d9604"
+      ],
+      "from": "m1",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-398ff0b1fb671c9d9604"
+      ],
+      "from": "l1",
+      "to": "c1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-cb42c55c1beb3440aab2"
+      ],
+      "from": "m2",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-cb42c55c1beb3440aab2"
+      ],
+      "from": "m2",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-cb42c55c1beb3440aab2"
+      ],
+      "from": "m2",
+      "to": "l4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-cb42c55c1beb3440aab2"
+      ],
+      "from": "m2",
+      "to": "l5",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-cb42c55c1beb3440aab2"
+      ],
+      "from": "m2",
+      "to": "l6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c66b337164a10a9663b6",
+        "n-398ff0b1fb671c9d9604"
+      ],
+      "from": "m3",
+      "to": "m1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b8eb23c9fa6279293b04"
+      ],
+      "from": "m5",
+      "to": "l7",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b8eb23c9fa6279293b04"
+      ],
+      "from": "l7",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b8eb23c9fa6279293b04"
+      ],
+      "from": "l7",
+      "to": "c3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b8eb23c9fa6279293b04"
+      ],
+      "from": "l8",
+      "to": "c3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ec523154006d9eebc729"
+      ],
+      "from": "m6",
+      "to": "l9",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ec523154006d9eebc729"
+      ],
+      "from": "m6",
+      "to": "l10",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3991b22d84cab8492ec9",
+        "n-398ff0b1fb671c9d9604"
+      ],
+      "from": "n-3991b22d84cab8492ec9",
+      "to": "c1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7741f1339ee934f17da1",
+        "n-cb42c55c1beb3440aab2"
+      ],
+      "from": "n-7741f1339ee934f17da1",
+      "to": "m2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-362bbcd382edbb9a943f"
+      ],
+      "from": "n-362bbcd382edbb9a943f",
+      "to": "n-794c6822d4211ae829e2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-35ad72cd63d9b2efd132"
+      ],
+      "from": "n-35ad72cd63d9b2efd132",
+      "to": "n-794c6822d4211ae829e2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-cfa3eec1d0fdf4b1a862",
+  "source_digest": "6c93f7a8e8d687c83aff9eb4d24b34532b38929b7a66a5f696312c8967400ce3",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

@@ -1,0 +1,423 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-0095b742cced7af571b4"
+      ],
+      "text": "盐电离出的弱酸阴离子结合 $\\mathrm{H^+}$，弱碱阳离子结合 $\\mathrm{OH^-}$，破坏水的电离平衡，使 $c(\\mathrm{H^+})\\ne c(\\mathrm{OH^-})$，溶液呈酸性或碱性。",
+      "title": "盐类水解的实质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-149ee43ad91159a41893"
+      ],
+      "text": "以 $\\mathrm{A^-+H_2O\\rightleftharpoons HA+OH^-}$ 为例，水解常数表达式为 $K_{\\mathrm h}=\\dfrac{c(\\mathrm{HA})\\cdot c(\\mathrm{OH^-})}{c(\\mathrm{A^-})}$。$K_{\\mathrm h}$ 越大，水解趋势越大。",
+      "title": "盐的水解常数",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-05fde013349d555f8f6a"
+      ],
+      "text": "弱酸阴离子和弱碱阳离子会相互促进水解。水解产物能否脱离反应体系影响相互促进水解的程度。",
+      "title": "相互促进的水解",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-4ea5b36816893a0349f8"
+      ],
+      "text": "有弱才水解，越弱越水解。$\\mathrm{NaCl}$ 为强酸强碱盐，不水解；酸性：$\\mathrm{HCN}<\\mathrm{CH_3COOH}$，则相同条件下溶液碱性：$\\mathrm{NaCN}>\\mathrm{CH_3COONa}$。",
+      "title": "盐的性质与水解程度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-4ea5b36816893a0349f8"
+      ],
+      "text": "谁强显谁性，同强显中性。$\\mathrm{NH_4Cl}$ 为强酸弱碱盐，溶液显酸性；$\\mathrm{CH_3COONa}$ 为强碱弱酸盐，溶液显碱性；$K_\\mathrm{a}(\\mathrm{CH_3COOH})\\approx K_\\mathrm{b}(\\mathrm{NH_3\\cdot H_2O})$，则 $\\mathrm{CH_3COONH_4}$ 溶液接近中性；$K_\\mathrm{a}(\\mathrm{HCOOH})>K_\\mathrm{b}(\\mathrm{NH_3\\cdot H_2O})$，则 $\\mathrm{HCOONH_4}$ 溶液显酸性。",
+      "title": "盐溶液酸碱性与对应酸碱强弱",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-4ea5b36816893a0349f8"
+      ],
+      "text": "正盐水解程度大于对应的酸式盐。例如相同条件下溶液 $\\mathrm{pH}$：$\\mathrm{Na_2CO_3}>\\mathrm{NaHCO_3}$。",
+      "title": "正盐与对应酸式盐的水解比较",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-b0118dc5573574965662",
+        "n-149ee43ad91159a41893"
+      ],
+      "text": "盐本身的性质是影响水解的内因。水解反应是吸热反应；升温使水解平衡右移，水解程度增大，水解产物的浓度增大。水解常数只受温度影响，$K_{\\mathrm h}$ 随温度升高而增大。",
+      "title": "温度对水解平衡及水解常数的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-b0118dc5573574965662"
+      ],
+      "text": "增大浓度（加溶质），水解平衡右移，水解程度减小，水解产物的浓度增大；减小浓度（加水稀释），水解平衡右移，水解程度增大，水解产物的浓度减小。",
+      "title": "浓度对水解的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-b0118dc5573574965662"
+      ],
+      "text": "加酸使弱碱阳离子水解程度减小；加碱使弱酸阴离子水解程度减小。",
+      "title": "外加酸碱对水解的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-149ee43ad91159a41893"
+      ],
+      "text": "对于 $\\mathrm{A^-+H_2O\\rightleftharpoons HA+OH^-}$，有 $K_{\\mathrm h}=\\dfrac{c(\\mathrm{HA})\\cdot c(\\mathrm{OH^-})\\cdot c(\\mathrm{H^+})}{c(\\mathrm{A^-})\\cdot c(\\mathrm{H^+})}=\\dfrac{K_{\\mathrm W}}{K_{\\mathrm a}}$。$\\mathrm{Na_2CO_3}$ 的第一步水解常数 $K_{\\mathrm h}=\\dfrac{K_{\\mathrm W}}{K_{\\mathrm{a_2}}}$；$\\mathrm{NaHCO_3}$ 的水解常数 $K_{\\mathrm h}=\\dfrac{K_{\\mathrm W}}{K_{\\mathrm{a_1}}}$。",
+      "title": "水解常数与电离常数的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-05fde013349d555f8f6a"
+      ],
+      "text": "弱酸阴离子和弱碱阳离子相互促进水解时，若水解产物均为容易脱离反应体系的溶解度较小的物质，如溶解度不大的气体或沉淀，则水解程度非常大，反应认为完全进行；若水解产物中有溶解度较大的物质，无法脱离反应体系，虽相互促进水解，水解程度仍较小。如 $\\mathrm{NH_4^+}+\\mathrm{CH_3COO^-}+\\mathrm{H_2O}\\rightleftharpoons\\mathrm{CH_3COOH}+\\mathrm{NH_3\\cdot H_2O}$，$\\mathrm{NH_4^+}$ 与 $\\mathrm{CH_3COO^-}$ 可大量共存。",
+      "title": "相互促进水解的程度与产物性质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-05fde013349d555f8f6a"
+      ],
+      "text": "因相互促进水解的程度较大而不能大量共存的离子组合：① $\\mathrm{Al^{3+}}$ 与 $\\mathrm{HCO_3^-}$、$\\mathrm{CO_3^{2-}}$、$\\mathrm{[Al(OH)_4]^-}$、$\\mathrm{SiO_3^{2-}}$、$\\mathrm{HS^-}$、$\\mathrm{S^{2-}}$；② $\\mathrm{Fe^{3+}}$ 与 $\\mathrm{HCO_3^-}$、$\\mathrm{CO_3^{2-}}$、$\\mathrm{[Al(OH)_4]^-}$、$\\mathrm{SiO_3^{2-}}$。",
+      "title": "相互促进水解与离子大量共存",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-a200ee5e86d1967f20ae",
+        "n-149ee43ad91159a41893"
+      ],
+      "text": "先区分强酸的酸式盐与弱酸的酸式盐。强酸的酸式盐只电离、不水解，溶液显酸性，如 $\\mathrm{NaHSO_4}$。弱酸的酸式盐中，若酸式酸根离子的电离程度大于水解程度，溶液显酸性，如 $\\mathrm{NaHSO_3}$、$\\mathrm{NaH_2PO_4}$、$\\mathrm{NaHC_2O_4}$；若电离程度小于水解程度，溶液显碱性，如 $\\mathrm{NaHCO_3}$、$\\mathrm{Na_2HPO_4}$、$\\mathrm{NaHS}$。也可比较电离常数与水解常数，例如根据 $K_{\\mathrm h}(\\mathrm{HCO_3^-})>K_{\\mathrm{a_2}}(\\mathrm{H_2CO_3})$ 判断 $\\mathrm{NaHCO_3}$ 溶液呈碱性。",
+      "title": "判断酸式盐溶液的酸碱性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-05fde013349d555f8f6a"
+      ],
+      "text": "一般来说，盐类水解程度不大，用“$\\rightleftharpoons$”表示；一般不会产生沉淀和气体，通常不用“$\\downarrow$”和“$\\uparrow$”。例如：$\\mathrm{Cu^{2+}}+2\\mathrm{H_2O}\\rightleftharpoons\\mathrm{Cu(OH)_2}+2\\mathrm{H^+}$；$\\mathrm{NH_4^+}+\\mathrm{H_2O}\\rightleftharpoons\\mathrm{NH_3\\cdot H_2O}+\\mathrm{H^+}$。",
+      "title": "书写一般盐类水解方程式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-05fde013349d555f8f6a"
+      ],
+      "text": "多元弱酸盐的水解分步进行，水解方程式分步书写。如 $\\mathrm{Na_2CO_3}$ 的水解反应：$\\mathrm{CO_3^{2-}}+\\mathrm{H_2O}\\rightleftharpoons\\mathrm{HCO_3^-}+\\mathrm{OH^-}$；$\\mathrm{HCO_3^-}+\\mathrm{H_2O}\\rightleftharpoons\\mathrm{H_2CO_3}+\\mathrm{OH^-}$。",
+      "title": "书写多元弱酸盐的分步水解方程式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-05fde013349d555f8f6a"
+      ],
+      "text": "相互促进水解且反应认为完全进行时，用“$=$”“$\\uparrow$”“$\\downarrow$”表示。以 $\\mathrm{FeCl_3}$ 溶液与 $\\mathrm{Na_2CO_3}$ 溶液混合为例：第一步，写出两种反应离子及对应产物，难溶性物质加“$\\downarrow$”，易分解物质写分解产物：$\\mathrm{Fe^{3+}+CO_3^{2-}\\longrightarrow Fe(OH)_3\\downarrow+CO_2\\uparrow}$。第二步，配平电荷：$\\mathrm{2Fe^{3+}+3CO_3^{2-}\\longrightarrow 2Fe(OH)_3\\downarrow+3CO_2\\uparrow}$。第三步，确定“$\\mathrm{H_2O}$”的位置并完成配平；生成物有 $\\mathrm{H}$ 而反应物无 $\\mathrm{H}$，故水为反应物：$\\mathrm{2Fe^{3+}+3CO_3^{2-}+3H_2O=2Fe(OH)_3\\downarrow+3CO_2\\uparrow}$。",
+      "title": "书写相互促进水解且进行到底的离子方程式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-05fde013349d555f8f6a"
+      ],
+      "text": "判断反应是否属于相互促进水解时，需辨明实际参与反应的粒子。$\\mathrm{Mn^{2+}}$ 与 $\\mathrm{HCO_3^-}$ 的反应是 $\\mathrm{HCO_3^-}$ 电离出的 $\\mathrm{CO_3^{2-}}$ 与 $\\mathrm{Mn^{2+}}$ 反应；$\\mathrm{[Al(OH)_4]^-}$ 与 $\\mathrm{HCO_3^-}$ 的反应是 $\\mathrm{HCO_3^-}$ 电离出的 $\\mathrm{H^+}$ 与 $\\mathrm{[Al(OH)_4]^-}$ 反应。二者均不是相互促进的水解反应。",
+      "title": "辨别相互促进水解与其他离子反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-4ae1d17e93d14a505197"
+      ],
+      "text": "利用盐的水解判断溶液酸碱性。例如 $\\mathrm{FeCl_3}$ 溶液显酸性，原理为 $\\mathrm{Fe^{3+}+3H_2O\\rightleftharpoons Fe(OH)_3+3H^+}$。",
+      "title": "利用水解判断盐溶液酸碱性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-4ae1d17e93d14a505197"
+      ],
+      "text": "相同条件下，弱酸酸性越弱，酸根离子水解程度越大，可由盐溶液的酸碱性比较弱酸酸性。等物质的量浓度的 $\\mathrm{NaX}$、$\\mathrm{NaY}$、$\\mathrm{NaZ}$ 三种盐溶液的 $\\mathrm{pH}$ 分别为 $8$、$9$、$10$，则酸性：$\\mathrm{HX>HY>HZ}$。",
+      "title": "利用盐溶液的 pH 比较弱酸酸性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-4ae1d17e93d14a505197"
+      ],
+      "text": "利用酸抑制弱碱阳离子水解：配制 $\\mathrm{FeCl_3}$ 溶液时，将 $\\mathrm{FeCl_3}$ 固体溶解在浓盐酸中，然后加水稀释；贮存 $\\mathrm{Fe_2(SO_4)_3}$ 溶液时，加入少量稀硫酸。",
+      "title": "配制或贮存易水解的盐溶液",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m9",
+      "source_node_ids": [
+        "n-4ae1d17e93d14a505197"
+      ],
+      "text": "实验室利用加热促进水解制取 $\\mathrm{Fe(OH)_3}$ 胶体，离子方程式为 $\\mathrm{Fe^{3+}+3H_2O}\\xrightarrow{\\Delta}\\mathrm{Fe(OH)_3}\\text{（胶体）}+\\mathrm{3H^+}$。",
+      "title": "利用水解制取氢氧化铁胶体",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m10",
+      "source_node_ids": [
+        "n-4ae1d17e93d14a505197"
+      ],
+      "text": "明矾可用作净水剂，原理为 $\\mathrm{Al^{3+}+3H_2O\\rightleftharpoons Al(OH)_3}\\text{（胶体）}+\\mathrm{3H^+}$，生成的 $\\mathrm{Al(OH)_3}$ 胶体可吸附、沉降悬浮物。",
+      "title": "利用明矾水解净水",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m11",
+      "source_node_ids": [
+        "n-4ae1d17e93d14a505197"
+      ],
+      "text": "泡沫灭火器中使用 $\\mathrm{NaHCO_3}$ 溶液与 $\\mathrm{Al_2(SO_4)_3}$ 溶液，利用相互促进的水解反应：$\\mathrm{Al^{3+}+3HCO_3^-=Al(OH)_3\\downarrow+3CO_2\\uparrow}$。",
+      "title": "相互促进水解在泡沫灭火器中的应用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m12",
+      "source_node_ids": [
+        "n-4ae1d17e93d14a505197"
+      ],
+      "text": "$\\mathrm{NH_4Cl}$ 溶液与 $\\mathrm{ZnCl_2}$ 溶液可用作焊接金属时的除锈剂；$\\mathrm{NH_4^+}$、$\\mathrm{Zn^{2+}}$ 水解产生的 $\\mathrm{H^+}$ 与金属表面的氧化物反应。",
+      "title": "利用盐类水解除锈",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m13",
+      "source_node_ids": [
+        "n-4ae1d17e93d14a505197"
+      ],
+      "text": "用 $\\mathrm{TiCl_4}$ 制备 $\\mathrm{TiO_2}$，原文给出的反应为 $\\mathrm{TiCl_4}+(x+2)\\mathrm{H_2O}=\\mathrm{TiO_2}\\cdot x\\mathrm{H_2O}\\downarrow+\\mathrm{4HCl}$。",
+      "title": "利用四氯化钛水解制备物质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m14",
+      "source_node_ids": [
+        "n-193818c79a8250c760e0"
+      ],
+      "text": "判断盐溶液蒸干或灼烧后的物质时，考虑水解产物的挥发性、盐的热稳定性及还原性。①水解生成难挥发性酸或强碱时，蒸干后一般得原物质，如 $\\mathrm{Al_2(SO_4)_3}$、$\\mathrm{Na_2CO_3}$。②生成易挥发性酸且金属阳离子水解生成难溶性碱时，蒸干、灼烧后一般得对应金属氧化物；如 $\\mathrm{AlCl_3}$ 溶液蒸发结晶得到 $\\mathrm{Al(OH)_3}$，灼烧得到 $\\mathrm{Al_2O_3}$。③受热易分解的盐，其溶液蒸干灼烧后得不到原物质，如 $\\mathrm{Ca(HCO_3)_2}$、$\\mathrm{NaHCO_3}$、$\\mathrm{NH_4Cl}$。④还原性盐在蒸发时会被 $\\mathrm{O_2}$ 氧化，如 $\\mathrm{FeCl_2}$ 溶液蒸干、灼烧，最后得到 $\\mathrm{Fe_2O_3}$。",
+      "title": "判断盐溶液蒸干或灼烧后的物质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m15",
+      "source_node_ids": [
+        "n-193818c79a8250c760e0"
+      ],
+      "text": "从溶液中得到 $\\mathrm{AlCl_3}$ 固体，需要在 $\\mathrm{HCl}$ 气流中加热蒸发。",
+      "title": "从溶液中获得氯化铝固体",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-149ee43ad91159a41893"
+      ],
+      "from": "c2",
+      "to": "l7",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-149ee43ad91159a41893"
+      ],
+      "from": "l7",
+      "to": "m1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-149ee43ad91159a41893"
+      ],
+      "from": "l4",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-05fde013349d555f8f6a"
+      ],
+      "from": "c3",
+      "to": "l8",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-05fde013349d555f8f6a"
+      ],
+      "from": "l8",
+      "to": "l9",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-05fde013349d555f8f6a"
+      ],
+      "from": "l8",
+      "to": "m4",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-05fde013349d555f8f6a"
+      ],
+      "from": "m5",
+      "to": "c3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4ea5b36816893a0349f8",
+        "n-4ae1d17e93d14a505197"
+      ],
+      "from": "l1",
+      "to": "m7",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b0118dc5573574965662",
+        "n-4ae1d17e93d14a505197"
+      ],
+      "from": "l6",
+      "to": "m8",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4ae1d17e93d14a505197"
+      ],
+      "from": "l4",
+      "to": "m9",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4ae1d17e93d14a505197"
+      ],
+      "from": "c3",
+      "to": "m11",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-193818c79a8250c760e0"
+      ],
+      "from": "m14",
+      "to": "m15",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-46391a3164d1c8b5ec5b"
+      ],
+      "from": "n-46391a3164d1c8b5ec5b",
+      "to": "l4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-46391a3164d1c8b5ec5b"
+      ],
+      "from": "n-46391a3164d1c8b5ec5b",
+      "to": "l5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-46391a3164d1c8b5ec5b"
+      ],
+      "from": "n-46391a3164d1c8b5ec5b",
+      "to": "l6",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-46391a3164d1c8b5ec5b"
+      ],
+      "from": "n-46391a3164d1c8b5ec5b",
+      "to": "c2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c1a1b02a4928cb5960b1"
+      ],
+      "from": "n-c1a1b02a4928cb5960b1",
+      "to": "m7",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0ce88ff2c42b827be935"
+      ],
+      "from": "n-0ce88ff2c42b827be935",
+      "to": "l4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-587711c42903e8a380ba",
+  "source_digest": "61a5b0b31130f67817ed48077d274a698e3ae5ad2799276f4fd90b5beba85f44",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

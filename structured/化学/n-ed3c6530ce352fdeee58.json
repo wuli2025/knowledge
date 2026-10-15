@@ -1,0 +1,547 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-809b97b1798f7916b162"
+      ],
+      "text": "构建碳骨架的常用方式包括碳链增长、碳链缩短和成环反应。",
+      "title": "碳骨架的构建",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-9a8b42f7040995eca245"
+      ],
+      "text": "官能团间的衍变包括官能团种类改变、官能团数目及种类改变、官能团位置改变。",
+      "title": "官能团间的衍变",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-2c463cbc44fab9a828b9"
+      ],
+      "text": "在氧化其他基团前，可先将易被氧化的官能团转变为保护形式，待氧化后再通过相应反应恢复。原文列举了酚羟基、碳碳双键、氨基和醛基的保护。",
+      "title": "官能团的保护",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-2c463cbc44fab9a828b9"
+      ],
+      "text": "酚羟基、碳碳双键、氨基和醛基易被氧化；合成中氧化其他基团时，可据此考虑对这些官能团进行保护。",
+      "title": "需考虑氧化保护的官能团",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-809b97b1798f7916b162"
+      ],
+      "text": "可利用加聚反应、缩聚反应、酯化反应、醛或酮与 $\\mathrm{HCN}$ 的加成、羟醛缩合反应等增长碳链。",
+      "title": "碳链增长",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-809b97b1798f7916b162"
+      ],
+      "text": "原文列举的碳链增长路线为：$\\mathrm{CH_3CHO}\\xrightarrow[\\text{催化剂}]{\\mathrm{HCN}}\\mathrm{CH_3CH(OH)CN}$。所得产物可分别发生水解或加氢反应：$\\mathrm{CH_3CH(OH)CN}\\xrightarrow[\\Delta]{\\mathrm{H_2O,\\ H^+}}\\mathrm{CH_3CH(OH)COOH}$；$\\mathrm{CH_3CH(OH)CN}\\xrightarrow[\\text{催化剂}]{\\mathrm{H_2}}\\mathrm{CH_3CH(OH)CH_2NH_2}$。另有路线：$\\mathrm{CH{\\equiv}CH}\\xrightarrow[\\text{催化剂}]{\\mathrm{HCN}}\\mathrm{CH_2{=}CHCN}\\xrightarrow[\\Delta]{\\mathrm{H_2O,\\ H^+}}\\mathrm{CH_2{=}CHCOOH}$。",
+      "title": "利用与氰化氢加成及后续转化增长碳链",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-809b97b1798f7916b162"
+      ],
+      "text": "可利用烷烃的裂化、裂解，酯类、糖类、蛋白质等的水解反应，羧酸盐脱羧反应，烯烃、炔烃的氧化反应，以及芳香烃侧链被酸性高锰酸钾溶液氧化等缩短碳链。",
+      "title": "碳链缩短",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-809b97b1798f7916b162"
+      ],
+      "text": "成环可利用脱水缩合反应，包括多元酸与多元醇经酯化反应生成环酯，以及羟基酸、氨基酸、多元醇或多元酸的分子内缩合和分子间缩合等。原文示例包括两分子乳酸缩合形成环酯、两分子丙氨酸缩合形成环肽、两分子乙二醇脱水形成环醚。",
+      "title": "利用脱水缩合成环",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-809b97b1798f7916b162"
+      ],
+      "text": "可利用聚合反应形成环状化合物，如乙炔聚合成苯，以及甲醛、乙醛等聚合成环状化合物。",
+      "title": "利用聚合反应成环",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-809b97b1798f7916b162"
+      ],
+      "text": "有机信息题中常见的成环方式还包括双烯合成（第尔斯—阿尔德反应）、烯烃氧化为环氧化合物、烷烃的环化（石油的催化重整）等。",
+      "title": "其他常见成环方式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-2a7274069f2fd9939c95"
+      ],
+      "text": "可通过卤代烃的水解、醛或酮的还原（与 $\\mathrm{H_2}$ 加成）、烯烃与 $\\mathrm{H_2O}$ 加成、酯的水解引入羟基。",
+      "title": "羟基的引入",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-2a7274069f2fd9939c95"
+      ],
+      "text": "可通过烯烃、炔烃与 $\\mathrm{X_2}$ 或 $\\mathrm{HX}$ 加成，烷烃、苯及其同系物的卤代反应，以及醇与 $\\mathrm{HX}$ 的取代反应引入卤素原子。",
+      "title": "卤素原子的引入",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m9",
+      "source_node_ids": [
+        "n-2a7274069f2fd9939c95"
+      ],
+      "text": "可通过卤代烃在碱性条件下消去、醇在酸性条件下消去、炔烃不完全加成，以及烷烃裂化、裂解引入碳碳双键。",
+      "title": "碳碳双键的引入",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m10",
+      "source_node_ids": [
+        "n-2a7274069f2fd9939c95"
+      ],
+      "text": "可通过醇的氧化引入碳氧双键。",
+      "title": "碳氧双键的引入",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m11",
+      "source_node_ids": [
+        "n-2a7274069f2fd9939c95"
+      ],
+      "text": "可通过醛的氧化、酯或酰胺等的水解引入羧基；苯的同系物与苯环直接相连的 $\\mathrm{C}$ 上有 $\\mathrm{H}$ 时，可被酸性 $\\mathrm{KMnO_4}$ 溶液氧化而引入羧基。",
+      "title": "羧基的引入",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m12",
+      "source_node_ids": [
+        "n-9787238adf27b48b5123"
+      ],
+      "text": "可通过加成反应消除双键、三键或苯环。",
+      "title": "双键、三键或苯环的消除",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m13",
+      "source_node_ids": [
+        "n-9787238adf27b48b5123"
+      ],
+      "text": "可通过消去反应或水解反应消除卤素原子。",
+      "title": "卤素原子的消除",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m14",
+      "source_node_ids": [
+        "n-9787238adf27b48b5123"
+      ],
+      "text": "可通过消去反应、氧化反应、酯化反应，或与 $\\mathrm{HX}$ 发生取代反应消除羟基。",
+      "title": "羟基的消除",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m15",
+      "source_node_ids": [
+        "n-9787238adf27b48b5123"
+      ],
+      "text": "可通过加成反应或氧化反应消除醛基。",
+      "title": "醛基的消除",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m16",
+      "source_node_ids": [
+        "n-9787238adf27b48b5123"
+      ],
+      "text": "可通过酯化反应或脱羧反应消除羧基。",
+      "title": "羧基的消除",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m17",
+      "source_node_ids": [
+        "n-9787238adf27b48b5123"
+      ],
+      "text": "可通过水解反应消除酯基或酰胺基。",
+      "title": "酯基、酰胺基的消除",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m18",
+      "source_node_ids": [
+        "n-2c463cbc44fab9a828b9"
+      ],
+      "text": "酚羟基易被氧化。在氧化其他基团前，先使其与 $\\mathrm{CH_3I}$ 或 $\\mathrm{(CH_3)_2SO_4}$ 反应，把 $\\mathrm{-OH}$ 转变为 $\\mathrm{-OCH_3}$；待氧化后再加 $\\mathrm{HI}$ 变回 $\\mathrm{-OH}$。",
+      "title": "酚羟基的保护与恢复",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m19",
+      "source_node_ids": [
+        "n-2c463cbc44fab9a828b9"
+      ],
+      "text": "碳碳双键易被氧化。在氧化其他基团前，先利用其与 $\\mathrm{HCl}$ 等的加成反应进行保护；待氧化后，再利用消去反应恢复碳碳双键。",
+      "title": "碳碳双键的保护与恢复",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m20",
+      "source_node_ids": [
+        "n-2c463cbc44fab9a828b9"
+      ],
+      "text": "氨基易被氧化。用 $\\mathrm{CH_3-p-C_6H_4-NH_2}$ 合成 $\\mathrm{HOOC-p-C_6H_4-NH_2}$ 时，可先用乙酸酐［$\\mathrm{(CH_3CO)_2O}$］将 $\\mathrm{-NH_2}$ 转变为酰胺基 $\\mathrm{-NHCOCH_3}$，然后将 $\\mathrm{-CH_3}$ 氧化为 $\\mathrm{-COOH}$，最后将酰胺基水解变回 $\\mathrm{-NH_2}$。",
+      "title": "氨基的保护与恢复",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m21",
+      "source_node_ids": [
+        "n-2c463cbc44fab9a828b9"
+      ],
+      "text": "醛基易被氧化。可先用乙醇将 $\\mathrm{-CHO}$ 转变为缩醛结构（$\\mathrm{-CH(OC_2H_5)_2}$），待氧化后再水解变回醛基。",
+      "title": "醛基的保护与恢复",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m22",
+      "source_node_ids": [
+        "n-9a8b42f7040995eca245"
+      ],
+      "text": "原文以以下转化表示官能团种类改变：$\\text{烃}\\rightleftharpoons\\text{卤代烃}\\rightleftharpoons\\text{醇}\\rightleftharpoons\\text{醛}\\longrightarrow\\text{羧酸}\\rightleftharpoons\\text{酯}$。",
+      "title": "改变官能团种类",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m23",
+      "source_node_ids": [
+        "n-9a8b42f7040995eca245"
+      ],
+      "text": "原文以以下转化表示官能团数目及种类改变：$\\mathrm{CH_3CH_2Cl}\\longrightarrow\\mathrm{CH_2{=}CH_2}\\longrightarrow\\mathrm{ClCH_2CH_2Cl}$。",
+      "title": "改变官能团数目及种类",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m24",
+      "source_node_ids": [
+        "n-9a8b42f7040995eca245"
+      ],
+      "text": "原文以以下转化表示官能团位置改变：$\\mathrm{CH_3CH_2CH_2CH_2Br}\\longrightarrow\\mathrm{CH_3CH_2CH{=}CH_2}\\longrightarrow\\mathrm{CH_3CH_2CHBrCH_3}$。",
+      "title": "改变官能团位置",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m25",
+      "source_node_ids": [
+        "n-750bfc34c21c17e7c4b0"
+      ],
+      "text": "采用正向思维，从已知原料入手，找出合成所需要的直接或间接的中间体，逐步推向待合成的有机物。思维程序为：原料→中间体→产品。",
+      "title": "正合成分析法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m26",
+      "source_node_ids": [
+        "n-7546f1f45c8ba311a710"
+      ],
+      "text": "采用逆向思维，从产品的组成、结构、性质入手，找出合成所需要的直接或间接的中间体，逐步推向原料。思维程序为：产品→中间体→原料。设计时先确定目标有机物的类别，再确定合成所需的物质并逐步推向原料，最后从原料出发按顺序写出合成路线。",
+      "title": "逆合成分析法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m27",
+      "source_node_ids": [
+        "n-7546f1f45c8ba311a710"
+      ],
+      "text": "原文以乙烯合成草酸二乙酯说明逆合成分析：先确定产品为二元羧酸与一元醇形成的酯，再确定所需物质为草酸、乙醇，并逐步推向乙烯。给出的路线为：$\\mathrm{CH_2{=}CH_2}\\xrightarrow{\\text{①}}\\mathrm{CH_3CH_2OH}$；$\\mathrm{CH_2{=}CH_2}\\xrightarrow{\\text{②}}\\mathrm{ClCH_2CH_2Cl}\\xrightarrow{\\text{③}}\\mathrm{HOCH_2CH_2OH}\\xrightarrow{\\text{④}}\\mathrm{HOOCCOOH}$；$\\mathrm{CH_3CH_2OH}+\\mathrm{HOOCCOOH}\\xrightarrow{\\text{⑤}}\\mathrm{C_2H_5OOC-COOC_2H_5}$。这些式子为原文合成路线表示，原文未在箭头处列出具体反应条件。",
+      "title": "由目标酯逆推合成原料",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-809b97b1798f7916b162"
+      ],
+      "from": "c1",
+      "to": "m1",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-809b97b1798f7916b162"
+      ],
+      "from": "m1",
+      "to": "m2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-809b97b1798f7916b162"
+      ],
+      "from": "c1",
+      "to": "m3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-809b97b1798f7916b162"
+      ],
+      "from": "c1",
+      "to": "m4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-809b97b1798f7916b162"
+      ],
+      "from": "c1",
+      "to": "m5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-809b97b1798f7916b162"
+      ],
+      "from": "c1",
+      "to": "m6",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2a7274069f2fd9939c95"
+      ],
+      "from": "n-2a7274069f2fd9939c95",
+      "to": "m7",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2a7274069f2fd9939c95"
+      ],
+      "from": "n-2a7274069f2fd9939c95",
+      "to": "m8",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2a7274069f2fd9939c95"
+      ],
+      "from": "n-2a7274069f2fd9939c95",
+      "to": "m9",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2a7274069f2fd9939c95"
+      ],
+      "from": "n-2a7274069f2fd9939c95",
+      "to": "m10",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2a7274069f2fd9939c95"
+      ],
+      "from": "n-2a7274069f2fd9939c95",
+      "to": "m11",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9787238adf27b48b5123"
+      ],
+      "from": "n-9787238adf27b48b5123",
+      "to": "m12",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9787238adf27b48b5123"
+      ],
+      "from": "n-9787238adf27b48b5123",
+      "to": "m13",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9787238adf27b48b5123"
+      ],
+      "from": "n-9787238adf27b48b5123",
+      "to": "m14",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9787238adf27b48b5123"
+      ],
+      "from": "n-9787238adf27b48b5123",
+      "to": "m15",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9787238adf27b48b5123"
+      ],
+      "from": "n-9787238adf27b48b5123",
+      "to": "m16",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9787238adf27b48b5123"
+      ],
+      "from": "n-9787238adf27b48b5123",
+      "to": "m17",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2c463cbc44fab9a828b9"
+      ],
+      "from": "l1",
+      "to": "c3",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2c463cbc44fab9a828b9"
+      ],
+      "from": "c3",
+      "to": "m18",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2c463cbc44fab9a828b9"
+      ],
+      "from": "c3",
+      "to": "m19",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2c463cbc44fab9a828b9"
+      ],
+      "from": "c3",
+      "to": "m20",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2c463cbc44fab9a828b9"
+      ],
+      "from": "c3",
+      "to": "m21",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9a8b42f7040995eca245"
+      ],
+      "from": "c2",
+      "to": "m22",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9a8b42f7040995eca245"
+      ],
+      "from": "c2",
+      "to": "m23",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9a8b42f7040995eca245"
+      ],
+      "from": "c2",
+      "to": "m24",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c24f4061bbd1c96e658f",
+        "n-750bfc34c21c17e7c4b0"
+      ],
+      "from": "n-c24f4061bbd1c96e658f",
+      "to": "m25",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c24f4061bbd1c96e658f",
+        "n-7546f1f45c8ba311a710"
+      ],
+      "from": "n-c24f4061bbd1c96e658f",
+      "to": "m26",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7546f1f45c8ba311a710"
+      ],
+      "from": "m27",
+      "to": "m26",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-ed3c6530ce352fdeee58",
+  "source_digest": "a18feeab9d79296a72df0209afdec832bc3190d73451493313579044b74c524f",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

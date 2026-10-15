@@ -1,0 +1,299 @@
+<!-- page 37 -->
+
+## 六、海水资源的开发利用
+
+### 1. 氯碱工业
+
+- 海水 → 粗盐 →（精制）饱和食盐水 →（电解）
+  - $\mathrm{Cl_2}$（阳极）
+  - $\mathrm{H_2、NaOH}$（阴极）
+
+反应原理：$\mathrm{2NaCl+2H_2O}\xrightarrow{\text{电解}}\mathrm{2NaOH+H_2\uparrow+Cl_2\uparrow}$。
+
+### 2. 海水提溴
+
+- 海水 →（提取粗盐）苦卤 →（硫酸酸化、氯气置换，①）含 $\mathrm{Br_2}$ 的溶液 →（热空气吹出）含 $\mathrm{Br_2}$ 的空气
+- 含 $\mathrm{Br_2}$ 的空气 →（$\mathrm{SO_2}$ 吸收，②）吸收液 →（$\mathrm{Cl_2}$ 氧化，③）含 $\mathrm{Br_2}$ 的溶液 →（蒸馏）溴蒸气 →（冷凝）液溴
+
+反应原理：
+
+① $\mathrm{Cl_2+2Br^-=2Cl^-+Br_2}$；
+
+② $\mathrm{Br_2+SO_2+2H_2O=H_2SO_4+2HBr}$；
+
+③ $\mathrm{2HBr+Cl_2=2HCl+Br_2}$。
+
+### 3. 海带提碘
+
+- 干海带 →（灼烧）海带灰 →（浸泡）悬浊液 →（过滤）含 $\mathrm{I^-}$ 的溶液
+- 含 $\mathrm{I^-}$ 的溶液 →（$\mathrm{H_2O_2}$、稀硫酸）含 $\mathrm{I_2}$ 的溶液 →（加 $\mathrm{CCl_4}$，萃取、分液）$\mathrm{I_2}$ 的 $\mathrm{CCl_4}$ 溶液 →（蒸馏）单质碘
+
+**注意** 从 $\mathrm{I_2}$ 的有机溶液中分离得到晶体碘的一种方法：经 $\mathrm{NaOH}$ 溶液反萃取得到 $\mathrm{NaI、NaIO_3}$ 溶液，再酸化发生归中反应，经过滤得到晶体碘。
+
+## 即练即清
+
+答案 P311
+
+**1.** 如图所示，将潮湿的 $\mathrm{Cl_2}$ 通过甲装置后，再通过放有干燥红色布条的乙装置，红色布条不褪色，则甲装置中所盛试剂可能是（　　）
+
+[图：气体依次通过甲、乙两个洗气瓶，甲中装有液体，乙中放有干燥红色布条，末端连接盛有碱石灰的干燥管。]
+
+① 浓硫酸　② $\mathrm{NaOH}$ 溶液　③ 水　④ 饱和食盐水
+
+A. ①④
+
+B. ②③
+
+C. ①②
+
+D. ②③④
+
+**2.** 溴被称为海洋元素，以海水为原料制备单质溴的流程如下。下列有关说法正确的是（　　）
+
+[图：海水 →（浓缩）含 $\mathrm{NaBr}$ 溶液 →（①，$\mathrm{Cl_2}$）低浓度 $\mathrm{Br_2}$ →（②，鼓入热空气吹出 $\mathrm{Br_2}$，用 $\mathrm{SO_2}$ 水溶液吸收）吸收液 →（③，$\mathrm{Cl_2}$）$\mathrm{Br_2}$。]
+
+A. 用蒸馏法将海水浓缩的过程中发生了化学变化
+
+B. 在反应①、②、③中溴元素均发生了氧化反应
+
+C. 用 $\mathrm{SO_2}$ 水溶液吸收 $\mathrm{Br_2}$ 的目的是富集溴元素
+
+D. 鼓入热空气吹出溴，是因为溴蒸气的密度比空气的密度小
+
+**3.** 海带灰富含以 $\mathrm{I^-}$ 形式存在的碘元素。实验室从海带灰浸取液中提取碘单质的流程如图所示：
+
+[图：海带灰浸取液 →（①，$\mathrm{H_2O_2}$、稀 $\mathrm{H_2SO_4}$）含 $\mathrm{I_2}$ 的水溶液 →（②，$\mathrm{CCl_4}$ 萃取、分液）含 $\mathrm{I_2}$ 的 $\mathrm{CCl_4}$ 溶液 →（③，$\mathrm{NaOH}$ 溶液）分成上层溶液和下层溶液；上层溶液 →（$\mathrm{H_2SO_4}$ 溶液）含 $\mathrm{I_2}$ 的悬浊液 →（操作乙）$\mathrm{I_2}$ 固体。]
+
+下列说法正确的是（　　）
+
+A. 为提高①中的反应速率，可采用高温条件
+
+B. ②中的萃取剂 $\mathrm{CCl_4}$ 可用苯或酒精代替
+
+C. ②中分液时应先将 $\mathrm{CCl_4}$ 层从分液漏斗下端放出，关闭活塞，再将水层从上口倒出
+
+D. ③中使用反萃取，得到的上层溶液为紫色
+
+针对训练 《精练册》P187
+
+<!-- page 38 -->
+
+# 第3节　硫及其化合物
+
+## 知识清单
+
+## 一、硫单质
+
+### 1. 物理性质
+
+黄色固体，质脆，难溶于水，微溶于酒精，易溶于 $\mathrm{CS_2}$。
+
+### 2. 化学性质 [2022 山东 T1C]
+
+- $\mathrm{S}$ 表现还原性：$\mathrm{S}\xrightarrow{\mathrm{O_2}/\text{点燃}}\mathrm{SO_2}$。
+- $\mathrm{S}$ 表现氧化性：
+  - $\mathrm{S}\xrightarrow{\text{变价金属}/\Delta}$ 低价硫化物（$\mathrm{FeS、Cu_2S}$ 等）。
+  - $\mathrm{S}\xrightarrow{\mathrm{H_2}/\Delta}\mathrm{H_2S}$。
+
+## 二、二氧化硫
+
+### 1. 物理性质
+
+无色、有刺激性气味的气体，密度比空气大，易溶于水；通常情况下 $1$ 体积水约溶解 $40$ 体积 $\mathrm{SO_2}$。
+
+### 2. 化学性质 [2024 山东 T5A、T19（4）]
+
+- 酸性氧化物的性质。
+- 氧化性：$\mathrm{SO_2}\xrightarrow{\mathrm{H_2S}}\mathrm{S+H_2O}$。
+- 还原性：
+  - $\mathrm{SO_2}\xrightarrow[\text{催化剂}/\Delta]{\mathrm{O_2}}\mathrm{SO_3}$。
+  - $\mathrm{SO_2}\xrightarrow{\mathrm{Br_2+H_2O}\text{（溴水）}}\mathrm{HBr+H_2SO_4}$（褪色）。
+  - $\mathrm{SO_2}\xrightarrow{\mathrm{KMnO_4}}\mathrm{Mn^{2+}+SO_4^{2-}}$（褪色）。
+- 漂白性：使品红褪色（加热恢复）。
+
+**总结** $\mathrm{SO_2}$ 和 $\mathrm{CO_2}$ 都可使澄清石灰水变浑浊，检验二者同时存在的一般流程如下。
+
+| 流程步骤 | 检验 $\mathrm{SO_2}$ | 除去 $\mathrm{SO_2}$ | 检验 $\mathrm{SO_2}$ 是否除尽 | 检验 $\mathrm{CO_2}$ |
+|---|---|---|---|---|
+| 选用试剂 | 品红溶液 | 酸性 $\mathrm{KMnO_4}$ 溶液 | 品红溶液 | 澄清石灰水 |
+| 预期现象 | 褪色 | 褪色或变浅 | 不褪色 | 变浑浊 |
+
+### 3. 实验室制法
+
+（1）$\mathrm{Na_2SO_3}$ 固体与较浓的硫酸反应
+
+$\mathrm{Na_2SO_3+H_2SO_4}\text{（浓）}=\mathrm{Na_2SO_4+SO_2\uparrow+H_2O}$（非氧化还原反应）
+
+（2）$\mathrm{Cu}$ 与浓硫酸共热 [2023 山东 T13A]
+
+$\mathrm{Cu+2H_2SO_4}\text{（浓）}\xrightarrow{\Delta}\mathrm{CuSO_4+SO_2\uparrow+2H_2O}$。
+
+### 4. 用途
+
+（1）作漂白剂（漂白纸浆、毛、丝等）。
+
+（2）杀菌消毒。
+
+（3）作食品添加剂（用在红酒、干果中等）。
+
+## 三、三氧化硫
+
+### 1. 物理性质
+
+熔点和沸点较低，常温常压下为液体，标准状况下为固体。
+
+### 2. 化学性质
+
+具有酸性氧化物的通性，与水反应生成 $\mathrm{H_2SO_4}$，与碱反应生成盐和水，与碱性氧化物反应生成相应的盐。
+
+## 四、硫化氢
+
+### 1. 物理性质
+
+无色、有臭鸡蛋气味的气体，能溶于水。
+
+### 2. 化学性质
+
+（1）弱酸性
+
+（2）还原性：$\mathrm{H_2S+Cl_2=S\downarrow+2HCl}$。
+
+（3）与某些金属离子反应：$\mathrm{Cu^{2+}+H_2S=CuS\downarrow+2H^+}$。
+
+## 五、硫酸
+
+### 1. 物理性质
+
+无色油状液体，密度比水大，沸点高，难挥发。
+
+### 2. 化学性质
+
+稀硫酸：具有酸的通性。
+
+浓硫酸：三大特性——吸水性、脱水性、强氧化性。
+
+$\mathrm{Cu+2H_2SO_4}\text{（浓）}\xrightarrow{\Delta}\mathrm{CuSO_4+SO_2\uparrow+2H_2O}$
+
+$\mathrm{C+2H_2SO_4}\text{（浓）}\xrightarrow{\Delta}\mathrm{CO_2\uparrow+2SO_2\uparrow+2H_2O}$
+
+常温下，浓硫酸可使 $\mathrm{Fe、Al}$ 钝化。
+
+### 3. 接触法制硫酸
+
+[图：Ⅰ. 煅烧黄铁矿/硫黄 →（造气）$\mathrm{SO_2}$ 气体的净化 →（通入 $\mathrm{O_2}$）Ⅱ. 接触室（$\mathrm{SO_3}$ 生成）→ Ⅲ. 吸收塔（$\mathrm{H_2SO_4}$ 生成）。]
+
+反应原理及设备：
+
+Ⅰ. $\mathrm{4FeS_2+11O_2}\xrightarrow{\text{高温}}\mathrm{2Fe_2O_3+8SO_2}$　沸腾炉
+
+Ⅱ. $\mathrm{2SO_2+O_2}\underset{\Delta}{\overset{\text{催化剂}}{\rightleftharpoons}}\mathrm{2SO_3}$　接触室
+
+Ⅲ. $\mathrm{SO_3+H_2O=H_2SO_4}$　吸收塔（用浓硫酸吸收 $\mathrm{SO_3}$）
+
+### 4. 硫酸根离子的检验
+
+（1）原理：$\mathrm{Ba^{2+}+SO_4^{2-}=BaSO_4\downarrow}$。
+
+<!-- page 39 -->
+
+（2）方法：待测液 →（加足量盐酸酸化）→（取清液）→（滴加 $\mathrm{BaCl_2}$ 溶液）有无白色沉淀（确定有无 $\mathrm{SO_4^{2-}}$）。
+
+（3）加盐酸目的：防止 $\mathrm{CO_3^{2-}、SO_3^{2-}、Ag^+}$ 等的干扰。
+
+## 六、硫及其化合物间的转化 [2023 山东 T13，2021 山东 T5A、T8]
+
+### 1. 硫元素的“价—类”二维图
+
+[图：纵轴为化合价，横轴为物质类别，依次为酸、单质或氧化物、盐。各物质间以箭头表示转化关系。]
+
+- $+6$ 价：只有氧化性。
+  - 酸：$\mathrm{H_2SO_4}$。
+  - 氧化物：$\mathrm{SO_3}$。
+  - 盐：$\mathrm{Na_2SO_4}$。
+- $+4$ 价：既有氧化性又有还原性。
+  - 酸：$\mathrm{H_2SO_3}$。
+  - 氧化物：$\mathrm{SO_2}$。
+  - 盐：$\mathrm{Na_2SO_3}$。
+- $0$ 价：既有氧化性又有还原性。
+  - 单质：$\mathrm{S}$。
+- $-2$ 价：只有还原性。
+  - 酸：$\mathrm{H_2S}$。
+  - 盐：$\mathrm{Na_2S}$。
+
+图中转化关系：
+
+- $\mathrm{SO_3}\rightarrow\mathrm{H_2SO_4}$；$\mathrm{SO_3}\rightarrow\mathrm{Na_2SO_4}$。
+- $\mathrm{H_2SO_4}\rightarrow\mathrm{SO_2}$。
+- $\mathrm{H_2SO_3}\rightleftharpoons\mathrm{SO_2}$；$\mathrm{SO_2}\rightleftharpoons\mathrm{Na_2SO_3}$。
+- $\mathrm{SO_2}\rightarrow\mathrm{SO_3}$；$\mathrm{Na_2SO_3}\rightarrow\mathrm{Na_2SO_4}$。
+- $\mathrm{SO_2}\rightleftharpoons\mathrm{S}$。
+- $\mathrm{H_2S}\rightarrow\mathrm{H_2SO_3}$；$\mathrm{H_2S}\rightleftharpoons\mathrm{S}$。
+- $\mathrm{Na_2S}\rightarrow\mathrm{Na_2SO_3}$；$\mathrm{Na_2S}\rightleftharpoons\mathrm{S}$。
+
+**注意** $\mathrm{Na_2SO_4}$ 不体现氧化性。
+
+### 2. 硫及其化合物间的转化关系及规律
+
+（1）当硫元素的化合价变化时，一般升高或降低至其相邻价态，即台阶式升降。例如：$\mathrm{H_2S+H_2SO_4}\text{（浓）}=\mathrm{S\downarrow+SO_2+2H_2O}$。
+
+[图：硫元素化合价的阶梯图，从低到高依次为 $-2$ 价的 $\mathrm{H_2S}$、$0$ 价的 $\mathrm{S}$、$+4$ 价的 $\mathrm{SO_2}$、$+6$ 价的 $\mathrm{SO_3、H_2SO_4}$。沿阶梯上升方向为“被氧化”，下降方向为“被还原”。]
+
+**注意** 浓硫酸可用于干燥 $\mathrm{SO_2}$ 气体（二者硫元素处于相邻价态，不发生氧化还原反应）。
+
+（2）含硫物质的连续氧化
+
+- $\mathrm{H_2S}\xrightarrow{\mathrm{O_2}\text{、点燃}}\mathrm{S}\xrightarrow{\mathrm{O_2}\text{、点燃}}\mathrm{SO_2}\xrightarrow{\mathrm{O_2}\text{、催化剂、}\Delta}\mathrm{SO_3}\xrightarrow{\mathrm{H_2O}}\mathrm{H_2SO_4}$。
+- $\mathrm{H_2S}\xrightarrow{\text{足量}\mathrm{O_2}\text{、点燃}}\mathrm{SO_2}$。
+- $\mathrm{SO_2}\xrightarrow{\mathrm{H_2O}}\mathrm{H_2SO_3}\xrightarrow{\mathrm{O_2}}\mathrm{H_2SO_4}$。
+
+**注意** $\mathrm{S}$ 不能被 $\mathrm{O_2}$ 一步氧化为 $\mathrm{SO_3}$。
+
+（3）$+4$ 价硫的不同化合物间的转化关系 [2025 山东 T5A]
+
+- $\mathrm{SO_2}\xrightarrow{\mathrm{H_2O}}\mathrm{H_2SO_3}$；$\mathrm{H_2SO_3}\rightarrow\mathrm{SO_2}$。
+- $\mathrm{H_2SO_3}\xrightarrow{\mathrm{OH^-}}\mathrm{HSO_3^-}$；$\mathrm{HSO_3^-}\xrightarrow{\mathrm{H^+}}\mathrm{H_2SO_3}$。
+- $\mathrm{HSO_3^-}\xrightarrow{\mathrm{OH^-}}\mathrm{SO_3^{2-}}$；$\mathrm{SO_3^{2-}}\xrightarrow{\mathrm{H^+}}\mathrm{HSO_3^-}$。
+- $\mathrm{HSO_3^-}\xrightarrow{\Delta}\mathrm{SO_3^{2-}}$。
+- $\mathrm{SO_3^{2-}}\xrightarrow{\mathrm{SO_2+H_2O}}\mathrm{HSO_3^-}$。
+
+## 即练即清
+
+答案 P311
+
+**1.** 某同学利用如图所示装置探究 $\mathrm{SO_2}$ 的性质。下列有关叙述错误的是（　　）
+
+[图：$\mathrm{SO_2}$ 依次通入试管①、②，再进行尾气处理。试管①中为滴有酚酞的 $\mathrm{Na_2CO_3}$ 溶液，试管②中为品红溶液。]
+
+A. 碳酸钠溶液呈碱性，通入 $\mathrm{SO_2}$ 前试管①中溶液呈红色
+
+B. 持续通入 $\mathrm{SO_2}$，试管①中溶液的颜色会慢慢褪去
+
+C. 通入 $\mathrm{SO_2}$ 后，试管②中溶液的红色会褪去，加热试管②，会恢复红色
+
+D. 可以用氯化钡溶液进行尾气处理，得到 $\mathrm{BaSO_3}$ 沉淀
+
+**2.** 硫循环对动植物和人类的生存意义重大，硫元素在自然界中的部分循环示意图如图，已知甲和乙分别表示两种氧化物。下列说法正确的是（　　）
+
+[图：火山喷发分别指向 $\mathrm{H_2S}$、甲、乙和 $\mathrm{S}$；甲 →（$\mathrm{H_2O}$）$\mathrm{H_2SO_3}$，甲 →（$\mathrm{O_2}$）乙，乙 →（$\mathrm{H_2O}$）$\mathrm{H_2SO_4}$，$\mathrm{H_2SO_3}$ →（$\mathrm{O_2}$）$\mathrm{H_2SO_4}$；$\mathrm{H_2S}$ 与 $\mathrm{H_2SO_3}$ 经反应1生成 $\mathrm{S}$；$\mathrm{S}$ → 硫化物 →（氧气、水蒸气）石膏、芒硝。]
+
+A. 硫元素在自然界中只能以化合态形式存在
+
+B. 反应1中，氧化剂和还原剂的物质的量之比为 $1:2$
+
+C. 乙能使品红溶液褪色
+
+D. 芒硝的化学式为 $\mathrm{Na_2SO_3\cdot10H_2O}$
+
+**3.** 部分含硫物质的分类与相应化合价的关系如图所示。下列推断不合理的是（　　）
+
+[图：纵轴为化合价，标有 $+6、+4、0、-2$；横轴为物质类别，依次为酸、氧化物、单质、盐。酸类中，a 位于 $+6$ 价，$\mathrm{H_2SO_3}$ 位于 $+4$ 价，b 位于 $-2$ 价；氧化物类中，$\mathrm{SO_2}$ 位于 $+4$ 价；单质类中，c 位于 $0$ 价；盐类中，d 位于 $+4$ 价。]
+
+A. a 的浓溶液与 b 可反应生成 $\mathrm{SO_2}$
+
+B. $\mathrm{SO_2}$ 通入紫色石蕊溶液中，溶液先变红后褪色
+
+C. c 在空气中燃烧生成 $\mathrm{SO_2}$
+
+D. d 既可被氧化，也可被还原
+
+针对训练 《精练册》P189

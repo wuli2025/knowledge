@@ -1,0 +1,234 @@
+<!-- page 103 -->
+
+### 注意
+
+$\mathrm{Mn^{2+}}$ 与 $\mathrm{HCO_3^-}$、$\mathrm{[Al(OH)_4]^-}$ 与 $\mathrm{HCO_3^-}$ 的反应不是相互促进的水解反应，前者是 $\mathrm{HCO_3^-}$ 电离出的 $\mathrm{CO_3^{2-}}$ 与 $\mathrm{Mn^{2+}}$ 反应，后者是 $\mathrm{HCO_3^-}$ 电离出的 $\mathrm{H^+}$ 与 $\mathrm{[Al(OH)_4]^-}$ 反应。
+
+### 归纳总结
+
+（1）因相互促进水解的程度较大而不能大量共存的离子组合
+
+① $\mathrm{Al^{3+}}$ 与 $\mathrm{HCO_3^-}$、$\mathrm{CO_3^{2-}}$、$\mathrm{[Al(OH)_4]^-}$、$\mathrm{SiO_3^{2-}}$、$\mathrm{HS^-}$、$\mathrm{S^{2-}}$。
+
+② $\mathrm{Fe^{3+}}$ 与 $\mathrm{HCO_3^-}$、$\mathrm{CO_3^{2-}}$、$\mathrm{[Al(OH)_4]^-}$、$\mathrm{SiO_3^{2-}}$。
+
+（2）书写水解相互促进且进行到底的反应的离子方程式的步骤
+
+以 $\mathrm{FeCl_3}$ 溶液与 $\mathrm{Na_2CO_3}$ 溶液混合为例。
+
+第一步：写出发生反应的两种离子及对应产物。难溶性物质加“$\downarrow$”，易分解的物质写分解产物。
+
+$\mathrm{Fe^{3+}+CO_3^{2-}\longrightarrow Fe(OH)_3\downarrow+CO_2\uparrow}$
+
+第二步：配平电荷。
+
+$\mathrm{2Fe^{3+}+3CO_3^{2-}\longrightarrow 2Fe(OH)_3\downarrow+3CO_2\uparrow}$
+
+第三步：确定“$\mathrm{H_2O}$”的位置并完成配平。因生成物中有 $\mathrm{H}$，反应物中无 $\mathrm{H}$，故 $\mathrm{H_2O}$ 为反应物。
+
+$\mathrm{2Fe^{3+}+3CO_3^{2-}+3H_2O=2Fe(OH)_3\downarrow+3CO_2\uparrow}$
+
+### 6. 盐的水解常数（以 $\mathrm{A^-+H_2O\rightleftharpoons HA+OH^-}$ 为例）
+
+（1）表达式：$K_{\mathrm h}=\dfrac{c(\mathrm{HA})\cdot c(\mathrm{OH^-})}{c(\mathrm{A^-})}$
+
+（2）$K_{\mathrm h}$ 与 $K_{\mathrm W}$、$K_{\mathrm a}$ 的关系
+
+$K_{\mathrm h}=\dfrac{c(\mathrm{HA})\cdot c(\mathrm{OH^-})\cdot c(\mathrm{H^+})}{c(\mathrm{A^-})\cdot c(\mathrm{H^+})}=\dfrac{K_{\mathrm W}}{K_{\mathrm a}}$
+
+### 注意
+
+① $\mathrm{Na_2CO_3}$ 的第一步水解常数 $K_{\mathrm h}=\dfrac{K_{\mathrm W}}{K_{\mathrm{a_2}}}$；$\mathrm{NaHCO_3}$ 的水解常数 $K_{\mathrm h}=\dfrac{K_{\mathrm W}}{K_{\mathrm{a_1}}}$。
+
+② 水解常数只受温度影响。水解反应是吸热反应，故 $K_{\mathrm h}$ 随温度升高而增大。$K_{\mathrm h}$ 越大，水解趋势越大。
+
+③ 根据电离常数与水解常数的大小关系可判断弱酸的酸式盐溶液的酸碱性。例如根据 $K_{\mathrm h}(\mathrm{HCO_3^-})>K_{\mathrm{a_2}}(\mathrm{H_2CO_3})$ 可知 $\mathrm{NaHCO_3}$ 溶液呈碱性。
+
+### 7. 盐类水解的应用 [2025 山东 T2A，2023 山东 T2A]
+
+| 应用 | 实例 | 原理 |
+|---|---|---|
+| 判断溶液的酸碱性 | $\mathrm{FeCl_3}$ 溶液显酸性 | $\mathrm{Fe^{3+}+3H_2O\rightleftharpoons Fe(OH)_3+3H^+}$ |
+| 判断弱酸的酸性强弱 | 等物质的量浓度的 $\mathrm{NaX}$、$\mathrm{NaY}$、$\mathrm{NaZ}$ 三种盐溶液的 $\mathrm{pH}$ 分别为 $8$、$9$、$10$，则酸性：$\mathrm{HX>HY>HZ}$ | 相同条件下，弱酸酸性越弱，酸根离子水解程度越大 |
+
+续表
+
+| 应用 | 实例 | 原理 |
+|---|---|---|
+| 配制或贮存易水解的盐溶液 | 配制 $\mathrm{FeCl_3}$ 溶液时，将 $\mathrm{FeCl_3}$ 固体溶解在浓盐酸中，然后加水稀释；贮存 $\mathrm{Fe_2(SO_4)_3}$ 溶液时，加入少量稀硫酸 | 酸抑制弱碱阳离子水解 |
+| 胶体的制取 | 实验室制取 $\mathrm{Fe(OH)_3}$ 胶体 | 加热促进水解，离子方程式：$\mathrm{Fe^{3+}+3H_2O}\xrightarrow{\Delta}\mathrm{Fe(OH)_3}\text{（胶体）}+\mathrm{3H^+}$ |
+| 净水剂 | 明矾可用作净水剂 | $\mathrm{Al^{3+}+3H_2O\rightleftharpoons Al(OH)_3}\text{（胶体）}+\mathrm{3H^+}$，$\mathrm{Al(OH)_3}$ 胶体可吸附、沉降悬浮物 |
+| 泡沫灭火器 | 泡沫灭火器中为 $\mathrm{NaHCO_3}$ 溶液与 $\mathrm{Al_2(SO_4)_3}$ 溶液 | 发生相互促进的水解反应，离子方程式：$\mathrm{Al^{3+}+3HCO_3^-=Al(OH)_3\downarrow+3CO_2\uparrow}$ |
+| 除锈剂 | $\mathrm{NH_4Cl}$ 溶液与 $\mathrm{ZnCl_2}$ 溶液可用作焊接金属时的除锈剂 | $\mathrm{NH_4^+}$、$\mathrm{Zn^{2+}}$ 水解产生的 $\mathrm{H^+}$ 与金属表面的氧化物反应 |
+| 物质的制备 | 用 $\mathrm{TiCl_4}$ 制备 $\mathrm{TiO_2}$ | $\mathrm{TiCl_4}+(x+2)\mathrm{H_2O}=\mathrm{TiO_2}\cdot x\mathrm{H_2O}\downarrow+\mathrm{4HCl}$ |
+
+### 归纳总结　盐溶液蒸干后所得物质的判断
+
+① 水解生成难挥发性酸或强碱时，蒸干后一般得原物质，如 $\mathrm{Al_2(SO_4)_3}$、$\mathrm{Na_2CO_3}$ 等。
+
+② 生成易挥发性酸且金属阳离子水解生成难溶性碱时，蒸干、灼烧后一般得对应的金属氧化物，如 $\mathrm{AlCl_3}$ 溶液蒸发结晶得到 $\mathrm{Al(OH)_3}$，灼烧得到 $\mathrm{Al_2O_3}$，故从溶液中得到 $\mathrm{AlCl_3}$ 固体需要在 $\mathrm{HCl}$ 气流中加热蒸发。
+
+③ 受热易分解的盐，其溶液蒸干灼烧后得不到原物质，如 $\mathrm{Ca(HCO_3)_2}$、$\mathrm{NaHCO_3}$、$\mathrm{NH_4Cl}$ 等。
+
+④ 还原性盐在蒸发时会被 $\mathrm{O_2}$ 氧化，如 $\mathrm{FeCl_2}$ 溶液蒸干、灼烧，最后得到 $\mathrm{Fe_2O_3}$。
+
+<!-- page 104 -->
+
+## 即练即清
+
+答案 P324
+
+1. 在一定条件下，$\mathrm{Na_2CO_3}$ 溶液中存在如下平衡：$\mathrm{CO_3^{2-}+H_2O\rightleftharpoons HCO_3^-+OH^-}$。下列说法正确的是（　　）
+
+A. 稀释溶液，平衡正向移动，$\dfrac{c(\mathrm{HCO_3^-})\cdot c(\mathrm{OH^-})}{c(\mathrm{CO_3^{2-}})}$ 增大
+
+B. 向蒸馏水中加入 $\mathrm{Na_2CO_3}$ 固体，水的电离程度减小
+
+C. 加入 $\mathrm{NaOH}$ 固体，平衡逆向移动，$\mathrm{pH}$ 减小
+
+D. 升高温度，$\dfrac{c(\mathrm{HCO_3^-})}{c(\mathrm{CO_3^{2-}})}$ 增大
+
+2. 已知常温下浓度均为 $0.1\ \mathrm{mol\cdot L^{-1}}$ 的下列溶液的 $\mathrm{pH}$ 如表所示。
+
+| 溶质 | $\mathrm{CH_3COONa}$ | $\mathrm{NaHCO_3}$ | $\mathrm{NaClO}$ | $\mathrm{NaCN}$ |
+|---|---|---|---|---|
+| $\mathrm{pH}$ | $8.8$ | $9.7$ | $10.3$ | $11.1$ |
+
+下列有关说法不正确的是（　　）
+
+A. 常温下电离平衡常数的大小关系：$K_{\mathrm a}(\mathrm{CH_3COOH})>K_{\mathrm{a_1}}(\mathrm{H_2CO_3})>K_{\mathrm a}(\mathrm{HClO})>K_{\mathrm a}(\mathrm{HCN})$
+
+B. 相同温度下，$\mathrm{pH}$ 相同的 $\mathrm{CH_3COONa}$ 溶液和 $\mathrm{NaClO}$ 溶液相比，前者的浓度大
+
+C. 常温下 $\mathrm{pH}=2$ 的 $\mathrm{CH_3COOH}$ 溶液与 $\mathrm{pH}=12$ 的 $\mathrm{NaOH}$ 溶液以体积比 $1:1$ 混合，则有 $c(\mathrm{Na^+})>c(\mathrm{CH_3COO^-})>c(\mathrm{OH^-})>c(\mathrm{H^+})$
+
+D. $0.1\ \mathrm{mol\cdot L^{-1}}$ $\mathrm{NaCN}$ 溶液中，存在关系：$c(\mathrm{Na^+})=c(\mathrm{CN^-})+c(\mathrm{HCN})$
+
+3. 实验测得 $0.10\ \mathrm{mol\cdot L^{-1}}$ $\mathrm{NaHCO_3}$ 溶液的 $\mathrm{pH}$ 随温度变化如下图所示。
+
+[图：纵轴为 $\mathrm{pH}$，刻度从 $8.50$ 到 $8.75$；横轴为 $T/^\circ\mathrm C$，标有 $20$、$25$、$30$、$40$、$45$、$50$、$55$、$60$，$30$ 与 $40$ 之间有断轴符号。曲线从 $\mathrm O$ 点下降，经过 $\mathrm Q$ 点 $(25,8.62)$，降至约 $45\ ^\circ\mathrm C$ 处的 $\mathrm M$ 点，随后陡升至 $\mathrm N$ 点，再略有下降并波动，之后上升经过 $\mathrm P$ 点，最终升至约 $8.75$。$\mathrm O$、$\mathrm P$ 两点位于同一水平虚线上；$\mathrm Q$ 点向两坐标轴作有虚线。]
+
+下列说法正确的是（　　）
+
+A. $\mathrm{OM}$ 段随温度升高溶液的 $\mathrm{pH}$ 减小，原因是 $\mathrm{HCO_3^-}$ 水解被抑制
+
+B. $\mathrm O$ 点溶液和 $\mathrm P$ 点溶液中 $c(\mathrm{OH^-})$ 相等
+
+C. 将 $\mathrm N$ 点溶液恢复到 $25\ ^\circ\mathrm C$，$\mathrm{pH}$ 可能大于 $8.62$
+
+D. $\mathrm Q$ 点、$\mathrm M$ 点溶液中均有：$c(\mathrm{CO_3^{2-}})+c(\mathrm{HCO_3^-})+c(\mathrm{OH^-})=c(\mathrm{Na^+})+c(\mathrm{H^+})$
+
+针对训练　《精练册》P251
+
+## 第4节　沉淀溶解平衡
+
+## 知识清单
+
+### 1. 沉淀溶解平衡
+
+固体溶质溶解的过程是一个可逆过程：
+
+$\text{固体溶质}\underset{\text{结晶}}{\overset{\text{溶解}}{\rightleftharpoons}}\text{溶液中的离子}$
+
+- $v_{\text{溶解}}>v_{\text{结晶}}$：固体溶解
+- $v_{\text{溶解}}=v_{\text{结晶}}$：溶解平衡
+- $v_{\text{溶解}}<v_{\text{结晶}}$：析出晶体
+
+沉淀溶解平衡的特点：逆、等、动、定、变（适用平衡移动原理）。
+
+### 2. 沉淀溶解平衡的影响因素
+
+（1）内因（决定因素）：难溶电解质本身的性质。
+
+（2）外因
+
+① 浓度：加水稀释，平衡向沉淀溶解的方向移动。
+
+② 温度：绝大多数难溶盐的溶解是吸热过程，升高温度，平衡一般向沉淀溶解的方向移动。
+
+③ 同离子效应：增大难溶物对应离子的浓度，平衡向生成沉淀的方向移动。
+
+④ 发生反应：向平衡体系中加入可与体系中某些离子反应的物质，平衡向沉淀溶解的方向移动。
+
+### 注意
+
+平衡向沉淀溶解方向移动的前提是体系中存在固体，若无固体，则平衡不移动。
+
+### 3. 溶度积 [2025 山东 T15D、T17（4），2024 山东 T12C，2023 山东 T17（2），2022 山东 T14AB、T17（2）]
+
+- 表达式
+  - 对于 $\mathrm{A}_m\mathrm{B}_n(\mathrm s)\rightleftharpoons m\mathrm{A}^{n+}(\mathrm{aq})+n\mathrm{B}^{m-}(\mathrm{aq})$，$K_{\mathrm{sp}}=[c(\mathrm{A}^{n+})]^m\cdot[c(\mathrm{B}^{m-})]^n$
+- 影响因素
+  - $K_{\mathrm{sp}}$ 只受温度影响
+- 溶度积规则
+  - $Q<K_{\mathrm{sp}}$ 时，溶液不饱和，无沉淀析出；
+  - $Q=K_{\mathrm{sp}}$ 时，沉淀与溶解处于平衡状态；
+  - $Q>K_{\mathrm{sp}}$ 时，有沉淀析出，直至达到平衡
+
+<!-- page 105 -->
+
+### 4. 沉淀溶解平衡的应用
+
+（1）沉淀的生成
+
+在溶液中，当 $Q>K_{\mathrm{sp}}$ 时，就会生成沉淀。利用生成沉淀可除去溶液中的杂质离子，常用方法有：
+
+| 方法 | 示例 |
+|---|---|
+| 加沉淀剂法 | 用 $\mathrm{Na_2S}$、$\mathrm{H_2S}$ 等作沉淀剂，使某些金属离子（如 $\mathrm{Cu^{2+}}$、$\mathrm{Hg^{2+}}$ 等）生成极难溶的硫化物沉淀（如 $\mathrm{CuS}$、$\mathrm{HgS}$ 等） |
+| 调节 $\mathrm{pH}$ 法 | 除去 $\mathrm{CuCl_2}$ 溶液中的 $\mathrm{FeCl_3}$，可加入 $\mathrm{CuO}$、$\mathrm{Cu(OH)_2}$、$\mathrm{Cu_2(OH)_2CO_3}$ 等消耗 $\mathrm{H^+}$，使平衡 $\mathrm{Fe^{3+}+3H_2O\rightleftharpoons Fe(OH)_3+3H^+}$ 正向移动，生成 $\mathrm{Fe(OH)_3}$ 沉淀 |
+
+### 注意
+
+① 不可能使要除去的离子全部通过沉淀除去。一般认为残留在溶液中的离子浓度小于 $1\times10^{-5}\ \mathrm{mol\cdot L^{-1}}$ 时，沉淀完全。
+
+② 判断两种溶液混合时是否有沉淀生成，要注意混合后溶液体积改变引起的浓度变化，利用混合后的离子浓度计算出 $Q$，再与 $K_{\mathrm{sp}}$ 进行比较得出相应结论。
+
+（2）沉淀的溶解
+
+当 $Q<K_{\mathrm{sp}}$ 时，沉淀就会溶解。常用方法有：
+
+| 方法 | 示例 |
+|---|---|
+| 酸、碱溶解法 | 用盐酸溶解 $\mathrm{BaCO_3}$ |
+| 氧化还原法 | 用硝酸溶解金属硫化物（$\mathrm{CuS}$、$\mathrm{HgS}$ 等） |
+| 生成配合物法 | 用氨水溶解 $\mathrm{AgCl}$ 生成 $\mathrm{[Ag(NH_3)_2]^+}$ |
+| 盐溶解法 | 用 $\mathrm{NH_4Cl}$ 溶液溶解 $\mathrm{Mg(OH)_2}$ |
+
+（3）沉淀的转化
+
+一般来说，若难溶电解质类型相同，则 $K_{\mathrm{sp}}$ 较大的沉淀易转化为 $K_{\mathrm{sp}}$ 较小的沉淀；若类型不同，沉淀的溶解度差别越大，越容易转化。
+
+### 注意
+
+一种沉淀可以转化为更难溶的沉淀，这是一般规律，并不意味着溶解度小的沉淀不能转化为溶解度大的沉淀，沉淀转化的实质是沉淀溶解平衡的移动。如 $\mathrm{BaSO_4}$ 比 $\mathrm{BaCO_3}$ 更难溶解，但将 $\mathrm{BaSO_4}$ 沉淀加入饱和 $\mathrm{Na_2CO_3}$ 溶液中，只要 $c(\mathrm{Ba^{2+}})\cdot c(\mathrm{CO_3^{2-}})>K_{\mathrm{sp}}(\mathrm{BaCO_3})$，$\mathrm{BaSO_4}$ 就可以缓慢转化为 $\mathrm{BaCO_3}$。
+
+（4）$K_{\mathrm{sp}}$ 的应用
+
+① 根据沉淀的先后次序，比较 $K_{\mathrm{sp}}$ 的大小。如向浓度均为 $0.1\ \mathrm{mol\cdot L^{-1}}$（同浓度）的 $\mathrm{NaCl}$ 和 $\mathrm{NaI}$（同类型）混合溶液中滴加少量 $\mathrm{AgNO_3}$ 溶液（少量沉淀剂），先出现黄色沉淀（先生成的沉淀的 $K_{\mathrm{sp}}$ 更小），则 $K_{\mathrm{sp}}(\mathrm{AgCl})>K_{\mathrm{sp}}(\mathrm{AgI})$。
+
+② 根据 $K_{\mathrm{sp}}$ 判断沉淀某离子的 $\mathrm{pH}$ 范围。如已知：$K_{\mathrm{sp}}[\mathrm{Al(OH)_3}]=1\times10^{-33}$，$K_{\mathrm{sp}}[\mathrm{Fe(OH)_3}]=3\times10^{-39}$，$\mathrm{pH}=7.1$ 时 $\mathrm{Mn(OH)_2}$ 开始沉淀。室温下，除去 $\mathrm{MnSO_4}$ 溶液中的 $\mathrm{Fe^{3+}}$、$\mathrm{Al^{3+}}$ 又不使 $\mathrm{Mn^{2+}}$ 沉淀出来，由 $K_{\mathrm{sp}}[\mathrm{Al(OH)_3}]>K_{\mathrm{sp}}[\mathrm{Fe(OH)_3}]$ 可知，$\mathrm{Al^{3+}}$ 沉淀完全时 $\mathrm{Fe^{3+}}$ 早已沉淀完全，当 $\mathrm{Al^{3+}}$ 恰好完全沉淀时，$c(\mathrm{Al^{3+}})=10^{-5}\ \mathrm{mol\cdot L^{-1}}$，$K_{\mathrm{sp}}[\mathrm{Al(OH)_3}]=c(\mathrm{Al^{3+}})\cdot c^3(\mathrm{OH^-})=1\times10^{-33}$，此时 $c(\mathrm{OH^-})\approx10^{-9.3}\ \mathrm{mol\cdot L^{-1}}$，$c(\mathrm{H^+})=K_{\mathrm W}/c(\mathrm{OH^-})=10^{-4.7}\ \mathrm{mol\cdot L^{-1}}$，即 $\mathrm{pH}=4.7$，故需调节溶液 $\mathrm{pH}$ 范围为 $4.7\leqslant\mathrm{pH}<7.1$。
+
+## 即练即清
+
+答案 P325
+
+1. 下列现象不能用沉淀溶解平衡移动原理解释的是（　　）
+
+A. 相同温度下，$\mathrm{AgCl}$ 在水中的溶解程度大于在氯化钠溶液中的溶解程度
+
+B. 浓 $\mathrm{FeCl_3}$ 溶液滴入沸水中继续加热形成红褐色透明液体
+
+C. 自然界地表层原生铜矿变成 $\mathrm{CuSO_4}$ 溶液，向地下深层渗透，遇到难溶的 $\mathrm{ZnS}$ 或 $\mathrm{PbS}$，慢慢转变为铜蓝（$\mathrm{CuS}$）
+
+D. 加入少量 $\mathrm{AgCl}$ 固体可以除去氯化钠溶液中的少量硫化钠杂质
+
+2. 牙齿表面有一层牙釉质在保护着，存在如下平衡：$\mathrm{Ca_5(PO_4)_3OH(s)\rightleftharpoons 5Ca^{2+}(aq)+3PO_4^{3-}(aq)+OH^-(aq)}$　$K_{\mathrm{sp}}=6.8\times10^{-37}$，已知 $\mathrm{Ca_5(PO_4)_3F(s)}$ 的 $K_{\mathrm{sp}}=2.8\times10^{-61}$。下列说法错误的是（　　）
+
+A. 口腔中残留大量的酸性物质会破坏牙釉质
+
+B. 牙膏中添加适量的磷酸盐，可以有效保护牙齿
+
+C. 若用碳酸氢钠稀溶液进行漱口，会使上述平衡发生移动，此时 $K_{\mathrm{sp}}$ 变小
+
+D. 使用含氟（$\mathrm{NaF}$）牙膏，可实现 $\mathrm{Ca_5(PO_4)_3OH(s)}$ 与 $\mathrm{Ca_5(PO_4)_3F(s)}$ 的有效转化

@@ -1,0 +1,242 @@
+<!-- page 67 -->
+
+## 即练即清
+
+答案 P317
+
+### 典例2
+
+（2024 安徽，10，3分）某温度下，在密闭容器中充入一定量的 $\mathrm{X(g)}$，发生下列反应：$\mathrm{X(g)}\rightleftharpoons\mathrm{Y(g)}$（$\Delta H_1<0$），$\mathrm{Y(g)}\rightleftharpoons\mathrm{Z(g)}$（$\Delta H_2<0$），测得各气体浓度与反应时间的关系如图所示。下列反应进程示意图符合题意的是（　　）
+
+[图：纵轴为浓度，横轴为反应时间。起始时只有 $\mathrm{X}$；$\mathrm{X}$ 的浓度迅速降低后趋于稳定，$\mathrm{Y}$ 的浓度先升高后降低并趋于稳定，$\mathrm{Z}$ 的浓度从零逐渐升高并趋于稳定。最终浓度大小为 $\mathrm{Z}>\mathrm{Y}>\mathrm{X}$。]
+
+A. [图：纵轴为能量，横轴为反应进程。反应依次经过 $\mathrm{X}$、过渡态1、$\mathrm{Y}$、过渡态2、$\mathrm{Z}$。能量为 $\mathrm{X}<\mathrm{Y}<\mathrm{Z}$，过渡态2高于过渡态1。]
+
+B. [图：纵轴为能量，横轴为反应进程。反应依次经过 $\mathrm{X}$、过渡态1、$\mathrm{Y}$、过渡态2、$\mathrm{Z}$。能量为 $\mathrm{X}>\mathrm{Y}>\mathrm{Z}$，过渡态2高于过渡态1。]
+
+C. [图：纵轴为能量，横轴为反应进程。反应依次经过 $\mathrm{X}$、过渡态1、$\mathrm{Y}$、过渡态2、$\mathrm{Z}$。能量为 $\mathrm{X}>\mathrm{Y}>\mathrm{Z}$，过渡态1高于过渡态2。]
+
+D. [图：纵轴为能量，横轴为反应进程。反应依次经过 $\mathrm{X}$、过渡态1、$\mathrm{Y}$、过渡态2、$\mathrm{Z}$。能量为 $\mathrm{X}<\mathrm{Y}<\mathrm{Z}$，过渡态1高于过渡态2。]
+
+### 3. 循环图式 [2025 山东 T9，2022 山东 T10]
+
+分析循环图时，重点在于判断反应物、生成物、催化剂和中间产物。一般来说：
+
+（1）通过箭头进入循环且“只进不出”的是反应物，如图中 $\mathrm{HOCH_2CH(OH)CH_3}$；
+
+（2）通过箭头离开循环且“只出不进”的是生成物，如图中 $\mathrm{CH_3CH{=}CH_2}$、$\mathrm{HCHO}$、$\mathrm{CH_3CHO}$、$\mathrm{H_2O}$；
+
+（3）先参加反应，又在后续反应中生成（“有进有出”）的是催化剂，如图中 $\mathrm{MoO_3}$ 是该反应的催化剂；
+
+（4）先生成后又消耗掉（“自生自灭”）的是中间产物，如图中剩余的三种物质均为中间产物。
+
+[图：$\mathrm{1,2}$-丙二醇脱氧脱水反应的催化循环机理。循环按①②③④进行：① $\mathrm{MoO_3}$ 与一分子 $\mathrm{HOCH_2CH(OH)CH_3}$ 反应，脱去 $\mathrm{H_2O}$，形成含一个五元环的钼配合物；②再与一分子 $\mathrm{HOCH_2CH(OH)CH_3}$ 反应，脱去 $\mathrm{H_2O}$，形成含两个五元环的钼配合物；③释放 $\mathrm{HCHO}$ 和 $\mathrm{CH_3CHO}$，形成含一个五元环的钼中间产物；④释放 $\mathrm{CH_3CH{=}CH_2}$，再生 $\mathrm{MoO_3}$。]
+
+$\mathrm{1,2}$-丙二醇脱氧脱水反应的催化循环机理
+
+考查角度：总反应方程式的书写、催化剂的判断、化学键的变化、能量转化形式、反应机理的分析等。
+
+## 即练即清
+
+答案 P317
+
+### 典例3
+
+（2024 届山东日照二模，10）某科研团队以溴苯与 $\mathrm{catB—Br}$ 的偶联反应构建 $\mathrm{C—B}$ 键，反应机理如图，下列说法正确的是（　　）
+
+[图：溴苯与 $\mathrm{catB—Br}$ 偶联的反应机理。上方的 $\mathrm{L—NiBr_2}$ 在 $\mathrm{Zn}$ 参与下生成 $\mathrm{L—Ni—Br}$，同时生成 $\mathrm{ZnBr_2}$；$\mathrm{L—Ni—Br}$ 与 $\mathrm{catB—Br}$ 作用生成 $\mathrm{L—NiBr_2}$ 和 $\mathrm{catB\cdot}$。主循环中，$\mathrm{L—Ni—Br}$ 与 $\mathrm{catB\cdot}$ 结合，形成同时连接 $\mathrm{Br}$、$\mathrm{L}$、$\mathrm{Bcat}$ 的镍配合物；该配合物在 $\mathrm{Zn}$ 参与下生成 $\mathrm{L—Ni—Bcat}$，同时生成 $\mathrm{ZnBr_2}$；$\mathrm{L—Ni—Bcat}$ 与溴苯反应，形成同时连接苯基、$\mathrm{Br}$、$\mathrm{L}$、$\mathrm{Bcat}$ 的镍配合物；随后生成苯基硼酸酯 $\mathrm{C_6H_5—Bcat}$，并再生 $\mathrm{L—Ni—Br}$。]
+
+A. 过程中 $\mathrm{Ni}$ 的化合价未发生改变
+
+B. $\mathrm{L—Ni—Br}$ 为中间产物
+
+C. $\mathrm{catB\cdot}$ 为催化剂
+
+D. 理论上产生 $1\ \mathrm{mol}$ $\mathrm{C_6H_5—Bcat}$ 消耗 $\mathrm{Zn}$ 与溴苯的物质的量之比为 $1:1$
+
+针对训练　《精练册》P214
+
+<!-- page 68 -->
+
+# 第八章 化学反应与电能
+
+## 第1节 原电池原理及其应用
+
+## 知识清单
+
+### 一、原电池的工作原理
+
+#### 1. 原电池
+
+将化学能转化为电能的装置。
+
+**注意**　太阳能电池不属于原电池，太阳能电池是将太阳能转化为电能的装置。
+
+#### 2. 原电池的构成条件
+
+| 项目 | 内容 |
+|---|---|
+| 反应 | 能自发进行的氧化还原反应 |
+| 电极 | 一般为活泼性不同的两个电极（燃料电池的两个电极的材料可以相同） |
+| 离子导体 | 电解质溶液、熔融电解质或某些离子导体等 |
+| 闭合回路 | 两电极直接接触或用导线连接，插入离子导体中 |
+
+#### 3. 原电池工作原理
+
+（1）原电池的工作原理简图 [2021 山东 T10A]
+
+[图：左侧为负极，发生氧化反应；右侧为正极，发生还原反应。两极用导线连接并插入电解质溶液中。外电路中电子 $\mathrm{e^-}$ 从负极流向正极，电流 $I$ 从正极流向负极；电解质溶液中阳离子移向正极，阴离子移向负极。]
+
+（2）铜锌原电池
+
+[图：装置Ⅰ中，锌片和铜片插入同一盛有 $\mathrm{CuSO_4}$ 溶液的烧杯，用导线连接，导线上串联电流表。装置Ⅱ中，锌片插入 $\mathrm{ZnSO_4}$ 溶液，铜片插入 $\mathrm{CuSO_4}$ 溶液，两烧杯之间用盐桥连接，两电极用导线连接，导线上串联电流表。]
+
+| 电极名称 | 负极 | 正极 |
+|---|---|---|
+| 电极材料 | 锌片 | 铜片 |
+| 电极反应 | $\mathrm{Zn}-2\mathrm{e^-}=\mathrm{Zn^{2+}}$ | $\mathrm{Cu^{2+}}+2\mathrm{e^-}=\mathrm{Cu}$ |
+| 反应类型 | 氧化反应 | 还原反应 |
+| 电子流向 | 由 $\mathrm{Zn}$ 沿导线流向 $\mathrm{Cu}$ | |
+| 盐桥中离子移向 | 盐桥含饱和 $\mathrm{KCl}$ 溶液，$\mathrm{K^+}$ 移向正极，$\mathrm{Cl^-}$ 移向负极 | |
+
+#### 4. 原电池正、负极的判断依据
+
+- 电极材料
+  - 活泼金属：判断为负极。
+  - 较不活泼金属或非金属：判断为正极。
+- 电极反应
+  - 氧化反应：判断为负极。
+  - 还原反应：判断为正极。
+- 电子流向
+  - 电子流出：判断为负极。
+  - 电子流入：判断为正极。
+- 电极一般现象
+  - 不断溶解、质量减小：判断为负极。
+  - 电极增重或质量不变：判断为正极。
+- 离子移向
+  - 阴离子移向：判断为负极。
+  - 阳离子移向：判断为正极。
+
+### 二、化学电源
+
+#### 1. 一次电池
+
+只能使用一次，放电后不能再充电复原继续使用，例如碱性锌锰电池。
+
+| 项目 | 内容 |
+|---|---|
+| 负极反应 | $\mathrm{Zn}+2\mathrm{OH^-}-2\mathrm{e^-}=\mathrm{Zn(OH)_2}$ |
+| 正极反应 | $\mathrm{MnO_2}+\mathrm{H_2O}+\mathrm{e^-}=\mathrm{MnO(OH)}+\mathrm{OH^-}$ |
+| 电解质 | $\mathrm{KOH}$ |
+| 总反应 | $\mathrm{Zn}+2\mathrm{MnO_2}+2\mathrm{H_2O}=2\mathrm{MnO(OH)}+\mathrm{Zn(OH)_2}$ |
+
+#### 2. 二次电池
+
+放电后可以再充电而反复使用的电池，例如铅酸蓄电池。[2024 山东 T12B]
+
+| 过程 | 电极 | 反应 |
+|---|---|---|
+| 放电反应 | 负极 | $\mathrm{Pb}+\mathrm{SO_4^{2-}}-2\mathrm{e^-}=\mathrm{PbSO_4}$ |
+| 放电反应 | 正极 | $\mathrm{PbO_2}+\mathrm{SO_4^{2-}}+4\mathrm{H^+}+2\mathrm{e^-}=\mathrm{PbSO_4}+2\mathrm{H_2O}$ |
+| 充电反应 | 阴极 | $\mathrm{PbSO_4}+2\mathrm{e^-}=\mathrm{Pb}+\mathrm{SO_4^{2-}}$ |
+| 充电反应 | 阳极 | $\mathrm{PbSO_4}+2\mathrm{H_2O}-2\mathrm{e^-}=\mathrm{PbO_2}+4\mathrm{H^+}+\mathrm{SO_4^{2-}}$ |
+| 电解质溶液 | | 稀硫酸 |
+| 总反应 | | $\mathrm{Pb}+\mathrm{PbO_2}+2\mathrm{H_2SO_4}\overset{\text{放电}}{\underset{\text{充电}}{\rightleftharpoons}}2\mathrm{PbSO_4}+2\mathrm{H_2O}$ |
+
+#### 3. 燃料电池
+
+可连续将燃料和氧化剂的化学能直接转化为电能的化学电源。
+
+（1）氢氧燃料电池
+
+| 种类 | 酸性 | 碱性 |
+|---|---|---|
+| 负极反应式 | $\mathrm{H_2}-2\mathrm{e^-}=2\mathrm{H^+}$ | $\mathrm{H_2}+2\mathrm{OH^-}-2\mathrm{e^-}=2\mathrm{H_2O}$ |
+
+<!-- page 69 -->
+
+（续表）
+
+| 种类 | 酸性 | 碱性 |
+|---|---|---|
+| 正极反应式 | $\mathrm{O_2}+4\mathrm{e^-}+4\mathrm{H^+}=2\mathrm{H_2O}$ | $\mathrm{O_2}+2\mathrm{H_2O}+4\mathrm{e^-}=4\mathrm{OH^-}$ |
+| 电池总反应式 | $2\mathrm{H_2}+\mathrm{O_2}=2\mathrm{H_2O}$ | |
+| 备注 | 燃料电池的电极不参与反应，有很强的催化活性 | |
+
+（2）甲烷燃料电池（$\mathrm{KOH}$ 溶液）
+
+负极反应式：$\mathrm{CH_4}-8\mathrm{e^-}+10\mathrm{OH^-}=\mathrm{CO_3^{2-}}+7\mathrm{H_2O}$
+
+正极反应式：$\mathrm{O_2}+4\mathrm{e^-}+2\mathrm{H_2O}=4\mathrm{OH^-}$
+
+总反应式：$\mathrm{CH_4}+2\mathrm{O_2}+2\mathrm{OH^-}=\mathrm{CO_3^{2-}}+3\mathrm{H_2O}$
+
+（3）甲醇燃料电池（$\mathrm{KOH}$ 溶液）[2021 山东 T10BC]
+
+负极反应式：$\mathrm{CH_3OH}-6\mathrm{e^-}+8\mathrm{OH^-}=\mathrm{CO_3^{2-}}+6\mathrm{H_2O}$
+
+正极反应式：$\mathrm{O_2}+4\mathrm{e^-}+2\mathrm{H_2O}=4\mathrm{OH^-}$
+
+总反应式：$2\mathrm{CH_3OH}+3\mathrm{O_2}+4\mathrm{OH^-}=2\mathrm{CO_3^{2-}}+6\mathrm{H_2O}$
+
+### 三、原电池原理的应用
+
+#### 1. 加快反应的速率
+
+例如，在 $\mathrm{Zn}$ 与稀硫酸反应时加入少量 $\mathrm{CuSO_4}$ 溶液，置换出的 $\mathrm{Cu}$ 能与 $\mathrm{Zn}$ 形成原电池，使产生 $\mathrm{H_2}$ 的反应速率加快。
+
+#### 2. 比较金属活动性强弱
+
+例如，两种金属分别作原电池的两极并浸入稀硫酸中，作负极的金属比作正极的金属活泼。
+
+**注意**　$\mathrm{Mg}$、$\mathrm{Al}$ 作电极并浸入 $\mathrm{NaOH}$ 溶液中，$\mathrm{Al}$ 作负极。
+
+#### 3. 设计制作化学电源
+
+例如，根据 $\mathrm{Cu}+2\mathrm{Ag^+}=\mathrm{Cu^{2+}}+2\mathrm{Ag}$ 设计电池：
+
+[图：两种电池设计。左图中，$\mathrm{Cu}$ 电极与 $\mathrm{C}$（$\mathrm{Ag}$ 等）电极插入同一盛有 $\mathrm{AgNO_3}$ 溶液的烧杯，两电极用导线连接。右图中，$\mathrm{Ag}$ 电极插入 $\mathrm{AgNO_3}$ 溶液，$\mathrm{Cu}$ 电极插入 $\mathrm{CuSO_4}$ 溶液，两烧杯用盐桥连接，外电路串联电流表，电子 $\mathrm{e^-}$ 沿导线由 $\mathrm{Cu}$ 流向 $\mathrm{Ag}$。两图之间标有“或”。]
+
+#### 4. 用于金属的防护（牺牲阳极法）
+
+例如，要保护铁质输水管道或钢铁桥梁等，可用导线将其与锌块相连，使锌作原电池的负极。
+
+## 即练即清
+
+答案 P317
+
+1. 碱性锌锰电池的总反应为 $\mathrm{Zn}+2\mathrm{MnO_2}+\mathrm{H_2O}=\mathrm{ZnO}+2\mathrm{MnOOH}$，电池构造示意图如图所示。下列有关说法正确的是（　　）
+
+[图：圆柱形碱性锌锰电池剖面示意图，上端标“$+$”，下端标“$-$”；内部标出“锌粉和 $\mathrm{KOH}$”“$\mathrm{MnO_2}$ 和 $\mathrm{KOH}$”及“隔膜”。]
+
+A. 电池工作时，$\mathrm{MnO_2}$ 发生氧化反应
+
+B. 电池工作时，$\mathrm{OH^-}$ 通过隔膜向正极移动
+
+C. 环境温度过低，不利于电池放电
+
+D. 反应中每生成 $1\ \mathrm{mol}$ $\mathrm{MnOOH}$，转移电子数为 $2\times6.02\times10^{23}$
+
+2. 利用金属 $\mathrm{Al}$、海水及其中的溶解氧可组成电池，如图所示。下列说法正确的是（　　）
+
+[图：$\mathrm{Al}$ 电极和石墨电极插入含有溶解氧 $\mathrm{O_2}$ 的海水中，通过导线和小灯泡构成闭合回路。$\mathrm{Al}$ 电极一侧导线标为 $a$，石墨电极一侧导线标为 $b$。]
+
+A. $b$ 电极为电池正极
+
+B. 电池工作时，海水中的 $\mathrm{Na^+}$ 向 $a$ 电极移动
+
+C. 电池工作时，紧邻 $a$ 电极区域的海水呈强碱性
+
+D. 每消耗 $1\ \mathrm{kg}$ $\mathrm{Al}$，电池最多向外提供 $37\ \mathrm{mol}$ 电子的电量
+
+3. 负载有 $\mathrm{Pt}$ 和 $\mathrm{Ag}$ 的活性炭，可选择性去除 $\mathrm{Cl^-}$ 实现废酸的纯化，其工作原理如图。下列说法正确的是（　　）
+
+[图：溶液中，$\mathrm{Pt}$ 和 $\mathrm{Ag}$ 负载在下方相连的活性炭表面上；$\mathrm{O_2}$ 的箭头指向 $\mathrm{Pt}$ 表面，$\mathrm{Cl^-}$ 的箭头指向 $\mathrm{Ag}$ 表面。]
+
+A. $\mathrm{Ag}$ 作原电池正极
+
+B. 电子由 $\mathrm{Ag}$ 经活性炭流向 $\mathrm{Pt}$
+
+C. $\mathrm{Pt}$ 表面发生的电极反应：$\mathrm{O_2}+2\mathrm{H_2O}+4\mathrm{e^-}=4\mathrm{OH^-}$
+
+D. 每消耗标准状况下 $11.2\ \mathrm{L}$ 的 $\mathrm{O_2}$，最多去除 $1\ \mathrm{mol}$ $\mathrm{Cl^-}$

@@ -1,0 +1,310 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-1f1d9401c19f37a676df"
+      ],
+      "text": "连在同一碳原子上的氢原子等效；连在同一碳原子上的甲基，其所含氢原子等效；处于对称位置的碳原子上的氢原子等效。",
+      "title": "等效氢原子的判断",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-6c137b8b9bf30fab4040"
+      ],
+      "text": "连有4个不同的原子或基团的碳为手性碳。",
+      "title": "手性碳",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-1f1d9401c19f37a676df"
+      ],
+      "text": "丁烷、戊烷、己烷分别有 $2$ 种、$3$ 种、$5$ 种同分异构体。",
+      "title": "常见烷烃的同分异构体数目",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-1f1d9401c19f37a676df"
+      ],
+      "text": "苯环上的氢原子被取代时：取代基为 $2$ 个 $\\mathrm{—X}$，有 $3$ 种；为 $1$ 个 $\\mathrm{—X}$、$1$ 个 $\\mathrm{—Y}$，有 $3$ 种；为 $3$ 个 $\\mathrm{—X}$，有 $3$ 种；为 $2$ 个 $\\mathrm{—X}$、$1$ 个 $\\mathrm{—Y}$，有 $6$ 种；为 $1$ 个 $\\mathrm{—X}$、$1$ 个 $\\mathrm{—Y}$、$1$ 个 $\\mathrm{—Z}$，有 $10$ 种。",
+      "title": "苯环上常见取代组合的同分异构体数目",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-1f1d9401c19f37a676df"
+      ],
+      "text": "$\\mathrm{—C_nH_{2n+1}}$ 有几种结构，则 $\\mathrm{C_nH_{2n+1}X}$ 就有几种。原文举例：$\\mathrm{—C_4H_9}$ 有 $4$ 种结构，分子式为 $\\mathrm{C_4H_{10}O}$ 的醇（$\\mathrm{C_4H_9—OH}$）有 $4$ 种，分子式为 $\\mathrm{C_5H_{10}O_2}$ 的羧酸（$\\mathrm{C_4H_9—COOH}$）也有 $4$ 种。",
+      "title": "烷基结构种数与相应衍生物种数的对应",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-1f1d9401c19f37a676df"
+      ],
+      "text": "记住常见有机物的同分异构体数目，用于判断同分异构体数目；原文列举了丁烷、戊烷、己烷及苯环上若干取代组合的数目。",
+      "title": "记忆法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-1f1d9401c19f37a676df"
+      ],
+      "text": "依据等效氢原子的判断规则，区分氢原子种类，判断一氯代物种数。例如 $\\mathrm{CH_3—CH(CH_3)—CH_2—CH(CH_3)—CH_3}$ 中有 $3$ 种氢原子，其一氯代物有 $3$ 种。",
+      "title": "等效氢原子法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-1f1d9401c19f37a676df"
+      ],
+      "text": "根据 $\\mathrm{—C_nH_{2n+1}}$ 的结构种数，确定相应 $\\mathrm{C_nH_{2n+1}X}$ 的种数；原文用于判断相应醇和羧酸的同分异构体数目。",
+      "title": "烷基种数法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-1f1d9401c19f37a676df"
+      ],
+      "text": "对于二元取代物，固定一个取代基的位置，再移动另一个取代基的位置，以确定同分异构体数目，注意避免重复。原文举例：丙烷的一氯一溴代物有 $5$ 种，正丁烷的二氯代物有 $6$ 种，$\\mathrm{C_6H_5—C_6H_5}$ 的二氯代物有 $12$ 种；判断时注意碳碳单键可旋转。",
+      "title": "定一移一法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-1f1d9401c19f37a676df"
+      ],
+      "text": "先考虑取代基种数，再考虑位置异构种数，相乘得到同分异构体总数。例如 $\\mathrm{C_6H_5—CH_3}$ 苯环上的氢原子被 $\\mathrm{—C_4H_9}$ 取代，$\\mathrm{—C_4H_9}$ 有 $4$ 种结构，其与 $\\mathrm{—CH_3}$ 在苯环上的位置有 $3$ 种，形成的同分异构体有 $4\\times3=12$ 种。",
+      "title": "叠加相乘法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-1f1d9401c19f37a676df"
+      ],
+      "text": "通过互换原子建立对应关系，判断同分异构体数目。例如二氯苯（$\\mathrm{C_6H_4Cl_2}$）有 $3$ 种同分异构体，将 $\\mathrm{H}$ 和 $\\mathrm{Cl}$ 互换，可知四氯苯也有 $3$ 种同分异构体。",
+      "title": "替代法判断同分异构体数目",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-1f1d9401c19f37a676df"
+      ],
+      "text": "对于 $\\mathrm{C_xH_yN}$，将 $\\mathrm{N}$ 替换成 $\\mathrm{CH}$，得到 $\\mathrm{C_{x+1}H_{y+1}}$；计算不饱和度，写出同分异构体；再将 $\\mathrm{CH}$ 替换成 $\\mathrm{N}$，得到 $\\mathrm{C_xH_yN}$ 的同分异构体。",
+      "title": "替代法书写含氮有机物的同分异构体",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-2a1123a617ece7d9d265"
+      ],
+      "text": "用于限定条件下同分异构体的书写：①根据分子式或结构式，统计碳、氢、氧、氮等原子数目并计算不饱和度；②结合限定条件，写出符合条件的结构碎片；③根据剩余的碳、氧、氮等原子数和不饱和度，判断剩余碎片；④结合等效氢等限定条件进行拼装。",
+      "title": "碎片拼装法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m9",
+      "source_node_ids": [
+        "n-2a1123a617ece7d9d265"
+      ],
+      "text": "审查性质特征限定，确定官能团及数目；审查结构特征限定，确定碳骨架、是否含有苯环、支链位置及结构是否对称；根据核磁共振氢谱的峰面积之比，确定等效氢原子的种类数及数目之比，并判断结构是否对称。",
+      "title": "依据限定条件确定结构碎片",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m10",
+      "source_node_ids": [
+        "n-2a1123a617ece7d9d265"
+      ],
+      "text": "书写含碳碳双键的同分异构体时，应注意题目是否要求考虑顺反异构。",
+      "title": "核查顺反异构的计数范围",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-1f1d9401c19f37a676df"
+      ],
+      "from": "m1",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1f1d9401c19f37a676df"
+      ],
+      "from": "m1",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1f1d9401c19f37a676df"
+      ],
+      "from": "m2",
+      "to": "c1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1f1d9401c19f37a676df"
+      ],
+      "from": "m3",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1f1d9401c19f37a676df"
+      ],
+      "from": "m5",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1f1d9401c19f37a676df"
+      ],
+      "from": "m6",
+      "to": "m7",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2a1123a617ece7d9d265"
+      ],
+      "from": "m8",
+      "to": "m9",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2a1123a617ece7d9d265",
+        "n-1f1d9401c19f37a676df"
+      ],
+      "from": "m8",
+      "to": "c1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2a1123a617ece7d9d265"
+      ],
+      "from": "m8",
+      "to": "m10",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3305cf1ac777c0fc3cd0",
+        "n-1f1d9401c19f37a676df"
+      ],
+      "from": "n-3305cf1ac777c0fc3cd0",
+      "to": "m4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5ec2851232e75b72d439",
+        "n-1f1d9401c19f37a676df"
+      ],
+      "from": "n-5ec2851232e75b72d439",
+      "to": "m2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6c137b8b9bf30fab4040"
+      ],
+      "from": "n-6c137b8b9bf30fab4040",
+      "to": "c2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6c137b8b9bf30fab4040",
+        "n-2a1123a617ece7d9d265"
+      ],
+      "from": "n-6c137b8b9bf30fab4040",
+      "to": "m8",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-72b3d9480e74f40650d8",
+        "n-2a1123a617ece7d9d265"
+      ],
+      "from": "n-72b3d9480e74f40650d8",
+      "to": "m10",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-72b3d9480e74f40650d8",
+        "n-2a1123a617ece7d9d265"
+      ],
+      "from": "n-72b3d9480e74f40650d8",
+      "to": "m9",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9268a16a4010356efc2a",
+        "n-2a1123a617ece7d9d265"
+      ],
+      "from": "n-9268a16a4010356efc2a",
+      "to": "m8",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9268a16a4010356efc2a",
+        "n-2a1123a617ece7d9d265"
+      ],
+      "from": "n-9268a16a4010356efc2a",
+      "to": "m9",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-43a42d6773ae1a7cf877",
+  "source_digest": "ac0d502514db95de439feb8cb3817e0f8793066c12d8d1aed1b54ef30d301264",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

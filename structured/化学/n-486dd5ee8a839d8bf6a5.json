@@ -1,0 +1,474 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-f5aa79ea9d3a8490a2e6"
+      ],
+      "text": "固体溶质溶解的过程是一个可逆过程：$\\text{固体溶质}\\underset{\\text{结晶}}{\\overset{\\text{溶解}}{\\rightleftharpoons}}\\text{溶液中的离子}$。当 $v_{\\text{溶解}}=v_{\\text{结晶}}$ 时，达到溶解平衡。沉淀溶解平衡具有逆、等、动、定、变的特点，适用平衡移动原理。",
+      "title": "沉淀溶解平衡",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-42b7fc74b5d56ae1008e"
+      ],
+      "text": "对于 $\\mathrm{A}_m\\mathrm{B}_n(\\mathrm s)\\rightleftharpoons m\\mathrm{A}^{n+}(\\mathrm{aq})+n\\mathrm{B}^{m-}(\\mathrm{aq})$，溶度积表达式为 $K_{\\mathrm{sp}}=[c(\\mathrm{A}^{n+})]^m\\cdot[c(\\mathrm{B}^{m-})]^n$。",
+      "title": "溶度积及其表达式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-f7bc2c75b14007304aa2"
+      ],
+      "text": "增大难溶物对应离子的浓度，平衡向生成沉淀的方向移动。",
+      "title": "同离子效应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-f44256915990bbc957e8"
+      ],
+      "text": "不可能使要除去的离子全部通过沉淀除去。一般认为残留在溶液中的离子浓度小于 $1\\times10^{-5}\\ \\mathrm{mol\\cdot L^{-1}}$ 时，沉淀完全。",
+      "title": "沉淀完全的判据",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-f44256915990bbc957e8"
+      ],
+      "text": "沉淀转化的实质是沉淀溶解平衡的移动。一种沉淀可以转化为更难溶的沉淀，但这并不意味着溶解度小的沉淀不能转化为溶解度大的沉淀。",
+      "title": "沉淀的转化",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-f5aa79ea9d3a8490a2e6"
+      ],
+      "text": "$v_{\\text{溶解}}>v_{\\text{结晶}}$ 时，固体溶解；$v_{\\text{溶解}}=v_{\\text{结晶}}$ 时，达到溶解平衡；$v_{\\text{溶解}}<v_{\\text{结晶}}$ 时，析出晶体。",
+      "title": "溶解与结晶速率的比较",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-f7bc2c75b14007304aa2"
+      ],
+      "text": "沉淀溶解平衡的内因，即决定因素，是难溶电解质本身的性质。",
+      "title": "沉淀溶解平衡的决定因素",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-f7bc2c75b14007304aa2"
+      ],
+      "text": "加水稀释，平衡向沉淀溶解的方向移动。平衡向沉淀溶解方向移动的前提是体系中存在固体，若无固体，则平衡不移动。",
+      "title": "稀释对沉淀溶解平衡的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-f7bc2c75b14007304aa2"
+      ],
+      "text": "绝大多数难溶盐的溶解是吸热过程，升高温度，平衡一般向沉淀溶解的方向移动。向沉淀溶解方向移动的前提是体系中存在固体。",
+      "title": "温度对沉淀溶解平衡的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-f7bc2c75b14007304aa2"
+      ],
+      "text": "向平衡体系中加入可与体系中某些离子反应的物质，平衡向沉淀溶解的方向移动。向沉淀溶解方向移动的前提是体系中存在固体，若无固体，则平衡不移动。",
+      "title": "离子参与反应对沉淀溶解平衡的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-42b7fc74b5d56ae1008e"
+      ],
+      "text": "$K_{\\mathrm{sp}}$ 只受温度影响。",
+      "title": "溶度积的影响因素",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-42b7fc74b5d56ae1008e",
+        "n-f44256915990bbc957e8"
+      ],
+      "text": "$Q<K_{\\mathrm{sp}}$ 时，溶液不饱和，无沉淀析出；存在沉淀时，沉淀会溶解。$Q=K_{\\mathrm{sp}}$ 时，沉淀与溶解处于平衡状态。$Q>K_{\\mathrm{sp}}$ 时，有沉淀析出，直至达到平衡。",
+      "title": "溶度积规则",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-f44256915990bbc957e8"
+      ],
+      "text": "一般来说，若难溶电解质类型相同，则 $K_{\\mathrm{sp}}$ 较大的沉淀易转化为 $K_{\\mathrm{sp}}$ 较小的沉淀；若类型不同，沉淀的溶解度差别越大，越容易转化。该规律不排除溶解度小的沉淀向溶解度大的沉淀转化。",
+      "title": "沉淀转化的一般规律及其范围",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-f44256915990bbc957e8"
+      ],
+      "text": "$\\mathrm{BaSO_4}$ 比 $\\mathrm{BaCO_3}$ 更难溶解，但将 $\\mathrm{BaSO_4}$ 沉淀加入饱和 $\\mathrm{Na_2CO_3}$ 溶液中，只要 $c(\\mathrm{Ba^{2+}})\\cdot c(\\mathrm{CO_3^{2-}})>K_{\\mathrm{sp}}(\\mathrm{BaCO_3})$，$\\mathrm{BaSO_4}$ 就可以缓慢转化为 $\\mathrm{BaCO_3}$。",
+      "title": "硫酸钡向碳酸钡转化的条件",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-f44256915990bbc957e8"
+      ],
+      "text": "判断两种溶液混合时是否有沉淀生成，先考虑混合后溶液体积改变引起的浓度变化，再利用混合后的离子浓度计算 $Q$，与 $K_{\\mathrm{sp}}$ 比较，得出相应结论。",
+      "title": "判断混合溶液是否生成沉淀",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-f44256915990bbc957e8"
+      ],
+      "text": "利用生成沉淀除去溶液中的杂质离子。可用 $\\mathrm{Na_2S}$、$\\mathrm{H_2S}$ 等作沉淀剂，使某些金属离子，如 $\\mathrm{Cu^{2+}}$、$\\mathrm{Hg^{2+}}$ 等，生成极难溶的硫化物沉淀，如 $\\mathrm{CuS}$、$\\mathrm{HgS}$ 等。",
+      "title": "加沉淀剂法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-f44256915990bbc957e8"
+      ],
+      "text": "除去 $\\mathrm{CuCl_2}$ 溶液中的 $\\mathrm{FeCl_3}$，可加入 $\\mathrm{CuO}$、$\\mathrm{Cu(OH)_2}$、$\\mathrm{Cu_2(OH)_2CO_3}$ 等消耗 $\\mathrm{H^+}$，使平衡 $\\mathrm{Fe^{3+}+3H_2O\\rightleftharpoons Fe(OH)_3+3H^+}$ 正向移动，生成 $\\mathrm{Fe(OH)_3}$ 沉淀。",
+      "title": "调节 pH 法除杂",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-f44256915990bbc957e8"
+      ],
+      "text": "沉淀溶解的常用方法之一是酸、碱溶解法，原文示例为用盐酸溶解 $\\mathrm{BaCO_3}$。",
+      "title": "酸、碱溶解法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-f44256915990bbc957e8"
+      ],
+      "text": "沉淀溶解可采用氧化还原法，如用硝酸溶解金属硫化物（$\\mathrm{CuS}$、$\\mathrm{HgS}$ 等）。",
+      "title": "氧化还原法溶解沉淀",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-f44256915990bbc957e8"
+      ],
+      "text": "沉淀溶解可采用生成配合物法，如用氨水溶解 $\\mathrm{AgCl}$，生成 $\\mathrm{[Ag(NH_3)_2]^+}$。",
+      "title": "生成配合物法溶解沉淀",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-f44256915990bbc957e8"
+      ],
+      "text": "沉淀溶解可采用盐溶解法，如用 $\\mathrm{NH_4Cl}$ 溶液溶解 $\\mathrm{Mg(OH)_2}$。",
+      "title": "盐溶解法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-f44256915990bbc957e8"
+      ],
+      "text": "在同浓度、同类型且加入少量沉淀剂的条件下，可根据沉淀的先后次序比较 $K_{\\mathrm{sp}}$ 的大小。原文示例：向浓度均为 $0.1\\ \\mathrm{mol\\cdot L^{-1}}$ 的 $\\mathrm{NaCl}$ 和 $\\mathrm{NaI}$ 混合溶液中滴加少量 $\\mathrm{AgNO_3}$ 溶液，先出现黄色沉淀，先生成的沉淀的 $K_{\\mathrm{sp}}$ 更小，故 $K_{\\mathrm{sp}}(\\mathrm{AgCl})>K_{\\mathrm{sp}}(\\mathrm{AgI})$。",
+      "title": "根据沉淀次序比较溶度积",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m9",
+      "source_node_ids": [
+        "n-f44256915990bbc957e8"
+      ],
+      "text": "根据 $K_{\\mathrm{sp}}$ 判断沉淀某离子的 $\\mathrm{pH}$ 范围：结合杂质离子完全沉淀的浓度判据，计算所需 $c(\\mathrm{OH^-})$，再由 $c(\\mathrm{H^+})=K_{\\mathrm W}/c(\\mathrm{OH^-})$ 求得 $\\mathrm{pH}$，并以需保留离子开始沉淀的 $\\mathrm{pH}$ 限定范围。原文示例为室温下除去 $\\mathrm{MnSO_4}$ 溶液中的 $\\mathrm{Fe^{3+}}$、$\\mathrm{Al^{3+}}$，又不使 $\\mathrm{Mn^{2+}}$ 沉淀；以 $\\mathrm{Al^{3+}}$ 恰好完全沉淀时 $c(\\mathrm{Al^{3+}})=10^{-5}\\ \\mathrm{mol\\cdot L^{-1}}$ 为计算条件，结合 $\\mathrm{Mn(OH)_2}$ 在 $\\mathrm{pH}=7.1$ 时开始沉淀，原文给出的范围为 $4.7\\leqslant\\mathrm{pH}<7.1$。",
+      "title": "根据溶度积确定选择性沉淀的 pH 范围",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-f5aa79ea9d3a8490a2e6"
+      ],
+      "from": "l1",
+      "to": "c1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f7bc2c75b14007304aa2"
+      ],
+      "from": "c3",
+      "to": "c1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f7bc2c75b14007304aa2"
+      ],
+      "from": "l2",
+      "to": "c1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f7bc2c75b14007304aa2"
+      ],
+      "from": "l3",
+      "to": "c1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f7bc2c75b14007304aa2"
+      ],
+      "from": "l4",
+      "to": "c1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f7bc2c75b14007304aa2"
+      ],
+      "from": "l5",
+      "to": "c1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-42b7fc74b5d56ae1008e"
+      ],
+      "from": "l6",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-42b7fc74b5d56ae1008e"
+      ],
+      "from": "c2",
+      "to": "l7",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f44256915990bbc957e8"
+      ],
+      "from": "m1",
+      "to": "l7",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f44256915990bbc957e8"
+      ],
+      "from": "m2",
+      "to": "l7",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f44256915990bbc957e8"
+      ],
+      "from": "m3",
+      "to": "l7",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f44256915990bbc957e8"
+      ],
+      "from": "m4",
+      "to": "l7",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f44256915990bbc957e8"
+      ],
+      "from": "m5",
+      "to": "l7",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f44256915990bbc957e8"
+      ],
+      "from": "m6",
+      "to": "l7",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f44256915990bbc957e8"
+      ],
+      "from": "m7",
+      "to": "l7",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f44256915990bbc957e8"
+      ],
+      "from": "c5",
+      "to": "c1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f44256915990bbc957e8"
+      ],
+      "from": "l8",
+      "to": "c5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f44256915990bbc957e8"
+      ],
+      "from": "l9",
+      "to": "c5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f44256915990bbc957e8"
+      ],
+      "from": "l9",
+      "to": "l7",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f44256915990bbc957e8"
+      ],
+      "from": "m8",
+      "to": "c2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f44256915990bbc957e8"
+      ],
+      "from": "m9",
+      "to": "c2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f44256915990bbc957e8"
+      ],
+      "from": "m9",
+      "to": "c4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6e26e0a6c7eb1c943822"
+      ],
+      "from": "n-6e26e0a6c7eb1c943822",
+      "to": "c2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6e26e0a6c7eb1c943822"
+      ],
+      "from": "n-6e26e0a6c7eb1c943822",
+      "to": "c1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a53d18b15d375bf98ac1"
+      ],
+      "from": "n-a53d18b15d375bf98ac1",
+      "to": "c1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ee1ac7410b95ab7b80dc"
+      ],
+      "from": "n-ee1ac7410b95ab7b80dc",
+      "to": "c1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ee1ac7410b95ab7b80dc"
+      ],
+      "from": "n-ee1ac7410b95ab7b80dc",
+      "to": "l6",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ee1ac7410b95ab7b80dc"
+      ],
+      "from": "n-ee1ac7410b95ab7b80dc",
+      "to": "c5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-486dd5ee8a839d8bf6a5",
+  "source_digest": "17df7fc1c804424a7c4fc76b717062c8e89d35c5909f9915d7750c79517be040",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

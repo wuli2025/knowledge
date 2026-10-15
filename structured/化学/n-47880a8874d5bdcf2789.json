@@ -1,0 +1,624 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-b1829cac4403a2334f46"
+      ],
+      "text": "元素推断中的“位”指元素在周期表中的位置；“构”涉及核电荷数、核外电子数、电子层数和最外层电子数；“性”涉及元素、单质、化合物及离子的性质。",
+      "title": "元素的“位—构—性”",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-caa965dd59f0181b5bf3"
+      ],
+      "text": "原文以$\\mathrm{Ne}$为核心列举$10$电子微粒，包括$\\mathrm{CH_4}$、$\\mathrm{NH_3}$、$\\mathrm{H_2O}$、$\\mathrm{HF}$、$\\mathrm{Ne}$、$\\mathrm{Na^+}$、$\\mathrm{Mg^{2+}}$、$\\mathrm{Al^{3+}}$、$\\mathrm{NH_2^-}$、$\\mathrm{N^{3-}}$、$\\mathrm{NH_4^+}$、$\\mathrm{OH^-}$、$\\mathrm{O^{2-}}$、$\\mathrm{H_3O^+}$、$\\mathrm{F^-}$。",
+      "title": "$10$电子微粒",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-caa965dd59f0181b5bf3"
+      ],
+      "text": "原文以$\\mathrm{Ar}$为核心列举$18$电子微粒，包括$\\mathrm{SiH_4}$、$\\mathrm{PH_3}$、$\\mathrm{H_2S}$、$\\mathrm{HCl}$、$\\mathrm{Ar}$、$\\mathrm{K^+}$、$\\mathrm{Ca^{2+}}$、$\\mathrm{P^{3-}}$、$\\mathrm{HS^-}$、$\\mathrm{S^{2-}}$、$\\mathrm{Cl^-}$；另列$\\mathrm{CH_3-CH_3}$、$\\mathrm{H_2N-NH_2}$、$\\mathrm{H_2O_2}$、$\\mathrm{F_2}$、$\\mathrm{F-CH_3}$、$\\mathrm{CH_3-OH}$等。",
+      "title": "$18$电子微粒",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-b1829cac4403a2334f46"
+      ],
+      "text": "结构决定位置，位置反映结构；结构决定性质，性质反映结构；位置与性质可以相互推断。",
+      "title": "位置、结构与性质的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-d01f83cb3dbf8f33232b"
+      ],
+      "text": "原子的核外电子层数＝周期数。",
+      "title": "电子层数与周期数",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-d01f83cb3dbf8f33232b"
+      ],
+      "text": "对原子，质子数＝原子序数＝核电荷数＝原子的核外电子数。",
+      "title": "原子中各数值的相等关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-d01f83cb3dbf8f33232b"
+      ],
+      "text": "主族元素原子最外层电子数＝主族序数。",
+      "title": "最外层电子数与主族序数",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-d01f83cb3dbf8f33232b"
+      ],
+      "text": "主族元素的最高正价＝族序数，$\\mathrm{O}$、$\\mathrm{F}$例外。",
+      "title": "主族元素最高正价与族序数",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-d01f83cb3dbf8f33232b"
+      ],
+      "text": "非金属主族元素的最低负价＝最外层电子数$-8$，$\\mathrm{H}$、$\\mathrm{B}$例外。",
+      "title": "非金属主族元素最低负价",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-30dc6c172deb1bea8fcb"
+      ],
+      "text": "限原文所列短周期元素：主族序数等于周期数的有$\\mathrm{H}$、$\\mathrm{Be}$、$\\mathrm{Al}$；主族序数等于周期数的$2$倍的有$\\mathrm{C}$、$\\mathrm{S}$；主族序数等于周期数的$3$倍的为$\\mathrm{O}$；周期数是主族序数的$2$倍的为$\\mathrm{Li}$；周期数是主族序数的$3$倍的为$\\mathrm{Na}$。",
+      "title": "短周期元素的族序数与周期数特征",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-30dc6c172deb1bea8fcb"
+      ],
+      "text": "限原文所列短周期元素：最高正价与最低负价代数和为$0$的有$\\mathrm{H}$、$\\mathrm{C}$、$\\mathrm{Si}$；代数和为$6$的为$\\mathrm{Cl}$；最高正价是最低负价绝对值的$3$倍的为$\\mathrm{S}$。",
+      "title": "短周期元素的正负化合价特征",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-30dc6c172deb1bea8fcb"
+      ],
+      "text": "限原文所列短周期元素：原子半径最小的元素为$\\mathrm{H}$；简单氢化物能和最高价氧化物的水化物反应形成盐的元素为$\\mathrm{N}$。",
+      "title": "短周期元素的特殊性质线索",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-30dc6c172deb1bea8fcb"
+      ],
+      "text": "限原文所列短周期元素：最外层电子数是次外层的$2$倍的为$\\mathrm{C}$；最外层电子数是次外层的一半的有$\\mathrm{Li、Si}$；$\\mathrm{s}$能级上的电子总数与$\\mathrm{p}$能级上的电子总数相等的有$\\mathrm{O、Mg}$。",
+      "title": "短周期元素的核外电子数特征",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l11",
+      "source_node_ids": [
+        "n-30dc6c172deb1bea8fcb"
+      ],
+      "text": "在原文所列短周期元素中，第一电离能大于同周期相邻元素的有$\\mathrm{Be、N、Mg、P}$。",
+      "title": "第一电离能的局部特征",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l12",
+      "source_node_ids": [
+        "n-30dc6c172deb1bea8fcb"
+      ],
+      "text": "原文限定于前$36$号非稀有气体元素，其中第四周期元素最外层电子数为$1$的有$\\mathrm{K、Cr、Cu}$；有$1$个未成对电子的有$\\mathrm{K、Sc、Cu、Ga、Br}$；有$4$个未成对电子的为$\\mathrm{Fe}$；有$6$个未成对电子的为$\\mathrm{Cr}$。",
+      "title": "第四周期元素的电子结构特征",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l13",
+      "source_node_ids": [
+        "n-ccb62644dece00d616b1"
+      ],
+      "text": "适用于电子层结构相同的离子：若电性相同，则对应元素位于同周期；若电性不同，则阳离子对应元素位于阴离子对应元素的下一周期。如$\\mathrm{O^{2-}}$、$\\mathrm{F^-}$、$\\mathrm{Na^+}$、$\\mathrm{Mg^{2+}}$、$\\mathrm{Al^{3+}}$电子层结构相同，$\\mathrm{Na、Mg、Al}$位于$\\mathrm{O、F}$的下一周期。",
+      "title": "“阴上、阳下”规律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l14",
+      "source_node_ids": [
+        "n-65a859068a5bdf663e3b"
+      ],
+      "text": "周期表左侧ⅠA、ⅡA族中，同主族相邻两种元素的原子序数之差，等于周期数较小的元素所在周期的元素种类数。如$\\mathrm{Na}$和$\\mathrm{K}$的原子序数之差为$8$。",
+      "title": "左侧同主族相邻周期元素的原子序数差",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l15",
+      "source_node_ids": [
+        "n-65a859068a5bdf663e3b"
+      ],
+      "text": "周期表右侧ⅢA～ⅦA族中，同主族相邻两种元素的原子序数之差，等于周期数较大的元素所在周期的元素种类数。如$\\mathrm{Cl}$和$\\mathrm{Br}$的原子序数之差为$18$。",
+      "title": "右侧同主族相邻周期元素的原子序数差",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l16",
+      "source_node_ids": [
+        "n-da22e33d9ad39c545778"
+      ],
+      "text": "一般情况下，在分子的结构式中，短周期主族元素原子形成共价键数目与元素的对应关系为：$1$对应$\\mathrm{H、F、Cl}$；$2$对应$\\mathrm{O、S}$；$3$对应$\\mathrm{B、Al、N、P}$；$4$对应$\\mathrm{C、Si}$；$5$对应$\\mathrm{P}$；$6$对应$\\mathrm{S}$；$7$对应$\\mathrm{Cl}$。",
+      "title": "短周期主族元素的常见共价键数目",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l17",
+      "source_node_ids": [
+        "n-da22e33d9ad39c545778"
+      ],
+      "text": "在离子化合物中，简单阳离子所带的正电荷数一般等于元素的族序数。",
+      "title": "简单阳离子电荷数与族序数",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l18",
+      "source_node_ids": [
+        "n-da22e33d9ad39c545778"
+      ],
+      "text": "原文列出的不满足$8$电子稳定结构的情况包括：$\\mathrm{B、Al}$只形成$3$个共价键时；$\\mathrm{P、S、Cl}$分别形成$5、6、7$个共价键时；有$\\mathrm{H}$原子出现时。",
+      "title": "不满足$8$电子稳定结构的情况",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l19",
+      "source_node_ids": [
+        "n-da22e33d9ad39c545778"
+      ],
+      "text": "存在配位键时，会改变原子所形成的共价键数目。如$\\mathrm{H_3N\\rightarrow BH_3}$中，由于存在$\\mathrm{N\\rightarrow B}$配位键，使得$\\mathrm{N、B}$的成键数均为$4$，与常规成键数目不一致。",
+      "title": "配位键对成键数目的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l20",
+      "source_node_ids": [
+        "n-b72301e4965f8beef5bd"
+      ],
+      "text": "核反应型元素推断中，若无特别说明，一般遵循质子数守恒和质量数守恒。",
+      "title": "核反应推断中的守恒关系",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-b1829cac4403a2334f46",
+        "n-d01f83cb3dbf8f33232b",
+        "n-30dc6c172deb1bea8fcb"
+      ],
+      "text": "利用元素的位置、结构和性质之间的联系，将题给特征与周期数、主族序数、电子数、化合价等关系相联系，依据特殊位置或性质推断元素。原文特殊特征表的范围为前$36$号非稀有气体元素，各条目另有短周期或第四周期限制。",
+      "title": "依据“位—构—性”特征推断元素",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-caa965dd59f0181b5bf3"
+      ],
+      "text": "确定$10$电子微粒时，以$\\mathrm{Ne}$为核心，推断同周期的非金属元素形成的微粒和下一周期的金属元素形成的微粒等。",
+      "title": "以$\\mathrm{Ne}$为核心确定$10$电子微粒",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-caa965dd59f0181b5bf3"
+      ],
+      "text": "确定$18$电子微粒时，以$\\mathrm{Ar}$为核心，推断同周期的非金属元素形成的微粒和下一周期的主族金属元素形成的微粒等。原文另列$\\mathrm{-F}$、$\\mathrm{-OH}$、$\\mathrm{-NH_2}$、$\\mathrm{-CH_3}$，用$9$电子$\\times 2$的方式联系相应$18$电子微粒。",
+      "title": "以$\\mathrm{Ar}$及$9$电子组合确定$18$电子微粒",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-03b8f22a6348c69c295e"
+      ],
+      "text": "根据所给信息确定某种元素在周期表中的位置，再以此为出发点，根据其他元素与该元素的位置关系确定其他未知元素。",
+      "title": "先定位一种元素再推断其他元素",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-03b8f22a6348c69c295e",
+        "n-65a859068a5bdf663e3b"
+      ],
+      "text": "根据元素的位置关系，结合题中原子序数之和、最外层电子数之和等信息确定元素种类。可设某元素的核外电子数为未知数，依据相对位置表示其他元素的核外电子数，再利用总数条件列方程。",
+      "title": "结合相对位置与总数条件列方程",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-da22e33d9ad39c545778"
+      ],
+      "text": "根据分子结构式中原子的共价键数目与短周期主族元素的常见成键数对应关系推断元素；涉及简单阳离子时，可参考其正电荷数与族序数的一般关系。判断时需结合不满足$8$电子稳定结构及存在配位键的情况。",
+      "title": "依据结构式中的成键数推断元素",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-da22e33d9ad39c545778"
+      ],
+      "text": "出现多核离子结构时，注意阴离子多出的电子归属及阳离子少的电子来源。先比较实际成键数与“常规”共价键数目；如$\\mathrm{O}$通常形成$2$个共价键，若只形成$1$个，则原文将多出的电子归给$\\mathrm{O}$。",
+      "title": "通过偏离常规成键数判断电子归属",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-da22e33d9ad39c545778"
+      ],
+      "text": "分析多核离子结构时，若结构中同种原子形成的共价键数目不同，则将多出的电子算在成键数目少的原子上。",
+      "title": "比较同种原子的成键数确定电子归属",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m9",
+      "source_node_ids": [
+        "n-da22e33d9ad39c545778"
+      ],
+      "text": "分析多核离子结构时，若其他元素的多个原子形成的共价键数目只有$1$种，而结构中只有$1$个某原子，则原文将电子算到该原子上。",
+      "title": "依据唯一原子确定电子归属",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m10",
+      "source_node_ids": [
+        "n-3e0af3a40a20fb2cf184"
+      ],
+      "text": "首先观察坐标轴的信息，如原子序数、族序数、原子半径、化合价、第一电离能、$\\mathrm{pH}$等，理解横、纵坐标之间的关系，再根据图中数据结合题目信息推断元素种类。",
+      "title": "坐标图像型元素推断",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m11",
+      "source_node_ids": [
+        "n-b72301e4965f8beef5bd"
+      ],
+      "text": "核反应型元素推断中，若无特别说明，依据质子数守恒和质量数守恒计算题目中的未知量。",
+      "title": "利用核反应守恒关系求未知量",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-b1829cac4403a2334f46"
+      ],
+      "from": "c1",
+      "to": "l1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b1829cac4403a2334f46",
+        "n-30dc6c172deb1bea8fcb"
+      ],
+      "from": "m1",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d01f83cb3dbf8f33232b",
+        "n-30dc6c172deb1bea8fcb"
+      ],
+      "from": "m1",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d01f83cb3dbf8f33232b",
+        "n-30dc6c172deb1bea8fcb"
+      ],
+      "from": "m1",
+      "to": "l4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d01f83cb3dbf8f33232b",
+        "n-30dc6c172deb1bea8fcb"
+      ],
+      "from": "m1",
+      "to": "l5",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d01f83cb3dbf8f33232b",
+        "n-30dc6c172deb1bea8fcb"
+      ],
+      "from": "m1",
+      "to": "l6",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-30dc6c172deb1bea8fcb"
+      ],
+      "from": "m1",
+      "to": "l7",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-30dc6c172deb1bea8fcb"
+      ],
+      "from": "m1",
+      "to": "l8",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-30dc6c172deb1bea8fcb"
+      ],
+      "from": "m1",
+      "to": "l9",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-30dc6c172deb1bea8fcb"
+      ],
+      "from": "m1",
+      "to": "l10",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-30dc6c172deb1bea8fcb"
+      ],
+      "from": "m1",
+      "to": "l11",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-30dc6c172deb1bea8fcb"
+      ],
+      "from": "m1",
+      "to": "l12",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-caa965dd59f0181b5bf3"
+      ],
+      "from": "m2",
+      "to": "c2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-caa965dd59f0181b5bf3"
+      ],
+      "from": "m3",
+      "to": "c3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-65a859068a5bdf663e3b"
+      ],
+      "from": "m5",
+      "to": "l14",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-65a859068a5bdf663e3b"
+      ],
+      "from": "m5",
+      "to": "l15",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-da22e33d9ad39c545778"
+      ],
+      "from": "m6",
+      "to": "l16",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-da22e33d9ad39c545778"
+      ],
+      "from": "m6",
+      "to": "l17",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-da22e33d9ad39c545778"
+      ],
+      "from": "m6",
+      "to": "l18",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-da22e33d9ad39c545778"
+      ],
+      "from": "m6",
+      "to": "l19",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-da22e33d9ad39c545778"
+      ],
+      "from": "m6",
+      "to": "m7",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-da22e33d9ad39c545778"
+      ],
+      "from": "m6",
+      "to": "m8",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-da22e33d9ad39c545778"
+      ],
+      "from": "m6",
+      "to": "m9",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b72301e4965f8beef5bd"
+      ],
+      "from": "m11",
+      "to": "l20",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-bef1df26133f4901bd6c",
+        "n-b1829cac4403a2334f46"
+      ],
+      "from": "n-bef1df26133f4901bd6c",
+      "to": "m1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a8f201f1a352aaeb77ad",
+        "n-30dc6c172deb1bea8fcb"
+      ],
+      "from": "n-a8f201f1a352aaeb77ad",
+      "to": "m1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-fe37e1e3f10cd478c514",
+        "n-03b8f22a6348c69c295e"
+      ],
+      "from": "n-fe37e1e3f10cd478c514",
+      "to": "m4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-152913b289a4a5c225a8",
+        "n-da22e33d9ad39c545778"
+      ],
+      "from": "n-152913b289a4a5c225a8",
+      "to": "m6",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f95cec1a8e7f8f2e0fd1",
+        "n-da22e33d9ad39c545778"
+      ],
+      "from": "n-f95cec1a8e7f8f2e0fd1",
+      "to": "m6",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f95cec1a8e7f8f2e0fd1",
+        "n-30dc6c172deb1bea8fcb"
+      ],
+      "from": "n-f95cec1a8e7f8f2e0fd1",
+      "to": "l11",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3397bd6d1b3d5539e7d0",
+        "n-3e0af3a40a20fb2cf184"
+      ],
+      "from": "n-3397bd6d1b3d5539e7d0",
+      "to": "m10",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-783915ad4ddfc6e7276a",
+        "n-b72301e4965f8beef5bd"
+      ],
+      "from": "n-783915ad4ddfc6e7276a",
+      "to": "m11",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-47880a8874d5bdcf2789",
+  "source_digest": "207fd829d6ee69ac2ec921796e2b57867cab0ba92e84963bb0e4a30d116a5ed8",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

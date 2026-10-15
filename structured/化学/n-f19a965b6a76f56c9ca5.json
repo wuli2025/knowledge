@@ -1,0 +1,647 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-b3e60e3958a79b70db85"
+      ],
+      "text": "氮气的电子式为 $\\mathrm{:N\\mathrel{\\vdots\\vdots}N:}$；结构式为 $\\mathrm{N\\equiv N}$。",
+      "title": "氮气的结构",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-b3e60e3958a79b70db85"
+      ],
+      "text": "氮的固定是 $\\mathrm{N_2}$ → 氮的化合物的过程，分为自然固氮和人工固氮。",
+      "title": "氮的固定",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-57335e2e367f7faf557c"
+      ],
+      "text": "氮氧化物主要有 $\\mathrm{N_2O}$、$\\mathrm{NO}$、$\\mathrm{N_2O_3}$、$\\mathrm{NO_2}$、$\\mathrm{N_2O_4}$、$\\mathrm{N_2O_5}$ 等；相关污染包括光化学烟雾和酸雨。",
+      "title": "氮的氧化物及其污染",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-57335e2e367f7faf557c"
+      ],
+      "text": "$\\mathrm{NO}$ 是无色的有毒气体，不溶于水。",
+      "title": "一氧化氮的物理性质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-57335e2e367f7faf557c"
+      ],
+      "text": "$\\mathrm{NO_2}$ 是红棕色、有刺激性气味的有毒气体。",
+      "title": "二氧化氮的物理性质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-291bf4c9dbcf6e6b64eb"
+      ],
+      "text": "硝酸是无色、有刺激性气味的液体，易挥发。",
+      "title": "硝酸的物理性质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c7",
+      "source_node_ids": [
+        "n-e808c9397f97344bc009"
+      ],
+      "text": "氨的电子式为 $\\begin{array}{ccc}&\\cdot\\cdot&\\\\ \\mathrm{H:}&\\mathrm{N}&\\mathrm{:H}\\\\ &\\mathrm{:}&\\\\ &\\mathrm{H}&\\end{array}$，分子空间结构为三角锥形。",
+      "title": "氨的结构",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c8",
+      "source_node_ids": [
+        "n-e808c9397f97344bc009"
+      ],
+      "text": "氨是无色、有刺激性气味的气体；密度比空气小，易液化，极易溶于水。常温常压下，$1$ 体积水能溶解约 $700$ 体积氨气。",
+      "title": "氨的物理性质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c9",
+      "source_node_ids": [
+        "n-e808c9397f97344bc009"
+      ],
+      "text": "铵盐一般为白色、易溶于水的固体。",
+      "title": "铵盐的物理性质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c10",
+      "source_node_ids": [
+        "n-c8b25489beea6058cd2f"
+      ],
+      "text": "氮元素的“价—类”二维图以化合价为纵轴、物质类别为横轴。氢化物 $\\mathrm{NH_3}$、碱 $\\mathrm{NH_3\\cdot H_2O}$、盐 $\\mathrm{NH_4Cl}$ 中氮为 $-3$ 价；单质 $\\mathrm{N_2}$ 中为 $0$ 价；氧化物 $\\mathrm{NO}$ 中为 $+2$ 价，$\\mathrm{NO_2}$ 中为 $+4$ 价；酸 $\\mathrm{HNO_3}$ 和盐 $\\mathrm{NaNO_3}$ 中为 $+5$ 价。",
+      "title": "氮元素的“价—类”二维图",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c11",
+      "source_node_ids": [
+        "n-c8b25489beea6058cd2f"
+      ],
+      "text": "原文列举的歧化反应：$\\mathrm{3NO_2+H_2O\\xrightarrow{}2HNO_3+NO}$；$\\mathrm{2NO_2+2NaOH\\xrightarrow{}NaNO_3+NaNO_2+H_2O}$。",
+      "title": "氮化合物的歧化反应示例",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c12",
+      "source_node_ids": [
+        "n-c8b25489beea6058cd2f"
+      ],
+      "text": "原文列举的归中反应：$\\mathrm{6NO+4NH_3\\xrightarrow[\\Delta]{催化剂}5N_2+6H_2O}$；$\\mathrm{NO_2+NO+2NaOH\\xrightarrow{}2NaNO_2+H_2O}$。",
+      "title": "氮化合物的归中反应示例",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-b3e60e3958a79b70db85"
+      ],
+      "text": "氮气化学性质不活泼，可作保护气。",
+      "title": "氮气的不活泼性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-b3e60e3958a79b70db85"
+      ],
+      "text": "氮气表现还原性：$\\mathrm{N_2+O_2\\xrightarrow{放电或高温}2NO}$。",
+      "title": "氮气与氧气的反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-b3e60e3958a79b70db85"
+      ],
+      "text": "氮气表现氧化性：$\\mathrm{3Mg+N_2\\xrightarrow{点燃}Mg_3N_2}$。",
+      "title": "氮气与镁的反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-57335e2e367f7faf557c",
+        "n-291bf4c9dbcf6e6b64eb"
+      ],
+      "text": "$\\mathrm{NO}$ 易与 $\\mathrm{O_2}$ 反应：$\\mathrm{2NO+O_2\\xrightarrow{}2NO_2}$。",
+      "title": "一氧化氮的氧化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-57335e2e367f7faf557c",
+        "n-291bf4c9dbcf6e6b64eb"
+      ],
+      "text": "$\\mathrm{NO_2}$ 易与水反应：$\\mathrm{3NO_2+H_2O\\xrightarrow{}2HNO_3+NO}$。",
+      "title": "二氧化氮与水的反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-57335e2e367f7faf557c"
+      ],
+      "text": "$\\mathrm{NO_2}$ 与 $\\mathrm{N_2O_4}$ 可相互转化：$\\mathrm{2NO_2\\rightleftharpoons N_2O_4}$。由于此平衡存在，通常所说的 $\\mathrm{NO_2}$ 实际上是二者的混合气体。$2\\ \\mathrm{mol}$ $\\mathrm{NO}$ 与 $1\\ \\mathrm{mol}$ $\\mathrm{O_2}$ 充分反应时，生成的 $\\mathrm{NO_2}$ 部分转化为 $\\mathrm{N_2O_4}$，实际所得 $\\mathrm{NO_2}$ 少于 $2\\ \\mathrm{mol}$。",
+      "title": "二氧化氮与四氧化二氮的平衡",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-291bf4c9dbcf6e6b64eb"
+      ],
+      "text": "硝酸具有强酸性和强氧化性。",
+      "title": "硝酸的强酸性与强氧化性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-291bf4c9dbcf6e6b64eb"
+      ],
+      "text": "常温下，$\\mathrm{Fe}$、$\\mathrm{Al}$ 遇浓 $\\mathrm{HNO_3}$ 钝化。",
+      "title": "铁、铝在浓硝酸中的钝化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-291bf4c9dbcf6e6b64eb"
+      ],
+      "text": "浓 $\\mathrm{HNO_3}$ 与 $\\mathrm{Cu}$ 反应，原文列出的产物为 $\\mathrm{Cu^{2+}+NO_2\\uparrow+H_2O}$；稀 $\\mathrm{HNO_3}$ 与 $\\mathrm{Cu}$ 反应，原文列出的产物为 $\\mathrm{Cu^{2+}+NO\\uparrow+H_2O}$。上述为产物列示，未给出完整反应方程式。",
+      "title": "浓、稀硝酸与铜反应的产物",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-291bf4c9dbcf6e6b64eb"
+      ],
+      "text": "浓 $\\mathrm{HNO_3}$ 与 $\\mathrm{C}$ 在加热条件下反应，原文列出的产物为 $\\mathrm{CO_2\\uparrow+NO_2\\uparrow+H_2O}$，未给出完整反应方程式。",
+      "title": "浓硝酸与碳的反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l11",
+      "source_node_ids": [
+        "n-291bf4c9dbcf6e6b64eb"
+      ],
+      "text": "硝酸不稳定，原文反应示意为 $\\mathrm{HNO_3\\xrightarrow{\\Delta 或光照}NO_2\\uparrow+O_2\\uparrow+H_2O}$。【待核对】原式未配平，按原文保留。久置浓 $\\mathrm{HNO_3}$ 呈黄色是因为溶有 $\\mathrm{NO_2}$。",
+      "title": "硝酸的不稳定性与久置变黄",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l12",
+      "source_node_ids": [
+        "n-e808c9397f97344bc009"
+      ],
+      "text": "氨与水反应：$\\mathrm{NH_3+H_2O\\rightleftharpoons NH_3\\cdot H_2O\\rightleftharpoons NH_4^++OH^-}$。",
+      "title": "氨与水的反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l13",
+      "source_node_ids": [
+        "n-e808c9397f97344bc009",
+        "n-291bf4c9dbcf6e6b64eb"
+      ],
+      "text": "氨具有还原性，在氧气、催化剂、加热条件下生成一氧化氮和水：$\\mathrm{4NH_3+5O_2\\xrightarrow[\\Delta]{催化剂}4NO+6H_2O}$。",
+      "title": "氨的催化氧化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l14",
+      "source_node_ids": [
+        "n-e808c9397f97344bc009"
+      ],
+      "text": "氨具有碱性，与 $\\mathrm{HCl}$ 反应生成 $\\mathrm{NH_4Cl}$，与 $\\mathrm{HNO_3}$ 反应生成 $\\mathrm{NH_4NO_3}$，均出现白烟。",
+      "title": "氨与酸的反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l15",
+      "source_node_ids": [
+        "n-e808c9397f97344bc009"
+      ],
+      "text": "氨具有配位性，在 $\\mathrm{AgCl}$、$\\mathrm{H_2O}$ 条件下生成 $\\mathrm{[Ag(NH_3)_2]Cl}$。",
+      "title": "氨的配位性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l16",
+      "source_node_ids": [
+        "n-e808c9397f97344bc009"
+      ],
+      "text": "喷泉实验的原理是短时间内烧瓶内外产生较大的压强差。",
+      "title": "喷泉形成的原理",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l17",
+      "source_node_ids": [
+        "n-e808c9397f97344bc009"
+      ],
+      "text": "铵盐与碱反应：$\\mathrm{NH_4^++OH^-\\xrightarrow{\\Delta}NH_3\\uparrow+H_2O}$。",
+      "title": "铵盐与碱共热",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l18",
+      "source_node_ids": [
+        "n-e808c9397f97344bc009"
+      ],
+      "text": "原文列举的铵盐受热分解反应：$\\mathrm{NH_4Cl\\xrightarrow{\\Delta}NH_3\\uparrow+HCl\\uparrow}$；$\\mathrm{NH_4HCO_3\\xrightarrow{\\Delta}NH_3\\uparrow+CO_2\\uparrow+H_2O}$。",
+      "title": "氯化铵、碳酸氢铵的热分解",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l19",
+      "source_node_ids": [
+        "n-e808c9397f97344bc009"
+      ],
+      "text": "铵根离子的水解反应：$\\mathrm{NH_4^++H_2O\\rightleftharpoons NH_3\\cdot H_2O+H^+}$。",
+      "title": "铵根离子的水解",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l20",
+      "source_node_ids": [
+        "n-c8b25489beea6058cd2f"
+      ],
+      "text": "原文给出的转化包括：$\\mathrm{NH_3\\xrightarrow{O_2、点燃}N_2}$；$\\mathrm{NO\\xrightarrow{NH_3}N_2}$；$\\mathrm{Mg_3N_2\\xrightarrow{H_2O}NH_3}$。这些式子为转化关系示意。",
+      "title": "氨、氮气与氮化镁的相关转化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l21",
+      "source_node_ids": [
+        "n-c8b25489beea6058cd2f"
+      ],
+      "text": "$\\mathrm{N_2}$ 不能被 $\\mathrm{O_2}$ 一步氧化为 $\\mathrm{NO_2}$。",
+      "title": "氮气氧化为二氧化氮的限制",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l22",
+      "source_node_ids": [
+        "n-c8b25489beea6058cd2f"
+      ],
+      "text": "“价—类”图列出：$\\mathrm{NH_3}$ 与 $\\mathrm{NH_3\\cdot H_2O}$ 相互转化，$\\mathrm{NH_3\\cdot H_2O}$ 与 $\\mathrm{NH_4Cl}$ 相互转化，$\\mathrm{NH_3}$ 与 $\\mathrm{NH_4Cl}$ 相互转化；另有 $\\mathrm{HNO_3\\rightarrow NaNO_3}$。图中这些关系未全部标出反应条件。",
+      "title": "氨、一水合氨、铵盐及硝酸盐的转化",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-57335e2e367f7faf557c"
+      ],
+      "text": "利用 $\\mathrm{NO}$ 易与 $\\mathrm{O_2}$ 反应生成 $\\mathrm{NO_2}$ 的性质，根据气体颜色变化鉴别 $\\mathrm{NO}$ 的存在。反应为 $\\mathrm{2NO+O_2\\xrightarrow{}2NO_2}$。",
+      "title": "利用颜色变化鉴别一氧化氮",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-291bf4c9dbcf6e6b64eb"
+      ],
+      "text": "按 $\\mathrm{NH_3\\xrightarrow{①}NO\\xrightarrow{②}NO_2\\xrightarrow{③}HNO_3}$ 的路线制备硝酸。①$\\mathrm{4NH_3+5O_2\\xrightarrow[\\Delta]{催化剂}4NO+6H_2O}$；②$\\mathrm{2NO+O_2\\xrightarrow{}2NO_2}$；③$\\mathrm{3NO_2+H_2O\\xrightarrow{}2HNO_3+NO}$。",
+      "title": "由氨制备硝酸",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-e808c9397f97344bc009"
+      ],
+      "text": "用湿润的红色石蕊试纸检验氨气，观察试纸是否变蓝。原文限定在高中阶段，$\\mathrm{NH_3}$ 是唯一能使湿润的红色石蕊试纸变蓝的气体。",
+      "title": "氨气的检验",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-e808c9397f97344bc009"
+      ],
+      "text": "反应原理：$\\mathrm{2NH_4Cl+Ca(OH)_2\\xrightarrow{\\Delta}CaCl_2+2NH_3\\uparrow+2H_2O}$。将装有 $\\mathrm{NH_4Cl}$ 和 $\\mathrm{Ca(OH)_2}$ 的试管倾斜固定，试管口略向下，用酒精灯加热；气体通过装有碱石灰的干燥管，再进入倒置的收集试管，收集试管口放棉花。",
+      "title": "实验室制取、干燥和收集氨气",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-e808c9397f97344bc009"
+      ],
+      "text": "可用湿润的红色石蕊试纸或蘸有浓盐酸的玻璃棒检验氨气是否收集满。",
+      "title": "氨气的验满",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-e808c9397f97344bc009"
+      ],
+      "text": "欲快速制取 $\\mathrm{NH_3}$，可将浓氨水滴到 $\\mathrm{NaOH}$ 固体或生石灰上。",
+      "title": "快速制取氨气",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-e808c9397f97344bc009"
+      ],
+      "text": "工业制氨的反应为 $\\mathrm{N_2+3H_2\\underset{催化剂}{\\overset{高温、高压}{\\rightleftharpoons}}2NH_3}$，条件为高温、高压和催化剂。",
+      "title": "工业合成氨",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-e808c9397f97344bc009"
+      ],
+      "text": "常见形成喷泉的气体和液体组合：$\\mathrm{HCl}$ 气体与水或 $\\mathrm{NaOH}$ 溶液；$\\mathrm{NH_3}$ 与水或酸溶液；酸性气体与 $\\mathrm{NaOH}$ 溶液；$\\mathrm{NO_2}$ 与水。",
+      "title": "喷泉实验的气液组合",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m9",
+      "source_node_ids": [
+        "n-e808c9397f97344bc009"
+      ],
+      "text": "样品与浓 $\\mathrm{NaOH}$ 溶液共热，用湿润的红色石蕊试纸检验，观察试纸是否变蓝。",
+      "title": "铵盐的检验",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-b3e60e3958a79b70db85"
+      ],
+      "from": "l2",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b3e60e3958a79b70db85"
+      ],
+      "from": "l3",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-57335e2e367f7faf557c"
+      ],
+      "from": "c3",
+      "to": "c4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-57335e2e367f7faf557c"
+      ],
+      "from": "c3",
+      "to": "c5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-57335e2e367f7faf557c"
+      ],
+      "from": "l4",
+      "to": "m1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-57335e2e367f7faf557c"
+      ],
+      "from": "c5",
+      "to": "m1",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-291bf4c9dbcf6e6b64eb"
+      ],
+      "from": "l7",
+      "to": "l8",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-291bf4c9dbcf6e6b64eb"
+      ],
+      "from": "l7",
+      "to": "l9",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-291bf4c9dbcf6e6b64eb"
+      ],
+      "from": "l7",
+      "to": "l10",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-291bf4c9dbcf6e6b64eb"
+      ],
+      "from": "m2",
+      "to": "l13",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-291bf4c9dbcf6e6b64eb"
+      ],
+      "from": "m2",
+      "to": "l4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-291bf4c9dbcf6e6b64eb"
+      ],
+      "from": "m2",
+      "to": "l5",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e808c9397f97344bc009"
+      ],
+      "from": "m4",
+      "to": "l17",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e808c9397f97344bc009"
+      ],
+      "from": "m5",
+      "to": "m3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e808c9397f97344bc009"
+      ],
+      "from": "m5",
+      "to": "l14",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e808c9397f97344bc009"
+      ],
+      "from": "m8",
+      "to": "l16",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e808c9397f97344bc009"
+      ],
+      "from": "m9",
+      "to": "l17",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e808c9397f97344bc009"
+      ],
+      "from": "m9",
+      "to": "m3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c8b25489beea6058cd2f"
+      ],
+      "from": "c11",
+      "to": "l5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c8b25489beea6058cd2f"
+      ],
+      "from": "c10",
+      "to": "l22",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c8b25489beea6058cd2f"
+      ],
+      "from": "l21",
+      "to": "l2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c65d20f38463de08df20"
+      ],
+      "from": "n-c65d20f38463de08df20",
+      "to": "c1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c65d20f38463de08df20"
+      ],
+      "from": "n-c65d20f38463de08df20",
+      "to": "l7",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c65d20f38463de08df20"
+      ],
+      "from": "n-c65d20f38463de08df20",
+      "to": "l5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8634e01a38426873e4f2"
+      ],
+      "from": "n-8634e01a38426873e4f2",
+      "to": "m4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-926ff70585ca8ab014b4"
+      ],
+      "from": "n-926ff70585ca8ab014b4",
+      "to": "l8",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-926ff70585ca8ab014b4"
+      ],
+      "from": "n-926ff70585ca8ab014b4",
+      "to": "m9",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-f19a965b6a76f56c9ca5",
+  "source_digest": "c555fbf7bd299a5c0d26183ff353dab0975a9bf1df177ff566d0c9555eebf5d9",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

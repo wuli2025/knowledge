@@ -1,0 +1,278 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-07a8476430e388180abf"
+      ],
+      "text": "原文以 $\\mathrm{CH_3COONa}$ 溶液为例，将微粒分为三个层次：第一层次为溶质微粒 $\\mathrm{CH_3COO^-}$、$\\mathrm{Na^+}$；第二层次为主要平衡产物 $\\mathrm{CH_3COOH}$、$\\mathrm{OH^-}$；第三层次为次要平衡产物 $\\mathrm{H^+}$。",
+      "title": "微粒浓度定性比较中的三个层次",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-a11ee462b71629e8ed20"
+      ],
+      "text": "溶液中阳离子所带的正电荷总数等于阴离子所带的负电荷总数。$\\mathrm{NaHCO_3}$ 溶液中：$c(\\mathrm{Na^+})+c(\\mathrm{H^+})=c(\\mathrm{HCO_3^-})+2c(\\mathrm{CO_3^{2-}})+c(\\mathrm{OH^-})$。",
+      "title": "电荷守恒",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-a11ee462b71629e8ed20"
+      ],
+      "text": "电解质溶液中，某些离子发生电离或水解，但离子所含的某种元素在变化前后守恒。$0.1\\ \\mathrm{mol\\cdot L^{-1}}$ $\\mathrm{NaHCO_3}$ 溶液中：$c(\\mathrm{Na^+})=c(\\mathrm{HCO_3^-})+c(\\mathrm{CO_3^{2-}})+c(\\mathrm{H_2CO_3})=0.1\\ \\mathrm{mol\\cdot L^{-1}}$。",
+      "title": "元素守恒（物料守恒）",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-a11ee462b71629e8ed20"
+      ],
+      "text": "电解质溶液中，分子或离子得到质子（$\\mathrm{H^+}$）与失去质子（$\\mathrm{H^+}$）的物质的量相等。$\\mathrm{Na_2CO_3}$ 溶液中，以 $\\mathrm{CO_3^{2-}}$、$\\mathrm{H_2O}$ 为基准态物质，可得 $c(\\mathrm{HCO_3^-})+2c(\\mathrm{H_2CO_3})+c(\\mathrm{H^+})=c(\\mathrm{OH^-})$。",
+      "title": "质子守恒",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-a11ee462b71629e8ed20"
+      ],
+      "text": "质子守恒式可通过电荷守恒式与元素守恒式联立得到。$\\mathrm{Na_2CO_3}$ 溶液中，元素守恒式为 $c(\\mathrm{Na^+})=2c(\\mathrm{CO_3^{2-}})+2c(\\mathrm{HCO_3^-})+2c(\\mathrm{H_2CO_3})$，电荷守恒式为 $c(\\mathrm{Na^+})+c(\\mathrm{H^+})=c(\\mathrm{HCO_3^-})+2c(\\mathrm{CO_3^{2-}})+c(\\mathrm{OH^-})$。两式联立消去 $c(\\mathrm{Na^+})$，得到 $c(\\mathrm{HCO_3^-})+2c(\\mathrm{H_2CO_3})+c(\\mathrm{H^+})=c(\\mathrm{OH^-})$。",
+      "title": "三大守恒式之间的关系",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-23711fa0e181d29fe9a3"
+      ],
+      "text": "比较单一盐溶液中的微粒浓度，需要考虑离子的水解或电离。原文示例：$\\mathrm{Na_2CO_3}$ 溶液中，考虑逐级水解，得到 $c(\\mathrm{Na^+})>c(\\mathrm{CO_3^{2-}})>c(\\mathrm{OH^-})>c(\\mathrm{HCO_3^-})>c(\\mathrm{H_2CO_3})$；$\\mathrm{NaHCO_3}$ 溶液中，$\\mathrm{HCO_3^-}$ 水解程度大于电离程度，故 $c(\\mathrm{Na^+})>c(\\mathrm{HCO_3^-})>c(\\mathrm{H_2CO_3})>c(\\mathrm{CO_3^{2-}})$；$\\mathrm{NaHSO_3}$ 溶液中，$\\mathrm{HSO_3^-}$ 水解程度小于电离程度，故 $c(\\mathrm{Na^+})>c(\\mathrm{HSO_3^-})>c(\\mathrm{SO_3^{2-}})>c(\\mathrm{H_2SO_3})$。",
+      "title": "单一盐溶液中结合水解与电离比较",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-23711fa0e181d29fe9a3"
+      ],
+      "text": "比较不同盐溶液中同一离子的浓度，要考察其他离子的影响。相同浓度的 $\\mathrm{NH_4Cl}$、$\\mathrm{CH_3COONH_4}$、$\\mathrm{NH_4HSO_4}$ 溶液中，$\\mathrm{Cl^-}$ 对 $\\mathrm{NH_4^+}$ 的水解无影响，$\\mathrm{CH_3COO^-}$ 起促进作用，$\\mathrm{H^+}$ 起抑制作用；因此 $c(\\mathrm{NH_4^+})$ 由大到小依次对应 $\\mathrm{NH_4HSO_4}$、$\\mathrm{NH_4Cl}$、$\\mathrm{CH_3COONH_4}$ 溶液。",
+      "title": "不同盐溶液中同一离子的浓度比较",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-23711fa0e181d29fe9a3"
+      ],
+      "text": "混合溶液中的微粒浓度比较，要综合分析水解与电离的影响。原文所述相同浓度的 $\\mathrm{NH_4Cl}$ 和 $\\mathrm{NH_3\\cdot H_2O}$ 的混合溶液中，$\\mathrm{NH_3\\cdot H_2O}$ 的电离程度大于 $\\mathrm{NH_4^+}$ 的水解程度，浓度顺序为 $c(\\mathrm{NH_4^+})>c(\\mathrm{Cl^-})>c(\\mathrm{NH_3\\cdot H_2O})>c(\\mathrm{OH^-})>c(\\mathrm{H^+})$。若两份溶液混合时发生反应，需先确定混合后溶液的溶质组成及相应浓度，再分析微粒浓度大小。",
+      "title": "混合溶液中先确定组成再比较",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-07a8476430e388180abf"
+      ],
+      "text": "以 $\\mathrm{CH_3COONa}$ 溶液为例，先按溶质微粒、主要平衡产物、次要平衡产物划分层次，再比较同层次微粒。主要平衡为 $\\mathrm{CH_3COO^-+H_2O\\rightleftharpoons CH_3COOH+OH^-}$，次要平衡为 $\\mathrm{H_2O\\rightleftharpoons H^++OH^-}$。原文指出第一层次大于第二层次，第二层次大于第三层次；同层次中 $\\mathrm{Na^+}>\\mathrm{CH_3COO^-}$、$\\mathrm{OH^-}>\\mathrm{CH_3COOH}$，这里的不等号表示微粒浓度大小。",
+      "title": "按微粒层次进行定性比较",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-7f5ef63004c0fa345e1a"
+      ],
+      "text": "利用守恒等式与已知浓度大小关系进行定量比较。$\\mathrm{CH_3COONa}$、$\\mathrm{CH_3COOH}$ 混合溶液中，电荷守恒为 $c(\\mathrm{CH_3COO^-})+c(\\mathrm{OH^-})=c(\\mathrm{H^+})+c(\\mathrm{Na^+})$。若混合溶液呈碱性，则 $c(\\mathrm{OH^-})>c(\\mathrm{H^+})$，从而 $c(\\mathrm{Na^+})>c(\\mathrm{CH_3COO^-})$。",
+      "title": "定量比较中的守恒法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-7f5ef63004c0fa345e1a"
+      ],
+      "text": "将已知浓度代入平衡常数表达式，通过浓度比比较微粒浓度。原文给出常温下 $K_{\\mathrm a}=\\dfrac{c(\\mathrm{CH_3COO^-})\\cdot c(\\mathrm{H^+})}{c(\\mathrm{CH_3COOH})}=1.8\\times10^{-5}$。某 $\\mathrm{CH_3COONa}$、$\\mathrm{CH_3COOH}$ 混合溶液的 $\\mathrm{pH}=6$，代入 $c(\\mathrm{H^+})=10^{-6}\\ \\mathrm{mol\\cdot L^{-1}}$，得到 $\\dfrac{c(\\mathrm{CH_3COO^-})}{c(\\mathrm{CH_3COOH})}=18$，即 $c(\\mathrm{CH_3COO^-})>c(\\mathrm{CH_3COOH})$。",
+      "title": "定量比较中的常数法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-3003460b09a4b7163c65"
+      ],
+      "text": "先判断电解质溶液是单一溶质溶液还是混合溶液，并判断混合时是否发生反应；确定溶质成分后，判断溶液酸碱性，得到 $c(\\mathrm{OH^-})$ 与 $c(\\mathrm{H^+})$ 的大小关系，再判断水解与电离程度的相对大小，进而比较各离子浓度。",
+      "title": "微粒浓度大小比较的解题流程",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-3003460b09a4b7163c65"
+      ],
+      "text": "按微粒浓度关系等式的形式识别守恒类型：一边全是阴离子、另一边全是阳离子，对应电荷守恒式；一边全含一种元素、另一边全含另一种元素，对应元素守恒式；一边微粒能电离 $\\mathrm{H^+}$、另一边微粒能结合 $\\mathrm{H^+}$，对应质子守恒式；没有明显特征的等式，可从三种守恒式的变形分析。",
+      "title": "根据等式特征识别守恒关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m9",
+      "source_node_ids": [
+        "n-a11ee462b71629e8ed20"
+      ],
+      "text": "以基准态物质分析得、失质子的数量，建立质子守恒式。原文以 $\\mathrm{Na_2CO_3}$ 溶液中的 $\\mathrm{CO_3^{2-}}$、$\\mathrm{H_2O}$ 为基准态物质：$\\mathrm{CO_3^{2-}}$ 得 $\\mathrm{H^+}$ 生成 $\\mathrm{HCO_3^-}$，得 $2\\mathrm{H^+}$ 生成 $\\mathrm{H_2CO_3}$；$\\mathrm{H_2O}$ 得 $\\mathrm{H^+}$ 生成 $\\mathrm{H_3O^+}$，失 $\\mathrm{H^+}$ 生成 $\\mathrm{OH^-}$。所得关系为 $c(\\mathrm{HCO_3^-})+2c(\\mathrm{H_2CO_3})+c(\\mathrm{H^+})=c(\\mathrm{OH^-})$。",
+      "title": "以基准态建立质子守恒式",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-07a8476430e388180abf"
+      ],
+      "from": "c1",
+      "to": "m4",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-03f77d2f32827f50b464",
+        "n-07a8476430e388180abf"
+      ],
+      "from": "n-03f77d2f32827f50b464",
+      "to": "m4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-03f77d2f32827f50b464",
+        "n-7f5ef63004c0fa345e1a"
+      ],
+      "from": "n-03f77d2f32827f50b464",
+      "to": "m5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-03f77d2f32827f50b464",
+        "n-7f5ef63004c0fa345e1a"
+      ],
+      "from": "n-03f77d2f32827f50b464",
+      "to": "m6",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7f5ef63004c0fa345e1a"
+      ],
+      "from": "m5",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a11ee462b71629e8ed20"
+      ],
+      "from": "l1",
+      "to": "l4",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a11ee462b71629e8ed20"
+      ],
+      "from": "l2",
+      "to": "l4",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a11ee462b71629e8ed20"
+      ],
+      "from": "l4",
+      "to": "l3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a11ee462b71629e8ed20"
+      ],
+      "from": "m9",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3003460b09a4b7163c65"
+      ],
+      "from": "m8",
+      "to": "l1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3003460b09a4b7163c65"
+      ],
+      "from": "m8",
+      "to": "l2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3003460b09a4b7163c65"
+      ],
+      "from": "m8",
+      "to": "l3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-367753a113aa2a1122fd"
+      ],
+      "from": "n-367753a113aa2a1122fd",
+      "to": "l2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5bc592e66f9f5aa7aec4"
+      ],
+      "from": "n-5bc592e66f9f5aa7aec4",
+      "to": "l1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5bc592e66f9f5aa7aec4"
+      ],
+      "from": "n-5bc592e66f9f5aa7aec4",
+      "to": "l2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-afa1619aca8803f2ae57",
+  "source_digest": "979017ace33c14a550e8cc0e60868d605d748e8eee988301ac32d17821a2a86d",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

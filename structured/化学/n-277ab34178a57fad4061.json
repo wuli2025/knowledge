@@ -1,0 +1,424 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-2afb0e9f8640f3d4a7d1"
+      ],
+      "text": "原电池是将化学能转化为电能的装置。太阳能电池将太阳能转化为电能，不属于原电池。",
+      "title": "原电池",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-c53d43ca400c28de873a"
+      ],
+      "text": "只能使用一次，放电后不能再充电复原继续使用的电池，例如碱性锌锰电池。",
+      "title": "一次电池",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-b453b1b36ddc20ce66bb"
+      ],
+      "text": "放电后可以再充电而反复使用的电池，例如铅酸蓄电池。",
+      "title": "二次电池",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-99ebd08e38c3c920a973"
+      ],
+      "text": "可连续将燃料和氧化剂的化学能直接转化为电能的化学电源。原文指出，燃料电池的电极不参与反应，有很强的催化活性。",
+      "title": "燃料电池",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-deefb810313bfb766eec"
+      ],
+      "text": "原文铜锌原电池以锌片为负极、铜片为正极。装置Ⅰ将两电极插入同一盛有 $\\mathrm{CuSO_4}$ 溶液的烧杯，用导线和电流表连接；装置Ⅱ将锌片插入 $\\mathrm{ZnSO_4}$ 溶液、铜片插入 $\\mathrm{CuSO_4}$ 溶液，两烧杯用盐桥连接，两电极用导线和电流表连接。",
+      "title": "铜锌原电池的装置",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-9d2170f1e1aa2168db60"
+      ],
+      "text": "反应条件为能自发进行的氧化还原反应；电极一般为活泼性不同的两个电极，燃料电池的两个电极材料可以相同；离子导体可以是电解质溶液、熔融电解质或某些离子导体等；两电极直接接触或用导线连接，插入离子导体中形成闭合回路。",
+      "title": "原电池的构成条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-deefb810313bfb766eec"
+      ],
+      "text": "原电池负极发生氧化反应，正极发生还原反应。",
+      "title": "两极反应类型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-deefb810313bfb766eec"
+      ],
+      "text": "外电路中电子 $\\mathrm{e^-}$ 从负极流向正极，电流 $I$ 从正极流向负极；电解质溶液中阳离子移向正极，阴离子移向负极。",
+      "title": "电子、电流与离子的移动方向",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-deefb810313bfb766eec"
+      ],
+      "text": "负极锌片发生氧化反应：$\\mathrm{Zn}-2\\mathrm{e^-}=\\mathrm{Zn^{2+}}$；正极铜片发生还原反应：$\\mathrm{Cu^{2+}}+2\\mathrm{e^-}=\\mathrm{Cu}$。电子由 $\\mathrm{Zn}$ 沿导线流向 $\\mathrm{Cu}$。原文盐桥含饱和 $\\mathrm{KCl}$ 溶液，$\\mathrm{K^+}$ 移向正极，$\\mathrm{Cl^-}$ 移向负极。",
+      "title": "铜锌原电池的反应与粒子移动",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-c53d43ca400c28de873a"
+      ],
+      "text": "电解质为 $\\mathrm{KOH}$。负极反应：$\\mathrm{Zn}+2\\mathrm{OH^-}-2\\mathrm{e^-}=\\mathrm{Zn(OH)_2}$；正极反应：$\\mathrm{MnO_2}+\\mathrm{H_2O}+\\mathrm{e^-}=\\mathrm{MnO(OH)}+\\mathrm{OH^-}$；总反应：$\\mathrm{Zn}+2\\mathrm{MnO_2}+2\\mathrm{H_2O}=2\\mathrm{MnO(OH)}+\\mathrm{Zn(OH)_2}$。",
+      "title": "碱性锌锰电池的反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-b453b1b36ddc20ce66bb"
+      ],
+      "text": "电解质溶液为稀硫酸。放电时负极反应：$\\mathrm{Pb}+\\mathrm{SO_4^{2-}}-2\\mathrm{e^-}=\\mathrm{PbSO_4}$；正极反应：$\\mathrm{PbO_2}+\\mathrm{SO_4^{2-}}+4\\mathrm{H^+}+2\\mathrm{e^-}=\\mathrm{PbSO_4}+2\\mathrm{H_2O}$。充电时阴极反应：$\\mathrm{PbSO_4}+2\\mathrm{e^-}=\\mathrm{Pb}+\\mathrm{SO_4^{2-}}$；阳极反应：$\\mathrm{PbSO_4}+2\\mathrm{H_2O}-2\\mathrm{e^-}=\\mathrm{PbO_2}+4\\mathrm{H^+}+\\mathrm{SO_4^{2-}}$。总反应：$\\mathrm{Pb}+\\mathrm{PbO_2}+2\\mathrm{H_2SO_4}\\overset{\\text{放电}}{\\underset{\\text{充电}}{\\rightleftharpoons}}2\\mathrm{PbSO_4}+2\\mathrm{H_2O}$。",
+      "title": "铅酸蓄电池的充放电反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-99ebd08e38c3c920a973"
+      ],
+      "text": "酸性条件下，负极反应：$\\mathrm{H_2}-2\\mathrm{e^-}=2\\mathrm{H^+}$；正极反应：$\\mathrm{O_2}+4\\mathrm{e^-}+4\\mathrm{H^+}=2\\mathrm{H_2O}$。碱性条件下，负极反应：$\\mathrm{H_2}+2\\mathrm{OH^-}-2\\mathrm{e^-}=2\\mathrm{H_2O}$；正极反应：$\\mathrm{O_2}+2\\mathrm{H_2O}+4\\mathrm{e^-}=4\\mathrm{OH^-}$。原文列出的电池总反应式为 $2\\mathrm{H_2}+\\mathrm{O_2}=2\\mathrm{H_2O}$。",
+      "title": "氢氧燃料电池的反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-99ebd08e38c3c920a973"
+      ],
+      "text": "电解质溶液为 $\\mathrm{KOH}$ 溶液。负极反应：$\\mathrm{CH_4}-8\\mathrm{e^-}+10\\mathrm{OH^-}=\\mathrm{CO_3^{2-}}+7\\mathrm{H_2O}$；正极反应：$\\mathrm{O_2}+4\\mathrm{e^-}+2\\mathrm{H_2O}=4\\mathrm{OH^-}$；总反应：$\\mathrm{CH_4}+2\\mathrm{O_2}+2\\mathrm{OH^-}=\\mathrm{CO_3^{2-}}+3\\mathrm{H_2O}$。",
+      "title": "甲烷燃料电池的反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-99ebd08e38c3c920a973"
+      ],
+      "text": "电解质溶液为 $\\mathrm{KOH}$ 溶液。负极反应：$\\mathrm{CH_3OH}-6\\mathrm{e^-}+8\\mathrm{OH^-}=\\mathrm{CO_3^{2-}}+6\\mathrm{H_2O}$；正极反应：$\\mathrm{O_2}+4\\mathrm{e^-}+2\\mathrm{H_2O}=4\\mathrm{OH^-}$；总反应：$2\\mathrm{CH_3OH}+3\\mathrm{O_2}+4\\mathrm{OH^-}=2\\mathrm{CO_3^{2-}}+6\\mathrm{H_2O}$。",
+      "title": "甲醇燃料电池的反应",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-f0237c18da6a820d2edf",
+        "n-9d2170f1e1aa2168db60",
+        "n-ec708cbc14e73f4cf13d"
+      ],
+      "text": "一般根据电极材料判断：活泼金属为负极，较不活泼金属或非金属为正极。需结合电解质条件使用：原文指出，$\\mathrm{Mg}$、$\\mathrm{Al}$ 作电极并浸入 $\\mathrm{NaOH}$ 溶液中时，$\\mathrm{Al}$ 作负极；燃料电池的两个电极材料可以相同。",
+      "title": "根据电极材料判断正、负极",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-f0237c18da6a820d2edf"
+      ],
+      "text": "发生氧化反应的电极判断为负极，发生还原反应的电极判断为正极。",
+      "title": "根据电极反应判断正、负极",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-f0237c18da6a820d2edf"
+      ],
+      "text": "电子流出的电极判断为负极，电子流入的电极判断为正极。",
+      "title": "根据电子流向判断正、负极",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-f0237c18da6a820d2edf"
+      ],
+      "text": "根据电极的一般现象判断：不断溶解、质量减小的电极判断为负极；电极增重或质量不变的电极判断为正极。",
+      "title": "根据电极一般现象判断正、负极",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-f0237c18da6a820d2edf"
+      ],
+      "text": "阴离子移向的电极判断为负极，阳离子移向的电极判断为正极。",
+      "title": "根据离子移向判断正、负极",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-2bfc9c6aa77579386c34"
+      ],
+      "text": "在 $\\mathrm{Zn}$ 与稀硫酸反应时加入少量 $\\mathrm{CuSO_4}$ 溶液，置换出的 $\\mathrm{Cu}$ 能与 $\\mathrm{Zn}$ 形成原电池，使产生 $\\mathrm{H_2}$ 的反应速率加快。",
+      "title": "利用原电池加快反应速率",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-ec708cbc14e73f4cf13d"
+      ],
+      "text": "两种金属分别作原电池的两极并浸入稀硫酸中，作负极的金属比作正极的金属活泼。应保留介质条件：$\\mathrm{Mg}$、$\\mathrm{Al}$ 作电极并浸入 $\\mathrm{NaOH}$ 溶液中时，$\\mathrm{Al}$ 作负极。",
+      "title": "利用原电池比较金属活动性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-737653a03efc43e62c83"
+      ],
+      "text": "原文根据 $\\mathrm{Cu}+2\\mathrm{Ag^+}=\\mathrm{Cu^{2+}}+2\\mathrm{Ag}$ 设计电池：可将 $\\mathrm{Cu}$ 电极与 $\\mathrm{C}$（$\\mathrm{Ag}$ 等）电极插入同一盛有 $\\mathrm{AgNO_3}$ 溶液的烧杯，并用导线连接；也可将 $\\mathrm{Ag}$ 电极插入 $\\mathrm{AgNO_3}$ 溶液、$\\mathrm{Cu}$ 电极插入 $\\mathrm{CuSO_4}$ 溶液，两烧杯用盐桥连接，外电路串联电流表，电子 $\\mathrm{e^-}$ 沿导线由 $\\mathrm{Cu}$ 流向 $\\mathrm{Ag}$。",
+      "title": "根据反应设计化学电源",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m9",
+      "source_node_ids": [
+        "n-4d687afb925f00193a1f"
+      ],
+      "text": "利用原电池原理进行金属防护。原文示例为保护铁质输水管道或钢铁桥梁等，用导线将其与锌块相连，使锌作原电池的负极。",
+      "title": "牺牲阳极法保护金属",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-9d2170f1e1aa2168db60"
+      ],
+      "from": "c1",
+      "to": "l1",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-deefb810313bfb766eec"
+      ],
+      "from": "c1",
+      "to": "l2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-deefb810313bfb766eec"
+      ],
+      "from": "c1",
+      "to": "l3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-deefb810313bfb766eec"
+      ],
+      "from": "c5",
+      "to": "l4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c53d43ca400c28de873a"
+      ],
+      "from": "c2",
+      "to": "l5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b453b1b36ddc20ce66bb"
+      ],
+      "from": "c3",
+      "to": "l6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-99ebd08e38c3c920a973"
+      ],
+      "from": "c4",
+      "to": "l7",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-99ebd08e38c3c920a973"
+      ],
+      "from": "c4",
+      "to": "l8",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-99ebd08e38c3c920a973"
+      ],
+      "from": "c4",
+      "to": "l9",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f0237c18da6a820d2edf"
+      ],
+      "from": "m2",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f0237c18da6a820d2edf",
+        "n-deefb810313bfb766eec"
+      ],
+      "from": "m3",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f0237c18da6a820d2edf",
+        "n-deefb810313bfb766eec"
+      ],
+      "from": "m5",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2bfc9c6aa77579386c34"
+      ],
+      "from": "c1",
+      "to": "m6",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ec708cbc14e73f4cf13d"
+      ],
+      "from": "c1",
+      "to": "m7",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-737653a03efc43e62c83"
+      ],
+      "from": "c1",
+      "to": "m8",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4d687afb925f00193a1f"
+      ],
+      "from": "c1",
+      "to": "m9",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7e62fd60dfeee14d0e42"
+      ],
+      "from": "n-7e62fd60dfeee14d0e42",
+      "to": "l2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7e62fd60dfeee14d0e42"
+      ],
+      "from": "n-7e62fd60dfeee14d0e42",
+      "to": "m5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-53a4cc1d09d4dddd6083"
+      ],
+      "from": "n-53a4cc1d09d4dddd6083",
+      "to": "m5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-eecdebaa70f517f21206"
+      ],
+      "from": "n-eecdebaa70f517f21206",
+      "to": "m3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3376be5c4dd133c44828",
+        "n-737653a03efc43e62c83"
+      ],
+      "from": "n-3376be5c4dd133c44828",
+      "to": "m8",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-3376be5c4dd133c44828"
+      ],
+      "from": "n-3376be5c4dd133c44828",
+      "to": "l3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-277ab34178a57fad4061",
+  "source_digest": "5d57c5745fcbf940277f3503cb73da7aa88bac53d7636e97c97151e233d5bd9d",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

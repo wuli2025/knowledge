@@ -1,0 +1,160 @@
+<!-- page 10 -->
+
+$1s^22s^22p^3$，未成对电子数为3；则基态原子未成对电子数：$\mathrm{B<C=O<N}$，错误。D项，由题图可知，$\mathrm{O、B}$原子的价层电子对数均为4，均为$\mathrm{sp^3}$杂化，$[\mathrm{C(NH_2)_3}]^+$为平面结构，$\mathrm{N}$原子应为$\mathrm{sp^2}$杂化，错误。
+
+### 典例2　C
+
+$\mathrm{CO_2}$中$\mathrm{C}$的价层电子对数为$2+\dfrac12\times(4-2\times2)=2$，无孤电子对，空间结构为直线形，为非极性分子；$\mathrm{SO_2}$中$\mathrm{S}$的价层电子对数为$2+\dfrac12\times(6-2\times2)=3$，孤电子对数为1，空间结构为V形，为极性分子，A不符合题意。$\mathrm{SO_3}$中$\mathrm{S}$的价层电子对数为$3+\dfrac12\times(6-3\times2)=3$，无孤电子对，空间结构为平面三角形，为非极性分子；$\mathrm{NF_3}$中$\mathrm{N}$的价层电子对数为$3+\dfrac12\times(5-3\times1)=4$，孤电子对数为1，空间结构为三角锥形，为极性分子，B不符合题意。$\mathrm{SiCl_4}$和$\mathrm{CH_4}$的中心原子的价层电子对数均为$4+\dfrac12\times(4-4\times1)=4$，均无孤电子对，空间结构均为正四面体形，均为非极性分子，C符合题意。$\mathrm{S_2Cl_2}$的结构式为$\mathrm{Cl-S-S-Cl}$，$\mathrm{S}$的价层电子对数为4，孤电子对数为2，采取$\mathrm{sp^3}$杂化，故$\mathrm{S_2Cl_2}$不是直线形分子，而$\mathrm{C_2H_2}$是直线形分子，D不符合题意。
+
+### 变式2　C
+
+A项，$\mathrm{BF_3}$的空间结构为平面三角形，正、负电中心重合，属于非极性分子，不符合题意；B项，$\mathrm{C_2H_2F_2}$的结构为
+
+[图：三种$\mathrm{C_2H_2F_2}$结构。第一种为$\mathrm{CH_2=CF_2}$；第二种为顺式$\mathrm{CHF=CHF}$，两个$\mathrm{H}$在双键同侧；第三种为反式$\mathrm{CHF=CHF}$，两个$\mathrm{H}$在双键异侧。]
+
+前两种属于极性分子，第三种属于非极性分子，不符合题意；C项，$\mathrm{C_2H_4O}$的结构为
+
+[图：$\mathrm{CH_3CHO}$、$\mathrm{CH_2=CHOH}$或环氧乙烷的结构式；环氧乙烷中两个$\mathrm{CH_2}$与一个$\mathrm{O}$构成三元环。]
+
+均属于极性分子，符合题意；D项，二氯苯的结构为
+
+[图：邻二氯苯（极性分子）、间二氯苯（极性分子）或对二氯苯（非极性分子）。]
+
+不符合题意。
+
+## 考法突破6　键参数大小的比较　大$\pi$键分析
+
+### 典例1　C
+
+三者均属于分子晶体，$\mathrm{CH_3CH_2OH}$存在分子间氢键，沸点最高；$\mathrm{CH_3CH_2Cl}$的相对分子质量大于$\mathrm{CH_3CH_2CH_3}$，范德华力更强，故沸点：$\mathrm{CH_3CH_2OH>CH_3CH_2Cl>CH_3CH_2CH_3}$，A错误。$\mathrm{SO_3}$的空间结构为平面三角形，是非极性分子；$\mathrm{SO_2}$和$\mathrm{COS}$的空间结构分别为V形和直线形，是极性分子，故$\mathrm{SO_3}$的极性最小，B错误。$\mathrm{BCl_3}$中$\mathrm{B}$采取$\mathrm{sp^2}$杂化，空间结构为平面三角形，键角为$120^\circ$；$\mathrm{NCl_3}$和$\mathrm{PCl_3}$的中心原子均采取$\mathrm{sp^3}$杂化且都有1个孤电子对，空间结构均为三角锥形，键角小于$\mathrm{BCl_3}$；电负性：$\mathrm{N>P}$，故$\mathrm{NCl_3}$的键角大于$\mathrm{PCl_3}$，C正确。$\mathrm{-CH_3}$为推电子基团，使得$\mathrm{N}$原子的电子云密度增大，碱性增强；$\mathrm{-Cl}$为吸电子基团，使得$\mathrm{N}$原子的电子云密度减小，碱性减弱，故碱性强弱：
+
+[图：3-甲基吡啶＞吡啶＞3-氯吡啶。三个六元环中的$\mathrm{N}$均位于下方，第一、第三个环右上方分别连接$\mathrm{CH_3}$、$\mathrm{Cl}$。]
+
+D错误。
+
+### 思路点拨
+
+$\mathrm{COS}$的中心原子为$\mathrm{C}$，与$\mathrm{CO_2}$互为等电子体，故空间结构为直线形。
+
+### 变式1　答案　$>$　$<$
+
+解析　由结构简式可知，联氨（$\mathrm{H_2N-NH_2}$）分子中$\mathrm{N}$原子的$\sigma$键电子对数为3，孤电子对数为1，价层电子对数为$3+1=4$，采取$\mathrm{sp^3}$杂化；过氧化氢（$\mathrm{HO-OH}$）分子中$\mathrm{O}$原子的$\sigma$键电子对数为2，孤电子对数为2，价层电子对数为$2+2=4$，采取$\mathrm{sp^3}$杂化。杂化类型相同时，中心原子上的孤电子对数越多，键角越小，故$\angle\mathrm{H-N-N}>\angle\mathrm{H-O-O}$。已知叠氮酸分子中$^*\mathrm{N}$采取$\mathrm{sp^2}$杂化，3个$\mathrm{N}$原子呈直线形，则中间$\mathrm{N}$原子采取$\mathrm{sp}$杂化，故叠氮酸的结构式为$\mathrm{N\equiv N=N-H}$，氮氮三键①中有2个$\pi$键，氮氮双键②中有1个$\pi$键，已知参与形成$\pi$键的电子越多，键长越短，则键长：①＜②。
+
+### 典例2　D
+
+吡啶分子含有氮原子，能与水分子形成分子间氢键，且吡啶分子和水分子均为极性分子，苯分子为非极性分子，故吡啶比苯更易溶于水，A正确；吡啶中$\mathrm{N}$原子采取$\mathrm{sp^2}$杂化，哌啶中$\mathrm{N}$原子采取$\mathrm{sp^3}$杂化，则$\mathrm{C-N-C}$键角：吡啶＞哌啶，B正确；1个吡啶分子含11个$\sigma$键，1个哌啶分子含17个$\sigma$键，$\sigma$键数目之比为$11:17$，C正确；吡啶结构类似于苯，故吡啶分子中存在大$\pi$键$\Pi_6^6$，每个$\mathrm{C}$原子、$\mathrm{N}$原子均提供1个电子参与形成大$\pi$键，$\mathrm{N}$原子价层电子的孤电子对处于$\mathrm{sp^2}$杂化轨道中，未参与形成大$\pi$键，D错误。
+
+### 变式2　B
+
+$\mathrm{KGA}$分子中含有羧基，酸性更强，故$\mathrm{H-O}$键的极性：$\mathrm{HMF<KGA}$，A错误；$\mathrm{KGA}$分子中含有更多的$\mathrm{-OH}$和$\mathrm{O}$原子，分子间可以形成更多的氢键，在水中的溶解度更大，B正确；$\mathrm{HMF}$中含有平面形五元环，则环中$\mathrm{C、O}$原子均采取$\mathrm{sp^2}$杂化，每个$\mathrm{C}$原子形成3个$\sigma$键，剩余1个单电子参与形成大$\pi$键，$\mathrm{O}$原子形成2个$\sigma$键，剩余2个孤电子对，1个孤电子对在$\mathrm{sp^2}$杂化轨道中，还有1个孤电子对参与形成大$\pi$键，则$\mathrm{HMF}$中的大$\pi$键表示为$\Pi_5^6$，C错误；$\mathrm{HMF}$分子中存在$\mathrm{C-O}$键、$\mathrm{C=O}$键以及大$\pi$键，故碳氧键的键长不完全相等，D错误。
+
+## 第3节　晶体结构与性质
+
+**1.A**　①$\mathrm{SiO_2}$和$\mathrm{NaCl}$含有的化学键分别为共价键和离子键，晶体类型分别为共价晶体和离子晶体，不符合题意。②晶体硼和$\mathrm{HCl}$含有的化学键均为共价键，前者是共价晶体，后者是分子晶体，不符合题意。③$\mathrm{CO_2}$和$\mathrm{SO_2}$含有的化学键均为共价键，均为分子晶体，符合题意。④晶体硅和金刚石含有的化学键均为共价键，均为共价晶体，符合题意。⑤晶体氩和晶体氧均为分子晶
+
+<!-- page 11 -->
+
+体，前者不含化学键，后者含有共价键，不符合题意。⑥硫（$\mathrm{S_8}$）和碘（$\mathrm{I_2}$）含有的化学键均为共价键，均为分子晶体，符合题意。综上所述选A。
+
+**2.D**　题图所示的四种物质中只有冰是分子晶体，熔点最低，A正确；由均摊法知，每个$\mathrm{Cu}$晶胞含有铜原子个数为$8\times\dfrac18+6\times\dfrac12=4$，B正确；在$\mathrm{NaH}$晶胞中，与顶点$\mathrm{Na^+}$距离最近且相等的$\mathrm{Na^+}$位于面心处，其个数为$3\times\dfrac12\times8=12$，C正确；根据晶胞结构可知，晶胞中与每个$\mathrm{Ba^{2+}}$距离最近且相等的$\mathrm{O^{2-}}$有12个（提示：以体心的$\mathrm{Ba^{2+}}$为参照，12条棱上的12个$\mathrm{O^{2-}}$与$\mathrm{Ba^{2+}}$距离最近且相等），配位数为12，D错误。
+
+**3.B**　金刚石和$\mathrm{SiC}$均为共价晶体且结构相似，原子半径：$\mathrm{C<Si}$，键长：$\mathrm{C-C<C-Si}$，键能：$\mathrm{C-C>C-Si}$，故金刚石的熔、沸点更高，A错误；以上底面面心处的$\mathrm{C}$为例，其上方和下方分别有2个等距且紧邻的$\mathrm{Si}$，共4个，B正确；$\mathrm{Si_{12}}$与单晶硅互为同素异形体，C错误；$\mathrm{SiO_2}$晶体中每个$\mathrm{Si}$与4个$\mathrm{O}$相连，形成4个$\mathrm{Si-O}$键，则$1\ \mathrm{mol}$ $\mathrm{SiO_2}$中含有$4\ \mathrm{mol}$ $\mathrm{Si-O}$键，D错误。
+
+## 考法突破7　物质熔、沸点高低的比较
+
+### 典例　B
+
+对于烷烃，随着碳原子数的增加，沸点升高；对于碳原子数相等的烷烃，支链越多沸点越低，则沸点：$\mathrm{CH_4<C_2H_6}$、$\mathrm{CH_3CH(CH_3)CH_3<CH_3CH_2CH_2CH_3}$。$\mathrm{HF}$分子间存在氢键，沸点：$\mathrm{HF>HCl}$。$\mathrm{H_2S}$与$\mathrm{H_2Se}$是组成和结构相似的分子晶体，没有氢键，$\mathrm{H_2Se}$的相对分子质量大，则沸点高。综上所述可知选B。
+
+### 变式　答案
+
+（1）$\mathrm{HCON(CH_3)_2}$分子间只有范德华力，$\mathrm{HCONH_2}$分子间还存在氢键，破坏范德华力更容易，所以前者的沸点低
+
+（2）$\mathrm{CF_4}$和$\mathrm{SiF_4}$都是分子晶体，结构相似，分子间作用力相差较小，所以熔点相差较小；$\mathrm{BF_3}$通过分子间作用力形成分子晶体，$\mathrm{AlF_3}$通过离子键形成离子晶体，破坏离子键需要的能量多得多，所以熔点相差较大
+
+解析　（1）$\mathrm{HCON(CH_3)_2}$和$\mathrm{HCONH_2}$都是分子晶体，相对分子质量大的沸点反而低，则需考虑氢键的作用，$\mathrm{HCONH_2}$分子间存在氢键，所以沸点较高。（2）$\mathrm{CF_4、SiF_4}$属于分子晶体，熔点主要取决于分子间作用力，对于结构相似的分子晶体，相对分子质量越大，范德华力越强，熔点越高，因两者相对分子质量相差不大，故熔点相差较小；$\mathrm{BF_3}$属于分子晶体而$\mathrm{AlF_3}$属于离子晶体，后者熔化时破坏的是离子键，故熔点相差较大。
+
+## 微专题2　晶胞结构分析与计算
+
+### 典例1　C
+
+A项，根据均摊法，Ⅰ中$\mathrm{Au}$原子个数为1，$\mathrm{Cu}$原子个数为$8\times\dfrac18=1$，则$\mathrm{Au}$的质量分数为$\dfrac{197}{197+64}\times100\%\approx75\%$，24K金的质量分数为100%，则质量分数为75%的金为18K金，故Ⅰ为18K金，正确；B项，Ⅱ中与$\mathrm{Au}$距离相等且最近的$\mathrm{Cu}$有12个，则$\mathrm{Au}$的配位数是12，正确；C项，Ⅲ中$\mathrm{Au-Cu}$的最小核间距为面对角线长度的$\dfrac12$，$\mathrm{Au-Au}$的最小核间距也为面对角线长度的$\dfrac12$，故最小核间距$\mathrm{Au-Cu=Au-Au}$，错误；D项，Ⅱ中$\mathrm{Au}$位于顶点，个数为$8\times\dfrac18=1$，$\mathrm{Cu}$位于面心，个数为$6\times\dfrac12=3$，Ⅲ中$\mathrm{Au}$位于面心，个数为$6\times\dfrac12=3$，$\mathrm{Cu}$位于顶点，个数为$8\times\dfrac18=1$，正确。
+
+### 典例2　C
+
+### 审题指导
+
+①分析晶胞类型：
+
+$\mathrm{GaN}$晶胞属于金刚石型晶胞，$\mathrm{N}$原子与$\mathrm{Ga}$原子之间的最短核间距为晶胞体对角线长度（$\sqrt3d\ \mathrm{pm}$）的$\dfrac14$，且$\mathrm{N}$原子的分数坐标在各坐标轴上的取值为$\dfrac14$或$\dfrac34$。
+
+②截距法分析$c$原子的分数坐标：
+
+$c$原子在$x$轴、$y$轴、$z$轴上的截距分别为$\dfrac14$、$\dfrac34$、$\dfrac34$，故$c$原子的分数坐标为$\left(\dfrac14,\dfrac34,\dfrac34\right)$。
+
+解析　$\mathrm{Ga}$原子位于顶点和面心，每个晶胞中含有$8\times\dfrac18+6\times\dfrac12=4$个$\mathrm{Ga}$原子，A错误；根据审题指导中的分析可知，$c$原子的分数坐标为$\left(\dfrac14,\dfrac34,\dfrac34\right)$，B错误；根据审题指导中的分析可知，$\mathrm{N}$原子、$\mathrm{Ga}$原子间的最短核间距为体对角线长度的$\dfrac14$，即为$\dfrac{\sqrt3d}{4}\ \mathrm{pm}$，C正确；基态$\mathrm{Ga}$原子的价层电子排布式为$4s^24p^1$，D错误。
+
+### 典例3　答案
+
+（4）$\mathrm{Li_2CoN}$　$\left(\dfrac13,\dfrac23,\dfrac12\right)$　12
+
+解析　（4）根据均摊法可知，晶胞中$\mathrm{Li}$的个数为2，$\mathrm{Co}$的个数为$2\times\dfrac16+2\times\dfrac13=1$，$\mathrm{N}$的个数为$4\times\dfrac1{12}+4\times\dfrac16=1$，故化学式为$\mathrm{Li_2CoN}$。A点原子的分数坐标为$(1,0,0)$，设B点在$xy$平面的投影为$B'$：
+
+[图：菱形平面示意图，顶角为$120^\circ$；由顶点向左下、右下分别为$x$、$y$轴，A点在左侧顶点，$B'$位于平面内，以虚线表示投影及辅助线。]
+
+则根据晶胞结构和几何关系可知B点原子的分数坐标为$\left(\dfrac13,\dfrac23,\dfrac12\right)$。以钝角顶点的$\mathrm{N}$原子为研究对象，其周围距离相等且最近的$\mathrm{Li}$原子为晶胞内部的2个$\mathrm{Li}$原子，钝角顶点的$\mathrm{N}$原子被6个晶胞共用，故1个$\mathrm{N}$原子周围距离相等且最近的$\mathrm{Li}$原子数目为12。
+
+### 典例4　答案
+
+（3）$\mathrm{Mg_2Fe}$（或$\mathrm{FeMg_2}$）　$\dfrac{416}{N_{\mathrm A}a^3}\times10^{21}$　11.2
+
+<!-- page 12 -->
+
+### 审题指导
+
+①计算晶体密度：
+
+- 根据投影图，利用均摊法计算晶胞中微粒个数
+  - 顶点有8个$\mathrm{Fe}$
+  - 面心有6个$\mathrm{Fe}$
+  - 1个晶胞中$\mathrm{Fe}$的个数：$8\times\dfrac18+6\times\dfrac12=4$
+  - 8个正四面体空隙（即小立方体体心）有8个$\mathrm{Mg}$
+  - 1个晶胞中$\mathrm{Mg}$的个数：8
+- 晶体密度
+  - 晶胞质量：$\dfrac{4\times56+8\times24}{N_{\mathrm A}}\ \mathrm g$
+  - 晶胞体积：$(a\times10^{-7}\ \mathrm{cm})^3$
+  - $\rho=\dfrac{416}{N_{\mathrm A}a^3}\times10^{21}\ \mathrm{g\cdot cm^{-3}}$
+
+②计算储存$\mathrm{H_2}$的物质的量：
+
+- 1个晶胞储存$\mathrm{H_2}$的个数：$1+12\times\dfrac14=4$
+- 含$24\ \mathrm g$（即$1\ \mathrm{mol}$ $\mathrm{Mg}$）
+  - 1个晶胞中$\mathrm{Mg}$的个数：8
+  - $\dfrac18\ \mathrm{mol}$晶胞
+- $4\times\dfrac18\ \mathrm{mol}=0.5\ \mathrm{mol}$ $\mathrm{H_2}$
+
+解析　（3）由投影图和题给信息可知，$\mathrm{Fe}$位于晶胞的顶点和面心，$\mathrm{Mg}$位于晶胞体内，1个晶胞中$\mathrm{Fe}$的个数为$8\times\dfrac18+6\times\dfrac12=4$，$\mathrm{Mg}$的个数为8，$\mathrm{Fe、Mg}$个数比为$1:2$，故该合金的化学式为$\mathrm{Mg_2Fe}$或$\mathrm{FeMg_2}$。合金的密度$\rho=\dfrac{4\times56+8\times24}{N_{\mathrm A}(a\times10^{-7})^3}\ \mathrm{g\cdot cm^{-3}}=\dfrac{416}{N_{\mathrm A}a^3}\times10^{21}\ \mathrm{g\cdot cm^{-3}}$。1个晶胞中可储存的$\mathrm{H_2}$个数为$1+12\times\dfrac14=4$，则含$24\ \mathrm g$ $\mathrm{Mg}$（即$1\ \mathrm{mol}$ $\mathrm{Mg}$）的晶体可储存标准状况下$\mathrm{H_2}$的体积约为$\dfrac18\ \mathrm{mol}\times4\times22.4\ \mathrm{L\cdot mol^{-1}}=11.2\ \mathrm L$。
+
+# 第七章　化学反应的热效应
+
+## 第1节　化学反应中的能量变化
+
+**1.C**　（b）中涉及的反应为吸热反应，A错误；铝片换成等质量的铝粉，仅是反应速率加快，释放出的热量不变，B错误；醋酸是弱酸，在反应过程中不断电离吸热，会使实验所测放热量低于$57.3\ \mathrm{kJ\cdot mol^{-1}}$，C正确；相较于玻璃搅拌器，铜质搅拌器导热快，会造成较大的热量损失，使实验所测放热量值偏小，D错误。
+
+**2.D**　$\mathrm{CH_3OH}$的燃烧热是指在$101\ \mathrm{kPa}$时，$1\ \mathrm{mol}$ $\mathrm{CH_3OH(g)}$完全燃烧生成$\mathrm{CO_2(g)}$和$\mathrm{H_2O(l)}$所放出的热量，由反应②知，$\mathrm{CH_3OH}$的燃烧热肯定大于$192.9\ \mathrm{kJ\cdot mol^{-1}}$，A错误；反应①为吸热反应，题图中所示的是放热反应，B错误；反应①为吸热反应，反应②为放热反应，均为$\mathrm{CH_3OH}$转变成$\mathrm{H_2}$，则$\mathrm{CH_3OH}$转变成$\mathrm{H_2}$的过程不一定要吸收能量，C错误；液态甲醇转化为气态甲醇需要吸收能量，则$\Delta H>-192.9\ \mathrm{kJ\cdot mol^{-1}}$，D正确。
+
+**3.C**　$\mathrm{H(g)+H(g)\longrightarrow H_2(g)}$　$\Delta H=(0-218\times2)\ \mathrm{kJ\cdot mol^{-1}}=-436\ \mathrm{kJ\cdot mol^{-1}}$，故$\mathrm{H_2}$的键能为$436\ \mathrm{kJ\cdot mol^{-1}}$，A正确；同理，$\mathrm{O_2}$的键能为$498\ \mathrm{kJ\cdot mol^{-1}}$，$\mathrm{H_2O_2}$中氧氧单键的键能为$214\ \mathrm{kJ\cdot mol^{-1}}$，B正确；根据题中计算$\mathrm{H_2O_2}$中氧氧单键的键能的计算方法可得，$\mathrm{HOO}$中氧氧单键的键能为$278\ \mathrm{kJ\cdot mol^{-1}}>214\ \mathrm{kJ\cdot mol^{-1}}$，C不正确；$\mathrm{H_2O(g)+O(g)\longrightarrow H_2O_2(g)}$　$\Delta H=[-136-(-242+249)]\ \mathrm{kJ\cdot mol^{-1}}=-143\ \mathrm{kJ\cdot mol^{-1}}$，D正确。
+
+## 第2节　热化学方程式　盖斯定律
+
+**1.C**　反应③的原料为$\mathrm{CO_2}$和$\mathrm{H_2}$，$\mathrm{CO_2}$可由反应②提供，$\mathrm{H_2}$可由反应①、②提供，A项正确。反应③可将温室气体$\mathrm{CO_2}$转化为燃料$\mathrm{CH_3OH}$，B项正确。反应④的生成物中$\mathrm{H_2O}$为气态，C项反应的生成物中$\mathrm{H_2O}$为液态，故C项反应的$\Delta H\ne\dfrac d2\ \mathrm{kJ\cdot mol^{-1}}$，C项错误。由盖斯定律可知，D项反应＝反应②×2＋反应③×2＋反应④，故$\Delta H=(2b+2c+d)\ \mathrm{kJ\cdot mol^{-1}}$，D项正确。
+
+**2.B**　反应①、②均为放热反应，$\Delta H_1$和$\Delta H_2$均小于0，能量：$\mathrm{S(g)>S(s)}$，故反应①放出的热量更多，$\Delta H_1<\Delta H_2$，A项正确。等量$\mathrm{H_2S(g)}$完全燃烧生成$\mathrm{SO_2(g)}$放出的热量比不完全燃烧生成$\mathrm{S(s)}$放出的热量多，则$\Delta H_3>\Delta H_4$，B项错误。根据盖斯定律，反应⑤＝反应③－反应②，则$\Delta H_5=\Delta H_3-\Delta H_2$，C项正确。根据盖斯定律，反应④＝反应③×3－反应⑤×2，可得$2\Delta H_5=3\Delta H_3-\Delta H_4$，D项正确。
+
+**3.C**　A项，$\Delta H_1$对应过程破坏了离子键，为吸热过程，故$\Delta H_1>0$；离子半径：$\mathrm{Mg^{2+}<Ca^{2+}}$，离子键强度：$\mathrm{MgCO_3>CaCO_3}$，故$\Delta H_1(\mathrm{MgCO_3})>\Delta H_1(\mathrm{CaCO_3})>0$，正确。B项，$\Delta H_2$对应的过程为$\mathrm{CO_3^{2-}(g)}$分解为$\mathrm{O^{2-}(g)}$和$\mathrm{CO_2(g)}$，与$\mathrm{M^{2+}(g)}$无关且为吸热过程，故$\Delta H_2(\mathrm{MgCO_3})=\Delta H_2(\mathrm{CaCO_3})>0$，正确。C项，由A项分析可知$\Delta H_1(\mathrm{CaCO_3})-\Delta H_1(\mathrm{MgCO_3})<0$；$\Delta H_3$对应的过程为离子键的形成，为放热过程，故$\Delta H_3<0$，离子键强度：$\mathrm{MgO>CaO}$，则$\Delta H_3(\mathrm{MgO})<\Delta H_3(\mathrm{CaO})$，可得$\Delta H_3(\mathrm{CaO})-\Delta H_3(\mathrm{MgO})>0$，故$\Delta H_1(\mathrm{CaCO_3})-\Delta H_1(\mathrm{MgCO_3})\ne\Delta H_3(\mathrm{CaO})-\Delta H_3(\mathrm{MgO})$，错误。D项，由前述分析可知$\Delta H_1>0$且$\Delta H_2>0$，$\Delta H_1+\Delta H_2>0$，而$\Delta H_3<0$，故$\Delta H_1+\Delta H_2>\Delta H_3$，正确。
+
+## 考法突破8　反应历程图像分析
+
+### 典例1　C
+
+A项，历程Ⅰ总反应为$\mathrm{O_3(g)+O(g)\longrightarrow 2O_2(g)}$　$\Delta H_1=(E_6-E_3)\ \mathrm{kJ\cdot mol^{-1}}$，历程Ⅱ总反应为$\mathrm{O_3(g)+O(g)\longrightarrow 2O_2(g)}$　$\Delta H_2=(E_5-E_2)\ \mathrm{kJ\cdot mol^{-1}}$，历程Ⅱ中的$\mathrm{Cl(g)}$起催化作用，两历程的总反应相同，故焓变在相同条件（标准状态）下相同，$\Delta H_1=\Delta H_2$，故$E_6-E_3=E_5-E_2$，正确；B项，$\mathrm{O_3(g)+O(g)}$的总能量为$E_3\ \mathrm{kJ\cdot mol^{-1}}$，$\mathrm{O_3(g)+O(g)+Cl(g)}$的总能量为$E_2\ \mathrm{kJ\cdot mol^{-1}}$，故$\mathrm{Cl(g)}$的能量为$(E_2-E_3)\ \mathrm{kJ\cdot mol^{-1}}$，则反应$\mathrm{Cl_2(g)\longrightarrow 2Cl(g)}$的$\Delta H=2(E_2-E_3)\ \mathrm{kJ\cdot mol^{-1}}-0=2(E_2-E_3)\ \mathrm{kJ\cdot mol^{-1}}$，即$\mathrm{Cl-Cl}$键能为$2(E_2-E_3)\ \mathrm{kJ\cdot mol^{-1}}$，正确；C项，历程Ⅱ中$\mathrm{Cl(g)}$作催化剂，不改变反应限度，则相同条件下，$\mathrm{O_3}$的平衡转化率：历程Ⅱ＝历程Ⅰ，错误；D项，活化能最小的反应速率最快，即历程Ⅱ的第2步反应，该反应的热化学方程式为$\mathrm{ClO(g)+O(g)\longrightarrow O_2(g)+Cl(g)}$　$\Delta H=(E_5-E_4)\ \mathrm{kJ\cdot mol^{-1}}$，正确。

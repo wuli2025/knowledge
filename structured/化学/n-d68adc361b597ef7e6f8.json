@@ -1,0 +1,564 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-02dda14126982f3640c2"
+      ],
+      "text": "两种或两种以上的金属（或金属与非金属）加热熔合生成的具有金属特性的物质。",
+      "title": "合金",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-02dda14126982f3640c2"
+      ],
+      "text": "铁合金包括生铁和钢；钢可分为碳素钢和合金钢。碳素钢根据含碳量不同，可分为低碳钢、中碳钢、高碳钢。",
+      "title": "铁合金",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-02dda14126982f3640c2"
+      ],
+      "text": "硬铝是铝合金，密度小、强度高，具有较强的抗腐蚀能力，是制造飞机和宇宙飞船的理想材料。",
+      "title": "铝合金与硬铝",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-02dda14126982f3640c2"
+      ],
+      "text": "新型合金包括储氢合金、钛合金、耐热合金、形状记忆合金等，广泛用于航空航天、生物工程和电子工业等领域。",
+      "title": "新型合金",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-161b6c020a6125106034"
+      ],
+      "text": "镁（$\\mathrm{Mg}$）是银白色、有金属光泽的固体，密度、硬度较小，导电性、导热性、延展性良好。用于信号弹和焰火；镁合金用于制造航天部件。",
+      "title": "镁的物理性质与用途",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-b44aba135056d6d0e000"
+      ],
+      "text": "氧化镁（$\\mathrm{MgO}$）是白色粉末，熔点高，可作耐高温、耐火材料，是一种碱性氧化物。",
+      "title": "氧化镁",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c7",
+      "source_node_ids": [
+        "n-e7208318e1fad13670be"
+      ],
+      "text": "氢氧化镁［$\\mathrm{Mg(OH)_2}$］是白色固体，难溶于水，溶解度小于碳酸镁，是一种中强碱。",
+      "title": "氢氧化镁",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c8",
+      "source_node_ids": [
+        "n-707e3fa30d66806aeb16"
+      ],
+      "text": "铝（$\\mathrm{Al}$）是银白色、有金属光泽的固体，密度、硬度较小，导电性、导热性、延展性良好。可制作导线；铝合金用于制造汽车、飞机、生活用品等。",
+      "title": "铝的物理性质与用途",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c9",
+      "source_node_ids": [
+        "n-a75132b9d0a74e9ef4dd"
+      ],
+      "text": "氧化铝（$\\mathrm{Al_2O_3}$）是白色固体，难溶于水，熔、沸点高，可作耐火材料和冶炼铝的原料，是两性氧化物。",
+      "title": "氧化铝",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c10",
+      "source_node_ids": [
+        "n-5c0b61e0b3f2d709ae72"
+      ],
+      "text": "氢氧化铝［$\\mathrm{Al(OH)_3}$］是白色不溶于水的固体，可用于制药（治疗胃酸过多），是两性氢氧化物。",
+      "title": "氢氧化铝",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c11",
+      "source_node_ids": [
+        "n-7e9733dc977b3617a7f4"
+      ],
+      "text": "铜（$\\mathrm{Cu}$）是紫红色固体，导热性、导电性、延展性良好。",
+      "title": "铜的物理性质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c12",
+      "source_node_ids": [
+        "n-c09ea4f51699884ac689"
+      ],
+      "text": "氧化亚铜（$\\mathrm{Cu_2O}$）是砖红色固体，难溶于水。",
+      "title": "氧化亚铜",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-02dda14126982f3640c2"
+      ],
+      "text": "合金的熔点一般比各成分金属低，硬度和强度一般比各成分金属大。",
+      "title": "合金的一般性能",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-e0f2523ff80101d30e4a"
+      ],
+      "text": "原文金属活动性顺序为 $\\mathrm{Ca、Na、Mg、Al、Zn、Fe、Sn、Pb、Cu、Hg、Ag、Pt、Au}$。其中 $\\mathrm{Ca}$ 至 $\\mathrm{Al}$ 对应电解法，$\\mathrm{Zn}$ 至 $\\mathrm{Cu}$ 对应热还原法，$\\mathrm{Hg、Ag}$ 对应热分解法，$\\mathrm{Pt、Au}$ 对应物理方法。",
+      "title": "金属活动性与冶炼方法的对应关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-161b6c020a6125106034"
+      ],
+      "text": "原文以转化示意式表示镁的反应：与氮气反应为 $\\mathrm{Mg}\\xrightarrow{\\mathrm{N_2}\\text{，点燃}}\\mathrm{Mg_3N_2}$；与二氧化碳反应为 $\\mathrm{Mg}\\xrightarrow{\\mathrm{CO_2}\\text{，点燃}}\\mathrm{MgO+C}$；与氧气反应为 $\\mathrm{Mg}\\xrightarrow{\\mathrm{O_2}\\text{，点燃}}\\mathrm{MgO}$；与水反应为 $\\mathrm{Mg}\\xrightarrow{\\mathrm{H_2O}\\text{，煮沸}}\\mathrm{Mg(OH)_2+H_2}$。镁还具有金属化学通性。",
+      "title": "镁的化学性质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-707e3fa30d66806aeb16"
+      ],
+      "text": "铝在常温下与氧气作用，形成致密氧化膜 $\\mathrm{Al_2O_3}$；加热时的转化示意式为 $\\mathrm{Al}\\xrightarrow{\\mathrm{O_2}\\text{，}\\Delta}\\mathrm{Al_2O_3}$。",
+      "title": "铝与氧气的反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-707e3fa30d66806aeb16"
+      ],
+      "text": "原文转化示意式：与强碱反应为 $\\mathrm{Al}\\xrightarrow{\\text{强碱}}\\mathrm{[Al(OH)_4]^-+H_2}$；与非氧化性酸反应为 $\\mathrm{Al}\\xrightarrow{\\text{非氧化性酸}}\\mathrm{Al^{3+}+H_2}$；与氧化性酸反应为 $\\mathrm{Al}\\xrightarrow{\\text{氧化性酸}}\\mathrm{Al^{3+}}+$ 非金属氧化物。条件限制：铝遇冷的浓硝酸、浓硫酸发生钝化。",
+      "title": "铝与酸、强碱的反应及钝化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-707e3fa30d66806aeb16"
+      ],
+      "text": "高温条件下铝与氧化铁反应，原文转化示意式为 $\\mathrm{Al}\\xrightarrow{\\mathrm{Fe_2O_3}\\text{，高温}}\\mathrm{Al_2O_3+Fe}$。",
+      "title": "铝与氧化铁的反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-a75132b9d0a74e9ef4dd"
+      ],
+      "text": "氧化铝是两性氧化物。与酸反应：$\\mathrm{Al_2O_3+6H^+=2Al^{3+}+3H_2O}$；与碱反应：$\\mathrm{Al_2O_3+2OH^-+3H_2O=2[Al(OH)_4]^-}$。",
+      "title": "氧化铝的两性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-5c0b61e0b3f2d709ae72"
+      ],
+      "text": "氢氧化铝是两性氢氧化物。与酸反应：$\\mathrm{Al(OH)_3+3H^+=Al^{3+}+3H_2O}$；与碱反应：$\\mathrm{Al(OH)_3+OH^-=[Al(OH)_4]^-}$。",
+      "title": "氢氧化铝的两性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-4a14145ddd6675900616"
+      ],
+      "text": "四羟基合铝酸钠｛$\\mathrm{Na[Al(OH)_4]}$｝与少量盐酸反应：$\\mathrm{[Al(OH)_4]^-+H^+=Al(OH)_3}\\downarrow+\\mathrm{H_2O}$；与足量盐酸反应：$\\mathrm{[Al(OH)_4]^-+4H^+=Al^{3+}+4H_2O}$。产物随盐酸用量不同而不同。",
+      "title": "四羟基合铝酸钠与不同用量盐酸的反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-4a14145ddd6675900616"
+      ],
+      "text": "与足量 $\\mathrm{CO_2}$ 反应：$\\mathrm{[Al(OH)_4]^-+CO_2=Al(OH)_3}\\downarrow+\\mathrm{HCO_3^-}$；与 $\\mathrm{AlCl_3}$ 溶液反应：$\\mathrm{3[Al(OH)_4]^-+Al^{3+}=4Al(OH)_3}\\downarrow$。",
+      "title": "四羟基合铝酸钠与二氧化碳、氯化铝的反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l11",
+      "source_node_ids": [
+        "n-7e9733dc977b3617a7f4"
+      ],
+      "text": "铜在潮湿空气中的转化为 $\\mathrm{Cu}\\xrightarrow{\\text{潮湿空气}}\\mathrm{Cu_2(OH)_2CO_3}$。铜与非氧化性酸不反应；与氧化性酸反应的转化示意式为 $\\mathrm{Cu}\\xrightarrow{\\text{氧化性酸}}\\mathrm{Cu^{2+}}+$ 非金属氧化物；与某些盐溶液的转化示意式为 $\\mathrm{Cu}\\xrightarrow{\\text{某些盐溶液}}\\mathrm{Cu^{2+}}$。",
+      "title": "铜在潮湿空气中及与酸、盐溶液的反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l12",
+      "source_node_ids": [
+        "n-7e9733dc977b3617a7f4"
+      ],
+      "text": "铜与氧化性强的 $\\mathrm{Cl_2}$、$\\mathrm{O_2}$ 反应生成 $+2$ 价铜的化合物，与氧化性弱的 $\\mathrm{S}$ 反应生成 $+1$ 价铜的化合物。",
+      "title": "铜与不同非金属反应时的产物价态",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l13",
+      "source_node_ids": [
+        "n-c09ea4f51699884ac689"
+      ],
+      "text": "原文给出的转化关系为：$\\mathrm{Cu_2(OH)_2CO_3}\\rightarrow\\mathrm{CuO}\\rightarrow\\mathrm{CuSO_4}\\rightleftharpoons\\mathrm{CuSO_4\\cdot 5H_2O}$；$\\mathrm{Cu_2(OH)_2CO_3}\\rightarrow\\mathrm{CuSO_4}$；$\\mathrm{CuSO_4}\\rightleftharpoons\\mathrm{Cu(OH)_2}$；$\\mathrm{Cu(OH)_2}\\rightarrow\\mathrm{CuO}$；$\\mathrm{CuO}\\xrightarrow{\\Delta}\\mathrm{Cu_2O}$；$\\mathrm{Cu(OH)_2}\\rightarrow\\mathrm{Cu_2O}$。除图中标出的加热条件外，其余具体反应条件未列明。",
+      "title": "铜的化合物之间的转化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l14",
+      "source_node_ids": [
+        "n-c09ea4f51699884ac689"
+      ],
+      "text": "氧化亚铜在稀硫酸中发生歧化反应：$\\mathrm{Cu_2O+2H^+=Cu^{2+}+Cu+H_2O}$。",
+      "title": "氧化亚铜的歧化反应",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-e0f2523ff80101d30e4a",
+        "n-a75132b9d0a74e9ef4dd"
+      ],
+      "text": "电解法适用于活泼金属。示例：$2\\mathrm{NaCl}\\text{（熔融）}\\xrightarrow{\\text{电解}}\\mathrm{2Na+Cl_2\\uparrow}$；$\\mathrm{MgCl_2}\\text{（熔融）}\\xrightarrow{\\text{电解}}\\mathrm{Mg+Cl_2\\uparrow}$；$2\\mathrm{Al_2O_3}\\text{（熔融）}\\xrightarrow[\\text{冰晶石}]{\\text{电解}}\\mathrm{4Al+3O_2\\uparrow}$。电解铝的原料为熔融氧化铝，原文标有冰晶石条件。",
+      "title": "电解法冶炼金属",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-e0f2523ff80101d30e4a"
+      ],
+      "text": "热还原法适用于较活泼金属。示例：$\\mathrm{Fe_2O_3+3CO}\\xrightarrow{\\text{高温}}\\mathrm{2Fe+3CO_2}$；$\\mathrm{2Al+Cr_2O_3}\\xrightarrow{\\text{高温}}\\mathrm{2Cr+Al_2O_3}$。",
+      "title": "热还原法冶炼金属",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-e0f2523ff80101d30e4a"
+      ],
+      "text": "热分解法适用于不活泼金属。示例：$\\mathrm{2HgO}\\xrightarrow{\\Delta}\\mathrm{2Hg+O_2\\uparrow}$；$\\mathrm{2Ag_2O}\\xrightarrow{\\Delta}\\mathrm{4Ag+O_2\\uparrow}$。",
+      "title": "热分解法冶炼金属",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-e0f2523ff80101d30e4a"
+      ],
+      "text": "原文金属活动性顺序及冶炼方法图中，$\\mathrm{Pt、Au}$ 对应物理方法；未给出具体操作。",
+      "title": "物理方法获取铂、金",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-e0f2523ff80101d30e4a"
+      ],
+      "text": "利用钾的沸点低于钠的特点冶炼金属钾：$\\mathrm{KCl+Na}\\xrightarrow{\\text{高温}}\\mathrm{K\\uparrow+NaCl}$。",
+      "title": "利用沸点差异冶炼钾",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-57208a8b6e2c871e4245"
+      ],
+      "text": "由贝壳 $\\xrightarrow{\\text{煅烧}}\\mathrm{CaO}\\xrightarrow{\\text{水}}$ 制得石灰乳，将海水引入沉淀池并加入石灰乳。过滤得到 $\\mathrm{Mg(OH)_2}$，随后进行 $\\mathrm{Mg(OH)_2}\\xrightarrow{\\text{盐酸酸化、浓缩}}\\mathrm{MgCl_2\\cdot 6H_2O}\\xrightarrow{\\text{脱水}}\\mathrm{MgCl_2}\\xrightarrow{\\text{电解}}\\mathrm{Mg+Cl_2}$。脱水应在 $\\mathrm{HCl(g)}$ 氛围中进行，以防止 $\\mathrm{MgCl_2}$ 水解；制镁应电解熔融 $\\mathrm{MgCl_2}$，电解其溶液得不到镁。$\\mathrm{Cl_2}$ 用于制取 $\\mathrm{HCl}$，脱水过程产生的 $\\mathrm{HCl}$ 回收并循环用于盐酸酸化。",
+      "title": "从海水中提取金属镁",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-c09ea4f51699884ac689"
+      ],
+      "text": "利用无水 $\\mathrm{CuSO_4}$ 遇水变蓝色、生成 $\\mathrm{CuSO_4\\cdot 5H_2O}$ 的性质检验水。",
+      "title": "用无水硫酸铜检验水",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-02dda14126982f3640c2"
+      ],
+      "from": "c1",
+      "to": "c2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-02dda14126982f3640c2"
+      ],
+      "from": "c1",
+      "to": "c3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-02dda14126982f3640c2"
+      ],
+      "from": "c1",
+      "to": "c4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-02dda14126982f3640c2"
+      ],
+      "from": "c1",
+      "to": "l1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-161b6c020a6125106034"
+      ],
+      "from": "c5",
+      "to": "l3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-707e3fa30d66806aeb16"
+      ],
+      "from": "c8",
+      "to": "l4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-707e3fa30d66806aeb16"
+      ],
+      "from": "c8",
+      "to": "l5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-707e3fa30d66806aeb16"
+      ],
+      "from": "c8",
+      "to": "l6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a75132b9d0a74e9ef4dd"
+      ],
+      "from": "c9",
+      "to": "l7",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a75132b9d0a74e9ef4dd"
+      ],
+      "from": "c9",
+      "to": "m1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5c0b61e0b3f2d709ae72"
+      ],
+      "from": "c10",
+      "to": "l8",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4a14145ddd6675900616"
+      ],
+      "from": "l9",
+      "to": "c10",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4a14145ddd6675900616"
+      ],
+      "from": "l10",
+      "to": "c10",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7e9733dc977b3617a7f4"
+      ],
+      "from": "c11",
+      "to": "l11",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7e9733dc977b3617a7f4"
+      ],
+      "from": "c11",
+      "to": "l12",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c09ea4f51699884ac689"
+      ],
+      "from": "c12",
+      "to": "l14",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c09ea4f51699884ac689"
+      ],
+      "from": "l13",
+      "to": "m7",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e0f2523ff80101d30e4a"
+      ],
+      "from": "m1",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e0f2523ff80101d30e4a"
+      ],
+      "from": "m2",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e0f2523ff80101d30e4a"
+      ],
+      "from": "m3",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e0f2523ff80101d30e4a"
+      ],
+      "from": "m4",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-57208a8b6e2c871e4245"
+      ],
+      "from": "m6",
+      "to": "m1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-57208a8b6e2c871e4245"
+      ],
+      "from": "c7",
+      "to": "m6",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-79fc066f6832e3127305"
+      ],
+      "from": "n-79fc066f6832e3127305",
+      "to": "m1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-79fc066f6832e3127305"
+      ],
+      "from": "n-79fc066f6832e3127305",
+      "to": "m2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-79fc066f6832e3127305"
+      ],
+      "from": "n-79fc066f6832e3127305",
+      "to": "m3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e81a707b5a80f41ce2a1"
+      ],
+      "from": "n-e81a707b5a80f41ce2a1",
+      "to": "l5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e81a707b5a80f41ce2a1"
+      ],
+      "from": "n-e81a707b5a80f41ce2a1",
+      "to": "l11",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-d68adc361b597ef7e6f8",
+  "source_digest": "06b593298e1e1a78339c689c192babc62386f1f0ce0622444d8087172e882adf",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

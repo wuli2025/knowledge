@@ -1,0 +1,451 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-e9a576100c42edfc3da0"
+      ],
+      "text": "一个化学反应体系中同时存在多个可逆反应，同一种物质可能既是某个反应的反应物，又是另一个反应的生成物；在一定条件下，这些反应都可以达到平衡状态，这样的体系称为多重平衡体系。",
+      "title": "多重平衡体系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-d5060f0ab68733771a73",
+        "n-68b87669fead29f0a284"
+      ],
+      "text": "前一个反应的产物可以进一步反应生成其他产物的反应，主要特征是中间产物先生成又被消耗。思维模型为$\\mathrm{A}\\xrightarrow{v_1}\\mathrm{B}\\xrightarrow{v_2}\\mathrm{C}$。",
+      "title": "连续反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-d5060f0ab68733771a73",
+        "n-137c06ce9e240820b6a3"
+      ],
+      "text": "反应物同时平行地进行两个或两个以上的不同反应，得到不同产物。思维模型为$\\mathrm{A}\\xrightarrow{E_{\\mathrm{a}_1},v_1}\\mathrm{B}$和$\\mathrm{A}\\xrightarrow{E_{\\mathrm{a}_2},v_2}\\mathrm{C}$，其中$E_{\\mathrm a}$为活化能。",
+      "title": "竞争反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-de8a13756a93ea88c0a1"
+      ],
+      "text": "题给二氧化碳加氢合成甲醇体系中，$\\mathrm{CO_2}$的平衡转化率$=\\dfrac{n(\\mathrm{CO_2})_{\\text{初始}}-n(\\mathrm{CO_2})_{\\text{平衡}}}{n(\\mathrm{CO_2})_{\\text{初始}}}\\times100\\%$。",
+      "title": "二氧化碳的平衡转化率",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-de8a13756a93ea88c0a1"
+      ],
+      "text": "题给以$\\mathrm{CO_2}$、$\\mathrm{H_2}$为原料合成甲醇的体系中，$\\mathrm{CH_3OH}$的平衡产率$=\\dfrac{n(\\mathrm{CH_3OH})_{\\text{平衡}}}{n(\\mathrm{CO_2})_{\\text{初始}}}\\times100\\%$。",
+      "title": "甲醇的平衡产率",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-6fa90eb5768181880c84"
+      ],
+      "text": "题给二氧化碳催化加氢合成甲醇体系中，$\\mathrm{CH_3OH}$选择性$=\\dfrac{\\text{转化为}\\mathrm{CH_3OH}\\text{的}\\mathrm{CO_2}\\text{的量}}{\\text{已转化的}\\mathrm{CO_2}\\text{总量}}\\times100\\%$。",
+      "title": "甲醇选择性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c7",
+      "source_node_ids": [
+        "n-fc2f8e062112388270f1"
+      ],
+      "text": "$K_x$为以物质的量分数表示的平衡常数。",
+      "title": "以物质的量分数表示的平衡常数",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-68b87669fead29f0a284"
+      ],
+      "text": "对于$\\mathrm{A}\\xrightarrow{v_1}\\mathrm{B}\\xrightarrow{v_2}\\mathrm{C}$，若$v_1\\gg v_2$，中间产物$\\mathrm{B}$的含量先快速上升，后缓慢下降；若$v_1\\ll v_2$，中间产物$\\mathrm{B}$的含量始终维持在较低水平。",
+      "title": "连续反应中间产物含量与两步速率的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-68b87669fead29f0a284"
+      ],
+      "text": "在所给连续反应模型中，某时刻中间产物$\\mathrm{B}$的浓度＝第一步反应生成的$\\mathrm{B}$的浓度－第二步反应消耗的$\\mathrm{B}$的浓度。",
+      "title": "连续反应中间产物浓度的生成与消耗关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-137c06ce9e240820b6a3"
+      ],
+      "text": "在所给竞争反应模型中，未达平衡时，若$E_{\\mathrm{a}_1}>E_{\\mathrm{a}_2}$，则主要产物为$\\mathrm{C}$；若$E_{\\mathrm{a}_2}>E_{\\mathrm{a}_1}$，则主要产物为$\\mathrm{B}$。",
+      "title": "竞争反应未达平衡时的主要产物判断",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-ac8977d060c9aaa04d4b"
+      ],
+      "text": "未达平衡时，产物受各步反应速率的影响。不同催化剂对活化能降低的幅度不同，可调控某一反应的选择性。",
+      "title": "未达平衡时的产物控制因素",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-ac8977d060c9aaa04d4b"
+      ],
+      "text": "达到平衡时，产物的平衡量受控于反应限度。原文对连续反应表述为：若$\\mathrm{A}\\rightarrow\\mathrm{B}$的限度更大，则主要产物是$\\mathrm{B}$；若$\\mathrm{B}\\rightarrow\\mathrm{C}$的限度更大，则主要产物是$\\mathrm{C}$。对竞争反应：若$\\mathrm{A}\\rightarrow\\mathrm{B}$的限度更大，则主要产物是$\\mathrm{B}$；若$\\mathrm{A}\\rightarrow\\mathrm{C}$的限度更大，则主要产物是$\\mathrm{C}$。",
+      "title": "达到平衡时的主要产物与反应限度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-ac8977d060c9aaa04d4b"
+      ],
+      "text": "升高温度，平衡向吸热反应方向移动；降低温度，平衡向放热反应方向移动。",
+      "title": "温度对平衡移动的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-ac8977d060c9aaa04d4b"
+      ],
+      "text": "若同为吸热或放热反应，改变相同温度时，对于活化能大的反应，反应速率改变的幅度更大。",
+      "title": "活化能与温度引起的速率变化幅度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-ac8977d060c9aaa04d4b"
+      ],
+      "text": "对涉及气体的平衡，增大压强，平衡向气体分子数减小的方向移动；减小压强，平衡向气体分子数增大的方向移动。",
+      "title": "压强对平衡移动的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-89c3ab8ef5c13c397b4e"
+      ],
+      "text": "多重平衡体系中，各物质只有一个平衡浓度，计算时应综合各反应对同一物质的生成和消耗。",
+      "title": "同一物质平衡浓度的唯一性",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-ac8977d060c9aaa04d4b"
+      ],
+      "text": "分析连续反应和竞争反应时，先判断是否达到平衡：未达到平衡，从反应速率角度分析；已达到平衡，从化学平衡即反应限度角度分析。",
+      "title": "按是否达到平衡选择分析角度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-ac8977d060c9aaa04d4b"
+      ],
+      "text": "未达平衡时，通过改变温度或使用不同催化剂，改变各步反应速率的相对大小，进而调控经过相同时间后的产物。达到平衡时，通过改变温度、压强调控平衡移动。",
+      "title": "多重平衡体系的产物调控",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-89c3ab8ef5c13c397b4e"
+      ],
+      "text": "第一步，分析体系中各反应的关系，区分竞争型或连续型，找出各物质的生成或消耗关系。第二步，利用“三段式”法计算，也可采用只列变化量的简化形式。应注意各物质只有一个平衡浓度。",
+      "title": "多重平衡计算的“三段式”法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-89c3ab8ef5c13c397b4e"
+      ],
+      "text": "分别列出竞争反应的变化量，再合并同一物质在各反应中的生成或消耗。原文示例为$\\mathrm{A(g)+B(g)\\rightleftharpoons C(g)+D(g)}$与$\\mathrm{A(g)+2B(g)\\rightleftharpoons E(g)+D(g)}$，起始A、B各为$1\\ \\mathrm{mol}$，其他物质为零；两个反应中A的消耗量分别为$x\\ \\mathrm{mol}$、$y\\ \\mathrm{mol}$。平衡时$n(\\mathrm A)=(1-x-y)\\ \\mathrm{mol}$，$n(\\mathrm B)=(1-x-2y)\\ \\mathrm{mol}$，$n(\\mathrm C)=x\\ \\mathrm{mol}$，$n(\\mathrm D)=(x+y)\\ \\mathrm{mol}$，$n(\\mathrm E)=y\\ \\mathrm{mol}$。",
+      "title": "竞争型反应的变化量合并",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-89c3ab8ef5c13c397b4e"
+      ],
+      "text": "对于连续反应，计算时可将第一个反应的“平衡量”看作第二个反应的“起始量”。原文示例为$\\mathrm{A(g)+B(g)\\rightleftharpoons C(g)+D(g)}$与$\\mathrm{A(g)+C(g)\\rightleftharpoons E(g)+D(g)}$，起始A、B各为$1\\ \\mathrm{mol}$，其他物质为零；两步反应中A的消耗量分别为$x\\ \\mathrm{mol}$、$y\\ \\mathrm{mol}$。平衡时$n(\\mathrm A)=(1-x-y)\\ \\mathrm{mol}$，$n(\\mathrm B)=(1-x)\\ \\mathrm{mol}$，$n(\\mathrm C)=(x-y)\\ \\mathrm{mol}$，$n(\\mathrm D)=(x+y)\\ \\mathrm{mol}$，$n(\\mathrm E)=y\\ \\mathrm{mol}$。",
+      "title": "连续型反应的分步列量",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-c7d5f10571ab88e08f82"
+      ],
+      "text": "当体系中存在三个及三个以上反应，或同时存在竞争反应和连续反应时，可采用原子守恒法。先根据反应物确定元素种类，再找出平衡时的物质种类，区分物质的量的已知量与未知量，最后利用各元素原子守恒列方程组求解。",
+      "title": "原子守恒法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-3cb1f78b0344b365ac67"
+      ],
+      "text": "外界因素如温度、压强变化时，若不同平衡移动引起同一物理量的变化方向相反，可根据图像中的实际变化趋势判断哪个平衡的影响更大。例如，两个反应均生成$\\mathrm A$，升温使反应①平衡移动导致$c(\\mathrm A)$减小，使反应②平衡移动导致$c(\\mathrm A)$增大；若某温度范围内图像显示$c(\\mathrm A)$随温度升高而增大，则该范围内反应②对$c(\\mathrm A)$的影响程度大于反应①。",
+      "title": "由图像实际趋势判断主导平衡",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-d5060f0ab68733771a73"
+      ],
+      "from": "c1",
+      "to": "c2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d5060f0ab68733771a73"
+      ],
+      "from": "c1",
+      "to": "c3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-68b87669fead29f0a284"
+      ],
+      "from": "l1",
+      "to": "c2",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-68b87669fead29f0a284"
+      ],
+      "from": "l2",
+      "to": "c2",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-137c06ce9e240820b6a3"
+      ],
+      "from": "l3",
+      "to": "c3",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ac8977d060c9aaa04d4b"
+      ],
+      "from": "m1",
+      "to": "c2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ac8977d060c9aaa04d4b"
+      ],
+      "from": "m1",
+      "to": "c3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ac8977d060c9aaa04d4b"
+      ],
+      "from": "m1",
+      "to": "l4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ac8977d060c9aaa04d4b"
+      ],
+      "from": "m1",
+      "to": "l5",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ac8977d060c9aaa04d4b"
+      ],
+      "from": "m2",
+      "to": "l4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ac8977d060c9aaa04d4b"
+      ],
+      "from": "m2",
+      "to": "l6",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ac8977d060c9aaa04d4b"
+      ],
+      "from": "m2",
+      "to": "l7",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ac8977d060c9aaa04d4b"
+      ],
+      "from": "m2",
+      "to": "l8",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-89c3ab8ef5c13c397b4e"
+      ],
+      "from": "m3",
+      "to": "l9",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-89c3ab8ef5c13c397b4e"
+      ],
+      "from": "m3",
+      "to": "m4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-89c3ab8ef5c13c397b4e"
+      ],
+      "from": "m3",
+      "to": "m5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-89c3ab8ef5c13c397b4e"
+      ],
+      "from": "m4",
+      "to": "c3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-89c3ab8ef5c13c397b4e"
+      ],
+      "from": "m5",
+      "to": "c2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c7d5f10571ab88e08f82",
+        "n-fc2f8e062112388270f1"
+      ],
+      "from": "n-fc2f8e062112388270f1",
+      "to": "m6",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-fc2f8e062112388270f1"
+      ],
+      "from": "n-fc2f8e062112388270f1",
+      "to": "c7",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-de8a13756a93ea88c0a1",
+        "n-3cb1f78b0344b365ac67"
+      ],
+      "from": "n-de8a13756a93ea88c0a1",
+      "to": "m7",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-de8a13756a93ea88c0a1"
+      ],
+      "from": "n-de8a13756a93ea88c0a1",
+      "to": "c4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-de8a13756a93ea88c0a1"
+      ],
+      "from": "n-de8a13756a93ea88c0a1",
+      "to": "c5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6fa90eb5768181880c84"
+      ],
+      "from": "n-6fa90eb5768181880c84",
+      "to": "c6",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6fa90eb5768181880c84",
+        "n-3cb1f78b0344b365ac67"
+      ],
+      "from": "n-6fa90eb5768181880c84",
+      "to": "m7",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-e6ff29b81af6fec6caff",
+  "source_digest": "c70a7d61cb196e4573e583a143af83a1ae32ba43ea809a5e21443b71a7415752",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

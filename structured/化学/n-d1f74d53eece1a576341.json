@@ -1,0 +1,927 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-bcdf3dfabbee900f6338"
+      ],
+      "text": "原文将《天工开物》中的石灰、《周礼》“煤饼烧蛎房成灰”中的“灰”对应为 $\\mathrm{CaO}$，类别为氧化物；《神农本草经》“水银：熔化（加热）还复为丹”中的“丹”对应为 $\\mathrm{HgO}$，类别为氧化物。原文将铁锈列为氧化物，此分类表述【待核对】。",
+      "title": "传统文化中的氧化物",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-bcdf3dfabbee900f6338"
+      ],
+      "text": "《天工开物》中的麻、褐对应纤维素，丝、裘对应蛋白质，均归为天然有机高分子。",
+      "title": "传统纺织材料的成分与类别",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-bcdf3dfabbee900f6338"
+      ],
+      "text": "《天工开物》中的矾为含结晶水的硫酸盐；《新修本草》中的绛矾对应 $\\mathrm{FeSO_4\\cdot 7H_2O}$；《传信方》中的白矾对应 $\\mathrm{KAl(SO_4)_2\\cdot 12H_2O}$；《清波杂志》中的胆水对应 $\\mathrm{CuSO_4}$。以上物质均列为硫酸盐。",
+      "title": "传统文化中的硫酸盐",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-bcdf3dfabbee900f6338"
+      ],
+      "text": "《本草纲目》“取碱浣衣”中的“碱”为 $\\mathrm{K_2CO_3}$，属于碳酸盐；《太子少傅箴》“近朱者赤”中的朱砂为 $\\mathrm{HgS}$，属于汞盐。",
+      "title": "草木灰中的碳酸盐与朱砂",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-bcdf3dfabbee900f6338"
+      ],
+      "text": "《本草纲目拾遗》中的鼻冲水为氨水，即氨气的水溶液，属于混合物；刀创水为碘酒，即 $\\mathrm{I_2}$ 的酒精溶液，属于混合物。强水及《物理小识》中的硝水均对应 $\\mathrm{HNO_3}$，属于酸。",
+      "title": "传统名称中的溶液与酸",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-bcdf3dfabbee900f6338"
+      ],
+      "text": "《汉书》“高奴县有洧水可燃”涉及石油，属于烃类混合物；《易经》“泽中有火，上火下泽”涉及 $\\mathrm{CH_4}$，属于烷烃；《梦溪笔谈》“以剂钢为刃，柔铁为茎干”涉及铁合金，属于金属材料。",
+      "title": "传统文化中的烃与合金",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c7",
+      "source_node_ids": [
+        "n-79bdb91bfb3f7def2757"
+      ],
+      "text": "化石能源包括煤、石油和天然气等，属于不可再生能源。",
+      "title": "化石能源",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c8",
+      "source_node_ids": [
+        "n-79bdb91bfb3f7def2757"
+      ],
+      "text": "清洁能源又称绿色能源。原文列为包括核能和可再生能源，并在可再生能源括注中列出太阳能、水能、风能、生物质能、海洋能、地热能、氢能等；其中氢能的分类表述【待核对】。",
+      "title": "清洁能源",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c9",
+      "source_node_ids": [
+        "n-2656dc47be644b16382a"
+      ],
+      "text": "金属材料包括纯金属及其合金，如铁、铝合金、不锈钢、青铜、黄铜、钛合金等。",
+      "title": "金属材料",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c10",
+      "source_node_ids": [
+        "n-2656dc47be644b16382a"
+      ],
+      "text": "无机非金属材料包括传统硅酸盐材料和新型材料。三大传统硅酸盐材料为水泥、玻璃、陶瓷；新型材料示例包括单晶硅、$\\mathrm{SiO_2}$、新型陶瓷、碳纳米材料等。",
+      "title": "无机非金属材料",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c11",
+      "source_node_ids": [
+        "n-2656dc47be644b16382a"
+      ],
+      "text": "天然有机高分子材料包括棉花、羊毛、蚕丝、天然橡胶等。",
+      "title": "天然有机高分子材料",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c12",
+      "source_node_ids": [
+        "n-2656dc47be644b16382a"
+      ],
+      "text": "合成有机高分子材料包括塑料、合成纤维和合成橡胶。塑料示例有聚乙烯、聚氯乙烯；合成纤维示例有涤纶、锦纶、腈纶、维纶；合成橡胶示例有丁苯橡胶、氯丁橡胶。",
+      "title": "合成有机高分子材料",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c13",
+      "source_node_ids": [
+        "n-2656dc47be644b16382a"
+      ],
+      "text": "原文将玻璃钢列为复合材料的示例。",
+      "title": "复合材料",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c14",
+      "source_node_ids": [
+        "n-0b68233dd5fa866e42b5"
+      ],
+      "text": "环境问题包括生态环境破坏和环境污染。不合理开发利用自然资源会造成生态环境破坏；工农业生产和人类活动会造成环境污染。",
+      "title": "环境问题的来源",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c15",
+      "source_node_ids": [
+        "n-0b68233dd5fa866e42b5"
+      ],
+      "text": "酸雨对应的污染物为 $\\mathrm{SO_2}$、$\\mathrm{NO_x}$；臭氧层空洞对应氟氯代烷；光化学烟雾对应碳氢化合物、$\\mathrm{NO}_x$；温室效应对应 $\\mathrm{CO_2}$、$\\mathrm{CH_4}$ 等。",
+      "title": "典型大气环境问题及相关物质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c16",
+      "source_node_ids": [
+        "n-0b68233dd5fa866e42b5"
+      ],
+      "text": "水体富营养化对应氮、磷元素含量多的污水。水污染涉及的污染物包括重金属、难降解物质、洗涤剂、耗氧物质等。",
+      "title": "水体富营养化与水污染",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c17",
+      "source_node_ids": [
+        "n-0b68233dd5fa866e42b5"
+      ],
+      "text": "大气污染涉及可吸入颗粒物、$\\mathrm{SO_2}$、$\\mathrm{NO}_x$、碳氢化合物等；土壤污染涉及城市污水、生活垃圾、化肥、农药、大气沉降物等。",
+      "title": "大气与土壤污染物",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c18",
+      "source_node_ids": [
+        "n-31cf1fd699c7aea7077c"
+      ],
+      "text": "绿色化学的核心是利用化学原理，从源头上减少或消除工业生产对环境造成的污染。",
+      "title": "绿色化学",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c19",
+      "source_node_ids": [
+        "n-31cf1fd699c7aea7077c"
+      ],
+      "text": "原子经济性的最高目标是原子利用率为 $100\\%$，即反应物中的原子全部转化为期望的产品。原文举例为化合反应、加成反应和加聚反应。",
+      "title": "原子经济性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c20",
+      "source_node_ids": [
+        "n-701e5e3ddee976545d48"
+      ],
+      "text": "着色剂用于改善食品色泽。天然色素示例有红曲红、$\\beta$-胡萝卜素、姜黄、叶绿素铜钠盐、焦糖色；合成色素示例有苋菜红、柠檬黄、靛蓝。增味剂味精的成分为谷氨酸钠，用于增加食品鲜味。",
+      "title": "着色剂与增味剂",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c21",
+      "source_node_ids": [
+        "n-701e5e3ddee976545d48"
+      ],
+      "text": "膨松剂如 $\\mathrm{NH_4HCO_3}$、$\\mathrm{NaHCO_3}$ 等，用于使食品松软或酥脆。凝固剂用于改善食品形态，原文示例为盐卤中含有的氯化镁、硫酸钙，以及葡萄糖酸-$\\delta$-内酯等。",
+      "title": "膨松剂与凝固剂",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c22",
+      "source_node_ids": [
+        "n-701e5e3ddee976545d48"
+      ],
+      "text": "防腐剂用于防止食品腐败变质，示例有苯甲酸及其钠盐、山梨酸及其钾盐、亚硝酸钠等。抗氧化剂用于防止食品在空气中被氧化而变质，示例为抗坏血酸（维生素 C）。",
+      "title": "防腐剂与抗氧化剂",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c23",
+      "source_node_ids": [
+        "n-701e5e3ddee976545d48"
+      ],
+      "text": "营养强化剂用于补充必要营养成分。示例包括在食盐中添加碘酸钾，在奶粉中添加维生素、碳酸钙、硫酸亚铁、硫酸锌等。",
+      "title": "营养强化剂",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c24",
+      "source_node_ids": [
+        "n-b03d91ceddbc85fb2ab5"
+      ],
+      "text": "生理盐水为 $0.9\\%$ 氯化钠溶液，原文用途为静脉注射、冲洗鼻腔等；原文未注明此百分数的分数类型。医用酒精为体积分数为 $75\\%$ 的乙醇溶液，用于消毒。",
+      "title": "生理盐水与医用酒精",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c25",
+      "source_node_ids": [
+        "n-b03d91ceddbc85fb2ab5"
+      ],
+      "text": "$\\mathrm{Al(OH)_3}$ 有弱碱性，可用于中和胃酸；$\\mathrm{NaHCO_3}$ 与胃酸反应，可用于中和胃酸；胃蛋白酶可用于治疗消化不良。原文要求用药必须在医生、药师指导下进行。",
+      "title": "常见胃药",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c26",
+      "source_node_ids": [
+        "n-b03d91ceddbc85fb2ab5"
+      ],
+      "text": "钡餐的成分为 $\\mathrm{BaSO_4}$，不溶于水和酸，且不容易被 X 射线透过，医疗中可用作消化系统 X 射线检查的内服造影剂。",
+      "title": "钡餐的组成、性质与用途",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c27",
+      "source_node_ids": [
+        "n-b03d91ceddbc85fb2ab5"
+      ],
+      "text": "阿司匹林为乙酰水杨酸，显酸性，用于镇痛和解热。其在人体内产生的水杨酸会刺激胃黏膜，长期大量服用可能导致胃痛、头痛、眩晕、恶心等不适症状。用药必须在医生、药师指导下进行。",
+      "title": "阿司匹林与合理用药",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c28",
+      "source_node_ids": [
+        "n-b03d91ceddbc85fb2ab5"
+      ],
+      "text": "青蒿素分子式为 $\\mathrm{C_{15}H_{22}O_5}$，属于内酯，用于治疗疟疾。原文要求用药必须在医生、药师指导下进行。",
+      "title": "青蒿素",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c29",
+      "source_node_ids": [
+        "n-1f0f81baa31a20b655af"
+      ],
+      "text": "硅是常用的半导体材料，可用来生产太阳能电池板和芯片；二氧化硅导光能力强，可用来生产光导纤维；锂质量轻、比能量大，可用作电池材料。",
+      "title": "电子工业材料的性质与用途",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c30",
+      "source_node_ids": [
+        "n-1f0f81baa31a20b655af"
+      ],
+      "text": "氦气化学性质稳定、密度小，可用于填充飞艇、气球；铝合金密度小、硬度大，钛合金强度高、耐高温，可用于航空、航天飞行器制造。",
+      "title": "航空航天材料的性质与用途",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c31",
+      "source_node_ids": [
+        "n-1f0f81baa31a20b655af"
+      ],
+      "text": "肼、偏二甲肼与 $\\mathrm{N_2O_4}$，液氧与煤油，液氧与甲烷剧烈反应，产生大量气体并放出能量，可用作火箭推进剂。",
+      "title": "火箭推进剂",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c32",
+      "source_node_ids": [
+        "n-1f0f81baa31a20b655af"
+      ],
+      "text": "氮气的化学性质稳定，可作保护气。硅酸钠的水溶液俗称水玻璃，具有黏性，可作黏合剂。",
+      "title": "保护气与水玻璃",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-31cf1fd699c7aea7077c"
+      ],
+      "text": "$\\text{原子利用率}=\\dfrac{\\text{期望产物的总质量}}{\\text{生成物的总质量}}\\times100\\%$。原文以原子利用率为 $100\\%$ 作为最高目标。",
+      "title": "原子利用率的计算",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-eec518baf0d28a92a566"
+      ],
+      "text": "《真元妙道要略》中黑火药燃烧对应氧化还原反应；《神农本草经》“石硫黄……能化……银、铜、铁、奇物”涉及 $\\mathrm{S}$ 与金属单质的反应，对应氧化还原反应。",
+      "title": "传统文化中的氧化还原反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-eec518baf0d28a92a566"
+      ],
+      "text": "《梦溪笔谈》“熬胆矾铁釜，久之亦化为铜”涉及 $\\mathrm{Fe}$ 与 $\\mathrm{CuSO_4}$ 溶液，原文列为置换反应。",
+      "title": "铁与硫酸铜溶液的置换反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-eec518baf0d28a92a566"
+      ],
+      "text": "《石灰吟》“千锤万凿出深山，烈火焚烧若等闲”涉及 $\\mathrm{CaCO_3}$，原文列为分解反应。",
+      "title": "石灰烧制中的分解反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-eec518baf0d28a92a566"
+      ],
+      "text": "《石灰吟》“粉骨碎身全不怕，要留清白在人间”和《本草经集注》“以水沃之，即热蒸而解”涉及 $\\mathrm{CaO}$ 与 $\\mathrm{H_2O}$ 的反应，原文列为化合反应。《石灰吟》的同一诗句还被对应到 $\\mathrm{Ca(OH)_2}$ 与 $\\mathrm{CO_2}$ 的反应，原文未标注该反应的类型。",
+      "title": "石灰相关物质变化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-eec518baf0d28a92a566"
+      ],
+      "text": "《新修本草》“石钟乳：色黄，以苦酒（醋）洗刷则白”涉及 $\\mathrm{CaCO_3}$ 与 $\\mathrm{CH_3COOH}$，原文列为复分解反应。",
+      "title": "碳酸钙与醋酸的反应类型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-1f0f81baa31a20b655af"
+      ],
+      "text": "$2\\mathrm{C}+\\mathrm{SiO_2}\\xrightarrow{\\text{高温}}\\mathrm{Si}+2\\mathrm{CO}\\uparrow$。该反应用于碳还原二氧化硅制备粗硅，条件为高温。",
+      "title": "碳还原二氧化硅",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-1f0f81baa31a20b655af"
+      ],
+      "text": "$\\mathrm{Cu}+2\\mathrm{FeCl_3}\\longrightarrow2\\mathrm{FeCl_2}+\\mathrm{CuCl_2}$。利用 $\\mathrm{FeCl_3}$ 溶液腐蚀 $\\mathrm{Cu}$，可刻制印刷电路板。",
+      "title": "氯化铁溶液腐蚀铜",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-1f0f81baa31a20b655af"
+      ],
+      "text": "$\\mathrm{SiO_2}+4\\mathrm{HF}\\longrightarrow\\mathrm{SiF_4}\\uparrow+2\\mathrm{H_2O}$。原文以此说明用氢氟酸雕刻玻璃。",
+      "title": "氢氟酸与二氧化硅的反应",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-3061efc98bd2be756b5b"
+      ],
+      "text": "解答传统文化类化学试题时，先从古籍、诗词或谚语中提取有效信息并正确解读，再转化为物质组成与分类、物理性质、化学性质、分离提纯方法、反应类型及反应原理等教材知识。",
+      "title": "传统文化文本的化学信息转化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-a7bc687b28904d139185"
+      ],
+      "text": "《本草纲目》烧酒制作中“用浓酒和糟入甑，蒸令气上”等描述对应蒸馏操作。",
+      "title": "由烧酒制作识别蒸馏",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-a7bc687b28904d139185"
+      ],
+      "text": "《本草纲目》提取芒硝中“煎炼入盆，凝结在下”等描述对应结晶；《天工开物》海水制盐中“火燃釜底，滚沸延及成盐”对应蒸发结晶。",
+      "title": "由制盐与提取芒硝识别结晶",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-a7bc687b28904d139185"
+      ],
+      "text": "原文将《本草纲目》中升炼轻粉（$\\mathrm{Hg_2Cl_2}$）和《本草衍义》中精制砒霜涉及的分离方法列为升华；可依据“粉升于盆上”及“令砒烟上飞，着覆器，遂凝结”等文本描述建立对应。",
+      "title": "由传统精制工艺识别升华",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-a7bc687b28904d139185"
+      ],
+      "text": "《开宝本草》提取硝酸钾（$\\mathrm{KNO_3}$）中“扫取以水淋汁，后乃煎炼而成”对应过滤、蒸发、结晶。",
+      "title": "提取硝酸钾的分离操作",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-a7bc687b28904d139185"
+      ],
+      "text": "《肘后备急方》“青蒿一握，以水二升渍，绞取汁”被原文列为提取青蒿素的工艺，涉及浸取、过滤。",
+      "title": "青蒿浸取与过滤",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-0b68233dd5fa866e42b5"
+      ],
+      "text": "酸雨防治可采用烟气脱硫、脱硝等措施；臭氧层空洞防治可使用无氟制冷剂；光化学烟雾防治可采用汽车尾气催化转化等措施；减缓温室效应可采用低碳生活、增加植被面积等措施。",
+      "title": "典型大气环境问题的防治",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-0b68233dd5fa866e42b5"
+      ],
+      "text": "针对水体富营养化，可使用无磷洗涤剂、合理施用化肥；针对水污染，应控制污水排放并综合治理。",
+      "title": "水污染与富营养化防治",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m9",
+      "source_node_ids": [
+        "n-0b68233dd5fa866e42b5"
+      ],
+      "text": "大气污染防治措施包括立法和综合治理；土壤污染防治措施包括控制、减少污染物排放，加强废物处理利用。",
+      "title": "大气与土壤污染的综合治理",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m10",
+      "source_node_ids": [
+        "n-b03d91ceddbc85fb2ab5"
+      ],
+      "text": "药物可能对机体产生与用药目的无关的有害作用，必须在医生、药师指导下用药。原文以阿司匹林在人体内产生的水杨酸刺激胃黏膜，以及长期大量服用可能导致不适为例。",
+      "title": "合理用药",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m11",
+      "source_node_ids": [
+        "n-b03d91ceddbc85fb2ab5"
+      ],
+      "text": "对青蒿素分子进行结构修饰和改造，可得到一系列抗疟疾新药；将阿司匹林与聚甲基丙烯酸连接起来，得到的缓释阿司匹林可作为抗血栓长效药。",
+      "title": "药物结构修饰与缓释设计",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m12",
+      "source_node_ids": [
+        "n-1f0f81baa31a20b655af"
+      ],
+      "text": "利用铝的还原性及其能发生铝热反应的性质，可焊接铁轨、冶炼难熔金属；利用钠较强的还原性，可冶炼钛、锆、铌等金属。",
+      "title": "利用金属还原性进行冶炼与焊接",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m13",
+      "source_node_ids": [
+        "n-1f0f81baa31a20b655af"
+      ],
+      "text": "二氧化硫可杀灭细菌且有还原性，可用作葡萄酒的食品添加剂，起杀菌、抗氧化作用；$\\mathrm{Fe}$ 粉具有还原性，可用于防止食品氧化变质。",
+      "title": "利用还原性进行食品抗氧化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m14",
+      "source_node_ids": [
+        "n-1f0f81baa31a20b655af"
+      ],
+      "text": "利用浓氨水的挥发性和还原性，可检验输送氯气的管道是否漏气。原文未给出具体实验步骤及现象。",
+      "title": "用浓氨水检验氯气管道漏气",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m15",
+      "source_node_ids": [
+        "n-1f0f81baa31a20b655af"
+      ],
+      "text": "$\\mathrm{Na_2CO_3}$ 水解使溶液显碱性，可用热的纯碱溶液洗去油污。",
+      "title": "用热纯碱溶液去油污",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-3061efc98bd2be756b5b"
+      ],
+      "from": "m1",
+      "to": "n-3061efc98bd2be756b5b",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-bcdf3dfabbee900f6338"
+      ],
+      "from": "n-bcdf3dfabbee900f6338",
+      "to": "c1",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-bcdf3dfabbee900f6338"
+      ],
+      "from": "n-bcdf3dfabbee900f6338",
+      "to": "c2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-bcdf3dfabbee900f6338"
+      ],
+      "from": "n-bcdf3dfabbee900f6338",
+      "to": "c3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-bcdf3dfabbee900f6338"
+      ],
+      "from": "n-bcdf3dfabbee900f6338",
+      "to": "c4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-bcdf3dfabbee900f6338"
+      ],
+      "from": "n-bcdf3dfabbee900f6338",
+      "to": "c5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-bcdf3dfabbee900f6338"
+      ],
+      "from": "n-bcdf3dfabbee900f6338",
+      "to": "c6",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-79bdb91bfb3f7def2757"
+      ],
+      "from": "n-79bdb91bfb3f7def2757",
+      "to": "c7",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-79bdb91bfb3f7def2757"
+      ],
+      "from": "n-79bdb91bfb3f7def2757",
+      "to": "c8",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2656dc47be644b16382a"
+      ],
+      "from": "n-2656dc47be644b16382a",
+      "to": "c9",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2656dc47be644b16382a"
+      ],
+      "from": "n-2656dc47be644b16382a",
+      "to": "c10",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2656dc47be644b16382a"
+      ],
+      "from": "n-2656dc47be644b16382a",
+      "to": "c11",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2656dc47be644b16382a"
+      ],
+      "from": "n-2656dc47be644b16382a",
+      "to": "c12",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2656dc47be644b16382a"
+      ],
+      "from": "n-2656dc47be644b16382a",
+      "to": "c13",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-31cf1fd699c7aea7077c"
+      ],
+      "from": "c18",
+      "to": "c19",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-31cf1fd699c7aea7077c"
+      ],
+      "from": "l1",
+      "to": "c19",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0b68233dd5fa866e42b5"
+      ],
+      "from": "m7",
+      "to": "c15",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0b68233dd5fa866e42b5"
+      ],
+      "from": "m8",
+      "to": "c16",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0b68233dd5fa866e42b5"
+      ],
+      "from": "m9",
+      "to": "c17",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-701e5e3ddee976545d48"
+      ],
+      "from": "n-701e5e3ddee976545d48",
+      "to": "c20",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-701e5e3ddee976545d48"
+      ],
+      "from": "n-701e5e3ddee976545d48",
+      "to": "c21",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-701e5e3ddee976545d48"
+      ],
+      "from": "n-701e5e3ddee976545d48",
+      "to": "c22",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-701e5e3ddee976545d48"
+      ],
+      "from": "n-701e5e3ddee976545d48",
+      "to": "c23",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b03d91ceddbc85fb2ab5"
+      ],
+      "from": "m10",
+      "to": "c27",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b03d91ceddbc85fb2ab5"
+      ],
+      "from": "m11",
+      "to": "c27",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b03d91ceddbc85fb2ab5"
+      ],
+      "from": "m11",
+      "to": "c28",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a7bc687b28904d139185"
+      ],
+      "from": "n-a7bc687b28904d139185",
+      "to": "m2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a7bc687b28904d139185"
+      ],
+      "from": "n-a7bc687b28904d139185",
+      "to": "m3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a7bc687b28904d139185"
+      ],
+      "from": "n-a7bc687b28904d139185",
+      "to": "m4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a7bc687b28904d139185"
+      ],
+      "from": "n-a7bc687b28904d139185",
+      "to": "m5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a7bc687b28904d139185"
+      ],
+      "from": "n-a7bc687b28904d139185",
+      "to": "m6",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-eec518baf0d28a92a566"
+      ],
+      "from": "n-eec518baf0d28a92a566",
+      "to": "l2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-eec518baf0d28a92a566"
+      ],
+      "from": "n-eec518baf0d28a92a566",
+      "to": "l3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-eec518baf0d28a92a566"
+      ],
+      "from": "n-eec518baf0d28a92a566",
+      "to": "l4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-eec518baf0d28a92a566"
+      ],
+      "from": "n-eec518baf0d28a92a566",
+      "to": "l5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-eec518baf0d28a92a566"
+      ],
+      "from": "n-eec518baf0d28a92a566",
+      "to": "l6",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1f0f81baa31a20b655af"
+      ],
+      "from": "n-1f0f81baa31a20b655af",
+      "to": "l7",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1f0f81baa31a20b655af"
+      ],
+      "from": "n-1f0f81baa31a20b655af",
+      "to": "l8",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1f0f81baa31a20b655af"
+      ],
+      "from": "n-1f0f81baa31a20b655af",
+      "to": "l9",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5839f31b6cd456d88ea3",
+        "n-3061efc98bd2be756b5b"
+      ],
+      "from": "n-5839f31b6cd456d88ea3",
+      "to": "m1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-99a7efe4aad25c86bd0e",
+        "n-3061efc98bd2be756b5b"
+      ],
+      "from": "n-99a7efe4aad25c86bd0e",
+      "to": "m1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c560ab57a23f524282b7"
+      ],
+      "from": "n-c560ab57a23f524282b7",
+      "to": "n-bcdf3dfabbee900f6338",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-968e4fdcb9c200373f6a",
+        "n-0b68233dd5fa866e42b5"
+      ],
+      "from": "n-968e4fdcb9c200373f6a",
+      "to": "m8",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c176c88d80d3d3e694ef",
+        "n-b03d91ceddbc85fb2ab5"
+      ],
+      "from": "n-c176c88d80d3d3e694ef",
+      "to": "c24",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-23968e2e8c7f14b94d20"
+      ],
+      "from": "n-23968e2e8c7f14b94d20",
+      "to": "n-ab145c86ab4e21821118",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-d1f74d53eece1a576341",
+  "source_digest": "481cbea86d313a2f57d5716e4c3421242cc5a437b0c3ecd9980fb15eaff2326e",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

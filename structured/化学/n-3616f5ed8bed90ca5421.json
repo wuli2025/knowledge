@@ -1,0 +1,494 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-410e33ee33ef9978c6b7"
+      ],
+      "text": "中心原子上若干不同类型（主要是$\\mathrm{s}$、$\\mathrm{p}$轨道）、能量相近的原子轨道混合起来，重新组合成同等数目、能量完全相同的新轨道。",
+      "title": "杂化轨道理论",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-410e33ee33ef9978c6b7"
+      ],
+      "text": "$\\mathrm{sp}$杂化轨道由1个$\\mathrm{s}$轨道和1个$\\mathrm{p}$轨道杂化而得，杂化轨道间夹角为$180^\\circ$，呈直线形。",
+      "title": "sp杂化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-410e33ee33ef9978c6b7"
+      ],
+      "text": "$\\mathrm{sp^2}$杂化轨道由1个$\\mathrm{s}$轨道和2个$\\mathrm{p}$轨道杂化而得，杂化轨道间夹角为$120^\\circ$，呈平面三角形。",
+      "title": "sp²杂化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-410e33ee33ef9978c6b7"
+      ],
+      "text": "$\\mathrm{sp^3}$杂化轨道由1个$\\mathrm{s}$轨道和3个$\\mathrm{p}$轨道杂化而得，杂化轨道间夹角为$109^\\circ28'$，呈四面体形。",
+      "title": "sp³杂化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-ee89a5ea9105586e75c0"
+      ],
+      "text": "化学通式相同且价电子总数相等的分子或离子互称为等电子体。",
+      "title": "等电子体",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-6537ceab8e601c957e9f"
+      ],
+      "text": "氢键的表示方法为$\\mathrm{X-H\\cdots Y-}$，其中“—”表示共价键，“$\\cdots$”表示氢键；$\\mathrm{X}$、$\\mathrm{Y}$为$\\mathrm{N}$、$\\mathrm{O}$或$\\mathrm{F}$。氢键具有一定的方向性和饱和性。",
+      "title": "氢键的表示、形成原子与特征",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c7",
+      "source_node_ids": [
+        "n-6537ceab8e601c957e9f"
+      ],
+      "text": "氢键可分为分子间氢键和分子内氢键。对羟基苯甲醛可在一个分子的醛基氧与另一个分子的羟基氢之间形成$\\mathrm{O\\cdots H-O}$氢键；邻羟基苯甲醛可在同一分子的羟基氢与相邻醛基氧之间形成$\\mathrm{O-H\\cdots O}$氢键。",
+      "title": "分子间氢键与分子内氢键",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c8",
+      "source_node_ids": [
+        "n-1adf69fc0d11fb389323"
+      ],
+      "text": "具有手性异构体的分子称为手性分子。含有手性碳原子的分子不一定是手性分子，手性分子中也不一定含有手性碳原子。",
+      "title": "手性分子",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c9",
+      "source_node_ids": [
+        "n-1adf69fc0d11fb389323"
+      ],
+      "text": "所连接的四个原子或原子团均不相同的碳原子称为手性碳原子，又称不对称碳原子。手性碳原子一定是饱和碳原子。",
+      "title": "手性碳原子",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c10",
+      "source_node_ids": [
+        "n-da8053280d2528281496"
+      ],
+      "text": "正、负电中心不重合的分子为极性分子，如$\\mathrm{NH_3、H_2O、HCl}$。",
+      "title": "极性分子",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c11",
+      "source_node_ids": [
+        "n-da8053280d2528281496"
+      ],
+      "text": "正、负电中心重合的分子为非极性分子，如$\\mathrm{H_2、Cl_2、BF_3、CH_4、CO_2}$。",
+      "title": "非极性分子",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c12",
+      "source_node_ids": [
+        "n-5d8942888f833a056725",
+        "n-63c978094814e36ba83a"
+      ],
+      "text": "超分子是由两个或两个以上的分子相互“组合”在一起形成的具有特定结构和功能的聚集体。其重要特征是分子识别和自组装。",
+      "title": "超分子",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c13",
+      "source_node_ids": [
+        "n-fd0cf0eda44cfe31b6a3"
+      ],
+      "text": "超分子内部分子之间通过非共价键相结合，包括氢键、静电作用、疏水作用以及一些分子与金属离子形成的弱配位键等。",
+      "title": "超分子内分子间的作用力",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-727a46b1e63dabe4a115"
+      ],
+      "text": "价层电子对在空间上彼此相距最远时，排斥力最小，体系的能量最低。",
+      "title": "价层电子对互斥模型的基本观点",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-410e33ee33ef9978c6b7"
+      ],
+      "text": "杂化轨道用来形成$\\sigma$键和容纳孤电子对，因此$\\text{杂化轨道的数目}=\\text{中心原子的}\\sigma\\text{键电子对数}+\\text{中心原子上的孤电子对数}=\\text{中心原子的价层电子对数}$。",
+      "title": "杂化轨道数与价层电子对数的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-ee89a5ea9105586e75c0"
+      ],
+      "text": "等电子体具有相同的空间结构和相同的化学键类型等结构特征，适用对象为化学通式相同且价电子总数相等的分子或离子。",
+      "title": "等电子原理",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-28f10cffe47436b55223"
+      ],
+      "text": "一般来说，组成和结构相似的物质，相对分子质量越大，范德华力越强，物质的熔、沸点越高；相对分子质量接近时，分子极性越强，范德华力越强。",
+      "title": "范德华力的影响因素及其与熔、沸点的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-6537ceab8e601c957e9f"
+      ],
+      "text": "在氢键$\\mathrm{X-H\\cdots Y-}$中，$\\mathrm{X、Y}$的电负性越大，氢键越强。",
+      "title": "电负性对氢键强弱的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-6537ceab8e601c957e9f"
+      ],
+      "text": "分子间氢键使物质的熔、沸点升高，在水中的溶解性增强；分子内氢键使物质的熔、沸点降低。",
+      "title": "氢键对物质性质的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-29fe8a3a247bb6ca761d"
+      ],
+      "text": "含氮有机物中，$\\mathrm{N}$原子的电子云密度越大，碱性越强。例如碱性$\\mathrm{CH_3NH_2>CF_3NH_2}$：$\\mathrm{CH_3—}$是推电子基团，$\\mathrm{CF_3—}$是吸电子基团，故$\\mathrm{CH_3NH_2}$中$\\mathrm{N}$原子的电子云密度更大，碱性更强。",
+      "title": "氮原子电子云密度与含氮有机物碱性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-626153f169f178ec131f"
+      ],
+      "text": "非极性溶质一般能溶于非极性溶剂，极性溶质一般能溶于极性溶剂。如卤素单质可溶于$\\mathrm{CCl_4}$，乙醇、甲醛可溶于水。“相似相溶”也适用于分子结构的相似性。",
+      "title": "相似相溶规律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-626153f169f178ec131f"
+      ],
+      "text": "溶质与溶剂形成氢键时，可以增强溶质的溶解性。",
+      "title": "溶质与溶剂间氢键对溶解性的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-da8053280d2528281496"
+      ],
+      "text": "原文以羧酸为例说明键的极性对酸性的影响。酸性$\\mathrm{CF_3COOH>CCl_3COOH}$：电负性$\\mathrm{F>Cl}$，键的极性$\\mathrm{F—C>Cl—C}$，使得极性$\\mathrm{F_3C—>Cl_3C—}$，$\\mathrm{CF_3COOH}$的羧基中的羟基的极性更大，更易电离出$\\mathrm{H^+}$。酸性$\\mathrm{CCl_3COOH>CHCl_2COOH>CH_2ClCOOH}$：极性$\\mathrm{Cl_3C—>Cl_2HC—>ClH_2C—}$，极性越强，羧基中的羟基的极性越大，越易电离出$\\mathrm{H^+}$。",
+      "title": "含卤素基团的极性对所列羧酸酸性的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l11",
+      "source_node_ids": [
+        "n-da8053280d2528281496"
+      ],
+      "text": "原文所列酸性顺序为$\\mathrm{HCOOH>CH_3COOH>CH_3CH_2COOH}$。烷基是推电子基团，烷基越长推电子效应越大，使羧基中的羟基的极性越小，越难电离出$\\mathrm{H^+}$。",
+      "title": "烷基推电子效应对所列羧酸酸性的影响",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-727a46b1e63dabe4a115"
+      ],
+      "text": "使用$\\text{价层电子对数}=\\sigma\\text{键电子对数}+\\dfrac{1}{2}(a-xb)$。其中$\\dfrac{1}{2}(a-xb)$为中心原子孤电子对数；$a$为中心原子价电子数，$x$为与中心原子结合的原子数，$b$为与中心原子结合的原子最多能接受的电子数。对于阳离子，$a=\\text{中心原子价电子数}-\\text{离子电荷数}$；对于阴离子，$a=\\text{中心原子价电子数}+|\\text{离子电荷数}|$。",
+      "title": "公式法计算中心原子价层电子对数",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-727a46b1e63dabe4a115"
+      ],
+      "text": "写出电子式或结构式，观察$\\sigma$键电子对数和中心原子上的孤电子对数，将两者相加即可得到中心原子价层电子对数。",
+      "title": "电子式或结构式法计算价层电子对数",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-410e33ee33ef9978c6b7"
+      ],
+      "text": "对原文列出的分子（$\\mathrm{AB_n}$型）、离子（$\\mathrm{AB_n^{m\\pm}}$型），结合中心原子价层电子对数、$\\sigma$键电子对数及孤电子对数分析杂化类型、VSEPR模型和空间结构。价层电子对数为2，$\\sigma$键电子对数为2、孤电子对数为0时，为$\\mathrm{sp}$杂化，VSEPR模型和空间结构均为直线形，如$\\mathrm{CO_2}$。价层电子对数为3时，为$\\mathrm{sp^2}$杂化，VSEPR模型为平面三角形；$\\sigma$键电子对数为3、孤电子对数为0时，空间结构为平面三角形，如$\\mathrm{CO_3^{2-}}$；$\\sigma$键电子对数为2、孤电子对数为1时，空间结构为V形，如$\\mathrm{SO_2}$。价层电子对数为4时，为$\\mathrm{sp^3}$杂化，VSEPR模型为四面体形；$\\sigma$键电子对数与孤电子对数分别为4和0、3和1、2和2时，空间结构依次为四面体形、三角锥形、V形，实例依次为$\\mathrm{CH_4}$、$\\mathrm{NH_3}$、$\\mathrm{H_2O}$。",
+      "title": "由电子对数分析杂化类型、VSEPR模型与空间结构",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-ee89a5ea9105586e75c0"
+      ],
+      "text": "确认化学通式相同且价电子总数相等后，可利用等电子体具有相同空间结构的特点分析结构。原文常见类型为：2原子10价电子，$\\mathrm{N_2}$、$\\mathrm{CO}$、$\\mathrm{CN^-}$、$\\mathrm{C_2^{2-}}$、$\\mathrm{NO^+}$，直线形；2原子14价电子，$\\mathrm{F_2}$、$\\mathrm{Cl_2}$、$\\mathrm{O_2^{2-}}$，直线形；3原子16价电子，$\\mathrm{CO_2}$、$\\mathrm{CS_2}$、$\\mathrm{N_2O}$、$\\mathrm{BeCl_2}$、$\\mathrm{CNO^-}$、$\\mathrm{N_3^-}$、$\\mathrm{NO_2^+}$、$\\mathrm{CN_2^{2-}}$，直线形；3原子18价电子，$\\mathrm{O_3}$、$\\mathrm{SO_2}$、$\\mathrm{NO_2^-}$，V形；4原子8价电子，$\\mathrm{NH_3}$、$\\mathrm{PH_3}$、$\\mathrm{CH_3^-}$、$\\mathrm{H_3O^+}$，三角锥形；4原子24价电子，$\\mathrm{BF_3}$、$\\mathrm{SO_3}$、$\\mathrm{NO_3^-}$、$\\mathrm{CO_3^{2-}}$，平面三角形。4原子26价电子，$\\mathrm{SO_3^{2-}}$、$\\mathrm{ClO_3^-}$，三角锥形；5原子8价电子，$\\mathrm{CH_4}$、$\\mathrm{SiH_4}$、$\\mathrm{NH_4^+}$、$\\mathrm{PH_4^+}$、$\\mathrm{BH_4^-}$，正四面体；5原子32价电子，$\\mathrm{CCl_4}$、$\\mathrm{SiF_4}$、$\\mathrm{BF_4^-}$、$\\mathrm{ClO_4^-}$、$\\mathrm{SO_4^{2-}}$、$\\mathrm{PO_4^{3-}}$，正四面体；7原子48价电子，$\\mathrm{SF_6}$、$\\mathrm{PF_6^-}$、$\\mathrm{SiF_6^{2-}}$、$\\mathrm{AlF_6^{3-}}$，正八面体。",
+      "title": "利用等电子体分析空间结构",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-162f077dc973b4530bbe"
+      ],
+      "text": "“杯酚”可用于分离$\\mathrm{C_{60}}$和$\\mathrm{C_{70}}$。",
+      "title": "利用杯酚分离C₆₀和C₇₀",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-162f077dc973b4530bbe"
+      ],
+      "text": "冠醚能随环的大小不同而与不同的碱金属阳离子作用，将阳离子以及对应的阴离子都带入有机溶剂中，因而成为有机反应中很好的催化剂。",
+      "title": "冠醚识别碱金属离子及其催化应用",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-410e33ee33ef9978c6b7"
+      ],
+      "from": "c1",
+      "to": "c2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-410e33ee33ef9978c6b7"
+      ],
+      "from": "c1",
+      "to": "c3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-410e33ee33ef9978c6b7"
+      ],
+      "from": "c1",
+      "to": "c4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-727a46b1e63dabe4a115"
+      ],
+      "from": "m1",
+      "to": "l1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-727a46b1e63dabe4a115"
+      ],
+      "from": "m2",
+      "to": "l1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-410e33ee33ef9978c6b7"
+      ],
+      "from": "m3",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ee89a5ea9105586e75c0"
+      ],
+      "from": "c5",
+      "to": "l3",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ee89a5ea9105586e75c0"
+      ],
+      "from": "m4",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6537ceab8e601c957e9f"
+      ],
+      "from": "c6",
+      "to": "c7",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6537ceab8e601c957e9f"
+      ],
+      "from": "c6",
+      "to": "l5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6537ceab8e601c957e9f"
+      ],
+      "from": "c7",
+      "to": "l6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-626153f169f178ec131f"
+      ],
+      "from": "c6",
+      "to": "l9",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1adf69fc0d11fb389323"
+      ],
+      "from": "c8",
+      "to": "c9",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-626153f169f178ec131f"
+      ],
+      "from": "c10",
+      "to": "l8",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-626153f169f178ec131f"
+      ],
+      "from": "c11",
+      "to": "l8",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-fd0cf0eda44cfe31b6a3"
+      ],
+      "from": "c12",
+      "to": "c13",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-fd0cf0eda44cfe31b6a3"
+      ],
+      "from": "c13",
+      "to": "c6",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-162f077dc973b4530bbe"
+      ],
+      "from": "c12",
+      "to": "m5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-162f077dc973b4530bbe"
+      ],
+      "from": "c12",
+      "to": "m6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b9460aedf5bed6d397e2"
+      ],
+      "from": "n-b9460aedf5bed6d397e2",
+      "to": "c4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b9460aedf5bed6d397e2",
+        "n-410e33ee33ef9978c6b7"
+      ],
+      "from": "n-b9460aedf5bed6d397e2",
+      "to": "m3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5843e996febd372ce050"
+      ],
+      "from": "n-5843e996febd372ce050",
+      "to": "c11",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-258796d4e2966bfb2a72",
+        "n-727a46b1e63dabe4a115"
+      ],
+      "from": "n-258796d4e2966bfb2a72",
+      "to": "l1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-3616f5ed8bed90ca5421",
+  "source_digest": "efcfaa7bf942e2860b1232db3ea1880841a9062437c0d30207cb0cab24003403",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

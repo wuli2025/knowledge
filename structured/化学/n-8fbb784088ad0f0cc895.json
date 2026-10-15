@@ -1,0 +1,488 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-e8296deb73e98f641893"
+      ],
+      "text": "根据物质特有的性质及反应现象，检验是否存在某物质。",
+      "title": "物质的检验",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-e8296deb73e98f641893"
+      ],
+      "text": "根据物质特有的性质，对两种或两种以上的物质进行区分。",
+      "title": "物质的鉴别",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-376ab35e9e5bfdde8b6e"
+      ],
+      "text": "物质检验和鉴别应遵循操作简便、现象明显、排除干扰的原则。",
+      "title": "物质检验和鉴别的原则",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-38738727549582e3e9ad"
+      ],
+      "text": "利用物质的物理性质和特征进行检验，如颜色、气味、状态、溶解性、焰色试验等。",
+      "title": "物理方法检验物质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-38738727549582e3e9ad"
+      ],
+      "text": "利用物质发生化学反应时表现出的特殊现象，结合指示剂和反应条件进行检验。反应应有明显现象，如溶液颜色改变、沉淀生成或溶解、气体产生等；应选择适宜的酸碱性、浓度、温度等条件，并排除干扰物的影响。",
+      "title": "化学方法检验物质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-38738727549582e3e9ad",
+        "n-9220442f6411667e5c7e"
+      ],
+      "text": "取少许试样（固体需溶解）→加入试剂→观察现象→得出结论。固体试样一般先取少量溶解，观察溶液颜色及溶解过程中有无气体、沉淀产生和沉淀颜色。检验试样或配好的试样溶液时，每次应取少量进行实验。",
+      "title": "物质检验的取样与操作步骤",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-1a03c1b3df0e847e7666"
+      ],
+      "text": "检验 $\\mathrm{H_2}$：燃烧时火焰呈淡蓝色，罩在火焰上方的冷且干燥的烧杯内壁有水珠产生。也可使其通过灼热氧化铜，观察固体由黑变红，再使生成的气体通过无水硫酸铜，观察无水硫酸铜变蓝。",
+      "title": "氢气的检验",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-1a03c1b3df0e847e7666"
+      ],
+      "text": "检验 $\\mathrm{CO}$：燃烧时火焰呈蓝色，燃烧后产生的气体可使澄清石灰水变浑浊。也可使其通过灼热氧化铜，观察固体由黑变红，再将生成的气体通入澄清石灰水，观察溶液变浑浊。",
+      "title": "一氧化碳的检验",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-1a03c1b3df0e847e7666"
+      ],
+      "text": "检验 $\\mathrm{CH_4}$：燃烧时火焰呈蓝色，燃烧后产生的气体可使无水 $\\mathrm{CuSO_4}$ 变蓝，使澄清石灰水变浑浊。",
+      "title": "甲烷的检验",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-1a03c1b3df0e847e7666"
+      ],
+      "text": "乙烯燃烧时火焰明亮，有黑烟；可使溴水或酸性高锰酸钾溶液褪色。",
+      "title": "乙烯的检验",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-1a03c1b3df0e847e7666"
+      ],
+      "text": "$\\mathrm{CO_2}$ 为无色无味气体，通入澄清石灰水中，溶液变浑浊。",
+      "title": "二氧化碳的检验",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m9",
+      "source_node_ids": [
+        "n-1a03c1b3df0e847e7666"
+      ],
+      "text": "$\\mathrm{SO_2}$ 能使品红溶液褪色且加热后恢复红色；有刺激性气味，能使澄清石灰水变浑浊。",
+      "title": "二氧化硫的检验",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m10",
+      "source_node_ids": [
+        "n-1a03c1b3df0e847e7666"
+      ],
+      "text": "$\\mathrm{HCl}$ 为无色、有刺激性气味的气体，通入硝酸银溶液中产生白色沉淀。",
+      "title": "氯化氢的检验",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m11",
+      "source_node_ids": [
+        "n-1a03c1b3df0e847e7666"
+      ],
+      "text": "$\\mathrm{NH_3}$ 能使湿润的红色石蕊试纸变蓝；用蘸有浓盐酸的玻璃棒靠近，能产生白烟。",
+      "title": "氨气的检验",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m12",
+      "source_node_ids": [
+        "n-1a03c1b3df0e847e7666"
+      ],
+      "text": "向 $\\mathrm{NO}$ 中通入氧气或空气，气体由无色变为红棕色。",
+      "title": "一氧化氮的检验",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m13",
+      "source_node_ids": [
+        "n-1a03c1b3df0e847e7666"
+      ],
+      "text": "$\\mathrm{O_2}$ 能使带火星的木条复燃。",
+      "title": "氧气的检验",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m14",
+      "source_node_ids": [
+        "n-1a03c1b3df0e847e7666"
+      ],
+      "text": "$\\mathrm{Cl_2}$ 为黄绿色气体，能使湿润的碘化钾淀粉试纸变蓝。",
+      "title": "氯气的检验",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m15",
+      "source_node_ids": [
+        "n-71243520034f8bcf5b89"
+      ],
+      "text": "检验混合气体成分的一般顺序为：检验干扰性气体→除去干扰性气体→确认干扰性气体已经除尽→检验其余气体。",
+      "title": "混合气体检验中的排干扰顺序",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m16",
+      "source_node_ids": [
+        "n-71243520034f8bcf5b89"
+      ],
+      "text": "检验 $\\mathrm{CO_2}$、$\\mathrm{SO_2}$ 混合气体时，按以下步骤进行：品红溶液检验 $\\mathrm{SO_2}$ →酸性高锰酸钾溶液除去 $\\mathrm{SO_2}$ →品红溶液检验 $\\mathrm{SO_2}$ 是否除尽→澄清石灰水检验 $\\mathrm{CO_2}$。",
+      "title": "二氧化碳与二氧化硫混合气体的检验",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m17",
+      "source_node_ids": [
+        "n-d2ec1b2f061688e38180"
+      ],
+      "text": "用 $\\mathrm{AgNO_3}$ 溶液和稀硝酸检验 $\\mathrm{Cl^-}$、$\\mathrm{Br^-}$、$\\mathrm{I^-}$，对应现象分别为白色沉淀（$\\mathrm{AgCl}$）、浅黄色沉淀（$\\mathrm{AgBr}$）、黄色沉淀（$\\mathrm{AgI}$）。",
+      "title": "卤离子的沉淀法检验",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m18",
+      "source_node_ids": [
+        "n-d2ec1b2f061688e38180",
+        "n-38738727549582e3e9ad",
+        "n-1c33bdeca3b23fae5a76"
+      ],
+      "text": "检验 $\\mathrm{SO_4^{2-}}$ 时，先加稀盐酸排除 $\\mathrm{CO_3^{2-}}$、$\\mathrm{SO_3^{2-}}$ 等的干扰，再加 $\\mathrm{BaCl_2}$ 溶液，观察白色沉淀。",
+      "title": "硫酸根离子的检验与排干扰",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m19",
+      "source_node_ids": [
+        "n-d2ec1b2f061688e38180"
+      ],
+      "text": "用 $\\mathrm{NaOH}$ 溶液检验 $\\mathrm{Fe^{2+}}$，沉淀变化为白色沉淀→灰绿色沉淀→红褐色沉淀；用 $\\mathrm{K_3[Fe(CN)_6]}$（铁氰化钾）溶液检验，产生蓝色沉淀。",
+      "title": "亚铁离子的沉淀法检验",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m20",
+      "source_node_ids": [
+        "n-d2ec1b2f061688e38180"
+      ],
+      "text": "用 $\\mathrm{NaOH}$ 溶液检验 $\\mathrm{Fe^{3+}}$，产生红褐色沉淀。",
+      "title": "铁离子的沉淀法检验",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m21",
+      "source_node_ids": [
+        "n-d2ec1b2f061688e38180"
+      ],
+      "text": "检验 $\\mathrm{Al^{3+}}$ 时，逐滴加入 $\\mathrm{NaOH}$ 溶液，先生成白色沉淀后溶解。",
+      "title": "铝离子的检验",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m22",
+      "source_node_ids": [
+        "n-d2ec1b2f061688e38180"
+      ],
+      "text": "用 $\\mathrm{NaOH}$ 溶液检验 $\\mathrm{Cu^{2+}}$，产生蓝色沉淀，加热则沉淀变黑。用氨水检验，先产生蓝色沉淀，氨水过量后沉淀消失，形成深蓝色溶液。",
+      "title": "铜离子的检验",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m23",
+      "source_node_ids": [
+        "n-d2ec1b2f061688e38180"
+      ],
+      "text": "检验 $\\mathrm{NH_4^+}$ 时，加入浓 $\\mathrm{NaOH}$ 溶液并加热，产生能使湿润的红色石蕊试纸变蓝的气体。",
+      "title": "铵根离子的气体法检验",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m24",
+      "source_node_ids": [
+        "n-d2ec1b2f061688e38180"
+      ],
+      "text": "用稀盐酸和澄清石灰水检验 $\\mathrm{CO_3^{2-}}$：加入稀盐酸产生无色无味气体，该气体能使澄清石灰水变浑浊。此方法存在 $\\mathrm{HCO_3^-}$ 的干扰。",
+      "title": "碳酸根离子的气体法检验",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m25",
+      "source_node_ids": [
+        "n-d2ec1b2f061688e38180"
+      ],
+      "text": "用稀硫酸和品红溶液检验 $\\mathrm{SO_3^{2-}}$：加入稀硫酸产生有刺激性气味的无色气体，该气体能使品红溶液褪色。此方法存在 $\\mathrm{HSO_3^-}$ 的干扰。",
+      "title": "亚硫酸根离子的气体法检验",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m26",
+      "source_node_ids": [
+        "n-d2ec1b2f061688e38180"
+      ],
+      "text": "用少量氯水和 $\\mathrm{CCl_4}$ 检验 $\\mathrm{Br^-}$（$\\mathrm{I^-}$），出现分层，下层为橙红色（紫红色）。",
+      "title": "溴离子与碘离子的显色法检验",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m27",
+      "source_node_ids": [
+        "n-d2ec1b2f061688e38180"
+      ],
+      "text": "检验 $\\mathrm{Fe^{2+}}$ 时，先滴加 $\\mathrm{KSCN}$ 溶液无现象，再滴加氯水变红色。",
+      "title": "亚铁离子的显色法检验",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m28",
+      "source_node_ids": [
+        "n-d2ec1b2f061688e38180"
+      ],
+      "text": "用 $\\mathrm{KSCN}$ 溶液检验 $\\mathrm{Fe^{3+}}$，溶液变红色；用苯酚溶液检验，溶液显紫色。",
+      "title": "铁离子的显色法检验",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m29",
+      "source_node_ids": [
+        "n-d2ec1b2f061688e38180"
+      ],
+      "text": "用铂丝或洁净的铁丝进行焰色试验，$\\mathrm{Na^+}$、$\\mathrm{K^+}$ 对应的火焰分别呈黄色、紫色；$\\mathrm{K^+}$ 的焰色要透过蓝色钴玻璃观察。",
+      "title": "钠离子与钾离子的焰色检验",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m30",
+      "source_node_ids": [
+        "n-1c33bdeca3b23fae5a76"
+      ],
+      "text": "检验 $\\mathrm{Cl^-}$ 时，若有 $\\mathrm{SO_4^{2-}}$ 干扰，加入过量的 $\\mathrm{Ba(NO_3)_2}$ 溶液；若有 $\\mathrm{CO_3^{2-}}$ 或 $\\mathrm{OH^-}$ 干扰，加入稀硝酸酸化。",
+      "title": "氯离子检验中的排干扰措施",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m31",
+      "source_node_ids": [
+        "n-1c33bdeca3b23fae5a76"
+      ],
+      "text": "检验 $\\mathrm{SO_3^{2-}}$ 时，针对 $\\mathrm{CO_3^{2-}}$ 的干扰，加入盐酸后将产生的气体通入品红溶液中。",
+      "title": "亚硫酸根检验中碳酸根干扰的排除",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-376ab35e9e5bfdde8b6e"
+      ],
+      "from": "l1",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-376ab35e9e5bfdde8b6e"
+      ],
+      "from": "l1",
+      "to": "c2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-38738727549582e3e9ad"
+      ],
+      "from": "m1",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-38738727549582e3e9ad"
+      ],
+      "from": "m2",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9220442f6411667e5c7e"
+      ],
+      "from": "m3",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-71243520034f8bcf5b89"
+      ],
+      "from": "m16",
+      "to": "m15",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-71243520034f8bcf5b89"
+      ],
+      "from": "m16",
+      "to": "m8",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-71243520034f8bcf5b89"
+      ],
+      "from": "m16",
+      "to": "m9",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1c33bdeca3b23fae5a76",
+        "n-d2ec1b2f061688e38180"
+      ],
+      "from": "m30",
+      "to": "m17",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1c33bdeca3b23fae5a76",
+        "n-d2ec1b2f061688e38180"
+      ],
+      "from": "m31",
+      "to": "m25",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-38738727549582e3e9ad",
+        "n-d2ec1b2f061688e38180"
+      ],
+      "from": "m29",
+      "to": "m1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-662332462bdff3dcb44e"
+      ],
+      "from": "n-662332462bdff3dcb44e",
+      "to": "m29",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-662332462bdff3dcb44e"
+      ],
+      "from": "n-662332462bdff3dcb44e",
+      "to": "m9",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-662332462bdff3dcb44e"
+      ],
+      "from": "n-662332462bdff3dcb44e",
+      "to": "m27",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-662332462bdff3dcb44e"
+      ],
+      "from": "n-662332462bdff3dcb44e",
+      "to": "m13",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-aa1fc4f9f10ebc0b305d"
+      ],
+      "from": "n-aa1fc4f9f10ebc0b305d",
+      "to": "c2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-122aade114a45a851438"
+      ],
+      "from": "n-122aade114a45a851438",
+      "to": "c2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-952e462488cf8c4eda9c"
+      ],
+      "from": "n-952e462488cf8c4eda9c",
+      "to": "c2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-8fbb784088ad0f0cc895",
+  "source_digest": "ac0300c67b235c72072d7493cf3108c22d60aa6ab49ed8a28807db7b59f6b444",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

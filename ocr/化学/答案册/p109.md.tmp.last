@@ -1,0 +1,111 @@
+<!-- page 109 -->
+
+**解析** 根据前述分析可知，曲线Ⅰ对应的离子是$\mathrm{[AgY_2]^+}$，A正确。当$\delta(\mathrm{HY^+})$最大时，$c(\mathrm{H_2Y^{2+}})=c(\mathrm{Y})$，此时$K'_1\cdot K'_2=\dfrac{c(\mathrm{H_2Y^{2+}})}{c(\mathrm{Y})}\cdot\dfrac{1}{c^2(\mathrm{H^+})}=\dfrac{1}{c^2(\mathrm{H^+})}$，故此时$c(\mathrm{H^+})=10^{-8.39}\ \mathrm{mol\cdot L^{-1}}$，B正确。在曲线Ⅱ和Ⅲ的交点处，$c(\mathrm{Ag^+})=c(\mathrm{[AgY]^+})$，此时$\mathrm{Ag^++Y\rightleftharpoons[AgY]^+}$的平衡常数$K_1=\dfrac{c(\mathrm{[AgY]^+})}{c(\mathrm{Y})\cdot c(\mathrm{Ag^+})}=\dfrac{1}{c(\mathrm{Y})}=10^{4.70}$，C正确。根据题图1可知，当$-\lg[c(\mathrm{Y})/(\mathrm{mol\cdot L^{-1}})]=3.00$时，$c(\mathrm{Ag^+})=10^{-5.01}\ \mathrm{mol\cdot L^{-1}}$，$c(\mathrm{[AgY]^+})=c(\mathrm{[AgY_2]^+})$，由于$K_1=\dfrac{c(\mathrm{[AgY]^+})}{c(\mathrm{Y})\cdot c(\mathrm{Ag^+})}=10^{4.70}$，故$c(\mathrm{[AgY]^+})=c(\mathrm{[AgY_2]^+})=10^{-3.31}\ \mathrm{mol\cdot L^{-1}}$，根据$\mathrm{Y}$原子守恒有$c(\mathrm{Y})+c(\mathrm{[AgY]^+})+2c(\mathrm{[AgY_2]^+})+c(\mathrm{HY^+})+c(\mathrm{H_2Y^{2+}})=1.15\times10^{-2}\ \mathrm{mol\cdot L^{-1}}$，故$c(\mathrm{Y})+c(\mathrm{HY^+})+c(\mathrm{H_2Y^{2+}})=(1.15\times10^{-2}-3\times10^{-3.31})\ \mathrm{mol\cdot L^{-1}}$，此时$\delta(\mathrm{Y})=\dfrac{c(\mathrm{Y})}{c(\mathrm{Y})+c(\mathrm{HY^+})+c(\mathrm{H_2Y^{2+}})}=\dfrac{10^{-3.00}\ \mathrm{mol\cdot L^{-1}}}{(1.15\times10^{-2}-3\times10^{-3.31})\ \mathrm{mol\cdot L^{-1}}}=\dfrac{1}{11.5-3\times10^{-0.31}}\approx10\%$，由题图2可知，$\delta(\mathrm{Y})\approx10\%$时，$c(\mathrm{HY^+})>c(\mathrm{Y})>c(\mathrm{H_2Y^{2+}})$，D错误。
+
+### 9.C
+
+**图像分析**
+
+[图：纵坐标为$-\lg c(\mathrm{X})$，横坐标为$\lg\dfrac{c(\mathrm{HF})}{c(\mathrm{H^+})}$。曲线Ⅰ为向右上方倾斜的直线，对应$\mathrm{Ca^{2+}}$；曲线Ⅱ为向右下方倾斜的直线，对应$\mathrm{F^-}$。两线交于Q点。纵轴附近标有$3.5$、$3.4$，横轴标有$-1.7$、$0$、$3.5$。图中标注：“可计算$\mathrm{CaF_2}$的$K_{\mathrm{sp}}$”；横坐标“即为$\lg\dfrac{c(\mathrm{F^-})}{K_{\mathrm a}}$”。]
+
+$\mathrm{HF}$的$K_{\mathrm a}=\dfrac{c(\mathrm{H^+})\cdot c(\mathrm{F^-})}{c(\mathrm{HF})}$，则$\lg\dfrac{c(\mathrm{HF})}{c(\mathrm{H^+})}=\lg\dfrac{c(\mathrm{F^-})}{K_{\mathrm a}}$，随着$\lg\dfrac{c(\mathrm{F^-})}{K_{\mathrm a}}$增大，$c(\mathrm{F^-})$增大，则$-\lg c(\mathrm{F^-})$减小，故曲线Ⅱ对应的微粒为$\mathrm{F^-}$，则线Ⅰ对应的微粒为$\mathrm{Ca^{2+}}$［也可根据$\mathrm{CaF_2}$的$K_{\mathrm{sp}}$为常数，$c(\mathrm{F^-})$增大时$c(\mathrm{Ca^{2+}})$减小进行判断］。
+
+**解析** 由前述分析可知，A项正确。Q点时$c(\mathrm{Ca^{2+}})=c(\mathrm{F^-})$，结合电荷守恒：$c(\mathrm{H^+})+2c(\mathrm{Ca^{2+}})=c(\mathrm{OH^-})+c(\mathrm{F^-})+c(\mathrm{Cl^-})$，可得$c(\mathrm{H^+})+c(\mathrm{Ca^{2+}})=c(\mathrm{OH^-})+c(\mathrm{Cl^-})$，B项正确。$K_{\mathrm{sp}}=c(\mathrm{Ca^{2+}})\cdot c^2(\mathrm{F^-})$，可得$c(\mathrm{Ca^{2+}})\cdot c(\mathrm{F^-})=\dfrac{K_{\mathrm{sp}}}{c(\mathrm{F^-})}$，随着盐酸的加入，发生反应$\mathrm{H^++F^-\rightleftharpoons HF}$，$c(\mathrm{F^-})$减小，故$c(\mathrm{Ca^{2+}})\cdot c(\mathrm{F^-})=\dfrac{K_{\mathrm{sp}}}{c(\mathrm{F^-})}$增大，C项错误。由题图可知，$\lg\dfrac{c(\mathrm{HF})}{c(\mathrm{H^+})}=0$时，$c(\mathrm{Ca^{2+}})=10^{-3.4}\ \mathrm{mol/L}$，$c(\mathrm{F^-})=10^{-3.5}\ \mathrm{mol/L}$，则$K_{\mathrm{sp}}=c(\mathrm{Ca^{2+}})\cdot c^2(\mathrm{F^-})=10^{-3.4}\times(10^{-3.5})^2=10^{-10.4}$，D项正确。
+
+### 10.BD
+
+**图像分析**
+
+根据$K_{\mathrm{a_1}}$、$K_{\mathrm{a_2}}$的表达式将负对数进行变形，判断同一$\mathrm{pOH}$下两个负对数的大小，进而判断曲线M、N的归属。
+
+[图：纵坐标为$\mathrm{pOH}$，范围$8.4\sim10.0$；横坐标为$-\lg\dfrac{c(\mathrm{X^{2-}})}{c(\mathrm{HX^-})}$或$-\lg\dfrac{c(\mathrm{HX^-})}{c(\mathrm{H_2X})}$，标有$-1.2$至$1.2$。M、N为两条平行的上升直线，M在左、N在右；横坐标为$0$时，M对应$\mathrm{pOH}\approx9.8$，N对应$\mathrm{pOH}\approx8.8$。]
+
+注意纵坐标为$\mathrm{pOH}$而非$\mathrm{pH}$。
+
+抓住图像中的特殊点，根据横坐标为$0$时两曲线的$\mathrm{pOH}$，可以分别求得$K_{\mathrm{a_1}}$、$K_{\mathrm{a_2}}$。
+
+$-\lg\dfrac{c(\mathrm{X^{2-}})}{c(\mathrm{HX^-})}=-\lg\dfrac{K_{\mathrm{a_2}}}{c(\mathrm{H^+})}=-\lg\dfrac{K_{\mathrm{a_2}}\cdot c(\mathrm{OH^-})}{K_{\mathrm w}}=\mathrm{pOH}-\lg\dfrac{K_{\mathrm{a_2}}}{K_{\mathrm w}}$，同理可得$-\lg\dfrac{c(\mathrm{HX^-})}{c(\mathrm{H_2X})}=\mathrm{pOH}-\lg\dfrac{K_{\mathrm{a_1}}}{K_{\mathrm w}}$，$\mathrm{H_2X}$的$K_{\mathrm{a_1}}>K_{\mathrm{a_2}}$，则$-\lg\dfrac{K_{\mathrm{a_1}}}{K_{\mathrm w}}<-\lg\dfrac{K_{\mathrm{a_2}}}{K_{\mathrm w}}$，故同一$\mathrm{pOH}$下，$-\lg\dfrac{c(\mathrm{HX^-})}{c(\mathrm{H_2X})}<-\lg\dfrac{c(\mathrm{X^{2-}})}{c(\mathrm{HX^-})}$，则曲线M对应$\mathrm{pOH}$与$-\lg\dfrac{c(\mathrm{HX^-})}{c(\mathrm{H_2X})}$的变化关系，曲线N对应$\mathrm{pOH}$与$-\lg\dfrac{c(\mathrm{X^{2-}})}{c(\mathrm{HX^-})}$的变化关系。$-\lg\dfrac{c(\mathrm{HX^-})}{c(\mathrm{H_2X})}=0.0$时，$c(\mathrm{HX^-})=c(\mathrm{H_2X})$，$K_{\mathrm{a_1}}=c(\mathrm{H^+})$，根据题图可知此时$\mathrm{pOH}\approx9.8$，故$K_{\mathrm{a_1}}=c(\mathrm{H^+})\approx10^{-4.2}$，同理，$-\lg\dfrac{c(\mathrm{X^{2-}})}{c(\mathrm{HX^-})}=0.0$时，$\mathrm{pOH}\approx8.8$，故$K_{\mathrm{a_2}} \approx10^{-5.2}$。
+
+**解析** 根据分析可知，A项错误；$\mathrm{X^{2-}}$的水解常数$K_{\mathrm h}=\dfrac{K_{\mathrm w}}{K_{\mathrm{a_2}}}=\dfrac{1\times10^{-14}}{10^{-5.2}}=10^{-8.8}$，则数量级为$10^{-9}$，B项正确；等浓度的$\mathrm{H_2X}$与$\mathrm{NaOH}$溶液等体积混合时，溶液中溶质为$\mathrm{NaHX}$，$\mathrm{HX^-}$的水解常数$K_{\mathrm h}=\dfrac{K_{\mathrm w}}{K_{\mathrm{a_1}}}=\dfrac{1\times10^{-14}}{10^{-4.2}}=10^{-9.8}<K_{\mathrm{a_2}}$，则$\mathrm{HX^-}$的电离程度大于水解程度，溶液中$c(\mathrm{H_2X})<c(\mathrm{X^{2-}})$，C项错误；$K_{\mathrm{a_1}}\times K_{\mathrm{a_2}}=\dfrac{c^2(\mathrm{H^+})\times c(\mathrm{X^{2-}})}{c(\mathrm{H_2X})}$，当混合溶液中$c(\mathrm{H_2X})=c(\mathrm{X^{2-}})$时，$c(\mathrm{H^+})=\sqrt{K_{\mathrm{a_1}}\times K_{\mathrm{a_2}}}=\sqrt{10^{-4.2}\times10^{-5.2}}=10^{-4.7}$，即此时溶液的$\mathrm{pH}=4.7$，甲基橙的变色范围为$3.1\sim4.4$，故溶液呈黄色，D项正确。
+
+### 11.B
+
+**图像分析**
+
+[图：纵坐标为$-\lg[c(\mathrm{X})/(\mathrm{mol\cdot L^{-1}})]$，刻度为$0\sim5$；横坐标为$-\lg[c(\mathrm{H^+})/(\mathrm{mol\cdot L^{-1}})]$。三条上升直线从左到右分别标为$\mathrm{Al^{3+}}$、$\mathrm{Zn^{2+}}$、$\mathrm{Cd^{2+}}$；三条下降直线从左到右分别标为$\mathrm{[Al(OH)_4]^-}$、$\mathrm{[Zn(OH)_4]^{2-}}$、$\mathrm{[Cd(OH)_4]^{2-}}$，其中$\mathrm{[Al(OH)_4]^-}$对应直线标为L。图顶端标有$7.0$、$8.4$、$9.4$、$12.4$、$14.0$，底端标有$3.0$、$7.0$、$14.0$。标注：“可计算$K_{\mathrm{sp}}[\mathrm{Zn(OH)_2}]$”；“可计算$\mathrm{Zn(OH)_2+2OH^-\rightleftharpoons[Zn(OH)_4]^{2-}}$的平衡常数”；“可计算$K_{\mathrm{sp}}[\mathrm{Al(OH)_3}]$”。]
+
+<!-- page 110 -->
+
+横坐标$-\lg c(\mathrm{H^+})$即为$\mathrm{pH}$；纵坐标$-\lg c(\mathrm{X})$越大，代表$c(\mathrm{X})$越小。开始时随着$\mathrm{pH}$增大，$\mathrm{Al^{3+}}$、$\mathrm{Zn^{2+}}$、$\mathrm{Cd^{2+}}$逐渐形成对应的氢氧化物沉淀，$c(\mathrm{Al^{3+}})$、$c(\mathrm{Zn^{2+}})$、$c(\mathrm{Cd^{2+}})$逐渐减小，$-\lg c(\mathrm{Al^{3+}})$、$-\lg c(\mathrm{Zn^{2+}})$、$-\lg c(\mathrm{Cd^{2+}})$逐渐增大，曲线斜率应为正值；$\mathrm{Al(OH)_3}$为$\mathrm{AB_3}$型沉淀，而$\mathrm{Zn(OH)_2}$和$\mathrm{Cd(OH)_2}$均为$\mathrm{AB_2}$型沉淀，故$\mathrm{Zn^{2+}}$和$\mathrm{Cd^{2+}}$对应曲线的斜率大小相同（即两曲线平行）；另外，已知$K_{\mathrm{sp}}[\mathrm{Zn(OH)_2}]<K_{\mathrm{sp}}[\mathrm{Cd(OH)_2}]$，故$\mathrm{pH}$相同时，$c(\mathrm{OH^-})$相同，$c(\mathrm{Zn^{2+}})$应小于$c(\mathrm{Cd^{2+}})$，则$-\lg c(\mathrm{Zn^{2+}})$应大于$-\lg c(\mathrm{Cd^{2+}})$，因此，题图中斜率为正值的三条曲线从左到右对应的离子分别为$\mathrm{Al^{3+}}$、$\mathrm{Zn^{2+}}$和$\mathrm{Cd^{2+}}$。
+
+当$\mathrm{pH}$进一步增大时，三种氢氧化物沉淀开始溶解并生成对应的离子，反应分别为$\mathrm{Al(OH)_3+OH^-\rightleftharpoons[Al(OH)_4]^-}$、$\mathrm{Zn(OH)_2+2OH^-\rightleftharpoons[Zn(OH)_4]^{2-}}$、$\mathrm{Cd(OH)_2+2OH^-\rightleftharpoons[Cd(OH)_4]^{2-}}$，$\mathrm{OH^-}$与$\mathrm{[Al(OH)_4]^-}$的化学计量数之比为$1:1$，而$\mathrm{OH^-}$与$\mathrm{[Zn(OH)_4]^{2-}}$或$\mathrm{[Cd(OH)_4]^{2-}}$的化学计量数之比均为$2:1$，故$\mathrm{[Zn(OH)_4]^{2-}}$和$\mathrm{[Cd(OH)_4]^{2-}}$对应曲线的斜率大小相同（即两曲线平行）；另外，已知$\mathrm{Zn(OH)_2}$比$\mathrm{Cd(OH)_2}$更易与碱反应，故$\mathrm{pH}$相同时，$c(\mathrm{OH^-})$相同，$c(\mathrm{[Zn(OH)_4]^{2-}})$应大于$c(\mathrm{[Cd(OH)_4]^{2-}})$，则$-\lg c(\mathrm{[Zn(OH)_4]^{2-}})$应小于$-\lg c(\mathrm{[Cd(OH)_4]^{2-}})$，因此，题图中斜率为负值的三条曲线从左到右对应的离子分别为$\mathrm{[Al(OH)_4]^-}$、$\mathrm{[Zn(OH)_4]^{2-}}$和$\mathrm{[Cd(OH)_4]^{2-}}$。
+
+**解析** A项，由前述分析可知，L为$-\lg c(\mathrm{[Al(OH)_4]^-})$与$-\lg c(\mathrm{H^+})$的关系曲线，正确。B项，由题图可知，$\mathrm{pH}=8.4$时$c(\mathrm{Zn^{2+}})=10^{-5}\ \mathrm{mol\cdot L^{-1}}$，故$K_{\mathrm{sp}}[\mathrm{Zn(OH)_2}]=c(\mathrm{Zn^{2+}})\cdot c^2(\mathrm{OH^-})=10^{-5}\times(10^{-5.6})^2=10^{-16.2}$，则反应①$\mathrm{Zn^{2+}+2OH^-\rightleftharpoons Zn(OH)_2}$的平衡常数$K_1=\dfrac{1}{c(\mathrm{Zn^{2+}})\cdot c^2(\mathrm{OH^-})}=\dfrac{1}{K_{\mathrm{sp}}[\mathrm{Zn(OH)_2}]}=10^{16.2}$；$\mathrm{pH}=12.4$时$c(\mathrm{[Zn(OH)_4]^{2-}})=10^{-5}\ \mathrm{mol\cdot L^{-1}}$，故反应②$\mathrm{Zn(OH)_2+2OH^-\rightleftharpoons[Zn(OH)_4]^{2-}}$的平衡常数$K_2=\dfrac{c(\mathrm{[Zn(OH)_4]^{2-}})}{c^2(\mathrm{OH^-})}=\dfrac{10^{-5}}{(10^{-1.6})^2}=10^{-1.8}$；反应①＋反应②可得$\mathrm{Zn^{2+}+4OH^-\rightleftharpoons[Zn(OH)_4]^{2-}}$，则其平衡常数$K=K_1\cdot K_2=10^{16.2}\times10^{-1.8}=10^{14.4}$，错误。C项，由题图可知，当$-\lg c(\mathrm{[Al(OH)_4]^-})=0$即$c(\mathrm{[Al(OH)_4]^-})=1\ \mathrm{mol\cdot L^{-1}}$时，$-\lg c(\mathrm{[Cd(OH)_4]^{2-}})>5$即$c(\mathrm{[Cd(OH)_4]^{2-}})<10^{-5}\ \mathrm{mol\cdot L^{-1}}$，可知此时$\mathrm{Al(OH)_3}$溶解较为充分而$\mathrm{Cd(OH)_2}$未发生明显溶解，故通过碱浸可完全分离$\mathrm{Cd(OH)_2}$和$\mathrm{Al(OH)_3}$，正确。D项，由题图可知，$\mathrm{pH}=3.0$时$c(\mathrm{Al^{3+}})=1\ \mathrm{mol\cdot L^{-1}}$，故$K_{\mathrm{sp}}[\mathrm{Al(OH)_3}]=c(\mathrm{Al^{3+}})\cdot c^3(\mathrm{OH^-})=1\times(10^{-11})^3=10^{-33}$；$\mathrm{Al^{3+}}$恰好完全沉淀时$c(\mathrm{Al^{3+}})=10^{-5}\ \mathrm{mol\cdot L^{-1}}$，$c(\mathrm{OH^-})=\sqrt[3]{\dfrac{K_{\mathrm{sp}}[\mathrm{Al(OH)_3}]}{c(\mathrm{Al^{3+}})}}=\sqrt[3]{\dfrac{10^{-33}}{10^{-5}}}\ \mathrm{mol\cdot L^{-1}}\approx10^{-9.3}\ \mathrm{mol\cdot L^{-1}}$，则$\mathrm{pH}\approx4.7$；$0.1\ \mathrm{mol\cdot L^{-1}}$ $\mathrm{Zn^{2+}}$恰好开始沉淀时，$c(\mathrm{OH^-})=\sqrt{\dfrac{K_{\mathrm{sp}}[\mathrm{Zn(OH)_2}]}{c(\mathrm{Zn^{2+}})}}=\sqrt{\dfrac{10^{-16.2}}{0.1}}\ \mathrm{mol\cdot L^{-1}}=10^{-7.6}\ \mathrm{mol\cdot L^{-1}}$，则$\mathrm{pH}=6.4$；故调节溶液$\mathrm{pH}$为$4.7\sim6.4$时，$0.1\ \mathrm{mol\cdot L^{-1}}$ $\mathrm{Al^{3+}}$完全沉淀而$0.1\ \mathrm{mol\cdot L^{-1}}$ $\mathrm{Zn^{2+}}$未形成沉淀，从而将两者完全分离，正确。
+
+**拓展分析**
+
+$K_{\mathrm{sp}}[\mathrm{Al(OH)_3}]=c(\mathrm{Al^{3+}})\cdot c^3(\mathrm{OH^-})=c(\mathrm{Al^{3+}})\cdot\dfrac{K_{\mathrm w}^3}{c^3(\mathrm{H^+})}$，等式两边取对数可得$\lg K_{\mathrm{sp}}[\mathrm{Al(OH)_3}]=\lg c(\mathrm{Al^{3+}})+3\lg K_{\mathrm w}-3\lg c(\mathrm{H^+})$，即$-\lg c(\mathrm{Al^{3+}})=3\mathrm{pH}+3\lg K_{\mathrm w}-\lg K_{\mathrm{sp}}[\mathrm{Al(OH)_3}]$，可知$\mathrm{Al^{3+}}$对应曲线的斜率为$3$；同理可求出$\mathrm{Zn^{2+}}$、$\mathrm{Cd^{2+}}$对应曲线的斜率均为$2$。$\mathrm{Al(OH)_3+OH^-\rightleftharpoons[Al(OH)_4]^-}$的$K=\dfrac{c(\mathrm{[Al(OH)_4]^-})}{c(\mathrm{OH^-})}=\dfrac{c(\mathrm{H^+})\cdot c(\mathrm{[Al(OH)_4]^-})}{K_{\mathrm w}}$，等式两边取对数可得$\lg K=\lg c(\mathrm{H^+})+\lg c(\mathrm{[Al(OH)_4]^-})-\lg K_{\mathrm w}$，即$-\lg c(\mathrm{[Al(OH)_4]^-})=-\mathrm{pH}-\lg K_{\mathrm w}-\lg K$，故$\mathrm{[Al(OH)_4]^-}$对应曲线的斜率为$-1$；同理可求出$\mathrm{[Zn(OH)_4]^{2-}}$、$\mathrm{[Cd(OH)_4]^{2-}}$对应曲线的斜率均为$-2$。
+
+### 12.BD
+
+$K_3=\dfrac{c(\mathrm{HgI_3^-})}{c[\mathrm{HgI_2(aq)}]c(\mathrm{I^-})}$，$K_4=\dfrac{c(\mathrm{HgI_4^{2-}})}{c[\mathrm{HgI_2(aq)}]c^2(\mathrm{I^-})}$，又$K_0=c[\mathrm{HgI_2(aq)}]$，温度不变，$c[\mathrm{HgI_2(aq)}]$为常数，则$\lg\{K_3c[\mathrm{HgI_2(aq)}]\}+\lg c(\mathrm{I^-})=\lg c(\mathrm{HgI_3^-})$，$\lg\{K_4c[\mathrm{HgI_2(aq)}]\}+2\lg c(\mathrm{I^-})=\lg c(\mathrm{HgI_4^{2-}})$，则$\lg c(\mathrm{HgI_3^-})$、$\lg c(\mathrm{HgI_4^{2-}})$分别对应斜率为$1$、$2$的直线，故斜率较大的线L表示$\lg c(\mathrm{HgI_4^{2-}})$的变化情况，A项正确、B项错误；$K_1=\dfrac{c(\mathrm{Hg^{2+}})c^2(\mathrm{I^-})}{c[\mathrm{HgI_2(aq)}]}$，$K_2=\dfrac{c(\mathrm{HgI^+})c(\mathrm{I^-})}{c[\mathrm{HgI_2(aq)}]}$，$\dfrac{K_1}{K_2}=\dfrac{c(\mathrm{Hg^{2+}})c(\mathrm{I^-})}{c(\mathrm{HgI^+})}$，M点时，$\lg c(\mathrm{I^-})=a$，$c(\mathrm{Hg^{2+}})=c(\mathrm{HgI^+})$，代入$\dfrac{K_1}{K_2}=\dfrac{c(\mathrm{Hg^{2+}})c(\mathrm{I^-})}{c(\mathrm{HgI^+})}$，得$\dfrac{K_1}{K_2}=c(\mathrm{I^-})$，即$\lg\dfrac{K_1}{K_2}=\lg c(\mathrm{I^-})=a$，C项正确；随着$c(\mathrm{I^-})$的增大，由题图可知$c(\mathrm{HgI_4^{2-}})$逐渐增大，溶液中$\mathrm{I}$元素与$\mathrm{Hg}$元素的物质的量之比逐渐增大［注意题图中横坐标为$\lg c(\mathrm{I^-})$，故需外加$\mathrm{I^-}$以调节$c(\mathrm{I^-})$］，D项错误。
+
+**疑难突破**
+
+直线图像的出现，通常通过平衡常数进行对数处理所得。该题较为巧妙的是$c[\mathrm{HgI_2(aq)}]$为常数。
+
+**知识拓展**
+
+按照A项的分析类推可知$\lg c(\mathrm{Hg^{2+}})$、$\lg c(\mathrm{HgI^+})$分别对应斜率为$-2$、$-1$的直线。
+
+### 13.B
+
+**图像分析**
+
+[图：中间纵坐标为$\mathrm{pH}$，标有$2$、$3$、$4$、$5$、$6$。左侧横坐标为分布系数$\delta$，由左至右标有$1.0$、$0.8$、$0.6$、$0.4$、$0.2$、$0$；$\mathrm{B^-}$的分布系数始终为$1$，$\mathrm{HA^-}$与$\mathrm{A^{2-}}$的分布曲线在$\mathrm{pH}=3$、$\delta=0.5$处交于O点。右侧横坐标为$\mathrm{pc(M^+)}$，标有$1$至$5$；p曲线标为$\mathrm{M_2A}$，q直线标为$\mathrm{MB}$，$\mathrm{pH}=3$时分别对应$\mathrm{pc(M^+)}=2$和$5$。图中标注：“可计算$K_{\mathrm a}(\mathrm{HA^-})$；无$\mathrm{H_2A}$，说明第一步完全电离”；“可知$\mathrm{HB}$为强酸”；“可计算$K_{\mathrm{sp}}(\mathrm{M_2A})$和$K_{\mathrm{sp}}(\mathrm{MB})$”。]
+
+<!-- page 111 -->
+
+根据题图分布系数曲线可知溶液中含$\mathrm{A}$微粒为$\mathrm{HA^-}$、$\mathrm{A^{2-}}$，没有$\mathrm{H_2A}$，说明$\mathrm{H_2A}$第一步完全电离，第二步部分电离，$c(\mathrm{HA^-})=c(\mathrm{A^{2-}})$时，$\mathrm{pH}=3$，则$K_{\mathrm a}(\mathrm{HA^-})=10^{-3}$；随着$\mathrm{pH}$发生变化，溶液中含$\mathrm{B}$微粒只有$\mathrm{B^-}$，且$\mathrm{B^-}$的分布系数始终为$1$，则$\mathrm{HB}$为强酸；$\mathrm{M^+}$不发生水解且$\mathrm{HB}$为强酸，则$\mathrm{MB(s)}$的沉淀溶解平衡不随溶液$\mathrm{pH}$变化而变化，q表示$\mathrm{MB}$饱和溶液中$\mathrm{pc(M^+)}$随$\mathrm{pH}$变化的曲线，p表示$\mathrm{M_2A}$饱和溶液中$\mathrm{pc(M^+)}$随$\mathrm{pH}$变化的曲线。
+
+**解析** 根据分析可知p表示$\mathrm{M_2A}$饱和溶液中$\mathrm{pc(M^+)}$随$\mathrm{pH}$变化的曲线，A错误。根据题图中曲线q可知$K_{\mathrm{sp}}(\mathrm{MB})=c(\mathrm{M^+})\cdot c(\mathrm{B^-})=10^{-5}\times10^{-5}=10^{-10}$，根据题图中曲线p可知$K_{\mathrm{sp}}(\mathrm{M_2A})=c^2(\mathrm{M^+})\cdot c(\mathrm{A^{2-}})=(10^{-2})^2\times\left(\dfrac12\times10^{-2}\right)=5\times10^{-7}$，则反应$\mathrm{M_2A(s)+2B^-(aq)+H^+(aq)\rightleftharpoons2MB(s)+HA^-(aq)}$的平衡常数$K=\dfrac{c(\mathrm{HA^-})}{c(\mathrm{H^+})\cdot c^2(\mathrm{B^-})}=\dfrac{c(\mathrm{HA^-})\cdot c(\mathrm{A^{2-}})\cdot c^2(\mathrm{M^+})}{c(\mathrm{H^+})\cdot c^2(\mathrm{B^-})\cdot c(\mathrm{A^{2-}})\cdot c^2(\mathrm{M^+})}=\dfrac{K_{\mathrm{sp}}(\mathrm{M_2A})}{K_{\mathrm a}(\mathrm{HA^-})\cdot K_{\mathrm{sp}}^2(\mathrm{MB})}=\dfrac{5\times10^{-7}}{10^{-3}\times(10^{-10})^2}=5\times10^{16}$，B正确。$\mathrm{H_2A}$第一步完全电离，溶液中不存在$\mathrm{H_2A}$，C错误。溶液$\mathrm{pH}=3$时，$\delta(\mathrm{HA^-})=\delta(\mathrm{A^{2-}})$，$c(\mathrm{HA^-})=c(\mathrm{A^{2-}})$，$\mathrm{M_2A}$溶液因$\mathrm{A^{2-}}$的水解而呈碱性，则$\mathrm{pH}=3$为外加酸调节$\mathrm{pH}$的结果，若加入$\mathrm{H_2A}$调节$\mathrm{pH}$，根据电荷守恒可得$c(\mathrm{H^+})+c(\mathrm{M^+})=c(\mathrm{HA^-})+2c(\mathrm{A^{2-}})+c(\mathrm{OH^-})=3c(\mathrm{HA^-})+c(\mathrm{OH^-})$，但加入$\mathrm{H_2A}$会导致$c(\mathrm{A^{2-}})$增大，根据$K_{\mathrm{sp}}(\mathrm{M_2A})$不变可知$c(\mathrm{M^+})$减小，$\mathrm{pc(M^+)}$增大，与题图不符，故加入的酸不是$\mathrm{H_2A}$；若加入其他酸调节$\mathrm{pH}$，则电荷守恒式中需加上外加酸的阴离子的浓度项，则$c(\mathrm{H^+})+c(\mathrm{M^+})>3c(\mathrm{HA^-})+c(\mathrm{OH^-})$，D错误。
+
+# 第十一章 有机物的结构 烃和烃的衍生物
+
+## 第1节 有机物的结构特点
+
+### 五年高考
+
+**1.C** 通过萃取法可获得含青蒿素的提取液，A正确；X射线衍射技术可用于晶体结构的测定，B正确；青蒿素的相对分子质量可以用质谱仪来测定，C错误；红外光谱可用于有机物分子中官能团的测定，D正确。
+
+**回归教材** 鲁科版选必2第3章微项目
+
+研究人员利用高分辨质谱仪测定出青蒿素的相对分子质量为$282.33$。结合元素分析，确定其分子式为$\mathrm{C_{15}H_{22}O_5}$。红外光谱实验结果表明，青蒿素分子中含有酯基和过氧基团。结合核磁共振谱图提供的关于碳、氢原子的种类和数量的信息，研究人员推定了青蒿素中甲基、过氧基团、带有酯基的六元环等部分结构片段。研究人员采用晶体X射线衍射的方法，确定了青蒿素的分子结构。
+
+**2.A** $\mathrm{C}$和$\mathrm{H}$原子之间通过共用电子对形成共价键，A正确。结合题中信息可知，该配合物具有芳香性，有类似苯的结构，故不含碳碳双键，能发生取代反应，B错误、D错误。由多烯环配合物的结构可知，该多烯环上共有$10$个氢原子，C错误。
+
+**3.A** 溴乙烷可以萃取浓溴水中的溴单质，溶液分层，下层呈橙红色；浓溴水可以将乙醛氧化成乙酸，溶液由橙黄色变成无色；苯酚和浓溴水反应生成$2,4,6$-三溴苯酚白色沉淀，现象不相同，可以鉴别，A正确。红外光谱可确定有机物分子中的官能团或化学键种类，不能确定有机物的元素组成，B错误。该有机物的分子式还可能是$\mathrm{C_4H_8O}$等，C错误。麦芽糖属于还原糖，也可以与新制氢氧化铜反应，不能通过是否有砖红色沉淀产生来判断麦芽糖是否水解，D错误。
+
+**4.B** $\mathrm{CH_4}$分子是正四面体结构，则$\mathrm{CH_2Cl_2}$只有一种结构，A项正确。环己烷中的$\mathrm{C-H}$键是碳原子的$\mathrm{sp^3}$杂化轨道与氢原子的$\mathrm{s}$轨道重叠形成的，而苯分子中的$\mathrm{C-H}$键是碳原子的$\mathrm{sp^2}$杂化轨道与氢原子的$\mathrm{s}$轨道重叠形成的，二者键能不相等，B项错误。甲苯的相对分子质量为$92$，则质荷比为$92$的峰归属于[图：甲苯结构简式，苯环连接$\mathrm{CH_3^+}$，正电荷标在甲基处]，C项正确。$\mathrm{R_4N^+}$与$\mathrm{PF_6^-}$的体积较大，离子间的作用力很弱，二者组成的离子液体常温下呈液态，D项正确。
+
+**回归教材**
+
+C项（人教版选必2第二章第二节）：现代化学常利用质谱仪测定分子的相对分子质量。它的基本原理是在质谱仪中使分子失去电子变成带正电荷的分子离子和碎片离子等。……质荷比（粒子的相对质量与其电荷数之比）$\dfrac{m}{z}=92$的峰是甲苯分子的正离子$\mathrm{(C_6H_5CH_3)^+}$，$\dfrac{m}{z}=91$的峰是失去一个氢原子的甲苯正离子$\mathrm{(C_6H_5CH_2)^+}$，$\dfrac{m}{z}=65$的峰是分子碎片。
+
+D项（人教版选必2第二章第三节）：大多数离子液体含有体积很大的阴、阳离子。常见的阴离子如四氯铝酸根$\mathrm{(AlCl_4^-)}$、六氟磷酸根$\mathrm{(PF_6^-)}$、四氟硼酸根$\mathrm{(BF_4^-)}$等，常见的阳离子如季铵离子（$\mathrm{R_4N^+}$，即$\mathrm{NH_4^+}$的$\mathrm{H}$被烃基$\mathrm{R}$取代）、带烃基侧链的咪唑、嘧啶等有杂环结构的有机胺正离子等。
+
+**5.B** X存在$2$个手性碳原子（标记*的碳原子）：
+
+[图：X为六元环结构，环的左上边为碳碳双键，顶端碳连接甲基，右上碳连接羟基，底端碳连接异丙烯基；连接羟基的右上碳和连接异丙烯基的底端碳均标有*。]
+
+A项正确。X中的醇羟基发生消去反应，脱水产物为
+
+[图：六元环顶端碳连接甲基，底端碳连接异丙烯基，环的左上边和右边各有一个碳碳双键。]
+
+，只含碳碳双键$1$种官能团，B错误。Y中碳碳双键两端的$1$个碳原子连接$2$个相同的原子或原子团，故不存在顺反异构体，C正确。Y中含有酯基，在酸性条件下的水解产物为$\mathrm{HCOOH}$（属于羧酸）和
+
+[图：六元环左上边为碳碳双键，顶端碳连接甲基和羟基，底端碳连接异丙烯基。]
+
+（属于醇），D正确。
+
+**6.B** A项，闭环螺吡喃中含有$1$个手性碳原子（与$\mathrm{N}$、$\mathrm{O}$同时相连的碳原子），其具有手性，开环螺吡喃中无手性碳原子，其不具有手性，错误；B项，两分子的分子式相同，结构不同，互为同分异构体，正确；C项，闭环螺吡喃中$\mathrm{N}$原子为$\mathrm{sp^3}$杂化，开环螺吡

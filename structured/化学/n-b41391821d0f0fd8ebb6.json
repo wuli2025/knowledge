@@ -1,0 +1,371 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-90ef0e7df5175f59c063"
+      ],
+      "text": "可充电电池又称二次电池，其电极反应式的书写涉及放电时的正、负极和充电时的阴、阳极。",
+      "title": "可充电电池（二次电池）",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-15b21e5bd4e32040ef68"
+      ],
+      "text": "书写电解池电极反应式时，需要区分阳极材料是惰性电极还是活性电极。原文指出，除 $\\mathrm{Au}$、$\\mathrm{Pt}$ 外的金属都可作活性电极。",
+      "title": "惰性电极与活性电极",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-5d6e4d1c340e273dd1a9"
+      ],
+      "text": "物质得、失电子后在不同介质中的存在形式不同，书写电极反应式时必须考虑介质环境。如碱性溶液中不可能有 $\\mathrm{CO_2}$、$\\mathrm{H^+}$ 生成，酸性溶液中不可能有 $\\mathrm{NH_3}$、$\\mathrm{OH^-}$ 生成。",
+      "title": "介质对电极反应产物形式的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-1407373fff4ab93f355c"
+      ],
+      "text": "燃料电池的总反应与燃料的燃烧反应一致；若产物能和电解质反应，以最终生成的物质为准。碱性燃料电池中，$\\mathrm{CO_2}$ 会与 $\\mathrm{OH^-}$ 反应生成 $\\mathrm{CO_3^{2-}}$，此时产物应写成 $\\mathrm{CO_3^{2-}}$。",
+      "title": "燃料电池总反应与产物确定",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-1407373fff4ab93f355c"
+      ],
+      "text": "燃料电池正极上 $\\mathrm{O_2}$ 发生还原反应，不同环境中的反应式为：酸性：$\\mathrm{O_2+4H^++4e^-=2H_2O}$；碱性：$\\mathrm{O_2+2H_2O+4e^-=4OH^-}$；熔融氧化物：$\\mathrm{O_2+4e^-=2O^{2-}}$；熔融碳酸盐：$\\mathrm{O_2+2CO_2+4e^-=2CO_3^{2-}}$。",
+      "title": "不同环境中燃料电池的正极反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-15b21e5bd4e32040ef68"
+      ],
+      "text": "电解池中，与直流电源负极相连的为阴极，与直流电源正极相连的为阳极。",
+      "title": "电解池阴、阳极的连接关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-15b21e5bd4e32040ef68"
+      ],
+      "text": "电解池采用活性阳极时，电极材料失电子，生成相应的金属阳离子；采用惰性阳极时，一般是阴离子失电子，生成相应的单质或高价化合物。阴极一般是阳离子得电子，生成相应的单质或低价化合物。",
+      "title": "电解池两极的一般反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-15b21e5bd4e32040ef68"
+      ],
+      "text": "惰性阳极上阴离子的放电顺序为：$\\mathrm{S^{2-}>I^->Br^->Cl^->OH^-}>\\text{含氧酸根离子}>\\mathrm{F^-}$。",
+      "title": "阴离子放电顺序",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-15b21e5bd4e32040ef68"
+      ],
+      "text": "电解池阴极上阳离子的放电顺序为：$\\mathrm{Ag^+>Fe^{3+}>Cu^{2+}}> \\mathrm{H^+}\\text{（酸）}>\\mathrm{Fe^{2+}>Zn^{2+}}>\\mathrm{H^+}\\text{（水）}>\\mathrm{Al^{3+}>Mg^{2+}>Na^+>Ca^{2+}>K^+}$。",
+      "title": "阳离子放电顺序",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-90ef0e7df5175f59c063"
+      ],
+      "text": "一般情况下，可充电电池放电时负极反应与充电时阴极反应互逆，放电时正极反应与充电时阳极反应互逆。",
+      "title": "充、放电电极反应的互逆关系",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-5d6e4d1c340e273dd1a9"
+      ],
+      "text": "根据题给装置图或总反应式等信息判断正、负极，列出电极上的反应物和产物；根据元素化合价变化确定得、失电子数；根据环境补离子使电荷守恒；再利用原子守恒配平其他物质，有时需补上 $\\mathrm{H_2O}$ 等。",
+      "title": "一般电极反应式的书写步骤",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-5d6e4d1c340e273dd1a9",
+        "n-1407373fff4ab93f355c"
+      ],
+      "text": "配电荷守恒时，根据反应环境选择离子：酸性溶液选 $\\mathrm{H^+}$，碱性溶液选 $\\mathrm{OH^-}$，熔融氧化物选 $\\mathrm{O^{2-}}$，熔融碳酸盐选 $\\mathrm{CO_3^{2-}}$，锂电池选 $\\mathrm{Li^+}$。",
+      "title": "按介质选择配平离子",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-5d6e4d1c340e273dd1a9",
+        "n-15b21e5bd4e32040ef68"
+      ],
+      "text": "将两极反应式相加得到总反应式时，先调整化学计量数，使得、失电子数目相等，再相加。电解池的总反应式由阳极反应式与阴极反应式相加得到，并加上电解条件。",
+      "title": "由两极反应式合成总反应式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-1407373fff4ab93f355c"
+      ],
+      "text": "先写出燃料电池总反应式，考虑燃烧产物是否继续与电解质反应；再根据介质写出正极上 $\\mathrm{O_2}$ 的还原反应；最后书写负极反应式。负极反应式可直接配平，也可用总反应式减去正极反应式，消去 $\\mathrm{O_2}$ 得到。",
+      "title": "燃料电池电极反应式的书写",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-1407373fff4ab93f355c"
+      ],
+      "text": "燃料参与负极反应。先写出含变价元素的反应物与产物，配平使变价元素原子守恒；再根据化合价变化计算转移电子数；根据反应环境补相应离子，使电荷守恒；最后根据氢或氧原子守恒补 $\\mathrm{H_2O}$。原文乙醇酸性燃料电池的配平过程为：$\\mathrm{C_2H_5OH\\longrightarrow 2CO_2}$；碳元素化合价变化为 $-2\\longrightarrow +4$，得到 $\\mathrm{C_2H_5OH-12e^-\\longrightarrow 2CO_2}$；补离子为 $\\mathrm{C_2H_5OH-12e^-\\longrightarrow 2CO_2+12H^+}$；最终为 $\\mathrm{C_2H_5OH-12e^-+3H_2O=2CO_2\\uparrow+12H^+}$。",
+      "title": "燃料电池负极反应式的直接配平",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-90ef0e7df5175f59c063"
+      ],
+      "text": "根据图示和题干信息判断正、负极及阴、阳极；先写较简单一极的电极反应式，再用总反应式减去较简单一极的反应式得到复杂一极的反应式，也可根据化合价变化、电荷守恒和原子守恒直接书写；一般情况下，利用充、放电反应互逆关系，将负（正）极反应式变换方向并将电子移项，得到充电时阴（阳）极反应式。",
+      "title": "可充电电池电极反应式的书写",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-15b21e5bd4e32040ef68"
+      ],
+      "text": "一判：依据电极与直流电源的连接关系判断阴、阳极。二看：看清阳极材料是惰性电极还是活性电极。三写：依据阳极材料及离子放电顺序确定两极反应，再将阳极、阴极反应式相加得到总反应式，并标明电解条件。若为新情境中的电极反应式，则按照一般电极反应式的书写方法处理。",
+      "title": "电解池电极反应式的“一判、二看、三写”",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-afb35c36b5bf22643d60"
+      ],
+      "text": "当反应物或生成物较为复杂、转移电子数难以计算时，写出反应物与生成物后，可先配原子守恒，再根据电荷守恒确定转移电子数。",
+      "title": "先配原子再确定电子数",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-5d6e4d1c340e273dd1a9"
+      ],
+      "from": "m1",
+      "to": "m2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5d6e4d1c340e273dd1a9"
+      ],
+      "from": "m1",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5d6e4d1c340e273dd1a9"
+      ],
+      "from": "m3",
+      "to": "m1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1407373fff4ab93f355c"
+      ],
+      "from": "m4",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1407373fff4ab93f355c"
+      ],
+      "from": "m4",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1407373fff4ab93f355c"
+      ],
+      "from": "m4",
+      "to": "m5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1407373fff4ab93f355c"
+      ],
+      "from": "m5",
+      "to": "m2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-90ef0e7df5175f59c063"
+      ],
+      "from": "m6",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-90ef0e7df5175f59c063"
+      ],
+      "from": "m6",
+      "to": "l8",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-15b21e5bd4e32040ef68"
+      ],
+      "from": "m7",
+      "to": "c2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-15b21e5bd4e32040ef68"
+      ],
+      "from": "m7",
+      "to": "l4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-15b21e5bd4e32040ef68"
+      ],
+      "from": "m7",
+      "to": "l5",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-15b21e5bd4e32040ef68"
+      ],
+      "from": "m7",
+      "to": "l6",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-15b21e5bd4e32040ef68"
+      ],
+      "from": "m7",
+      "to": "l7",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-15b21e5bd4e32040ef68"
+      ],
+      "from": "m7",
+      "to": "m3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-15b21e5bd4e32040ef68"
+      ],
+      "from": "m7",
+      "to": "m1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-afb35c36b5bf22643d60"
+      ],
+      "from": "m8",
+      "to": "m1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9a457f74f4ec90897dfd",
+        "n-15b21e5bd4e32040ef68"
+      ],
+      "from": "n-9a457f74f4ec90897dfd",
+      "to": "m1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-62cbc974b8fd77c2ca58",
+        "n-15b21e5bd4e32040ef68"
+      ],
+      "from": "n-62cbc974b8fd77c2ca58",
+      "to": "m1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-04649e07f258ba8d9ce6",
+        "n-1407373fff4ab93f355c"
+      ],
+      "from": "n-04649e07f258ba8d9ce6",
+      "to": "m4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ce1736b80e345000609a",
+        "n-15b21e5bd4e32040ef68"
+      ],
+      "from": "n-ce1736b80e345000609a",
+      "to": "m7",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-b41391821d0f0fd8ebb6",
+  "source_digest": "4642cb877775a7ed39607c68169f2a4f260aa3a3f389adbbd6954b784af1843e",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

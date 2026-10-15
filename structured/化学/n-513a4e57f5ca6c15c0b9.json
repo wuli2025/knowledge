@@ -1,0 +1,205 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-c584b7701f59068f078d"
+      ],
+      "text": "在化学平衡体系中，用各气体物质的分压代替浓度进行计算，得到的平衡常数称为分压平衡常数（$K_p$）。",
+      "title": "分压平衡常数",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-29ba0a70411bd4cfc6d6"
+      ],
+      "text": "对于反应Ⅱ $\\mathrm{CO(g)}+\\mathrm{H_2O(g)}\\rightleftharpoons\\mathrm{CO_2(g)}+\\mathrm{H_2(g)}$，标准平衡常数为 $K^\\ominus=\\dfrac{\\dfrac{p(\\mathrm{CO_2})}{p^\\ominus}\\times\\dfrac{p(\\mathrm{H_2})}{p^\\ominus}}{\\dfrac{p(\\mathrm{CO})}{p^\\ominus}\\times\\dfrac{p(\\mathrm{H_2O})}{p^\\ominus}}$，其中 $p^\\ominus$ 为 $100\\ \\mathrm{kPa}$，各组分的 $p$ 为平衡分压。",
+      "title": "标准平衡常数的题设表达式",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-29ba0a70411bd4cfc6d6"
+      ],
+      "text": "题设中，$\\mathrm{CO}$ 的选择性 $=\\dfrac{n_{\\text{生成}}(\\mathrm{CO})}{n_{\\text{生成}}(\\mathrm{CO})+n_{\\text{生成}}(\\mathrm{CO_2})}\\times100\\%$。",
+      "title": "CO的选择性",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-c584b7701f59068f078d"
+      ],
+      "text": "某气体的分压＝总压×该气体的物质的量分数（或体积分数）。",
+      "title": "气体分压的计算关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-c584b7701f59068f078d"
+      ],
+      "text": "对于 $\\mathrm{N_2(g)}+3\\mathrm{H_2(g)}\\rightleftharpoons2\\mathrm{NH_3(g)}$，$K_p=\\dfrac{p^2(\\mathrm{NH_3})}{p(\\mathrm{N_2})\\cdot p^3(\\mathrm{H_2})}$，各气体分压取平衡时的分压。",
+      "title": "合成氨反应的分压平衡常数",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-66adaf0098e743526280"
+      ],
+      "text": "$K_p$ 只受温度影响。",
+      "title": "分压平衡常数的影响因素",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-93c3fced2e772a598bfe"
+      ],
+      "text": "对于恒温恒容反应，气体的压强与其物质的量成正比。",
+      "title": "恒温恒容下压强与物质的量的关系",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-93c3fced2e772a598bfe"
+      ],
+      "text": "第一步：根据“三段式”法计算平衡体系中各物质的物质的量或物质的量浓度。第二步：计算各气体组分的物质的量分数或体积分数。第三步：根据分压计算公式求出各气体的分压。第四步：代入分压平衡常数计算公式进行计算。",
+      "title": "由平衡组成计算分压平衡常数",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-93c3fced2e772a598bfe"
+      ],
+      "text": "适用于恒温恒容且已知起始时各气体分压的反应。用分压代替物质的量运用“三段式”法，直接求出平衡时各气体的分压。例如 $\\mathrm{N_2(g)}+3\\mathrm{H_2(g)}\\rightleftharpoons2\\mathrm{NH_3(g)}$：起始分压依次为 $p_0$、$3p_0$、$0$；变化量依次为 $p$、$3p$、$2p$；平衡分压依次为 $p_0-p$、$3(p_0-p)$、$2p$。代入得 $K_p=\\dfrac{(2p)^2}{(p_0-p)[3(p_0-p)]^3}$。",
+      "title": "恒温恒容下的分压三段式法",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-c584b7701f59068f078d"
+      ],
+      "from": "c1",
+      "to": "l2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-66adaf0098e743526280"
+      ],
+      "from": "c1",
+      "to": "l3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-93c3fced2e772a598bfe",
+        "n-c584b7701f59068f078d"
+      ],
+      "from": "m1",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-93c3fced2e772a598bfe"
+      ],
+      "from": "m1",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-93c3fced2e772a598bfe"
+      ],
+      "from": "m2",
+      "to": "l4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-93c3fced2e772a598bfe",
+        "n-c584b7701f59068f078d"
+      ],
+      "from": "m2",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-93c3fced2e772a598bfe"
+      ],
+      "from": "m2",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-28281219332b4127e8fd"
+      ],
+      "from": "n-28281219332b4127e8fd",
+      "to": "c1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-28281219332b4127e8fd"
+      ],
+      "from": "n-28281219332b4127e8fd",
+      "to": "l1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-29ba0a70411bd4cfc6d6"
+      ],
+      "from": "n-29ba0a70411bd4cfc6d6",
+      "to": "c2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-29ba0a70411bd4cfc6d6"
+      ],
+      "from": "n-29ba0a70411bd4cfc6d6",
+      "to": "c3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e8a0be242920176ef071"
+      ],
+      "from": "n-e8a0be242920176ef071",
+      "to": "c1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-513a4e57f5ca6c15c0b9",
+  "source_digest": "d39c0f573a0536f29b9f548a1fccc4090830b70831e1aac52390d7f5917137b6",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

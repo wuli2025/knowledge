@@ -1,0 +1,452 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-4559dc0d531689b0ddbd"
+      ],
+      "text": "一种反应物同时发生多个反应产生多种产物时，选择性表示其中一种产物的量占总产物的量的比例。原文所给体系中，$\\mathrm{CH_3OH}$ 的平衡选择性 $=\\dfrac{n(\\mathrm{CH_3OH})}{n(\\mathrm{CH_3OH})+n(\\mathrm{CO})}\\times100\\%$；使用时应明确题目规定的统计口径。",
+      "title": "产物选择性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-1b29a8babc61fc265af4"
+      ],
+      "text": "在环戊二烯加氢制备环戊烯的题设中，选择性定义为转化为目标产物的反应物在总转化量中的占比。",
+      "title": "以反应物转化量定义的选择性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-5436fd8074bc261862c6"
+      ],
+      "text": "对于反应 $a\\mathrm{A(g)}+b\\mathrm{B(g)}\\rightleftharpoons c\\mathrm{C(g)}+d\\mathrm{D(g)}$，原图以 $\\mathrm A\\%$ 为纵坐标、$p$ 或 $T$ 为横坐标，曲线 $\\mathrm L$ 上所有点都是平衡点，曲线外的点是相应条件下的非平衡点。",
+      "title": "平衡曲线与非平衡点",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-ef4c450cf4c294c770da",
+        "n-4559dc0d531689b0ddbd"
+      ],
+      "text": "本节复合图像包括同一反应的两个因变量与同一自变量的图像，以及同一体系中两个或多个竞争反应的两个因变量与同一自变量的图像。不同曲线可能对应不同纵坐标。",
+      "title": "两个因变量与同一自变量的复合图像",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-80dd68ec6e92c864a87a"
+      ],
+      "text": "以 $\\mathrm{A(g)+B(g)\\rightleftharpoons C(g)}$、$\\Delta H>0$ 的原图为例：增大 $c(\\mathrm A)$ 时，正反应速率瞬间增大，然后逐渐减小；逆反应速率逐渐增大，最终两者相等。",
+      "title": "增大反应物浓度时的速率变化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-80dd68ec6e92c864a87a"
+      ],
+      "text": "以 $\\mathrm{A(g)+B(g)\\rightleftharpoons C(g)}$、$\\Delta H>0$ 为例，升高温度，正、逆反应速率均增大；因正反应吸热，正反应速率增大程度较大。",
+      "title": "升温时正、逆反应速率的变化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-80dd68ec6e92c864a87a"
+      ],
+      "text": "原图中减小压强时，正、逆反应速率均减小；对于正反应为气体分子数减小的反应，逆反应速率减小程度较小。",
+      "title": "减压时正、逆反应速率的变化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-80dd68ec6e92c864a87a"
+      ],
+      "text": "原图中在平衡状态下使用催化剂，正、逆反应速率均瞬间增大且增大程度相同，二者保持相等。",
+      "title": "催化剂对平衡体系反应速率的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-790bb19e20b50afbdb78"
+      ],
+      "text": "在含量（或转化率）—时间图像中，先出现拐点的曲线先达到平衡，对应的反应速率较大，可能对应较高温度、较大压强或使用催化剂等条件。",
+      "title": "“先拐先平，数值大”原则",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-790bb19e20b50afbdb78"
+      ],
+      "text": "对 $a\\mathrm{A(g)}+b\\mathrm{B(g)}\\rightleftharpoons c\\mathrm{C(g)}$，原图中 $T_2$ 曲线先达到平台：若 $\\mathrm C\\%$ 平台较高，则 $T_2>T_1\\Rightarrow\\Delta H>0$；若 $\\mathrm B\\%$ 平台较高，则 $T_2>T_1\\Rightarrow\\Delta H<0$。",
+      "title": "由温度曲线的平衡含量判断反应热",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-790bb19e20b50afbdb78"
+      ],
+      "text": "对 $a\\mathrm{A(g)}+b\\mathrm{B(g)}\\rightleftharpoons c\\mathrm{C(g)}$，原图中 $p_1$ 曲线先达到平台：若 $\\mathrm C\\%$ 平台较高，则 $p_1>p_2\\Rightarrow a+b>c$；若 $\\mathrm B\\%$ 平台较高，则 $p_1>p_2\\Rightarrow a+b<c$。",
+      "title": "由压强曲线的平衡含量判断气体计量数关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-790bb19e20b50afbdb78"
+      ],
+      "text": "对原图中最终达到相同 $\\mathrm C\\%$ 平台的曲线1、2，曲线1先拐，可对应曲线1使用催化剂，曲线2不用催化剂或催化效果较差；也可对应 $a+b=c$ 时，曲线1的压强大于曲线2的压强。",
+      "title": "相同平衡平台而达平衡时间不同的条件解释",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-5436fd8074bc261862c6"
+      ],
+      "text": "适用于原图以反应物 $\\mathrm A\\%$ 为纵坐标的平衡曲线：曲线上方 $\\mathrm E$ 点的 $\\mathrm A\\%$ 大于同一压强或温度下的平衡值，需向正反应方向移动，故 $v_{\\text{正}}>v_{\\text{逆}}$；曲线下方 $\\mathrm F$ 点则有 $v_{\\text{正}}<v_{\\text{逆}}$。",
+      "title": "由非平衡点位置判断正、逆反应速率大小",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-a786eff5ae9378e4d73e"
+      ],
+      "text": "一看面：看清横、纵坐标表示的物理量，理解曲线整体含义。二看线：观察变化趋势，必要时作等温线、等压线等辅助线。三看点：分析起点、终点、交点、极值点等特殊点。最后结合反应速率、化学平衡规律及反应吸放热、气体分子数变化等特征作判断。",
+      "title": "基础识图的“三看一判断”",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-80dd68ec6e92c864a87a"
+      ],
+      "text": "分析速率—时间图像时注意条件改变处的断点，比较正、逆反应速率是否瞬间变化、变化方向及变化程度，并结合后续逐渐变化和重新相等的过程判断条件影响。",
+      "title": "速率—时间图像的断点分析",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-790bb19e20b50afbdb78"
+      ],
+      "text": "分析含量（或转化率）—时间—温度（或压强）图像时，先依据拐点先后比较反应速率及可能的条件，再比较平衡平台高低，结合所示物质是反应物还是生成物，判断反应热或气体化学计量数关系。平台相同时，还应考虑催化剂或 $a+b=c$ 时压强不同的情形。",
+      "title": "结合拐点与平台分析含量—时间图像",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-e144848f032c78097766"
+      ],
+      "text": "当图像有两个自变量和一个因变量时，先固定一个自变量，再讨论另一个自变量对因变量的影响；必要时作辅助线。含恒温线的图像可先沿一条恒温线研究压强影响，再作垂直于横轴的线，在相同压强下比较不同温度的影响。",
+      "title": "含恒温（压）线图像的“定一议二”",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-e144848f032c78097766"
+      ],
+      "text": "对 $a\\mathrm{A(g)}+b\\mathrm{B(g)}\\rightleftharpoons c\\mathrm{C(g)}$，以 $\\alpha(\\mathrm A)$ 表示 $\\mathrm A$ 的平衡转化率：同温下增压使 $\\alpha(\\mathrm A)$ 增大，说明平衡正移，故 $a+b>c$；同压下升温使 $\\alpha(\\mathrm A)$ 增大，说明正反应吸热。原文第二幅图中，升温使 $\\alpha(\\mathrm A)$ 降低，得 $\\Delta H<0$；若 $a+b>c$，由曲线从上到下排列得 $p_1>p_2>p_3$。",
+      "title": "由恒温、恒压比较判断反应特征",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-290a4901c6145abf3ba2"
+      ],
+      "text": "对于不同温度下反应相同时间后测得的含量—温度图像，原图中反应物 $\\mathrm A\\%$ 先降后升，生成物 $\\mathrm C\\%$ 先升后降，极值点为 $\\mathrm M$。$\\mathrm M$ 前温度较低、速率较慢，尚未达到平衡，升温使速率加快，$\\mathrm A\\%$ 减小、$\\mathrm C\\%$ 增大；$\\mathrm M$ 点恰好达到平衡；$\\mathrm M$ 后升温使平衡逆移，$\\mathrm A\\%$ 增大、$\\mathrm C\\%$ 减小，故该图所示反应 $\\Delta H<0$。",
+      "title": "相同反应时间的含量—温度图像分段分析",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-290a4901c6145abf3ba2"
+      ],
+      "text": "分析图像前明确变化量是平衡量还是非平衡量，并区分变化由平衡移动引起还是由反应速率改变引起，两者不可混淆。",
+      "title": "区分平衡移动与反应速率改变",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-5436fd8074bc261862c6"
+      ],
+      "text": "在同一压强或温度下，将非平衡点的反应物含量与平衡曲线上的对应值比较，判断达到平衡所需的反应方向，再判断正、逆反应速率的大小关系。应按原图纵坐标为反应物 $\\mathrm A\\%$ 的条件分析。",
+      "title": "平衡曲线外非平衡点的分析",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m9",
+      "source_node_ids": [
+        "n-ef4c450cf4c294c770da",
+        "n-4559dc0d531689b0ddbd"
+      ],
+      "text": "分析两个因变量与同一自变量的图像时，先确认每条曲线对应的纵坐标；分析一条曲线时，忽略另一纵坐标和其他曲线，将复合图像分离为单一因变量图像。",
+      "title": "双纵坐标图像的分离分析",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m10",
+      "source_node_ids": [
+        "n-ef4c450cf4c294c770da"
+      ],
+      "text": "分离分析催化效率—温度曲线和生成速率—温度曲线，再结合两者变化判断影响因素。原图中催化剂在 $250\\ ^\\circ\\mathrm C$ 左右活性最强，生成速率在 $250\\ ^\\circ\\mathrm C$ 和 $400\\ ^\\circ\\mathrm C$ 左右达到两个较大值；原文据此指出，前者受催化剂影响较大，后者受温度影响较大。上述温度仅适用于所给图像。",
+      "title": "结合催化效率与生成速率曲线分析温度影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m11",
+      "source_node_ids": [
+        "n-4559dc0d531689b0ddbd"
+      ],
+      "text": "同一体系存在两个或多个竞争反应时，除分别分析各因变量曲线外，还需结合不同反应的 $\\Delta n_{\\mathrm g}$、$\\Delta H$ 判断可能存在的副反应；同时辨明纵坐标表示转化率、产率还是选择性。",
+      "title": "竞争反应复合图像的分析",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m12",
+      "source_node_ids": [
+        "n-4559dc0d531689b0ddbd"
+      ],
+      "text": "原文体系含反应① $\\mathrm{CO_2(g)+3H_2(g)\\rightleftharpoons CH_3OH(g)+H_2O(g)}$，$\\Delta H_1<0$；反应② $\\mathrm{CO_2(g)+H_2(g)\\rightleftharpoons CO(g)+H_2O(g)}$，$\\Delta H_2>0$。升温使反应①平衡逆移、反应②平衡正移，因此 $\\mathrm{CH_3OH}$ 的平衡选择性降低。",
+      "title": "结合竞争反应的热效应分析平衡选择性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m13",
+      "source_node_ids": [
+        "n-4559dc0d531689b0ddbd"
+      ],
+      "text": "在原文两个反应同时存在的体系中，升温使生成甲醇的反应①平衡逆移、生成一氧化碳的反应②平衡正移，而图中 $\\mathrm{CO_2}$ 平衡转化率不断升高，据此判断升温时反应②对 $\\mathrm{CO_2}$ 平衡转化率的影响更大。",
+      "title": "由总转化率趋势判断竞争反应影响的相对大小",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-1b29a8babc61fc265af4",
+        "n-4559dc0d531689b0ddbd"
+      ],
+      "from": "c1",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5436fd8074bc261862c6"
+      ],
+      "from": "c3",
+      "to": "m8",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5436fd8074bc261862c6"
+      ],
+      "from": "l9",
+      "to": "m8",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-80dd68ec6e92c864a87a"
+      ],
+      "from": "m2",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-80dd68ec6e92c864a87a"
+      ],
+      "from": "m2",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-80dd68ec6e92c864a87a"
+      ],
+      "from": "m2",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-80dd68ec6e92c864a87a"
+      ],
+      "from": "m2",
+      "to": "l4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-790bb19e20b50afbdb78"
+      ],
+      "from": "m3",
+      "to": "l5",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-790bb19e20b50afbdb78"
+      ],
+      "from": "m3",
+      "to": "l6",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-790bb19e20b50afbdb78"
+      ],
+      "from": "m3",
+      "to": "l7",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-790bb19e20b50afbdb78"
+      ],
+      "from": "m3",
+      "to": "l8",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e144848f032c78097766"
+      ],
+      "from": "m5",
+      "to": "m4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-290a4901c6145abf3ba2"
+      ],
+      "from": "m6",
+      "to": "m7",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ef4c450cf4c294c770da",
+        "n-4559dc0d531689b0ddbd"
+      ],
+      "from": "m9",
+      "to": "c4",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ef4c450cf4c294c770da"
+      ],
+      "from": "m10",
+      "to": "m9",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4559dc0d531689b0ddbd"
+      ],
+      "from": "m11",
+      "to": "m9",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4559dc0d531689b0ddbd"
+      ],
+      "from": "m11",
+      "to": "m12",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4559dc0d531689b0ddbd"
+      ],
+      "from": "m11",
+      "to": "m13",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4559dc0d531689b0ddbd"
+      ],
+      "from": "c1",
+      "to": "m12",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1b29a8babc61fc265af4"
+      ],
+      "from": "n-1b29a8babc61fc265af4",
+      "to": "c2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b20dc409512c8ceca951",
+        "n-80dd68ec6e92c864a87a"
+      ],
+      "from": "n-b20dc409512c8ceca951",
+      "to": "m2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1b29a8babc61fc265af4",
+        "n-4559dc0d531689b0ddbd"
+      ],
+      "from": "n-1b29a8babc61fc265af4",
+      "to": "m11",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-79fc5a4df50186105c5a",
+  "source_digest": "649e45225dc71830f85f0d6278197aeb5e478a54a63c50bbca96d88c2498aec5",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

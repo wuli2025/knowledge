@@ -1,0 +1,788 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-841dd144b881768feb8f"
+      ],
+      "text": "化合物分为电解质和非电解质，分类依据是在水溶液中或熔融状态下能否导电；自身电离而导电的化合物才是电解质。单质和混合物既不是电解质也不是非电解质，如 $\\mathrm{Cu}$、$\\mathrm{NaCl}$ 溶液。",
+      "title": "电解质与非电解质的分类范围",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-841dd144b881768feb8f"
+      ],
+      "text": "强电解质在水溶液中完全电离，包括强酸、强碱、大部分盐。强、弱电解质的本质区别是水溶液中的电离程度，与溶解度无关，如 $\\mathrm{BaSO_4}$ 难溶于水但属于强电解质。",
+      "title": "强电解质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-841dd144b881768feb8f"
+      ],
+      "text": "弱电解质在水溶液中部分电离，包括弱酸、弱碱、水及极少数盐，如乙酸铅、氯化汞。弱电解质也可以易溶于水，如 $\\mathrm{CH_3COOH}$。",
+      "title": "弱电解质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-841dd144b881768feb8f"
+      ],
+      "text": "有些化合物的水溶液能导电，但导电离子不是该化合物自身电离产生的，这些化合物属于非电解质，如 $\\mathrm{SO_2}$、$\\mathrm{CO_2}$、$\\mathrm{NH_3}$。",
+      "title": "非电解质溶于水后的导电现象",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-b66135c79a55aafeae8c"
+      ],
+      "text": "离子反应是在溶液中有离子参加的化学反应。",
+      "title": "离子反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-fa1293b37dd8ef36608f"
+      ],
+      "text": "离子反应包括非氧化还原反应和氧化还原反应。非氧化还原反应通常为复分解反应，原文列出的情形有生成沉淀（如 $\\mathrm{BaSO_4}$、$\\mathrm{CaCO_3}$、$\\mathrm{CuS}$）、生成气体（如 $\\mathrm{CO_2}$、$\\mathrm{SO_2}$、$\\mathrm{NH_3}$）、生成弱电解质（弱酸、弱碱、水等）及生成配合物［如 $\\mathrm{Fe(SCN)_3}$］。氧化还原反应示例：$\\mathrm{2Fe^{3+}+2I^-=2Fe^{2+}+I_2}$。",
+      "title": "离子反应的类型",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-841dd144b881768feb8f"
+      ],
+      "text": "电解质不一定能导电，如固态 $\\mathrm{NaCl}$、液态 $\\mathrm{HCl}$；能导电的物质不一定是电解质，如铁、稀盐酸。",
+      "title": "电解质类别与实际导电性的区别",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-c15dcf9bf0873dd892dd"
+      ],
+      "text": "在水溶液中，强酸的酸式盐中酸式酸根离子完全电离，弱酸的酸式盐中酸式酸根离子不完全电离。例如：$\\mathrm{NaHSO_4=Na^++H^++SO_4^{2-}}$；$\\mathrm{NaHCO_3=Na^++HCO_3^-}$，$\\mathrm{HCO_3^-\\rightleftharpoons H^++CO_3^{2-}}$。在熔融状态时：$\\mathrm{NaHSO_4=Na^++HSO_4^-}$。",
+      "title": "酸式盐的电离与状态条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-81d4429d9426e5460792"
+      ],
+      "text": "无色溶液中，$\\mathrm{Fe^{3+}}$、$\\mathrm{Fe^{2+}}$、$\\mathrm{Cu^{2+}}$、$\\mathrm{MnO_4^-}$ 等有色离子不能大量存在。“透明”不等于“无色”。",
+      "title": "无色条件对离子存在的限制",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-81d4429d9426e5460792"
+      ],
+      "text": "“$\\mathrm{H^++NO_3^-}$”组合具有强氧化性，具有还原性的离子如 $\\mathrm{Fe^{2+}}$、$\\mathrm{I^-}$、$\\mathrm{S^{2-}}$、$\\mathrm{SO_3^{2-}}$ 等不能大量存在。$\\mathrm{ClO^-}$ 在酸性、中性和碱性环境中都具有较强的氧化性。",
+      "title": "离子共存中的氧化性条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-81d4429d9426e5460792"
+      ],
+      "text": "$\\mathrm{S^{2-}}$ 和 $\\mathrm{SO_3^{2-}}$ 在碱性环境中可以大量共存，在酸性环境中因发生归中反应而不能大量共存。$\\mathrm{Cl^-}$ 和 $\\mathrm{ClO^-}$ 也存在类似情况。",
+      "title": "酸碱环境对归中反应与共存的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-d90d78fe3982db794e9e"
+      ],
+      "text": "判断离子共存时，应考虑相互促进且程度较大的水解反应。原文列举：$\\mathrm{Al^{3+}}$ 与 $\\mathrm{CO_3^{2-}}$、$\\mathrm{HCO_3^-}$、$\\mathrm{SO_3^{2-}}$、$\\mathrm{HSO_3^-}$、$\\mathrm{S^{2-}}$、$\\mathrm{HS^-}$、$\\mathrm{[Al(OH)_4]^-}$、$\\mathrm{SiO_3^{2-}}$ 等；$\\mathrm{Fe^{3+}}$ 与 $\\mathrm{CO_3^{2-}}$、$\\mathrm{HCO_3^-}$、$\\mathrm{[Al(OH)_4]^-}$、$\\mathrm{SiO_3^{2-}}$ 等。$\\mathrm{NH_4^+}$ 与 $\\mathrm{CH_3COO^-}$ 虽能相互促进水解，但水解程度仍较小，可以在溶液中大量共存。",
+      "title": "相互促进水解对离子共存的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-b942c4287f0655fda36b"
+      ],
+      "text": "酸性溶液的常见信息：使甲基橙变红；$\\dfrac{c(\\mathrm{H^+})}{c(\\mathrm{OH^-})}>1$；常温下 $\\dfrac{K_{\\mathrm{W}}}{c(\\mathrm{H^+})}<1\\times10^{-7}\\ \\mathrm{mol/L}$、$\\dfrac{K_{\\mathrm{W}}}{c(\\mathrm{OH^-})}>1\\times10^{-7}\\ \\mathrm{mol/L}$。",
+      "title": "酸性溶液的判定信息",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-b942c4287f0655fda36b"
+      ],
+      "text": "碱性溶液的常见信息：使酚酞变红；$\\dfrac{c(\\mathrm{H^+})}{c(\\mathrm{OH^-})}<1$；常温下 $\\dfrac{K_{\\mathrm{W}}}{c(\\mathrm{H^+})}>1\\times10^{-7}\\ \\mathrm{mol/L}$、$\\dfrac{K_{\\mathrm{W}}}{c(\\mathrm{OH^-})}<1\\times10^{-7}\\ \\mathrm{mol/L}$。",
+      "title": "碱性溶液的判定信息",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-b942c4287f0655fda36b"
+      ],
+      "text": "原文归入“酸性或碱性溶液”的信息：常温下由水电离出的 $c(\\mathrm{H^+})<1\\times10^{-7}\\ \\mathrm{mol/L}$；与 $\\mathrm{Al}$ 反应能放出 $\\mathrm{H_2}$（若为酸性溶液，则不含有 $\\mathrm{NO_3^-}$）；与 $\\mathrm{NH_4HCO_3}$ 反应能产生气体；使甲基橙变黄。【待核对】原文将“使甲基橙变黄”归入该类，其判定范围待核对。",
+      "title": "酸碱性不能直接唯一确定的条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-06aee3462317a12cfe0f"
+      ],
+      "text": "溶液呈电中性，一定既有阳离子，又有阴离子，且正、负电荷总数相等。可利用这一原则确定一些隐含的离子。",
+      "title": "溶液的电中性原则",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l11",
+      "source_node_ids": [
+        "n-36c256cbacd478aa5c95",
+        "n-2d5e1df9ac2a8f64a925"
+      ],
+      "text": "离子方程式两边的原子个数、电荷数均应相等；涉及氧化还原反应时还应遵循得失电子守恒。原文示例：$\\mathrm{2Fe^{3+}+Cu=2Fe^{2+}+Cu^{2+}}$。",
+      "title": "离子方程式的守恒要求",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l12",
+      "source_node_ids": [
+        "n-307b83dbc38bc27c4f44"
+      ],
+      "text": "可溶性多元弱酸与强碱反应时，反应物用量影响反应阶段。以 $\\mathrm{H_2S}$ 与 $\\mathrm{NaOH}$ 溶液反应为例：$\\mathrm{NaOH}$ 不足时，$\\mathrm{H_2S+OH^-=HS^-+H_2O}$；$\\mathrm{NaOH}$ 过量时继续发生 $\\mathrm{HS^-+OH^-=S^{2-}+H_2O}$，总反应为 $\\mathrm{H_2S+2OH^-=S^{2-}+2H_2O}$。",
+      "title": "可溶性多元弱酸与强碱的连续反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l13",
+      "source_node_ids": [
+        "n-307b83dbc38bc27c4f44"
+      ],
+      "text": "以 $\\mathrm{CO_2}$ 与 $\\mathrm{NaOH}$ 溶液反应为例：$\\mathrm{CO_2}$ 不足时，$\\mathrm{CO_2+2OH^-=CO_3^{2-}+H_2O}$；$\\mathrm{CO_2}$ 过量时继续发生 $\\mathrm{CO_2+CO_3^{2-}+H_2O=2HCO_3^-}$，总反应为 $\\mathrm{CO_2+OH^-=HCO_3^-}$。",
+      "title": "酸性氧化物与强碱的连续反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l14",
+      "source_node_ids": [
+        "n-307b83dbc38bc27c4f44"
+      ],
+      "text": "以 $\\mathrm{Na_2CO_3}$ 溶液与盐酸反应为例：盐酸不足时，$\\mathrm{CO_3^{2-}+H^+=HCO_3^-}$；盐酸过量时继续发生 $\\mathrm{HCO_3^-+H^+=CO_2\\uparrow+H_2O}$，总反应为 $\\mathrm{CO_3^{2-}+2H^+=CO_2\\uparrow+H_2O}$。",
+      "title": "多元弱酸盐与强酸的连续反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l15",
+      "source_node_ids": [
+        "n-307b83dbc38bc27c4f44"
+      ],
+      "text": "以 $\\mathrm{AlCl_3}$ 溶液与 $\\mathrm{NaOH}$ 溶液反应为例：$\\mathrm{NaOH}$ 不足时，$\\mathrm{Al^{3+}+3OH^-=Al(OH)_3\\downarrow}$；$\\mathrm{NaOH}$ 过量时继续发生 $\\mathrm{Al(OH)_3+OH^-=[Al(OH)_4]^-}$，总反应为 $\\mathrm{Al^{3+}+4OH^-=[Al(OH)_4]^-}$。",
+      "title": "铝盐与强碱的连续反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l16",
+      "source_node_ids": [
+        "n-307b83dbc38bc27c4f44"
+      ],
+      "text": "以 $\\mathrm{Na[Al(OH)_4]}$ 溶液与盐酸反应为例：盐酸不足时，$\\mathrm{[Al(OH)_4]^-+H^+=Al(OH)_3\\downarrow+H_2O}$；盐酸过量时继续发生 $\\mathrm{Al(OH)_3+3H^+=Al^{3+}+3H_2O}$，总反应为 $\\mathrm{[Al(OH)_4]^-+4H^+=Al^{3+}+4H_2O}$。",
+      "title": "四羟基合铝酸根与强酸的连续反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l17",
+      "source_node_ids": [
+        "n-307b83dbc38bc27c4f44"
+      ],
+      "text": "$\\mathrm{Na[Al(OH)_4]}$ 溶液与 $\\mathrm{CO_2}$ 反应，$\\mathrm{CO_2}$ 不足时为 $\\mathrm{2[Al(OH)_4]^-+CO_2=2Al(OH)_3\\downarrow+CO_3^{2-}+H_2O}$；$\\mathrm{CO_2}$ 过量时继续发生 $\\mathrm{CO_2+CO_3^{2-}+H_2O=2HCO_3^-}$，总反应为 $\\mathrm{[Al(OH)_4]^-+CO_2=Al(OH)_3\\downarrow+HCO_3^-}$。",
+      "title": "四羟基合铝酸根与二氧化碳的连续反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l18",
+      "source_node_ids": [
+        "n-307b83dbc38bc27c4f44"
+      ],
+      "text": "$\\mathrm{Fe}$ 与稀硝酸反应，$\\mathrm{Fe}$ 不足时为 $\\mathrm{Fe+NO_3^-+4H^+=Fe^{3+}+NO\\uparrow+2H_2O}$；$\\mathrm{Fe}$ 过量时继续发生 $\\mathrm{2Fe^{3+}+Fe=3Fe^{2+}}$，总反应为 $\\mathrm{3Fe+2NO_3^-+8H^+=3Fe^{2+}+2NO\\uparrow+4H_2O}$。",
+      "title": "铁与稀硝酸的连续反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l19",
+      "source_node_ids": [
+        "n-307b83dbc38bc27c4f44"
+      ],
+      "text": "向含有 $\\mathrm{Cu^{2+}}$ 或 $\\mathrm{Ag^+}$ 的溶液中加入氨水，原文表述为：氨水不足时生成 $\\mathrm{Cu(OH)_2}$ 或 $\\mathrm{AgOH}$ 沉淀，氨水过量时生成 $\\mathrm{[Cu(NH_3)_4]^{2+}}$ 或 $\\mathrm{[Ag(NH_3)_2]^+}$。【待核对】原文中银的沉淀写作 $\\mathrm{AgOH}$，保留原式。",
+      "title": "氨水用量对铜、银离子反应产物的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l20",
+      "source_node_ids": [
+        "n-8c19ead7451186c3674c"
+      ],
+      "text": "向含有 $\\mathrm{H^+}$、$\\mathrm{NH_4^+}$、$\\mathrm{Al^{3+}}$ 的溶液中逐滴加入 $\\mathrm{NaOH}$ 溶液时，$\\mathrm{OH^-}$ 依次与 $\\mathrm{H^+}$、$\\mathrm{Al^{3+}}$、$\\mathrm{NH_4^+}$、$\\mathrm{Al(OH)_3}$ 反应。相应方程式为 $\\mathrm{H^++OH^-=H_2O}$、$\\mathrm{Al^{3+}+3OH^-=Al(OH)_3\\downarrow}$、$\\mathrm{NH_4^++OH^-=NH_3\\cdot H_2O}$、$\\mathrm{Al(OH)_3+OH^-=[Al(OH)_4]^-}$。",
+      "title": "复分解竞争反应的顺序示例",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l21",
+      "source_node_ids": [
+        "n-8c19ead7451186c3674c",
+        "n-2d5e1df9ac2a8f64a925"
+      ],
+      "text": "向 $\\mathrm{FeBr_2}$ 溶液中通入 $\\mathrm{Cl_2}$，$\\mathrm{Cl_2}$ 先与 $\\mathrm{Fe^{2+}}$ 反应，后与 $\\mathrm{Br^-}$ 反应。通入少量 $\\mathrm{Cl_2}$ 时为 $\\mathrm{2Fe^{2+}+Cl_2=2Fe^{3+}+2Cl^-}$；通入过量 $\\mathrm{Cl_2}$ 时为 $\\mathrm{2Fe^{2+}+4Br^-+3Cl_2=2Fe^{3+}+2Br_2+6Cl^-}$。",
+      "title": "氯气与溴化亚铁反应的顺序和用量关系",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-c15dcf9bf0873dd892dd"
+      ],
+      "text": "强电解质的电离用“$=$”连接，弱电解质的电离用“$\\rightleftharpoons$”连接。多元弱酸分步电离分步写，如 $\\mathrm{H_2CO_3\\rightleftharpoons H^++HCO_3^-}$（主）、$\\mathrm{HCO_3^-\\rightleftharpoons H^++CO_3^{2-}}$（次）；多元弱碱分步电离一步写，如 $\\mathrm{Fe(OH)_3\\rightleftharpoons Fe^{3+}+3OH^-}$。",
+      "title": "电离方程式的符号与分步书写",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-81d4429d9426e5460792"
+      ],
+      "text": "先看题干要求，区分“一定能大量共存”“可能大量共存”“不能大量共存”“因发生氧化还原反应而不能大量共存”。再看附加条件，包括溶液颜色、酸碱性、氧化性、还原性和指定存在的离子。例如强酸性溶液中，能与 $\\mathrm{H^+}$ 反应的离子不能大量存在；含有 $\\mathrm{Fe^{3+}}$ 的溶液中，能与 $\\mathrm{Fe^{3+}}$ 反应的离子不能大量存在。",
+      "title": "离子共存判断：审查题给及隐含条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-d90d78fe3982db794e9e"
+      ],
+      "text": "检查所给离子之间是否发生复分解反应、氧化还原反应、配合反应或相互促进且程度较大的水解反应。复分解反应示例：$\\mathrm{Ba^{2+}}$ 与 $\\mathrm{SO_4^{2-}}$，$\\mathrm{NH_4^+}$ 与 $\\mathrm{OH^-}$，$\\mathrm{H^+}$ 与 $\\mathrm{CH_3COO^-}$；氧化还原反应示例：$\\mathrm{Fe^{3+}}$ 与 $\\mathrm{I^-}$、$\\mathrm{S^{2-}}$，$\\mathrm{NO_3^-}$（$\\mathrm{H^+}$）与 $\\mathrm{Fe^{2+}}$；配合反应示例：$\\mathrm{Fe^{3+}}$ 与 $\\mathrm{SCN^-}$。",
+      "title": "离子共存判断：检查离子间反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-06aee3462317a12cfe0f"
+      ],
+      "text": "根据实验现象，推出溶液中肯定存在或肯定不存在的离子。",
+      "title": "离子推断的肯定性原则",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-06aee3462317a12cfe0f"
+      ],
+      "text": "在肯定某些离子存在的同时，结合离子共存规律否定一些离子的存在。注意酸性、碱性、指示剂颜色变化、与铝反应产生氢气、水的电离情况等隐含条件。",
+      "title": "离子推断的互斥性原则",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-06aee3462317a12cfe0f"
+      ],
+      "text": "注意实验过程中反应生成的离子或引入的离子对后续实验的干扰。",
+      "title": "离子推断的进出性原则",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-1305a070b2c79522b58b"
+      ],
+      "text": "按“写、拆、删、查”进行。写：根据客观事实写出正确化学方程式，如 $\\mathrm{CaCO_3+2HCl=CaCl_2+H_2O+CO_2\\uparrow}$。拆：将易溶且易（完全）电离的物质写成离子形式，得到 $\\mathrm{CaCO_3+2H^++2Cl^-=Ca^{2+}+2Cl^-+H_2O+CO_2\\uparrow}$。删：删去两边不参加反应的离子，得到 $\\mathrm{CaCO_3+2H^+=Ca^{2+}+H_2O+CO_2\\uparrow}$。查：检查原子守恒和电荷守恒。",
+      "title": "离子方程式的四步书写法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-36c256cbacd478aa5c95"
+      ],
+      "text": "“两易”：易溶且易（完全）电离的物质，包括强酸、强碱、大多数可溶性盐，拆成离子，其他物质用化学式表示。“两等”：两边原子个数、电荷数均相等。“两查”：检查化学计量数是否约到最简，是否漏写必要的反应条件。微溶物处于溶液状态时拆成离子形式，处于浊液或沉淀状态时写化学式。",
+      "title": "离子方程式书写的“两易、两等、两查”",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m9",
+      "source_node_ids": [
+        "n-38c4ca881b2a047d4abe"
+      ],
+      "text": "根据相对量，将少量物质定为 $1\\ \\mathrm{mol}$。若少量物质有两种或两种以上离子参加反应，参加反应的离子的物质的量之比应与物质组成之比相符。例如向 $\\mathrm{Ca(HCO_3)_2}$ 溶液中加入过量 $\\mathrm{NaOH}$ 溶液：确定少量物质为 $\\mathrm{Ca(HCO_3)_2}$，拆成 $\\mathrm{Ca^{2+}+2HCO_3^-}$，配置使 $\\mathrm{2HCO_3^-}$ 充分反应所需的 $\\mathrm{2OH^-}$，写成 $\\mathrm{Ca^{2+}+2HCO_3^-+2OH^-=CaCO_3\\downarrow+CO_3^{2-}+2H_2O}$。",
+      "title": "物质配比型反应的少量物质定量法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m10",
+      "source_node_ids": [
+        "n-8c19ead7451186c3674c"
+      ],
+      "text": "当溶液中存在多个可能发生且有先后顺序的反应时，结合反应物的量，按反应先后顺序书写离子方程式。顺序不明确时，先假设反应顺序；若生成物不和其他物质反应，则假设正确，否则调整顺序。原文以 $\\mathrm{Cl_2}$ 与 $\\mathrm{FeBr_2}$ 反应为例：若假设先与 $\\mathrm{Br^-}$ 反应，生成的 $\\mathrm{Br_2}$ 会将 $\\mathrm{Fe^{2+}}$ 氧化为 $\\mathrm{Fe^{3+}}$，据此确定应先与 $\\mathrm{Fe^{2+}}$ 反应。",
+      "title": "竞争型反应的顺序假设检验法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m11",
+      "source_node_ids": [
+        "n-2d5e1df9ac2a8f64a925"
+      ],
+      "text": "判断离子方程式是否符合客观事实，以及化学式拆写是否正确。原文示例：$\\mathrm{Fe}$ 与盐酸反应应写为 $\\mathrm{Fe+2H^+=Fe^{2+}+H_2\\uparrow}$；$\\mathrm{CaCO_3}$ 与盐酸反应应写为 $\\mathrm{CaCO_3+2H^+=Ca^{2+}+CO_2\\uparrow+H_2O}$。",
+      "title": "离子方程式正误判断：事实与拆写",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m12",
+      "source_node_ids": [
+        "n-2d5e1df9ac2a8f64a925"
+      ],
+      "text": "检查“$=$”“$\\rightleftharpoons$”“$\\downarrow$”“$\\uparrow$”等符号是否正确使用。原文中明矾净水原理的表达式为 $\\mathrm{Al^{3+}+3H_2O}\\rightleftharpoons\\mathrm{Al(OH)_3}\\text{（胶体）}+\\mathrm{3H^+}$。",
+      "title": "离子方程式正误判断：符号",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m13",
+      "source_node_ids": [
+        "n-2d5e1df9ac2a8f64a925"
+      ],
+      "text": "检查是否漏掉离子反应。例如 $\\mathrm{CuSO_4}$ 溶液与 $\\mathrm{Ba(OH)_2}$ 溶液反应，应写为 $\\mathrm{Cu^{2+}+SO_4^{2-}+Ba^{2+}+2OH^-=Cu(OH)_2\\downarrow+BaSO_4\\downarrow}$。",
+      "title": "离子方程式正误判断：反应完整性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m14",
+      "source_node_ids": [
+        "n-2d5e1df9ac2a8f64a925"
+      ],
+      "text": "检查原子守恒、电荷守恒、得失电子守恒以及反应物和产物的配比。原文示例：$\\mathrm{2Fe^{3+}+Cu=2Fe^{2+}+Cu^{2+}}$；稀硫酸与 $\\mathrm{Ba(OH)_2}$ 溶液反应应写为 $\\mathrm{2H^++2OH^-+Ba^{2+}+SO_4^{2-}=2H_2O+BaSO_4\\downarrow}$。",
+      "title": "离子方程式正误判断：守恒与配比",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m15",
+      "source_node_ids": [
+        "n-2d5e1df9ac2a8f64a925"
+      ],
+      "text": "检查离子方程式是否符合过量、少量、等物质的量、具体比例、适量及滴加顺序等条件；还需注意酸性溶液、碱性溶液、熔融状态等反应环境。",
+      "title": "离子方程式正误判断：题设条件与环境",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-841dd144b881768feb8f"
+      ],
+      "from": "c1",
+      "to": "c2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-841dd144b881768feb8f"
+      ],
+      "from": "c1",
+      "to": "c3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-841dd144b881768feb8f"
+      ],
+      "from": "c1",
+      "to": "c4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-841dd144b881768feb8f"
+      ],
+      "from": "c1",
+      "to": "l1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c15dcf9bf0873dd892dd"
+      ],
+      "from": "c2",
+      "to": "m1",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c15dcf9bf0873dd892dd"
+      ],
+      "from": "c3",
+      "to": "m1",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c15dcf9bf0873dd892dd"
+      ],
+      "from": "m1",
+      "to": "l2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b66135c79a55aafeae8c",
+        "n-fa1293b37dd8ef36608f"
+      ],
+      "from": "c5",
+      "to": "c6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-81d4429d9426e5460792"
+      ],
+      "from": "m2",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-81d4429d9426e5460792"
+      ],
+      "from": "m2",
+      "to": "l4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-81d4429d9426e5460792"
+      ],
+      "from": "m2",
+      "to": "l5",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d90d78fe3982db794e9e"
+      ],
+      "from": "m3",
+      "to": "l6",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-81d4429d9426e5460792",
+        "n-b942c4287f0655fda36b"
+      ],
+      "from": "m2",
+      "to": "l7",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-81d4429d9426e5460792",
+        "n-b942c4287f0655fda36b"
+      ],
+      "from": "m2",
+      "to": "l8",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-81d4429d9426e5460792",
+        "n-b942c4287f0655fda36b"
+      ],
+      "from": "m2",
+      "to": "l9",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-06aee3462317a12cfe0f"
+      ],
+      "from": "n-06aee3462317a12cfe0f",
+      "to": "m4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-06aee3462317a12cfe0f"
+      ],
+      "from": "n-06aee3462317a12cfe0f",
+      "to": "m5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-06aee3462317a12cfe0f"
+      ],
+      "from": "n-06aee3462317a12cfe0f",
+      "to": "l10",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-06aee3462317a12cfe0f"
+      ],
+      "from": "n-06aee3462317a12cfe0f",
+      "to": "m6",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-06aee3462317a12cfe0f",
+        "n-81d4429d9426e5460792"
+      ],
+      "from": "m5",
+      "to": "m2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-06aee3462317a12cfe0f",
+        "n-d90d78fe3982db794e9e"
+      ],
+      "from": "m5",
+      "to": "m3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1305a070b2c79522b58b",
+        "n-36c256cbacd478aa5c95"
+      ],
+      "from": "m7",
+      "to": "m8",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1305a070b2c79522b58b",
+        "n-36c256cbacd478aa5c95"
+      ],
+      "from": "m7",
+      "to": "l11",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-307b83dbc38bc27c4f44"
+      ],
+      "from": "n-307b83dbc38bc27c4f44",
+      "to": "l12",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-307b83dbc38bc27c4f44"
+      ],
+      "from": "n-307b83dbc38bc27c4f44",
+      "to": "l13",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-307b83dbc38bc27c4f44"
+      ],
+      "from": "n-307b83dbc38bc27c4f44",
+      "to": "l14",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-307b83dbc38bc27c4f44"
+      ],
+      "from": "n-307b83dbc38bc27c4f44",
+      "to": "l15",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-307b83dbc38bc27c4f44"
+      ],
+      "from": "n-307b83dbc38bc27c4f44",
+      "to": "l16",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-307b83dbc38bc27c4f44"
+      ],
+      "from": "n-307b83dbc38bc27c4f44",
+      "to": "l17",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-307b83dbc38bc27c4f44"
+      ],
+      "from": "n-307b83dbc38bc27c4f44",
+      "to": "l18",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-307b83dbc38bc27c4f44"
+      ],
+      "from": "n-307b83dbc38bc27c4f44",
+      "to": "l19",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8c19ead7451186c3674c"
+      ],
+      "from": "m10",
+      "to": "l20",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8c19ead7451186c3674c",
+        "n-2d5e1df9ac2a8f64a925"
+      ],
+      "from": "m10",
+      "to": "l21",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2d5e1df9ac2a8f64a925"
+      ],
+      "from": "m14",
+      "to": "l11",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2d5e1df9ac2a8f64a925"
+      ],
+      "from": "m15",
+      "to": "l21",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8449fc5bd4abface1ef5",
+        "n-841dd144b881768feb8f"
+      ],
+      "from": "n-8449fc5bd4abface1ef5",
+      "to": "c1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8449fc5bd4abface1ef5",
+        "n-841dd144b881768feb8f"
+      ],
+      "from": "n-8449fc5bd4abface1ef5",
+      "to": "c4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-57f97642fabc43cae938",
+        "n-d90d78fe3982db794e9e"
+      ],
+      "from": "n-57f97642fabc43cae938",
+      "to": "m3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8a96f28acf05349f7d86",
+        "n-81d4429d9426e5460792"
+      ],
+      "from": "n-8a96f28acf05349f7d86",
+      "to": "m2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-8a96f28acf05349f7d86",
+        "n-b942c4287f0655fda36b"
+      ],
+      "from": "n-8a96f28acf05349f7d86",
+      "to": "l9",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a8bab3c4eafd053ccb1c",
+        "n-2d5e1df9ac2a8f64a925"
+      ],
+      "from": "n-a8bab3c4eafd053ccb1c",
+      "to": "m11",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a8bab3c4eafd053ccb1c",
+        "n-2d5e1df9ac2a8f64a925"
+      ],
+      "from": "n-a8bab3c4eafd053ccb1c",
+      "to": "m13",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-fcdd6265b327033f5dc0",
+  "source_digest": "e9ce11161bf2c140a8e12e339ec37085f47a26ca441bcc38e4317d5117ad9aaf",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

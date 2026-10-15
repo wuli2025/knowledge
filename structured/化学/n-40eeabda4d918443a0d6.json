@@ -1,0 +1,798 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-36f58b3195ed926341ba"
+      ],
+      "text": "有 $\\alpha$—$\\mathrm{H}$ 的醛在稀碱溶液中能和另一分子醛发生加成反应，生成 $\\beta$—羟基醛，称为羟醛缩合反应。",
+      "title": "羟醛缩合反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-36f58b3195ed926341ba"
+      ],
+      "text": "$1,3$—丁二烯与乙烯在加热条件下发生环加成反应得到环己烯，是双烯合成反应的实例。",
+      "title": "双烯合成反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-36f58b3195ed926341ba"
+      ],
+      "text": "酯交换反应也称酯的醇解，原文通式为 $\\mathrm{R_1COOR_2+R_3OH}\\longrightarrow\\mathrm{R_1COOR_3+R_2OH}$。",
+      "title": "酯交换反应",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-f3d30ebf24ec539ab85f"
+      ],
+      "text": "烃和卤素单质发生取代反应时，取代 $1\\ \\mathrm{mol}$ 氢原子，消耗 $1\\ \\mathrm{mol}$ 卤素单质。",
+      "title": "烃卤代的数量关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-f3d30ebf24ec539ab85f"
+      ],
+      "text": "碳碳双键与 $\\mathrm{H_2}$、$\\mathrm{Br_2}$、$\\mathrm{HCl}$、$\\mathrm{H_2O}$ 等按物质的量之比 $1:1$ 加成。",
+      "title": "碳碳双键加成的数量关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-f3d30ebf24ec539ab85f"
+      ],
+      "text": "含 $\\mathrm{-OH}$（或 $\\mathrm{-COOH}$）的有机物与 $\\mathrm{Na}$ 反应时，$2\\ \\mathrm{mol}$ $\\mathrm{-OH}$（或 $\\mathrm{-COOH}$）对应 $1\\ \\mathrm{mol}$ $\\mathrm{H_2}$。",
+      "title": "羟基或羧基与钠反应的数量关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-f3d30ebf24ec539ab85f"
+      ],
+      "text": "银镜反应中，$1\\ \\mathrm{mol}$ $\\mathrm{-CHO}$ 对应 $2\\ \\mathrm{mol}$ $\\mathrm{Ag}$。原文另提示：$1$ 个 $\\mathrm{HCHO}$ 分子中相当于有 $2$ 个 $\\mathrm{-CHO}$；此处为反应数量关系中的等效表述。",
+      "title": "银镜反应的数量关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-f3d30ebf24ec539ab85f"
+      ],
+      "text": "醛基与新制 $\\mathrm{Cu(OH)_2}$ 反应时，$1\\ \\mathrm{mol}$ $\\mathrm{-CHO}$ 对应 $1\\ \\mathrm{mol}$ $\\mathrm{Cu_2O}$。原文另提示：$1$ 个 $\\mathrm{HCHO}$ 分子中相当于有 $2$ 个 $\\mathrm{-CHO}$；此处为反应数量关系中的等效表述。",
+      "title": "醛基与新制氢氧化铜反应的数量关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-f3d30ebf24ec539ab85f"
+      ],
+      "text": "羧基与碳酸钠反应时，$2\\ \\mathrm{mol}$ $\\mathrm{-COOH}$ 对应 $1\\ \\mathrm{mol}$ $\\mathrm{CO_2}$。",
+      "title": "羧基与碳酸钠反应的数量关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-f3d30ebf24ec539ab85f"
+      ],
+      "text": "羧基与碳酸氢钠反应时，$1\\ \\mathrm{mol}$ $\\mathrm{-COOH}$ 对应 $1\\ \\mathrm{mol}$ $\\mathrm{CO_2}$。",
+      "title": "羧基与碳酸氢钠反应的数量关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-f3d30ebf24ec539ab85f"
+      ],
+      "text": "$1\\ \\mathrm{mol}$ $\\mathrm{-CH_2OH}$ 催化氧化生成 $1\\ \\mathrm{mol}$ $\\mathrm{-CHO}$，消耗 $0.5\\ \\mathrm{mol}$ $\\mathrm{O_2}$。",
+      "title": "醇羟基催化氧化的数量关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-0569e346d373b5b946f7"
+      ],
+      "text": "醇氧化成醛或羧酸时，反应物存在“$\\mathrm{-CH_2OH}$”结构；醇催化氧化生成酮时，反应物具有 $\\mathrm{R_1-CH(OH)-R_2}$ 结构，$\\mathrm{R_1}$、$\\mathrm{R_2}$ 不为 $\\mathrm{H}$ 原子；醇不能被催化氧化时，对应结构为 $\\mathrm{R_1-C(R_2)(R_3)-OH}$，$\\mathrm{R_1}$、$\\mathrm{R_2}$、$\\mathrm{R_3}$ 不为 $\\mathrm{H}$ 原子。",
+      "title": "醇的氧化表现与结构的对应关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-0569e346d373b5b946f7"
+      ],
+      "text": "发生消去反应生成碳碳双键的反应物结构为 $\\mathrm{R_1-C(H)(R_2)-C(R_3)(R_4)-X}$ 或 $\\mathrm{R_1-C(H)(R_2)-C(R_3)(R_4)-OH}$；$\\mathrm{R_1}$、$\\mathrm{R_2}$、$\\mathrm{R_3}$、$\\mathrm{R_4}$ 可为 $\\mathrm{H}$ 原子，$\\mathrm{X}$ 为卤素原子。",
+      "title": "生成碳碳双键的消去反应结构条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l11",
+      "source_node_ids": [
+        "n-0569e346d373b5b946f7"
+      ],
+      "text": "反应物含有一个苯环，苯环上只有两个取代基，且苯环上发生卤代反应时一卤代物只有两种：若两个取代基相同，则处于邻位；若两个取代基不同，则处于对位。",
+      "title": "苯环一卤代物有两种时的取代基位置",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l12",
+      "source_node_ids": [
+        "n-0569e346d373b5b946f7"
+      ],
+      "text": "反应物含有一个苯环，苯环上只有两个取代基，且苯环上发生卤代反应时一卤代物只有一种，则两个取代基相同且处于对位。",
+      "title": "苯环一卤代物有一种时的取代基位置",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l13",
+      "source_node_ids": [
+        "n-36f58b3195ed926341ba"
+      ],
+      "text": "卤代烃与氰化钠溶液反应后再水解可得到羧酸。例如：$\\mathrm{CH_3CH_2Br}\\xrightarrow{\\mathrm{NaCN}}\\mathrm{CH_3CH_2CN}\\xrightarrow{\\mathrm{H_3O^+}}\\mathrm{CH_3CH_2COOH}$。",
+      "title": "卤代烃经氰化物转化为羧酸",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l14",
+      "source_node_ids": [
+        "n-36f58b3195ed926341ba"
+      ],
+      "text": "烯烃先通过臭氧氧化，再经过锌与水处理得到醛或酮。例如：$\\mathrm{CH_3CH_2CH=C(CH_3)_2}\\xrightarrow[\\text{②}\\mathrm{Zn/H_2O}]{\\text{①}\\mathrm{O_3}}\\mathrm{CH_3CH_2CHO}+\\mathrm{O=C(CH_3)_2}$。烯烃被酸性 $\\mathrm{KMnO_4}$ 溶液氧化得到羧酸或酮。",
+      "title": "烯烃氧化的产物规律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l15",
+      "source_node_ids": [
+        "n-36f58b3195ed926341ba"
+      ],
+      "text": "乙醛在碱性条件下发生羟醛缩合，所得产物加热脱水：$\\mathrm{CH_3CHO+CH_3CHO}\\xrightarrow{\\mathrm{OH^-}}\\mathrm{CH_3CH(OH)CH_2CHO}\\xrightarrow[\\mathrm{-H_2O}]{\\Delta}\\mathrm{CH_3CH=CHCHO}$。",
+      "title": "乙醛羟醛缩合及脱水",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l16",
+      "source_node_ids": [
+        "n-36f58b3195ed926341ba"
+      ],
+      "text": "苯环上的硝基可被还原，原文实例为：$\\mathrm{C_6H_5NO_2}\\xrightarrow{\\mathrm{Fe/HCl}}\\mathrm{C_6H_5NH_2}$。",
+      "title": "苯环上硝基的还原",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l17",
+      "source_node_ids": [
+        "n-36f58b3195ed926341ba"
+      ],
+      "text": "醛或酮与格氏试剂（$\\mathrm{R'MgX}$）发生加成反应，所得产物经水解可得醇。原文给出的醛反应式为：$\\mathrm{R-C(=O)-H+R'MgX}\\longrightarrow\\mathrm{R-C(H)(R')-OMgX}\\xrightarrow{\\text{水解}}\\mathrm{R-C(H)(R')-OH}$。",
+      "title": "醛或酮与格氏试剂反应制醇",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l18",
+      "source_node_ids": [
+        "n-36f58b3195ed926341ba"
+      ],
+      "text": "羧酸在 $\\mathrm{SOCl_2}$ 条件下转化为酰氯：$\\mathrm{R-C(=O)-OH}\\xrightarrow{\\mathrm{SOCl_2}}\\mathrm{R-C(=O)-Cl}$。",
+      "title": "羧酸转化为酰氯",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l19",
+      "source_node_ids": [
+        "n-36f58b3195ed926341ba"
+      ],
+      "text": "苯环上的烷基化反应：$\\mathrm{C_6H_6+R-Cl}\\xrightarrow{\\mathrm{AlCl_3}}\\mathrm{C_6H_5-R+HCl}$。",
+      "title": "苯环上的烷基化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l20",
+      "source_node_ids": [
+        "n-9d9d32cf0ab061f6e891"
+      ],
+      "text": "典例给定的已知转化为：$\\mathrm{-CH(OH)-NH-}\\xrightarrow{\\mathrm{-H_2O}}\\mathrm{-CH=N-}$。",
+      "title": "典例给定的脱水成键反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l21",
+      "source_node_ids": [
+        "n-cca105dca9e60f610a64"
+      ],
+      "text": "变式题已知：环己酮与 $\\mathrm{R-NH_2}$ 反应，生成原羰基位置为 $\\mathrm{C=N-R}$ 的六元环化合物。适用描述限于题目给定的反应模型。",
+      "title": "变式题给定的环己酮与胺反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l22",
+      "source_node_ids": [
+        "n-cca105dca9e60f610a64"
+      ],
+      "text": "变式题给定的苯环与六元饱和碳环稠合结构中，苯环上的 $\\mathrm{OCH_3}$ 经 $\\mathrm{48\\%\\ HBr}$ 处理转变为 $\\mathrm{OH}$，其余结构不变。适用描述限于题目所示结构。",
+      "title": "变式题给定的甲氧基转化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l23",
+      "source_node_ids": [
+        "n-cca105dca9e60f610a64"
+      ],
+      "text": "变式题给定的反应为：$\\mathrm{R_1-NH-R_2+Br-R_3\\longrightarrow R_1-N(R_2)-R_3+HBr}$。",
+      "title": "变式题给定的胺与溴代物反应",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-d28d262a59db3de0c318"
+      ],
+      "text": "由反应条件寻找可能的反应类型：$\\mathrm{NaOH}$ 水溶液、加热对应卤代烃、酯、酰胺的水解；$\\mathrm{NaOH}$ 醇溶液、加热对应卤代烃的消去；稀硫酸、加热对应酯的水解等反应。条件需结合反应物结构使用。",
+      "title": "利用碱的溶剂和酸性条件判断水解或消去",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-d28d262a59db3de0c318"
+      ],
+      "text": "浓硫酸、加热可作为醇的消去、酯化、醇变成醚的取代以及苯环的硝化、磺化的条件线索；原文列出的条件用于提示候选反应类型。",
+      "title": "利用浓硫酸和加热条件推断反应类型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-d28d262a59db3de0c318"
+      ],
+      "text": "溴水或溴的 $\\mathrm{CCl_4}$ 溶液提示烯烃、炔烃的加成反应；$\\mathrm{H_2}$、催化剂提示烯烃、炔烃、芳香烃的加成，醛、酮还原成醇，或 $\\mathrm{-CN}$ 还原成 $\\mathrm{-CH_2NH_2}$。",
+      "title": "利用加成或加氢条件推断反应类型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-d28d262a59db3de0c318"
+      ],
+      "text": "$\\mathrm{O_2}$、$\\mathrm{Cu}$、加热提示醇的催化氧化；新制 $\\mathrm{Cu(OH)_2}$ 或银氨溶液、加热提示醛的氧化，产物为羧酸盐。",
+      "title": "利用氧化条件推断反应类型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-d28d262a59db3de0c318"
+      ],
+      "text": "光照提示烷基上的氢原子被卤素原子取代；$\\mathrm{Fe}$ 或 $\\mathrm{FeX_3}$（$\\mathrm{X}$ 为 $\\mathrm{Cl}$、$\\mathrm{Br}$）提示苯环上的氢原子被 $\\mathrm{Cl}$、$\\mathrm{Br}$ 取代；$\\mathrm{H^+}$ 提示酸化。",
+      "title": "利用光照、铁及酸化条件判断反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-e09d395010e2949619cb"
+      ],
+      "text": "能使溴的 $\\mathrm{CCl_4}$ 溶液褪色，可考虑碳碳双键、碳碳三键；能使酸性 $\\mathrm{KMnO_4}$ 溶液褪色，可考虑碳碳双键、碳碳三键、醇/酚羟基、醛基，以及与苯环直接相连的 $\\mathrm{C}$ 上有 $\\mathrm{H}$ 的苯的同系物。",
+      "title": "利用褪色性质推断官能团或物质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-e09d395010e2949619cb"
+      ],
+      "text": "能发生银镜反应，或能与新制 $\\mathrm{Cu(OH)_2}$ 反应生成砖红色沉淀，可作为醛基的推断线索；原文列举的物质包括醛、甲酸、甲酸酯、还原糖。",
+      "title": "利用银镜或砖红色沉淀推断醛基",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-e09d395010e2949619cb"
+      ],
+      "text": "能与 $\\mathrm{Na}$ 反应放出 $\\mathrm{H_2}$，可考虑醇/酚羟基、羧基；能与 $\\mathrm{NaHCO_3}$ 溶液反应放出 $\\mathrm{CO_2}$，或使石蕊溶液变红，可考虑羧基、磺酸基。",
+      "title": "利用放气反应和酸性推断官能团",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m9",
+      "source_node_ids": [
+        "n-e09d395010e2949619cb"
+      ],
+      "text": "能水解，可考虑酯基、酰胺基、碳卤键；能发生消去反应，可考虑醇羟基、碳卤键。上述性质用于提供官能团候选。",
+      "title": "利用水解或消去性质推断官能团",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m10",
+      "source_node_ids": [
+        "n-e09d395010e2949619cb"
+      ],
+      "text": "遇浓溴水产生白色沉淀，或遇 $\\mathrm{FeCl_3}$ 溶液显紫色，可作为酚羟基的推断线索。",
+      "title": "利用沉淀或显色反应推断酚羟基",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m11",
+      "source_node_ids": [
+        "n-f3d30ebf24ec539ab85f"
+      ],
+      "text": "根据有机物的性质确定所发生的反应，再利用官能团与试剂消耗量、产物生成量之间的数量关系推知官能团数目。可用的关系包括取代、双键加成、与钠反应、银镜反应、与新制氢氧化铜反应、羧基与碳酸盐反应及醇羟基催化氧化。",
+      "title": "根据性质和定量数据推知官能团数目",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m12",
+      "source_node_ids": [
+        "n-0569e346d373b5b946f7"
+      ],
+      "text": "根据醇氧化生成醛、羧酸或酮，以及醇能否被催化氧化，推断羟基所在碳原子的连接情况；根据能否消去生成碳碳双键，推断反应物中的相应局部结构。",
+      "title": "根据氧化产物和消去特点反推结构",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m13",
+      "source_node_ids": [
+        "n-0569e346d373b5b946f7"
+      ],
+      "text": "对于仅含一个苯环且苯环上只有两个取代基的反应物，结合苯环上一卤代物的种数及两个取代基是否相同，推断取代基的相对位置。",
+      "title": "根据苯环一卤代物种数推断取代位置",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m14",
+      "source_node_ids": [
+        "n-f49da89682cb7d3b1e46"
+      ],
+      "text": "有机推断的核心是推断合成路线中各有机物的结构。原料的碳骨架会在目标产物中有所体现；比较原料或中间体与目标产物的碳骨架和官能团变化，利用切割模型、官能团性质及题给信息反应的特点推断结构。",
+      "title": "比较碳骨架与官能团构建推断模型",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m15",
+      "source_node_ids": [
+        "n-be5875dbc8c12f5af09f"
+      ],
+      "text": "当官能团数量增加、位置变化或不饱和度大幅提升时，一般由卤代烃或醇先消去，再与 $\\mathrm{X_2}$ 或 $\\mathrm{HX}$ 加成，再水解或消去，实现合成目的。",
+      "title": "先消后加",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m16",
+      "source_node_ids": [
+        "n-be5875dbc8c12f5af09f"
+      ],
+      "text": "利用苯环上基团的定位功能，为防止引入基团进入其他位置，先用某些基团占据特定位置，待引入基团进入后，再去除占位基团。",
+      "title": "先占后除",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m17",
+      "source_node_ids": [
+        "n-be5875dbc8c12f5af09f"
+      ],
+      "text": "官能团转化所加试剂可能影响不需要变化的其他基团时，先保护这些基团，再复原。例如，碳碳双键易被酸性 $\\mathrm{KMnO_4}$ 溶液氧化，可先用 $\\mathrm{HBr}$ 加成保护，再用 $\\mathrm{NaOH}$ 醇溶液加热发生消去反应复原。",
+      "title": "先保后复",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m18",
+      "source_node_ids": [
+        "n-b6d1dac502d5549620c3"
+      ],
+      "text": "第一步，寻找框图、已知信息中的陌生反应，分析键的断裂、形成及官能团变化；第二步，对比原料与目标产物的官能团，寻找其与陌生反应的关系；第三步，若原料或目标产物的官能团与陌生反应不一致，通过已学知识进行官能团转化。设计中常结合逆推法和顺推法。",
+      "title": "以陌生反应为突破口设计合成路线",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m19",
+      "source_node_ids": [
+        "n-b6d1dac502d5549620c3"
+      ],
+      "text": "陌生反应处在最后一步时，先直接逆推，对比原料与逆推出的中间产物的官能团后再顺推；处在第一步时，可直接顺推；处在中间时，可同时使用顺推法和逆推法检验。",
+      "title": "根据陌生反应所处位置选择推断方向",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m20",
+      "source_node_ids": [
+        "n-b6d1dac502d5549620c3"
+      ],
+      "text": "原料较为简单，如以烷烃或环烷烃为原料时，原文提示一般只发生光照取代反应，可据此直接顺推一步。该表述用于所述合成路线设计情境。",
+      "title": "简单原料的起始顺推",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m21",
+      "source_node_ids": [
+        "n-b6d1dac502d5549620c3"
+      ],
+      "text": "若目标产物含有酯基，可尝试直接逆推一步，拆分为羧酸和醇。",
+      "title": "含酯基目标产物的逆推拆分",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m22",
+      "source_node_ids": [
+        "n-36f58b3195ed926341ba"
+      ],
+      "text": "使卤代烃与氰化钠溶液反应，再水解得到羧酸，是增加一个碳原子的常用方法。",
+      "title": "通过氰化及水解增加一个碳原子",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m23",
+      "source_node_ids": [
+        "n-36f58b3195ed926341ba"
+      ],
+      "text": "根据烯烃被 $\\mathrm{O_3}$ 氧化后的产物，可以推断原烯烃的结构；原文所述处理过程为先臭氧氧化，再经锌与水处理。",
+      "title": "根据臭氧氧化产物反推烯烃结构",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m24",
+      "source_node_ids": [
+        "n-36f58b3195ed926341ba"
+      ],
+      "text": "双烯合成反应是合成六元环的首选方法；原文实例为 $1,3$—丁二烯与乙烯加热发生环加成反应生成环己烯。",
+      "title": "利用双烯合成构建六元环",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-d28d262a59db3de0c318"
+      ],
+      "from": "n-d28d262a59db3de0c318",
+      "to": "m1",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d28d262a59db3de0c318"
+      ],
+      "from": "n-d28d262a59db3de0c318",
+      "to": "m2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d28d262a59db3de0c318"
+      ],
+      "from": "n-d28d262a59db3de0c318",
+      "to": "m3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d28d262a59db3de0c318"
+      ],
+      "from": "n-d28d262a59db3de0c318",
+      "to": "m4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d28d262a59db3de0c318"
+      ],
+      "from": "n-d28d262a59db3de0c318",
+      "to": "m5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e09d395010e2949619cb"
+      ],
+      "from": "n-e09d395010e2949619cb",
+      "to": "m6",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e09d395010e2949619cb"
+      ],
+      "from": "n-e09d395010e2949619cb",
+      "to": "m7",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e09d395010e2949619cb"
+      ],
+      "from": "n-e09d395010e2949619cb",
+      "to": "m8",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e09d395010e2949619cb"
+      ],
+      "from": "n-e09d395010e2949619cb",
+      "to": "m9",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e09d395010e2949619cb"
+      ],
+      "from": "n-e09d395010e2949619cb",
+      "to": "m10",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f3d30ebf24ec539ab85f"
+      ],
+      "from": "m11",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f3d30ebf24ec539ab85f"
+      ],
+      "from": "m11",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f3d30ebf24ec539ab85f"
+      ],
+      "from": "m11",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f3d30ebf24ec539ab85f"
+      ],
+      "from": "m11",
+      "to": "l4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f3d30ebf24ec539ab85f"
+      ],
+      "from": "m11",
+      "to": "l5",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f3d30ebf24ec539ab85f"
+      ],
+      "from": "m11",
+      "to": "l6",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f3d30ebf24ec539ab85f"
+      ],
+      "from": "m11",
+      "to": "l7",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f3d30ebf24ec539ab85f"
+      ],
+      "from": "m11",
+      "to": "l8",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0569e346d373b5b946f7"
+      ],
+      "from": "m12",
+      "to": "l9",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0569e346d373b5b946f7"
+      ],
+      "from": "m12",
+      "to": "l10",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0569e346d373b5b946f7"
+      ],
+      "from": "m13",
+      "to": "l11",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0569e346d373b5b946f7"
+      ],
+      "from": "m13",
+      "to": "l12",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-be5875dbc8c12f5af09f"
+      ],
+      "from": "n-be5875dbc8c12f5af09f",
+      "to": "m15",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-be5875dbc8c12f5af09f"
+      ],
+      "from": "n-be5875dbc8c12f5af09f",
+      "to": "m16",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-be5875dbc8c12f5af09f"
+      ],
+      "from": "n-be5875dbc8c12f5af09f",
+      "to": "m17",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b6d1dac502d5549620c3"
+      ],
+      "from": "m18",
+      "to": "m19",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b6d1dac502d5549620c3"
+      ],
+      "from": "m18",
+      "to": "m20",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b6d1dac502d5549620c3"
+      ],
+      "from": "m18",
+      "to": "m21",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-36f58b3195ed926341ba"
+      ],
+      "from": "m22",
+      "to": "l13",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-36f58b3195ed926341ba"
+      ],
+      "from": "m23",
+      "to": "l14",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-36f58b3195ed926341ba"
+      ],
+      "from": "m24",
+      "to": "c2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-36f58b3195ed926341ba"
+      ],
+      "from": "c1",
+      "to": "l15",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9d9d32cf0ab061f6e891"
+      ],
+      "from": "n-9d9d32cf0ab061f6e891",
+      "to": "l20",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9d9d32cf0ab061f6e891",
+        "n-36f58b3195ed926341ba"
+      ],
+      "from": "n-9d9d32cf0ab061f6e891",
+      "to": "l18",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-cca105dca9e60f610a64"
+      ],
+      "from": "n-cca105dca9e60f610a64",
+      "to": "l21",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-cca105dca9e60f610a64"
+      ],
+      "from": "n-cca105dca9e60f610a64",
+      "to": "l22",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-cca105dca9e60f610a64"
+      ],
+      "from": "n-cca105dca9e60f610a64",
+      "to": "l23",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-40eeabda4d918443a0d6",
+  "source_digest": "5153be3456073f1ed34d07096a302bf290b58952084e9dfcfec6dd82e1b395a6",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

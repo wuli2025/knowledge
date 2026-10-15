@@ -1,0 +1,655 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-b1777cdf9fce00a7e90e"
+      ],
+      "text": "水的电离平衡表示为 $\\mathrm{H_2O\\rightleftharpoons H^++OH^-}$（或 $\\mathrm{2H_2O\\rightleftharpoons H_3O^++OH^-}$）。",
+      "title": "水的电离平衡",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-41e67b95191f1553adfd"
+      ],
+      "text": "常温下，水的离子积常数为 $K_{\\mathrm W}=c(\\mathrm{H^+})\\cdot c(\\mathrm{OH^-})=1\\times10^{-14}$。适用于纯水，也适用于稀的电解质水溶液。",
+      "title": "水的离子积常数",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-328b1eaf8037863cc364"
+      ],
+      "text": "任何温度下，酸性溶液满足 $c(\\mathrm{H^+})>c(\\mathrm{OH^-})$，中性溶液满足 $c(\\mathrm{H^+})=c(\\mathrm{OH^-})$，碱性溶液满足 $c(\\mathrm{H^+})<c(\\mathrm{OH^-})$。",
+      "title": "溶液的酸碱性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-539bddd73835a01c6927"
+      ],
+      "text": "$\\mathrm{pH}$ 表示溶液酸碱性的强弱，计算公式为 $\\mathrm{pH}=-\\lg c(\\mathrm{H^+})$。原文给出的适用范围为稀溶液，$\\mathrm{pH}=0\\sim14$。",
+      "title": "溶液的 pH",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-c2e9ebb656c1a39aebc8"
+      ],
+      "text": "滴定管的“0”刻度在上，尖嘴部分无刻度，读数精确到 $0.01\\ \\mathrm{mL}$。带玻璃活塞的是酸式滴定管；带橡胶管、玻璃球的是碱式滴定管。",
+      "title": "滴定管的结构与读数精度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-c2e9ebb656c1a39aebc8",
+        "n-d9839291548db529bf68"
+      ],
+      "text": "酸碱中和滴定的仪器包括酸式滴定管、碱式滴定管、滴定管夹、铁架台、烧杯、锥形瓶；试剂包括标准液、待测液、指示剂、蒸馏水。",
+      "title": "酸碱中和滴定的实验用品",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c7",
+      "source_node_ids": [
+        "n-ded19f0880f613f4cdf7"
+      ],
+      "text": "滴入最后半滴标准液后，溶液变色，且半分钟内不恢复原来的颜色，视为滴定终点。",
+      "title": "滴定终点",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-41e67b95191f1553adfd"
+      ],
+      "text": "水的离子积常数只与温度有关；升高温度，$K_{\\mathrm W}$ 增大。",
+      "title": "温度对水的离子积常数的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-12aae2d5cfc0063c45c2"
+      ],
+      "text": "温度升高，促进水的电离，电离平衡右移。原文表中升温情形下，溶液中 $c(\\mathrm{H^+})$、$c(\\mathrm{OH^-})$ 均增大，$\\mathrm{pH}$ 减小，溶液呈中性，$K_{\\mathrm W}$ 增大。",
+      "title": "升温对水的电离平衡的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-12aae2d5cfc0063c45c2"
+      ],
+      "text": "加酸或碱会抑制水的电离，使平衡左移。原文表中，加酸使 $c(\\mathrm{H^+})$ 增大、$c(\\mathrm{OH^-})$ 减小、$\\mathrm{pH}$ 减小，溶液呈酸性；加碱使 $c(\\mathrm{H^+})$ 减小、$c(\\mathrm{OH^-})$ 增大、$\\mathrm{pH}$ 增大，溶液呈碱性；两种情形下 $K_{\\mathrm W}$ 均不变。",
+      "title": "酸、碱对水的电离平衡的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-12aae2d5cfc0063c45c2"
+      ],
+      "text": "加能水解的盐，促进水的电离，使平衡右移。原文表中，加入 $\\mathrm{Na_2CO_3}$ 使 $c(\\mathrm{H^+})$ 减小、$c(\\mathrm{OH^-})$ 增大、$\\mathrm{pH}$ 增大，溶液呈碱性；加入 $\\mathrm{NH_4Cl}$ 使 $c(\\mathrm{H^+})$ 增大、$c(\\mathrm{OH^-})$ 减小、$\\mathrm{pH}$ 减小，溶液呈酸性；两种情形下 $K_{\\mathrm W}$ 均不变。",
+      "title": "能水解的盐对水的电离平衡的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-12aae2d5cfc0063c45c2"
+      ],
+      "text": "原文表中，加入 $\\mathrm{Na}$ 时，水的电离平衡右移，溶液中 $c(\\mathrm{H^+})$ 减小、$c(\\mathrm{OH^-})$ 增大、$\\mathrm{pH}$ 增大，溶液呈碱性，$K_{\\mathrm W}$ 不变。",
+      "title": "加入钠对水的电离平衡的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-328b1eaf8037863cc364"
+      ],
+      "text": "在 $25\\ ^\\circ\\mathrm{C}$ 时：酸性溶液的 $\\mathrm{pH}<7$，$c(\\mathrm{H^+})>10^{-7}\\ \\mathrm{mol\\cdot L^{-1}}$；中性溶液的 $\\mathrm{pH}=7$，$c(\\mathrm{H^+})=10^{-7}\\ \\mathrm{mol\\cdot L^{-1}}$；碱性溶液的 $\\mathrm{pH}>7$，$c(\\mathrm{H^+})<10^{-7}\\ \\mathrm{mol\\cdot L^{-1}}$。这些以 7 或 $10^{-7}$ 为界的判据适用于 $25\\ ^\\circ\\mathrm{C}$。",
+      "title": "25 ℃时酸碱性与 pH、氢离子浓度的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-539bddd73835a01c6927"
+      ],
+      "text": "相同温度下，$\\mathrm{pH}$ 越小，溶液酸性越强。",
+      "title": "pH 与酸性强弱的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-1d203ac1a35470e4c987"
+      ],
+      "text": "对于原文等浓度、等体积的比较情形，强碱滴定强酸、弱酸时，强酸的滴定曲线起点较低；强酸滴定强碱、弱碱时，强碱的滴定曲线起点较高。",
+      "title": "强弱酸碱滴定曲线的起点差异",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-1d203ac1a35470e4c987"
+      ],
+      "text": "原文比较的滴定曲线中，强碱与强酸反应（强酸与强碱反应）的突变范围，大于强碱与弱酸反应（强酸与弱碱反应）的突变范围。",
+      "title": "强弱酸碱滴定曲线的突变范围差异",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-539bddd73835a01c6927"
+      ],
+      "text": "用镊子取一块干燥的 $\\mathrm{pH}$ 试纸，放在洁净干燥的玻璃片或表面皿上；用玻璃棒蘸取待测溶液滴到试纸中央，变色后与标准比色卡对照，读出 $\\mathrm{pH}$。不能事先用水润湿试纸；广泛 $\\mathrm{pH}$ 试纸只能读取整数值或范围；不能用于测定有漂白性的溶液，如氯水和次氯酸钠溶液。原文还列有 $\\mathrm{pH}$ 计测量法。",
+      "title": "溶液 pH 的测量",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-f76f0c59bf3ff87b4f25"
+      ],
+      "text": "酸的稀释或酸与酸混合，最终为酸性溶液时，先求最终溶液中 $n(\\mathrm{H^+})$，再求 $c(\\mathrm{H^+})$，最后用 $\\mathrm{pH}=-\\lg c(\\mathrm{H^+})$ 计算。",
+      "title": "酸性溶液稀释、混合后的 pH 计算",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-f76f0c59bf3ff87b4f25"
+      ],
+      "text": "碱与碱混合或碱的稀释，最终为碱性溶液时，先求最终溶液中 $n(\\mathrm{OH^-})$，再根据 $K_\\mathrm{w}$ 求出 $c(\\mathrm{H^+})$，最后用 $\\mathrm{pH}=-\\lg c(\\mathrm{H^+})$ 计算。",
+      "title": "碱性溶液稀释、混合后的 pH 计算",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-f76f0c59bf3ff87b4f25"
+      ],
+      "text": "酸与碱混合时，先初步判断最终溶液的酸碱性。若为酸性，先求最终溶液中 $n(\\mathrm{H^+})$，再求 $c(\\mathrm{H^+})$；若为碱性，先求最终溶液中 $n(\\mathrm{OH^-})$，再根据 $K_\\mathrm{w}$ 求出 $c(\\mathrm{H^+})$。最后用 $\\mathrm{pH}=-\\lg c(\\mathrm{H^+})$ 计算。",
+      "title": "酸碱混合后的 pH 计算",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-d9839291548db529bf68"
+      ],
+      "text": "酸性、氧化性溶液一般用酸式滴定管盛装，因为其易腐蚀橡胶；碱性溶液一般用碱式滴定管盛装，因为其易腐蚀玻璃，致使玻璃活塞无法打开；使用聚四氟乙烯活塞的滴定管为酸碱通用滴定管。",
+      "title": "滴定管的选择",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-2aecf62e82970892b823",
+        "n-ded19f0880f613f4cdf7"
+      ],
+      "text": "应依据化学计量点附近的pH突跃范围，选择变色范围落在突跃范围内的指示剂。常见浓度条件下，强碱滴定弱酸通常选酚酞，强酸滴定弱碱通常选甲基橙，强酸强碱滴定可按突跃范围选甲基橙或酚酞。滴定终点指观察到规定指示剂变色的时刻，尽量接近化学计量点。",
+      "title": "中和滴定指示剂的选择",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-5973a7e32a1711abc158"
+      ],
+      "text": "以标准盐酸滴定待测 NaOH 溶液为例，滴定管的准备顺序为检漏→洗涤→润洗→装液→调液面→记录；锥形瓶的准备顺序为注碱液→加指示剂。",
+      "title": "滴定前的准备",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-ded19f0880f613f4cdf7"
+      ],
+      "text": "酸式滴定管内部有气泡时，应快速放液以赶出气泡。排出碱式滴定管胶管中的气泡时，手指捏住胶管内玻璃球处，将胶管向上弯曲，使尖嘴斜向上，排出气泡。",
+      "title": "滴定管排气泡",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m9",
+      "source_node_ids": [
+        "n-ded19f0880f613f4cdf7"
+      ],
+      "text": "滴定时，左手控制滴定管的活塞，右手摇动锥形瓶，眼睛注视锥形瓶内溶液颜色变化。",
+      "title": "滴定操作",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m10",
+      "source_node_ids": [
+        "n-ded19f0880f613f4cdf7"
+      ],
+      "text": "临近滴定终点时，用锥形瓶内壁与滴定管尖嘴接触，使悬着的半滴溶液流入锥形瓶，再用洗瓶以少量蒸馏水冲洗锥形瓶内壁。",
+      "title": "临近终点时加入半滴溶液",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m11",
+      "source_node_ids": [
+        "n-ded19f0880f613f4cdf7",
+        "n-31e62b3a7a79540e5e0c"
+      ],
+      "text": "终点判断应写明三个关键点：当滴入最后半滴×××标准溶液后，溶液变成××色，且半分钟内不恢复原来的颜色。达到终点后，记录用去标准液的体积。",
+      "title": "滴定终点的判断与表述",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m12",
+      "source_node_ids": [
+        "n-3de243905ed73ba4e6c9"
+      ],
+      "text": "按上述操作重复 $2\\sim3$ 次，求出用去标准盐酸体积的平均值，根据 $c(\\mathrm{NaOH})=\\dfrac{c(\\mathrm{HCl})\\cdot V(\\mathrm{HCl})}{V(\\mathrm{NaOH})}$ 计算。",
+      "title": "标准盐酸滴定 NaOH 的数据处理",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m13",
+      "source_node_ids": [
+        "n-9e4cef5105bf9be1833b",
+        "n-3de243905ed73ba4e6c9"
+      ],
+      "text": "以标准盐酸滴定待测 NaOH 溶液时，可将误差归结到对 $V(\\mathrm{HCl})$ 的影响上，并结合 $c(\\mathrm{NaOH})=\\dfrac{c(\\mathrm{HCl})\\cdot V(\\mathrm{HCl})}{V(\\mathrm{NaOH})}$ 分析测定结果。",
+      "title": "由标准液体积分析滴定误差",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m14",
+      "source_node_ids": [
+        "n-9e4cef5105bf9be1833b",
+        "n-5973a7e32a1711abc158"
+      ],
+      "text": "以标准盐酸滴定待测 NaOH 溶液时：酸式滴定管未用盐酸润洗，结果偏高；碱式滴定管未用 $\\mathrm{NaOH}$ 溶液润洗，结果偏低；锥形瓶用 $\\mathrm{NaOH}$ 溶液润洗，结果偏高。",
+      "title": "仪器润洗造成的滴定误差",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m15",
+      "source_node_ids": [
+        "n-9e4cef5105bf9be1833b",
+        "n-5973a7e32a1711abc158"
+      ],
+      "text": "以标准盐酸滴定待测 NaOH 溶液时：滴定前有气泡、滴定后无气泡，结果偏高；滴定前无气泡、滴定后有气泡，结果偏低。",
+      "title": "气泡变化造成的滴定误差",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m16",
+      "source_node_ids": [
+        "n-9e4cef5105bf9be1833b",
+        "n-5973a7e32a1711abc158"
+      ],
+      "text": "以标准盐酸滴定待测 NaOH 溶液时：盐酸滴出瓶外，结果偏高；振荡时瓶内溶液溅出，结果偏低。",
+      "title": "液体损失造成的滴定误差",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m17",
+      "source_node_ids": [
+        "n-9e4cef5105bf9be1833b",
+        "n-5973a7e32a1711abc158"
+      ],
+      "text": "以标准盐酸滴定待测 NaOH 溶液时，滴定管读数前仰后平，结果偏低；前平后仰，结果偏高；前仰后俯，结果偏低。",
+      "title": "读数视线造成的滴定误差",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m18",
+      "source_node_ids": [
+        "n-9e4cef5105bf9be1833b",
+        "n-5973a7e32a1711abc158"
+      ],
+      "text": "以标准盐酸滴定待测 NaOH 溶液时，滴定终点时滴定管尖嘴悬一滴溶液，结果偏高；指示剂变色即停止滴定，但半分钟内恢复原来的颜色，结果偏低。",
+      "title": "终点操作造成的滴定误差",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m19",
+      "source_node_ids": [
+        "n-1d203ac1a35470e4c987"
+      ],
+      "text": "比较等浓度、等体积的强弱酸碱滴定曲线时，关注曲线起点和突变范围：强碱滴定酸时强酸起点低，强酸滴定碱时强碱起点高；强酸与强碱反应的突变范围较大。",
+      "title": "滴定曲线的比较分析",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-41e67b95191f1553adfd"
+      ],
+      "from": "c2",
+      "to": "l1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-12aae2d5cfc0063c45c2"
+      ],
+      "from": "c1",
+      "to": "l2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-12aae2d5cfc0063c45c2"
+      ],
+      "from": "c1",
+      "to": "l3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-12aae2d5cfc0063c45c2"
+      ],
+      "from": "c1",
+      "to": "l4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-12aae2d5cfc0063c45c2"
+      ],
+      "from": "c1",
+      "to": "l5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-328b1eaf8037863cc364"
+      ],
+      "from": "c3",
+      "to": "l6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-539bddd73835a01c6927"
+      ],
+      "from": "c4",
+      "to": "l7",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-539bddd73835a01c6927"
+      ],
+      "from": "m1",
+      "to": "c4",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f76f0c59bf3ff87b4f25"
+      ],
+      "from": "m2",
+      "to": "c4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f76f0c59bf3ff87b4f25"
+      ],
+      "from": "m3",
+      "to": "c2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f76f0c59bf3ff87b4f25"
+      ],
+      "from": "m3",
+      "to": "c4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f76f0c59bf3ff87b4f25"
+      ],
+      "from": "m4",
+      "to": "c3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f76f0c59bf3ff87b4f25"
+      ],
+      "from": "m4",
+      "to": "c2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-f76f0c59bf3ff87b4f25"
+      ],
+      "from": "m4",
+      "to": "c4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c2e9ebb656c1a39aebc8"
+      ],
+      "from": "c6",
+      "to": "c5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d9839291548db529bf68"
+      ],
+      "from": "m5",
+      "to": "c5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2aecf62e82970892b823"
+      ],
+      "from": "m6",
+      "to": "c7",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ded19f0880f613f4cdf7",
+        "n-31e62b3a7a79540e5e0c"
+      ],
+      "from": "m11",
+      "to": "c7",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ded19f0880f613f4cdf7"
+      ],
+      "from": "m10",
+      "to": "m11",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9e4cef5105bf9be1833b",
+        "n-3de243905ed73ba4e6c9"
+      ],
+      "from": "m13",
+      "to": "m12",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9e4cef5105bf9be1833b"
+      ],
+      "from": "m13",
+      "to": "m14",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9e4cef5105bf9be1833b"
+      ],
+      "from": "m13",
+      "to": "m15",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9e4cef5105bf9be1833b"
+      ],
+      "from": "m13",
+      "to": "m16",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9e4cef5105bf9be1833b"
+      ],
+      "from": "m13",
+      "to": "m17",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9e4cef5105bf9be1833b"
+      ],
+      "from": "m13",
+      "to": "m18",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1d203ac1a35470e4c987"
+      ],
+      "from": "m19",
+      "to": "l8",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1d203ac1a35470e4c987"
+      ],
+      "from": "m19",
+      "to": "l9",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-432e0bb14129835628e8"
+      ],
+      "from": "n-432e0bb14129835628e8",
+      "to": "m6",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-432e0bb14129835628e8"
+      ],
+      "from": "n-432e0bb14129835628e8",
+      "to": "m4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-cdd0aec2b63045132345"
+      ],
+      "from": "n-cdd0aec2b63045132345",
+      "to": "m13",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-cdd0aec2b63045132345"
+      ],
+      "from": "n-cdd0aec2b63045132345",
+      "to": "m14",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-cdd0aec2b63045132345"
+      ],
+      "from": "n-cdd0aec2b63045132345",
+      "to": "m16",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9aadcc9716bd1ae8928d"
+      ],
+      "from": "n-9aadcc9716bd1ae8928d",
+      "to": "c2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9aadcc9716bd1ae8928d"
+      ],
+      "from": "n-9aadcc9716bd1ae8928d",
+      "to": "c3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9aadcc9716bd1ae8928d"
+      ],
+      "from": "n-9aadcc9716bd1ae8928d",
+      "to": "m4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-43ef91dd850c50615707",
+  "source_digest": "681e68680af8f9a8067d215a9b865b9b6f2c017d453da6eed85cf927b0eff4cd",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

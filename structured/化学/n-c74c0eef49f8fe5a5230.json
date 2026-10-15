@@ -1,0 +1,405 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-06abb07d8964607a001c"
+      ],
+      "text": "铁的导热性、延展性良好，有导电性，易被磁铁吸引。",
+      "title": "铁的物理性质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-4b76dbc3388794c0452b"
+      ],
+      "text": "$\\mathrm{FeO}$ 为黑色粉末，不稳定，在空气中受热转化为 $\\mathrm{Fe_3O_4}$。",
+      "title": "氧化亚铁",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-4b76dbc3388794c0452b"
+      ],
+      "text": "$\\mathrm{Fe_2O_3}$ 俗称铁红，为红棕色粉末，可作红色颜料。",
+      "title": "氧化铁",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-4b76dbc3388794c0452b"
+      ],
+      "text": "$\\mathrm{Fe_3O_4}$ 俗称磁性氧化铁，为黑色晶体，其中 $\\mathrm{Fe}$ 呈现 $+2、+3$ 价；能被磁铁吸引，可作磁性材料。",
+      "title": "四氧化三铁",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-90c905233b784d59272b"
+      ],
+      "text": "$\\mathrm{Fe(OH)_2}$ 为白色固体，难溶于水，在空气中极易被氧化。",
+      "title": "氢氧化亚铁",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-90c905233b784d59272b"
+      ],
+      "text": "$\\mathrm{Fe(OH)_3}$ 为红褐色固体，难溶于水，受热时易分解。",
+      "title": "氢氧化铁",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c7",
+      "source_node_ids": [
+        "n-df8d508aac42653a4149"
+      ],
+      "text": "铁元素的“价—类”二维图以化合价为纵轴，标有 $0、+2、+3$；以物质类别为横轴，包括单质、氧化物、盐、碱。单质为 $\\mathrm{Fe}$；氧化物为 $\\mathrm{FeO、Fe_3O_4、Fe_2O_3}$；盐对应 $\\mathrm{Fe^{2+}、Fe^{3+}}$；碱为 $\\mathrm{Fe(OH)_2、Fe(OH)_3}$。图中箭头表示有关物质之间的相互转化。",
+      "title": "铁元素的“价—类”二维图",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-06abb07d8964607a001c"
+      ],
+      "text": "$\\mathrm{Fe}$ 与 $\\mathrm{H_2O(g)}$ 在高温下反应，生成 $\\mathrm{Fe_3O_4+H_2}$。",
+      "title": "铁与水蒸气反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-06abb07d8964607a001c"
+      ],
+      "text": "与铁反应的非金属单质的氧化性强弱决定产物中铁元素为 $+2$ 价还是 $+3$ 价。例如：$\\mathrm{2Fe+3Cl_2}\\xrightarrow{\\Delta}\\mathrm{2FeCl_3}$；$\\mathrm{Fe+S}\\xrightarrow{\\Delta}\\mathrm{FeS}$。",
+      "title": "非金属氧化性与铁的产物价态",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-06abb07d8964607a001c"
+      ],
+      "text": "原文概述：铁与非氧化性酸反应生成 $\\mathrm{Fe^{2+}+H_2}$；与氧化性酸反应生成 $\\mathrm{Fe^{3+}}+$ 非金属氧化物。氧化性酸会把 $\\mathrm{Fe}$ 氧化为 $\\mathrm{Fe^{3+}}$，但铁过量时，原文用 $\\mathrm{Fe^{3+}+Fe\\longrightarrow Fe^{2+}}$ 表示进一步转化。【待核对】该转化式未配平，保留原式。冷的浓硝酸、浓硫酸条件另见钝化规律。",
+      "title": "铁与酸反应及铁过量的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-06abb07d8964607a001c"
+      ],
+      "text": "铁遇冷的浓硝酸、浓硫酸发生钝化。",
+      "title": "铁的钝化条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-06abb07d8964607a001c"
+      ],
+      "text": "铁与过量稀 $\\mathrm{HNO_3}$ 反应：$\\mathrm{Fe+NO_3^-+4H^+=Fe^{3+}+NO\\uparrow+2H_2O}$。铁与少量稀 $\\mathrm{HNO_3}$ 反应：$\\mathrm{3Fe+2NO_3^-+8H^+=3Fe^{2+}+2NO\\uparrow+4H_2O}$。",
+      "title": "稀硝酸用量与铁的反应产物",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-06abb07d8964607a001c"
+      ],
+      "text": "原文概述铁与盐溶液反应生成 $\\mathrm{Fe^{2+}}$，未列出具体盐溶液及适用范围。【待核对】适用范围需核对。",
+      "title": "铁与盐溶液反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-90c905233b784d59272b"
+      ],
+      "text": "氢氧化亚铁在空气中极易被氧化：$\\mathrm{4Fe(OH)_2+O_2+2H_2O=4Fe(OH)_3}$。现象为白色絮状沉淀迅速变成灰绿色，最后变成红褐色。",
+      "title": "氢氧化亚铁的氧化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-90c905233b784d59272b"
+      ],
+      "text": "氢氧化铁受热时易分解为 $\\mathrm{Fe_2O_3}$：$2\\mathrm{Fe(OH)_3}\\xrightarrow{\\Delta}\\mathrm{Fe_2O_3+3H_2O}$。",
+      "title": "氢氧化铁的热分解",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-ada4a73e78bebfbb39ea"
+      ],
+      "text": "$\\mathrm{Fe^{2+}}$ 可被氧化剂氧化为 $\\mathrm{Fe^{3+}}$：$\\mathrm{Fe^{2+}}\\xrightarrow{\\mathrm{Cl_2、KMnO_4、HNO_3}\\text{ 等氧化剂}}\\mathrm{Fe^{3+}}$。",
+      "title": "亚铁离子向铁离子的转化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-ada4a73e78bebfbb39ea"
+      ],
+      "text": "$\\mathrm{Fe^{3+}}$ 可被还原剂还原为 $\\mathrm{Fe^{2+}}$：$\\mathrm{Fe^{3+}}\\xrightarrow{\\mathrm{Fe、Cu、KI}\\text{ 等还原剂}}\\mathrm{Fe^{2+}}$。",
+      "title": "铁离子向亚铁离子的转化",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-17f38e813e62ccf61211"
+      ],
+      "text": "鉴别铁盐与亚铁盐溶液时，可观察颜色：含 $\\mathrm{Fe^{2+}}$ 的溶液呈浅绿色，含 $\\mathrm{Fe^{3+}}$ 的溶液呈棕黄色。",
+      "title": "观察溶液颜色鉴别",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-17f38e813e62ccf61211"
+      ],
+      "text": "先加 $\\mathrm{KSCN}$ 溶液：溶液变红色，表明含 $\\mathrm{Fe^{3+}}$；若无明显现象，再加氯水，溶液变红色，表明含 $\\mathrm{Fe^{2+}}$。检验 $\\mathrm{Fe^{2+}}$ 时不能先加氯水后加 $\\mathrm{KSCN}$ 溶液，也不能将加 $\\mathrm{KSCN}$ 后的混合溶液加入足量的新制氯水中，因为新制氯水可能氧化 $\\mathrm{SCN^-}$。",
+      "title": "用硫氰化钾和氯水检验",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-17f38e813e62ccf61211"
+      ],
+      "text": "向待检溶液中加 $\\mathrm{NaOH}$ 溶液：出现白色沉淀，继而变为灰绿色、红褐色，表明含 $\\mathrm{Fe^{2+}}$；直接生成红褐色沉淀，表明含 $\\mathrm{Fe^{3+}}$。",
+      "title": "加碱鉴别铁离子与亚铁离子",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-17f38e813e62ccf61211"
+      ],
+      "text": "在铁盐与亚铁盐的鉴别中，用淀粉—$\\mathrm{KI}$ 试纸检验：变蓝对应 $\\mathrm{Fe^{3+}}$，不变蓝对应 $\\mathrm{Fe^{2+}}$。",
+      "title": "淀粉—碘化钾试纸鉴别",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-17f38e813e62ccf61211"
+      ],
+      "text": "在铁盐与亚铁盐的鉴别中，加入溴水或 $\\mathrm{KMnO_4}$ 溶液：无变化对应 $\\mathrm{Fe^{3+}}$，褪色对应 $\\mathrm{Fe^{2+}}$。当 $\\mathrm{Fe^{3+}、Fe^{2+}、Cl^-}$ 同时存在时，不能用酸性 $\\mathrm{KMnO_4}$ 溶液检验 $\\mathrm{Fe^{2+}}$，因为 $\\mathrm{Cl^-}$ 能还原 $\\mathrm{KMnO_4}$，产生干扰。",
+      "title": "用溴水或高锰酸钾溶液鉴别",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-17f38e813e62ccf61211"
+      ],
+      "text": "向溶液中加苯酚，溶液呈紫色，表明含 $\\mathrm{Fe^{3+}}$。",
+      "title": "苯酚检验铁离子",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-17f38e813e62ccf61211"
+      ],
+      "text": "向溶液中加 $\\mathrm{K_3[Fe(CN)_6]}$（铁氰化钾），产生蓝色沉淀，表明含 $\\mathrm{Fe^{2+}}$。",
+      "title": "铁氰化钾检验亚铁离子",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-17f38e813e62ccf61211"
+      ],
+      "text": "向溶液中加邻二氮菲，溶液呈橙红色，表明含 $\\mathrm{Fe^{2+}}$。适宜的 $\\mathrm{pH}$ 范围为 $2\\sim9$。",
+      "title": "邻二氮菲检验亚铁离子",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-06abb07d8964607a001c"
+      ],
+      "from": "l3",
+      "to": "l5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-06abb07d8964607a001c"
+      ],
+      "from": "l3",
+      "to": "l4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-90c905233b784d59272b"
+      ],
+      "from": "c5",
+      "to": "l7",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-90c905233b784d59272b"
+      ],
+      "from": "c6",
+      "to": "l8",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-90c905233b784d59272b",
+        "n-17f38e813e62ccf61211"
+      ],
+      "from": "l7",
+      "to": "m3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ada4a73e78bebfbb39ea",
+        "n-17f38e813e62ccf61211"
+      ],
+      "from": "l9",
+      "to": "m2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ada4a73e78bebfbb39ea",
+        "n-17f38e813e62ccf61211"
+      ],
+      "from": "l9",
+      "to": "m5",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ada4a73e78bebfbb39ea",
+        "n-17f38e813e62ccf61211"
+      ],
+      "from": "l10",
+      "to": "m4",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-df8d508aac42653a4149"
+      ],
+      "from": "c7",
+      "to": "c2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-df8d508aac42653a4149"
+      ],
+      "from": "c7",
+      "to": "c3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-df8d508aac42653a4149"
+      ],
+      "from": "c7",
+      "to": "c4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-df8d508aac42653a4149"
+      ],
+      "from": "c7",
+      "to": "c5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-df8d508aac42653a4149"
+      ],
+      "from": "c7",
+      "to": "c6",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-68cb9b1e881e7b4ae069"
+      ],
+      "from": "n-68cb9b1e881e7b4ae069",
+      "to": "m2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-68cb9b1e881e7b4ae069"
+      ],
+      "from": "n-68cb9b1e881e7b4ae069",
+      "to": "c5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d8d841e136d0c3a40a01"
+      ],
+      "from": "n-d8d841e136d0c3a40a01",
+      "to": "c2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d8d841e136d0c3a40a01"
+      ],
+      "from": "n-d8d841e136d0c3a40a01",
+      "to": "c4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d8d841e136d0c3a40a01"
+      ],
+      "from": "n-d8d841e136d0c3a40a01",
+      "to": "m7",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-c74c0eef49f8fe5a5230",
+  "source_digest": "7c6f63b71f4186cf719bed3587b4028f01574a3aa6a5141f87b0c46717411b2a",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

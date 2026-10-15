@@ -1,0 +1,135 @@
+<!-- page 13 -->
+
+### 典例2　B
+
+两个反应均为放热反应，则 $\mathrm{X(g)}$ 的能量大于 $\mathrm{Y(g)}$ 的能量大于 $\mathrm{Z(g)}$ 的能量。根据题图可知，由 $\mathrm{X(g)}$ 生成 $\mathrm{Y(g)}$ 的反应速率较快，由 $\mathrm{Y(g)}$ 生成 $\mathrm{Z(g)}$ 的反应速率较慢，说明反应 $\mathrm{X(g)\rightleftharpoons Y(g)}$ 的活化能较小，反应 $\mathrm{Y(g)\rightleftharpoons Z(g)}$ 的活化能较大，据此可知符合题意的反应进程示意图为 B 项。
+
+### 典例3　D
+
+将反应历程中的各反应标记为①～⑥（如下图所示）。反应①中 $\mathrm{Ni}$ 的化合价升高，A 错误。该过程中从反应①引入反应物 $\mathrm{catB—Br}$，从反应⑤引入溴苯，在反应⑥中实现了 $\mathrm{C—B}$ 键的构建；反应①、③消耗了 $\mathrm{L—Ni—Br}$，反应②、⑥又生成了 $\mathrm{L—Ni—Br}$，故 $\mathrm{L—Ni—Br}$ 为催化剂，B 错误。反应①生成了 $\mathrm{catB\cdot}$，反应③又消耗了 $\mathrm{catB\cdot}$，故 $\mathrm{catB\cdot}$ 为中间产物，C 错误。由反应历程图可知，$\mathrm{Zn}$、$\mathrm{catB—Br}$ 和溴苯“只进不出”，为反应物，苯基硼酸酯和 $\mathrm{ZnBr_2}$ “只出不进”，为生成物，故总反应的化学方程式为 $\mathrm{Zn+catB—Br+C_6H_5Br\xrightarrow{L—Ni—Br}C_6H_5Bcat+ZnBr_2}$，故理论上产生 $1\ \mathrm{mol}$ 苯基硼酸酯消耗 $\mathrm{Zn}$ 与溴苯的物质的量之比为 $1:1$，D 正确。
+
+[图：镍催化反应历程。反应①中，$\mathrm{L—Ni—Br}$ 与 $\mathrm{catB—Br}$ 反应，生成连有两个 $\mathrm{Br}$ 的镍配合物及 $\mathrm{catB\cdot}$；反应②中，该镍配合物与 $\mathrm{Zn}$ 反应，生成 $\mathrm{L—Ni—Br}$ 和 $\mathrm{ZnBr_2}$。反应③中，$\mathrm{L—Ni—Br}$ 与 $\mathrm{catB\cdot}$ 结合，生成连有 $\mathrm{Br}$、$\mathrm{L}$ 和 $\mathrm{Bcat}$ 的镍配合物；反应④中，该配合物与 $\mathrm{Zn}$ 反应，生成 $\mathrm{L—Ni—Bcat}$ 和 $\mathrm{ZnBr_2}$；反应⑤中，$\mathrm{L—Ni—Bcat}$ 与溴苯反应，生成连有苯基、$\mathrm{Br}$、$\mathrm{L}$ 和 $\mathrm{Bcat}$ 的镍配合物；反应⑥中，该配合物生成苯基硼酸酯，并再生 $\mathrm{L—Ni—Br}$。]
+
+# 第八章　化学反应与电能
+
+## 第1节　原电池原理及应用
+
+**1.C**　由题给电池总反应可知，$\mathrm{Zn}$ 为负极，电极反应式为 $\mathrm{Zn+2OH^--2e^-\longrightarrow ZnO+H_2O}$（氧化反应），$\mathrm{MnO_2}$ 为正极，电极反应式为 $\mathrm{MnO_2+H_2O+e^-\longrightarrow MnOOH+OH^-}$（还原反应），为传递电荷，$\mathrm{OH^-}$ 通过隔膜向负极移动，A、B 项错误；环境温度过低时，电解质中的离子运动速率减小，电子的传输速率也相应减小，即低温不利于电池放电，C 项正确；电池放电时，$\mathrm{Mn}$ 元素化合价由 $+4\rightarrow +3$，则反应中每生成 $1\ \mathrm{mol}$ $\mathrm{MnOOH}$，转移 $1\ \mathrm{mol}$ 电子，即转移电子数为 $1\times6.02\times10^{23}$，D 项错误。
+
+**2.A**　该装置为原电池，铝为活泼金属，作负极；石墨（$\mathrm{b}$ 电极）作正极，A 项正确；原电池工作时，$\mathrm{Na^+}$ 向正极（$\mathrm{b}$ 电极）移动，B 项错误；电池工作时，$\mathrm{a}$ 电极反应式为 $\mathrm{Al-3e^-\longrightarrow Al^{3+}}$，$\mathrm{Al^{3+}}$ 水解使 $\mathrm{a}$ 电极附近海水呈酸性，C 项错误；放电过程中 $\mathrm{Al\rightarrow Al^{3+}}$，每消耗 $1\ \mathrm{kg}$ 即 $\dfrac{1000}{27}\ \mathrm{mol}$ $\mathrm{Al}$，电池最多向外提供 $\dfrac{1000}{27}\ \mathrm{mol}\times3=\dfrac{1000}{9}\ \mathrm{mol}$ 电子的电量，D 项错误。
+
+**3.B**　$\mathrm{Ag}$ 比 $\mathrm{Pt}$ 活泼，故 $\mathrm{Ag}$ 作原电池负极，电极反应为 $\mathrm{Ag-e^-+Cl^-\longrightarrow AgCl}$，$\mathrm{Cl^-}$ 转化为 $\mathrm{AgCl}$ 而被除去；$\mathrm{Pt}$ 作正极，根据“实现废酸的纯化”可知电解质溶液呈酸性，故 $\mathrm{Pt}$ 表面发生的电极反应为 $\mathrm{O_2+4e^-+4H^+\longrightarrow 2H_2O}$，A、C 项错误。该原电池中，电子由负极 $\mathrm{Ag}$ 经活性炭流向正极 $\mathrm{Pt}$，B 项正确。标准状况下 $11.2\ \mathrm{L}$ $\mathrm{O_2}$ 的物质的量为 $0.5\ \mathrm{mol}$，根据得失电子守恒并结合电极反应式，可得 $\mathrm{O_2\sim4e^-\sim4Cl^-}$，故每消耗 $0.5\ \mathrm{mol}$ $\mathrm{O_2}$，最多去除 $2\ \mathrm{mol}$ $\mathrm{Cl^-}$，D 项错误。
+
+**4.答案**　$\mathrm{Cu-2e^-\longrightarrow Cu^{2+}}$　$\mathrm{Fe^{3+}+e^-\longrightarrow Fe^{2+}}$
+
+[图：两种原电池装置，以“或”连接。左图为双液原电池：$\mathrm{Cu}$ 电极浸入 $\mathrm{CuCl_2}$ 溶液，$\mathrm{C}$ 电极浸入 $\mathrm{FeCl_3}$ 溶液，两溶液通过盐桥连接，两电极由导线和电流表连接，电子由 $\mathrm{Cu}$ 电极流向 $\mathrm{C}$ 电极。右图为单液原电池：$\mathrm{Cu}$、$\mathrm{C}$ 两电极均浸入 $\mathrm{FeCl_3}$ 溶液，通过导线和电流表连接，电子由 $\mathrm{Cu}$ 电极流向 $\mathrm{C}$ 电极。]
+
+**解析**　根据所给的离子方程式可得在反应中 $\mathrm{Cu}$ 发生氧化反应，$\mathrm{Fe^{3+}}$ 发生还原反应。设计成原电池时，$\mathrm{Cu}$ 为负极，$\mathrm{Fe^{3+}}$ 在正极得电子发生还原反应，可用 $\mathrm{Cu}$ 棒作负极，石墨（$\mathrm{C}$）电极作正极。
+
+## 第2节　电解原理及其应用
+
+**1.C**　A 项，电解 $\mathrm{Na_2SO_4}$ 溶液时，阳极上是 $\mathrm{OH^-}$ 失电子发生氧化反应，即 $\mathrm{a}$ 管中 $\mathrm{OH^-}$ 放电，溶液酸性增强，酚酞不变色，$\mathrm{a}$ 管中呈无色，错误；B 项，电解 $\mathrm{AgNO_3}$ 溶液时，阴极上是 $\mathrm{Ag^+}$ 得电子，即 $\mathrm{b}$ 管中电极反应式是 $\mathrm{Ag^++e^-\longrightarrow Ag}$，错误；C 项，电解 $\mathrm{CuCl_2}$ 溶液时，阳极上 $\mathrm{Cl^-}$ 失电子，发生氧化反应，即 $\mathrm{b}$ 管中 $\mathrm{Cl^-}$ 放电，产生 $\mathrm{Cl_2}$，正确；D 项，电解 $\mathrm{NaOH}$ 溶液时，阴极上是 $\mathrm{H^+}$ 放电生成氢气，阳极上是 $\mathrm{OH^-}$ 放电生成氧气，实质是电解水，导致 $\mathrm{NaOH}$ 溶液的浓度增大，碱性增强，$\mathrm{pH}$ 升高，错误。
+
+**2.C**　电解时，阳极反应为 $\mathrm{Fe-2e^-\longrightarrow Fe^{2+}}$，生成的 $\mathrm{Fe^{2+}}$ 又与 $\mathrm{Cr_2O_7^{2-}}$ 发生反应：$\mathrm{6Fe^{2+}+Cr_2O_7^{2-}+14H^+\longrightarrow6Fe^{3+}+2Cr^{3+}+7H_2O}$，阴极反应为 $\mathrm{2H^++2e^-\longrightarrow H_2\uparrow}$；若阳极换成 $\mathrm{Cu}$，则阳极反应为 $\mathrm{Cu-2e^-\longrightarrow Cu^{2+}}$，而 $\mathrm{Cu^{2+}}$ 无法还原 $\mathrm{Cr_2O_7^{2-}}$，故无法除去 $\mathrm{Cr_2O_7^{2-}}$，电解时不能用铜电极代替铁电极，A、B 项正确。由前述分析可知，电路中转移 $0.6\ \mathrm{mol}$ 电子时，阳极处生成 $0.3\ \mathrm{mol}$ $\mathrm{Fe^{2+}}$，最多有 $0.05\ \mathrm{mol}$ $\mathrm{Cr_2O_7^{2-}}$ 被还原，C 项错误。$0.1\ \mathrm{mol}$ $\mathrm{Cr_2O_7^{2-}}$ 可生成 $0.2\ \mathrm{mol}$ $\mathrm{Cr(OH)_3}$ 沉淀，同时被 $0.1\ \mathrm{mol}$ $\mathrm{Cr_2O_7^{2-}}$ 氧化得到的 $0.6\ \mathrm{mol}$ $\mathrm{Fe^{3+}}$ 将转化为 $0.6\ \mathrm{mol}$ $\mathrm{Fe(OH)_3}$ 沉淀，故沉淀的质量为 $m[\mathrm{Cr(OH)_3}]+m[\mathrm{Fe(OH)_3}]=103\ \mathrm{g\cdot mol^{-1}}\times0.2\ \mathrm{mol}+107\ \mathrm{g\cdot mol^{-1}}\times0.6\ \mathrm{mol}=84.8\ \mathrm{g}$，D 项正确。
+
+**3.B**　$\mathrm{a}$、$\mathrm{c}$ 的电解总反应均为 $\mathrm{N_2+3H_2\xrightarrow{电解}2NH_3}$，A 正确；由题图知，$\mathrm{a}$ 的阳极反应式为 $\mathrm{H_2-2e^-\longrightarrow2H^+}$，$\mathrm{c}$ 的阳极反应式为 $\mathrm{3H_2+2N^{3-}-6e^-\longrightarrow2NH_3}$，B 错误；由题图知，$\mathrm{b}$ 的电解质传导 $\mathrm{O^{2-}}$，$\mathrm{b}$ 的阴极反应式为 $\mathrm{N_2+3H_2O+6e^-\longrightarrow2NH_3+3O^{2-}}$，C 正确；$\mathrm{a}$、$\mathrm{b}$、$\mathrm{c}$ 的总反应中作氧化剂的均为 $\mathrm{N_2}$，且 $\mathrm{N_2}$ 均转化为 $\mathrm{NH_3}$，$\mathrm{N}$ 元素化合价均从 $0$ 降低到 $-3$，故每生成 $1\ \mathrm{mol}$ $\mathrm{NH_3}$ 转移电子数相等，D 正确。
+
+<!-- page 14 -->
+
+## 第3节　金属的腐蚀与防护
+
+**1.B**　食盐水显中性，在中性溶液中钢铁易发生吸氧腐蚀，A 错误；$\mathrm{Fe}$ 比 $\mathrm{Cu}$ 活泼，构成原电池时，$\mathrm{Fe}$ 作负极，加快了钢铁腐蚀，C 错误；钢铁闸门应与电源负极相连，使钢铁闸门被保护，属于外加电流法，D 错误。
+
+**2.D**　由题图可知，$\mathrm{Fe}$ 失去电子转化为 $\mathrm{Fe^{2+}}$，$\mathrm{Fe}$ 作负极，A 项正确。厌氧环境缺少 $\mathrm{O_2}$，故正极由 $\mathrm{H_2O}$ 得电子发生反应：$\mathrm{2H_2O+2e^-\longrightarrow2OH^-+H_2\uparrow}$，B 项正确。正极反应生成的 $\mathrm{H_2}$ 与 $\mathrm{SO_4^{2-}}$ 在厌氧细菌作用下反应生成 $\mathrm{S^{2-}}$，负极反应生成的 $\mathrm{Fe^{2+}}$ 与 $\mathrm{S^{2-}}$ 结合生成 $\mathrm{FeS}$ 沉淀，促进腐蚀反应正向进行，C 项正确。厌氧腐蚀中钢管表面形成原电池，属于电化学腐蚀，D 项错误。
+
+**3.D**　$\mathrm{Cu_2(OH)_3Cl}$ 结构疏松膨胀，会使器物损坏程度逐步加剧，属于有害锈；$\mathrm{Cu_2(OH)_2CO_3}$ 结构致密，能形成保护层，属于无害锈，A 项正确。$\mathrm{Cu_2(OH)_2CO_3}$ 与盐酸反应生成 $\mathrm{CuCl_2}$、$\mathrm{CO_2}$ 和 $\mathrm{H_2O}$，$\mathrm{Cu_2(OH)_3Cl}$ 与盐酸反应生成 $\mathrm{CuCl_2}$ 和 $\mathrm{H_2O}$，B 项正确。$\mathrm{Na_2CO_3}$ 溶液中的 $\mathrm{CO_3^{2-}}$ 能够促进 $\mathrm{Cu_2(OH)_3Cl}$ 转化为结构致密的 $\mathrm{Cu_2(OH)_2CO_3}$，有利于文物的保存，C 项正确。$\mathrm{Cu_2O}$ 转化为 $\mathrm{Cu_2(OH)_3Cl}$，$\mathrm{Cu}$ 元素的化合价升高，氧化剂应为 $\mathrm{O_2}$，反应为 $\mathrm{2Cu_2O+O_2+2H^++2Cl^-+2H_2O\longrightarrow2Cu_2(OH)_3Cl}$，D 项错误。
+
+## 考法突破9　电极反应式的书写
+
+### 典例1　AC
+
+该装置为燃料电池，$\mathrm{a}$ 电极上 $\mathrm{HCOO^-}$ 被氧化为 $\mathrm{CO_2}$，为负极，A 正确；电极电势：正极 $>$ 负极，即电极电势：$\mathrm{b>a}$，B 错误；$\mathrm{a}$ 电极上 $\mathrm{HCOO^-}$ 被氧化为 $\mathrm{CO_2}$，电极反应式为 $\mathrm{HCOO^--2e^-\longrightarrow CO_2\uparrow+H^+}$，C 正确；未指明是否为标准状况，无法计算 $\mathrm{O_2}$ 的体积，D 错误。
+
+### 变式1　C
+
+电极 B 上 $\mathrm{Mn^{2+}\rightarrow MnO_2}$，为阳极，电极反应为 $\mathrm{Mn^{2+}+2H_2O-2e^-\longrightarrow MnO_2+4H^+}$；电极 A 为阴极，电极反应为 $\mathrm{LiMn_2O_4+3e^-+8H^+\longrightarrow2Mn^{2+}+Li^++4H_2O}$，故 A、B 正确。由上述两个电极反应式可知，当电路中通过 $6\ \mathrm{mol}$ 电子时，电极 A 上生成 $4\ \mathrm{mol}$ $\mathrm{Mn^{2+}}$，而电极 B 上消耗 $3\ \mathrm{mol}$ $\mathrm{Mn^{2+}}$，所以电解一段时间后溶液中 $\mathrm{Mn^{2+}}$ 浓度增大，C 错误。通过调节 $\mathrm{pH}$，$\mathrm{Mn^{2+}}$ 可生成沉淀，由题中信息可知 $\mathrm{Li_2CO_3}$ 是难溶的，D 正确。
+
+### 典例2
+
+**答案**　$\mathrm{2CO_2+10e^-+10H^+\longrightarrow CH_3CHO+3H_2O}$
+
+**解析**　$\mathrm{CO_2}$ 转化为 $\mathrm{CH_3CHO}$ 时碳元素的化合价下降，故 $\mathrm{CO_2}$ 得到电子发生还原反应，根据化合价的变化确定得到的电子数：$\mathrm{2CO_2+10e^-\longrightarrow CH_3CHO}$，电解质溶液中存在稀硫酸，根据电荷守恒补上 $\mathrm{H^+}$：$\mathrm{2CO_2+10e^-+10H^+\longrightarrow CH_3CHO}$，再根据氢、氧原子守恒补上 $\mathrm{H_2O}$，得到完整的电极反应式：$\mathrm{2CO_2+10e^-+10H^+\longrightarrow CH_3CHO+3H_2O}$。
+
+### 变式2
+
+**答案**　$\mathrm{[Co(C_6H_6O_7)]+2e^-+C_6H_8O_7\longrightarrow Co+2C_6H_7O_7^-}$
+
+**解析**　已知用电解法回收钴，则 $+2$ 价 $\mathrm{Co}$ 应得到电子被还原为钴单质，则钴电极为阴极，石墨电极为阳极。已知 $\mathrm{[Co(C_6H_6O_7)]}$ 在电极放电伴有 $\mathrm{C_6H_7O_7^-}$ 生成，根据化合价的变化确定得到的电子数：$\mathrm{[Co(C_6H_6O_7)]+2e^-\longrightarrow Co+C_6H_7O_7^-}$，溶液呈酸性，若酸性来自强酸，则根据电荷守恒应在电极反应式的左侧补上 $1$ 个 $\mathrm{H^+}$，但此题中溶液的酸性来自弱酸 $\mathrm{C_6H_8O_7}$，故应用 $\mathrm{C_6H_8O_7}$ 代替 $\mathrm{H^+}$，根据反应后有 $\mathrm{C_6H_7O_7^-}$ 生成，可知 $1$ 个 $\mathrm{C_6H_8O_7}$ 给出 $1$ 个 $\mathrm{H^+}$，故在电极反应式的左侧补上 $1$ 个 $\mathrm{C_6H_8O_7}$：$\mathrm{[Co(C_6H_6O_7)]+2e^-+C_6H_8O_7\longrightarrow Co+C_6H_7O_7^-}$，根据电荷守恒和原子守恒，确定 $\mathrm{C_6H_7O_7^-}$ 的化学计量数为 $2$，从而得到完整的电极反应式：$\mathrm{[Co(C_6H_6O_7)]+2e^-+C_6H_8O_7\longrightarrow Co+2C_6H_7O_7^-}$。
+
+## 考法突破10　新型电化学装置分析及相关计算
+
+### 典例1　BD
+
+根据甲装置的工作原理（反应可自发进行，不需要通电）可知甲装置为原电池，根据实验目的可知乙装置为电解池。惰性电极Ⅰ上发生 $\mathrm{Na_2S_2}$ 转化为 $\mathrm{Na_2S_4}$ 的反应，$\mathrm{S}$ 元素化合价升高，则惰性电极Ⅰ为负极，电极反应式为 $\mathrm{2S_2^{2-}-2e^-\longrightarrow S_4^{2-}}$，惰性电极Ⅱ为正极，B 正确。电极 $\mathrm{a}$ 与惰性电极Ⅱ（正极）相连，则电极 $\mathrm{a}$ 为阳极，电极 $\mathrm{b}$ 为阴极，为制备 $\mathrm{Fe(OH)_2}$，电极 $\mathrm{a}$（阳极）应为铁，发生氧化反应：$\mathrm{Fe-2e^-\longrightarrow Fe^{2+}}$，电极 $\mathrm{b}$（阴极）为石墨，发生还原反应：$\mathrm{2H_2O+2e^-\longrightarrow H_2\uparrow+2OH^-}$，$\mathrm{Fe^{2+}}$ 移向阴极，$\mathrm{OH^-}$ 移向阳极，在 U 形管底部发生反应制得 $\mathrm{Fe(OH)_2}$：$\mathrm{Fe^{2+}+2OH^-\longrightarrow Fe(OH)_2\downarrow}$，A 错误。若用 $\mathrm{CuCl_2}$ 溶液代替 $\mathrm{NaCl}$ 溶液，则 $\mathrm{Cu^{2+}}$ 会在阴极得电子生成 $\mathrm{Cu}$，不能制得 $\mathrm{Fe(OH)_2}$，C 错误。根据电极反应式可知，每生成 $9.0\ \mathrm{g}$（$0.1\ \mathrm{mol}$）$\mathrm{Fe(OH)_2}$，电路中转移 $0.2\ \mathrm{mol}$ $\mathrm{e^-}$，则甲装置中有 $0.2\ \mathrm{mol}$ $\mathrm{Na^+}$ 透过阳离子交换膜移向正极，D 正确。
+
+### 变式1　D
+
+观察左池和右池中物质的变化情况，左池中 $\mathrm{S—S}$ 键断裂，形成 $\mathrm{H—S}$ 键；右池中 $\mathrm{—CH_3}$ 转化为 $\mathrm{—COOH}$，则可知电极 $\mathrm{b}$ 上发生氧化反应，为电解池阳极；电极 $\mathrm{a}$ 上发生还原反应，为电解池阴极；在电解池中阳离子由阳极移向阴极，则 $\mathrm{H^+}$ 从电极 $\mathrm{b}$ 移向电极 $\mathrm{a}$；综上可知 A、B 项正确。根据物质转化过程可得电极 $\mathrm{a}$ 的电极反应式为 $\mathrm{HOOC—CH(NH_2)—CH_2—S—S—CH_2—CH(NH_2)—COOH+2e^-+2H^+\longrightarrow2HS—CH_2—CH(NH_2)—COOH}$，电极 $\mathrm{b}$ 的电极反应式为：
+
+[图：电极 $\mathrm{b}$ 的电极反应式。反应物为吡啶环上与环内 $\mathrm{N}$ 间位的碳原子连接 $\mathrm{CH_3}$ 的结构，生成物为对应位置连接 $\mathrm{COOH}$ 的结构；反应式为“该甲基吡啶 $+2\mathrm{H_2O}-6\mathrm{e^-}\longrightarrow$ 该吡啶甲酸 $+6\mathrm{H^+}$”。]
+
+根据得失电子守恒可知生成 $3\ \mathrm{mol}$ 半胱氨酸的同时生成 $0.5\ \mathrm{mol}$ 烟酸，综上可知 C 项正确，D 项错误。
+
+### 名师点睛
+
+对于图中 $\mathrm{S—S}$ 键可类比过氧键，则硫元素的化合价为 $-1$，转化为半胱氨酸时，硫元素的化合价变为 $-2$，很容易得出左池中发生了还原反应。
+
+<!-- page 15 -->
+
+### 典例2　D
+
+M 极处 $\mathrm{Zn}$ 转化为 $\mathrm{[Zn(OH)_4]^{2-}}$，$\mathrm{Zn}$ 元素化合价升高，失去电子，故 M 极为负极，则 N 极为正极，$\mathrm{NO_x^-}$ 得到电子生成 $\mathrm{NH_3}$，A 项正确。M 极的电极反应为 $\mathrm{Zn-2e^-+4OH^-\longrightarrow[Zn(OH)_4]^{2-}}$，每消耗 $4\ \mathrm{mol}$ $\mathrm{OH^-}$ 转移 $2\ \mathrm{mol}$ 电子，为传递电荷，有 $2\ \mathrm{mol}$ $\mathrm{OH^-}$ 通过双极膜移向 M 极，故 M 极区 $c(\mathrm{OH^-})$ 减小，$\mathrm{pH}$ 变小，B 项正确。$x=3$ 时，N 极处 $\mathrm{NO_3^-}$ 得到电子生成 $\mathrm{NH_3}$，题给电极反应式符合电荷守恒和原子守恒，C 项正确。$x=2$ 时，N 极处 $\mathrm{NO_2^-}$ 得到电子生成 $\mathrm{NH_3}$，则 $\mathrm{NH_3\sim6e^-}$，$0.5\ \mathrm{V}$ 电压放电 $10$ 小时，生成 $\mathrm{NH_3}$ 的物质的量为 $\dfrac{93.5\times10^{-6}\ \mathrm{g\cdot h^{-1}}\times10\ \mathrm{h}}{17\ \mathrm{g\cdot mol^{-1}}}=5.5\times10^{-5}\ \mathrm{mol}$，生成 $\mathrm{NH_3}$ 需要电子的物质的量为 $5.5\times10^{-5}\times6\ \mathrm{mol}$，则法拉第效率为 $\dfrac{5.5\times10^{-5}\times6\ \mathrm{mol}}{5.5\times10^{-4}\ \mathrm{mol}}\times100\%=60\%$，D 项错误。
+
+### 变式2
+
+**答案**　（3）① $\mathrm{H_2}$　② $\mathrm{10HCO_3^-+8e^-\longrightarrow CH_4\uparrow+9CO_3^{2-}+3H_2O}$
+
+③生成 $1\ \mathrm{mol}$ $\mathrm{C_2H_4}$ 转移 $12\ \mathrm{mol}$ 电子，生成 $1\ \mathrm{mol}$ $\mathrm{HCOO^-}$ 转移 $2\ \mathrm{mol}$ 电子
+
+$\dfrac{FE\%(\mathrm{C_2H_4})}{FE\%(\mathrm{HCOO^-})}=\dfrac{12\times n(\mathrm{C_2H_4})}{2\times n(\mathrm{HCOO^-})}$
+
+$\dfrac{n(\mathrm{C_2H_4})}{n(\mathrm{HCOO^-})}=\dfrac{24\times2}{8\times12}=\dfrac12$
+
+**解析**　（3）①电解 $\mathrm{KHCO_3}$ 溶液时，阴极发生还原反应，当电解电压为 $U_1$ 时，电解过程中无含碳还原产物产生，说明此时阴极处 $\mathrm{H^+}$ 得到电子生成 $\mathrm{H_2}$。② $\mathrm{HCO_3^-\rightarrow CH_4}$，碳元素的化合价从 $+4$ 降低至 $-4$，可得 $\mathrm{HCO_3^-+8e^-+6H_2O\longrightarrow CH_4\uparrow+9OH^-}$，生成的 $\mathrm{OH^-}$ 再与过量的 $\mathrm{HCO_3^-}$ 反应生成 $\mathrm{H_2O}$ 和 $\mathrm{CO_3^{2-}}$，故总的电极反应式为 $\mathrm{10HCO_3^-+8e^-\longrightarrow CH_4\uparrow+9CO_3^{2-}+3H_2O}$。
+
+更多资料加 ttzsk666 或关注公众号：瀚升学堂
+
+## 考法突破11　离子交换膜在电化学中的应用
+
+### 典例1　B
+
+右侧石墨电极上 $\mathrm{CH_3COO^-}$ 转化为 $\mathrm{CO_2}$，发生氧化反应：$\mathrm{CH_3COO^-+2H_2O-8e^-\longrightarrow2CO_2\uparrow+7H^+}$，则右侧石墨电极作阳极，左侧石墨电极作阴极，$\mathrm{a}$ 为电源负极，$\mathrm{b}$ 为电源正极。
+
+A 项，若以铅酸蓄电池为电源，$\mathrm{b}$（正极）应为 $\mathrm{PbO_2}$ 电极，错误；
+
+B 项，根据题图可知 $\mathrm{Cu^{2+}}$ 和 $\mathrm{SO_4^{2-}}$ 在 SRB 的作用下转化为 $\mathrm{CuS}$，$\mathrm{S}$ 元素化合价由 $+6$ 降低为 $-2$，发生还原反应：$\mathrm{Cu^{2+}+SO_4^{2-}+8e^-+8H^+\xrightarrow{SRB}CuS+4H_2O}$，正确；
+
+C 项，根据阳极的电极反应式可知，电路中转移 $8\ \mathrm{mol}$ 电子，阳极区生成 $7\ \mathrm{mol}$ $\mathrm{H^+}$，为传递电荷，有 $8\ \mathrm{mol}$ $\mathrm{H^+}$ 通过质子交换膜进入阴极区，则阳极区溶液中 $\mathrm{H^+}$ 的浓度减小，$\mathrm{pH}$ 增大，错误；
+
+D 项，根据电极反应式可知，标准状况下，产生 $2.24\ \mathrm{L}$ 即 $0.1\ \mathrm{mol}$ $\mathrm{CO_2}$ 时，电路中转移 $0.4\ \mathrm{mol}$ 电子，若阴极处只有 $\mathrm{SO_4^{2-}}$ 得电子，可生成 $0.05\ \mathrm{mol}$ 即 $4.8\ \mathrm{g}$ $\mathrm{CuS}$，但阴极处 $\mathrm{H^+}$ 也会得电子，若生成的 $\mathrm{H_2}$ 全部参与形成 $\mathrm{CuS}$ 的反应，最终得到 $\mathrm{CuS}$ 的质量也为 $4.8\ \mathrm{g}$，错误。
+
+### 易错提醒
+
+电极区溶液 $\mathrm{pH}$ 的变化，不能只看电极反应中 $\mathrm{H^+}$（或 $\mathrm{OH^-}$）的生成或消耗，还应考虑通过离子交换膜的 $\mathrm{H^+}$（或 $\mathrm{OH^-}$），综合判断 $\mathrm{H^+}$（或 $\mathrm{OH^-}$）的实际变化量。
+
+### 变式1　B
+
+根据 N 极上有机物的转化（增加了 $\mathrm{H}$ 原子）可知 N 极发生得电子的还原反应，则 N 极作正极，M 极作负极，B 正确。电池工作时，电流方向为 N 极→电流计→M 极→膜 $\mathrm{a}$→膜 $\mathrm{b}$→N 极，A 错误。M 极上 $\mathrm{B_2H_6}$ 转化为 $\mathrm{BO_2^-}$，$\mathrm{B}$ 元素化合价不变，推测 $\mathrm{H}$ 元素化合价由 $-1$ 升高为 $+1$，则 $\mathrm{B_2H_6\sim12e^-}$，根据电荷守恒、原子守恒可得电极反应式：$\mathrm{B_2H_6+14OH^--12e^-\longrightarrow2BO_2^-+10H_2O}$，消耗 $0.1\ \mathrm{mol}$ $\mathrm{B_2H_6}$ 时，电路中转移 $1.2\ \mathrm{mol}$ $\mathrm{e^-}$，为传递电荷，双极膜中会有 $1.2\ \mathrm{mol}$ $\mathrm{H^+}$ 通过膜 $\mathrm{b}$ 移向 N 极（正极），C 错误。根据 M 极的电极反应式可知，每消耗 $14\ \mathrm{mol}$ $\mathrm{OH^-}$ 会转移 $12\ \mathrm{mol}$ $\mathrm{e^-}$，同时有 $12\ \mathrm{mol}$ $\mathrm{OH^-}$ 通过膜 $\mathrm{a}$ 移向 M 极，则 M 极区需补充 $\mathrm{NaOH}$；根据 N 极的电极反应式可知，每消耗 $4\ \mathrm{mol}$ $\mathrm{H^+}$ 会转移 $4\ \mathrm{mol}$ $\mathrm{e^-}$，同时有 $4\ \mathrm{mol}$ $\mathrm{H^+}$ 通过膜 $\mathrm{b}$ 移向 N 极，则 N 极区不需要补充 $\mathrm{H_2SO_4}$，D 错误。
+
+### 典例2　CD
+
+根据题意“在乙池中实现锂的富集”可知，电极4上发生的电极反应为 $\mathrm{LiFePO_4-e^-\longrightarrow Li^++FePO_4}$，使储液槽中 $\mathrm{Li^+}$ 通过膜 $\mathrm{a}$ 进入电极1区域，在电极1上发生反应：$\mathrm{Li^++e^-+FePO_4\longrightarrow LiFePO_4}$，保持电源正负极不变，运行一段时间后，将电极1与电极4互换，则可保持电极1、电极4上的反应不变，从而在电极4区实现锂的富集。电极1上 $\mathrm{Li^+}$ 参与反应，则需要不断补充 $\mathrm{Li^+}$，膜 $\mathrm{a}$ 为阳离子交换膜，A 错误。储液槽中 $\mathrm{Li^+}$ 通过膜 $\mathrm{a}$ 进入电极1区，为传递电荷，储液槽中 $\mathrm{Cl^-}$ 通过膜 $\mathrm{b}$ 进入电极2区，使电极2上发生反应：$\mathrm{Ag-e^-+Cl^-\longrightarrow AgCl}$，运行一段时间后，将电极2与电极3互换，B 错误。根据上述分析可知电极1为阴极，电极4为阳极，电极2为阳极，电极3为阴极，电极4连接电源的正极，C 正确。乙池中，电极3的电极反应式为 $\mathrm{AgCl+e^-\longrightarrow Ag+Cl^-}$，电极4的电极反应式为 $\mathrm{LiFePO_4-e^-\longrightarrow Li^++FePO_4}$，电路通过 $1\ \mathrm{mol}$ 电子时，理论上乙池中电解液增加的质量为 $1\ \mathrm{mol}$ $\mathrm{Li^+}$ 和 $1\ \mathrm{mol}$ $\mathrm{Cl^-}$ 的质量，即 $1\ \mathrm{mol}\times(7+35.5)\ \mathrm{g/mol}=42.5\ \mathrm{g}$，D 正确。
+
+### 变式2　AB
+
+根据题图电化学装置，通入 $\mathrm{NH_3}$ 的一侧溶液中，$\mathrm{Ag^+}$ 与 $\mathrm{NH_3}$ 发生反应转化为 $\mathrm{[Ag(NH_3)_2]^+}$，导致Ⅰ、Ⅳ室溶液中存在 $\mathrm{Ag^+}$ 浓度差，则 M 电极为负极，发生反应：$\mathrm{Ag-e^-+2NH_3\longrightarrow[Ag(NH_3)_2]^+}$，N 电极为正极，发生反应：$\mathrm{Ag^++e^-\longrightarrow Ag}$。正极（N 电极）电势比负极（M 电极）电势高，A 正确。为使 $\mathrm{NaCl}$ 转化为 $\mathrm{NaOH}$ 和 $\mathrm{HCl}$，结合原电池中离子移动方向（阳离子移向正极，阴离子移向负极），可知双极膜 $\mathrm{b}$ 解离出的 $\mathrm{H^+}$ 应移向Ⅲ室、$\mathrm{OH^-}$ 应移向Ⅱ室，Ⅱ室的 $\mathrm{Cl^-}$ 应移向Ⅰ室，Ⅲ室的 $\mathrm{Na^+}$ 应移向Ⅳ室，故 $\mathrm{a}$ 为阴离子交换膜，$\mathrm{c}$ 为阳离子交换膜，Ⅱ室中得到 $\mathrm{NaOH}$ 溶液，Ⅲ室中得到盐酸，B 正确，C 错误。M 电极质量减少 $10.8\ \mathrm{g}$（$0.1\ \mathrm{mol}$ $\mathrm{Ag}$）时，转移 $0.1\ \mathrm{mol}$ 电子，从双极膜内迁移出的 $\mathrm{H^+}$、$\mathrm{OH^-}$ 均为 $0.1\ \mathrm{mol}$，即双极膜内有 $0.1\ \mathrm{mol}$ $\mathrm{H_2O}$ 解离，D 错误。

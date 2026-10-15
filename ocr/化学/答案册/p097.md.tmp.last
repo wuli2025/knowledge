@@ -1,0 +1,91 @@
+<!-- page 97 -->
+
+高 $\mathrm{CH_4}$ 平衡产率，故选 B。（3）步骤中最慢的基元反应的能垒最大，结合题图可知是反应④。生成水的基元反应为反应③，其反应方程式为 $\mathrm{HO^\bullet+CH_2^\bullet+H^\bullet+H_2^\bullet+H_2O\longrightarrow CH_3^\bullet+H^\bullet+2H_2O}$ 或 $\mathrm{HO^\bullet+CH_2^\bullet+H_2^\bullet\longrightarrow CH_3^\bullet+H_2O}$。（4）①已知反应Ⅲ在 $360\ ℃$ 以下不考虑。由变化关系图可知，在 $150\ ℃$ 时，$\mathrm{H_2}$ 的平衡转化率为 $100\%$，则反应Ⅱ中 $\mathrm{CO_2}$ 消耗了 $0.25\ \mathrm{mol}$，反应Ⅰ中 $\mathrm{MgCO_3}$ 至少分解了 $0.25\ \mathrm{mol}$，且随着温度升高，$\mathrm{MgCO_3}$ 分解得越多，直至完全分解，所以曲线 a 表示 $\mathrm{MgCO_3}$ 的平衡转化率随温度变化的关系。反应Ⅱ为放热反应，在 $360\ ℃$ 以下，随着温度升高，反应Ⅱ平衡逆向移动，$\mathrm{CO_2}$ 的选择性增大，$\mathrm{CH_4}$ 的选择性减小，故曲线 b 表示 $\mathrm{CO_2}$ 的选择性随温度变化的关系，曲线 c 表示 $\mathrm{CH_4}$ 的选择性随温度变化的关系。
+
+[图：横坐标为温度/$℃$，纵坐标为选择性或平衡转化率/$\%$。曲线 a（$\mathrm{MgCO_3}$）随温度升高而上升，后接近 $100\%$；曲线 b（$\mathrm{CO_2}$）先上升后下降；曲线 c（$\mathrm{CH_4}$）随温度升高而下降；$\mathrm{H_2}$ 曲线总体下降。图中标出 M 点附近的虚线区域。]
+
+②由点 M 附近区域放大图可知，M 点对应的反应温度低于 $360\ ℃$，此时未发生反应Ⅲ。M 点 $\mathrm{CO_2}$ 和 $\mathrm{CH_4}$ 的选择性均为 $50.0\%$，$\mathrm{MgCO_3}$ 的平衡转化率为 $49.0\%$。所以转化的 $n(\mathrm{MgCO_3})=1\ \mathrm{mol}\times49.0\%=0.49\ \mathrm{mol}$，生成的 $n(\mathrm{CO_2})=n(\mathrm{CH_4})=0.49\ \mathrm{mol}\times50.0\%=0.245\ \mathrm{mol}$，$n(\mathrm{H_2O})=2n(\mathrm{CH_4})=0.49\ \mathrm{mol}$，剩余的 $n(\mathrm{H_2})=1\ \mathrm{mol}-0.245\ \mathrm{mol}\times4=0.02\ \mathrm{mol}$。容器中混合气体的物质的量之和为 $0.245\ \mathrm{mol}+0.49\ \mathrm{mol}+0.02\ \mathrm{mol}+0.245\ \mathrm{mol}=1\ \mathrm{mol}$，所以 $\mathrm{CO_2、H_2、CH_4、H_2O}$ 的物质的量分数分别为 $0.245、0.02、0.245、0.49$，故反应Ⅱ的 $K_p=\dfrac{(0.245\times100)\times(0.49\times100)^2}{(0.245\times100)\times(0.02\times100)^4}\ (\mathrm{kPa})^{-2}$。③由变化关系图可知，在 $550\ ℃$ 时，$1\ \mathrm{mol}\ \mathrm{MgCO_3}$ 已完全分解，$\mathrm{CO_2}$ 和 $\mathrm{CH_4}$ 的选择性分别为 $70\%、10\%$，故 $n(\mathrm{CO_2})=0.7\ \mathrm{mol}$，$n(\mathrm{CH_4})=0.1\ \mathrm{mol}$，根据碳原子守恒，$n(\mathrm{C})=n(\mathrm{CO_2})+n(\mathrm{CH_4})+n(\mathrm{CO})=1\ \mathrm{mol}$，则 $n(\mathrm{CO})=0.2\ \mathrm{mol}$。
+
+**5.答案** （2）$\mathrm{H_2}$　随温度升高，反应（Ⅱ）平衡逆向移动，故 $\mathrm{CO_2}$ 摩尔分数逐渐降低
+
+（3）$\dfrac59$　$0.5$　不变　不变
+
+**解析** （2）反应（Ⅰ）中生成 $\mathrm{CO}$ 与 $\mathrm{H_2}$ 的物质的量之比为 $1:1$，反应（Ⅱ）中生成 $\mathrm{CO_2}$ 与 $\mathrm{H_2}$ 的物质的量之比为 $1:1$，且反应（Ⅱ）、（Ⅲ）中 $\mathrm{CO}$ 和 $\mathrm{CO_2}$ 分别作为反应物，故平衡时 $\mathrm{CO、CO_2、H_2}$ 中 $\mathrm{H_2}$ 摩尔分数最大，即 a 线对应物种为 $\mathrm{H_2}$。当温度高于 $T_1$ 时，由于 $\mathrm{C(s)}$ 已完全反应且 $\mathrm{CaCO_3(s)}$ 已完全分解，则反应体系中不存在反应（Ⅰ）、（Ⅲ）的化学平衡；随着温度升高，反应（Ⅱ）平衡逆向移动，$\mathrm{CO_2}$ 摩尔分数降低，$\mathrm{CO}$ 摩尔分数升高，故 b、c 线对应物种分别为 $\mathrm{CO、CO_2}$。（3）$T_0$ 时不存在反应（Ⅰ）的化学平衡，由题图可知 $\mathrm{H_2、CO、CO_2}$ 的摩尔分数分别为 $0.50、0.15、0.05$，则 $\mathrm{H_2O}$ 的摩尔分数为 $1-0.50-0.15-0.05=0.30$，$\mathrm{CO(g)+H_2O(g)\rightleftharpoons CO_2(g)+H_2(g)}$ 反应前后气体分子总数不变，故可用摩尔分数代替分压计算 $K_p$，则 $K_p=\dfrac{0.05\times0.50}{0.15\times0.30}=\dfrac59$。用气体总物质的量乘以各气体的摩尔分数，可得平衡时 $\mathrm{H_2、CO、CO_2、H_2O}$ 的物质的量分别为 $2\ \mathrm{mol}、0.6\ \mathrm{mol}、0.2\ \mathrm{mol}、1.2\ \mathrm{mol}$，这 $4$ 种气体中的 $\mathrm{H}$ 原子和 $\mathrm{O}$ 原子均来自原料中的 $\mathrm{H_2O}$；此外，由反应（Ⅲ）可知，$1\ \mathrm{mol}\ \mathrm{CaCO_3}$ 中有 $2\ \mathrm{mol}\ \mathrm{O}$ 原子也来自原料中的 $\mathrm{H_2O}$（直接来自 $\mathrm{CO_2}$，间接来自 $\mathrm{H_2O}$）；设平衡时 $\mathrm{CaCO_3(s)}$ 的物质的量为 $x\ \mathrm{mol}$，由于原料 $\mathrm{H_2O}$ 中 $\mathrm{H、O}$ 原子个数比为 $2:1$，根据 $\mathrm{H、O}$ 原子守恒，平衡时应有 $\dfrac21=\dfrac{2\times2+1.2\times2}{0.6+0.2\times2+1.2+2x}$，解得 $x=0.5$，即 $\mathrm{CaCO_3(s)}$ 的物质的量为 $0.5\ \mathrm{mol}$。若向平衡体系中通入少量 $\mathrm{CO_2(g)}$，由于反应（Ⅲ）的平衡常数 $K_{p_3}=\dfrac1{p(\mathrm{CO_2})}$ 在一定温度下为定值，故重新达平衡后，$p(\mathrm{CO_2})$ 不变；由于通入的 $\mathrm{CO_2}$ 会通过反应（Ⅲ）平衡正向移动而被消耗，$p(\mathrm{CO_2})$ 最终不变，故反应（Ⅱ）的化学平衡最终不受通入的 $\mathrm{CO_2}$ 的影响，因此重新达平衡后 $p(\mathrm{CO})$ 不变。
+
+**6.答案** （1）$\Delta H_1+\Delta H_2$
+
+（2）$\mathrm{H_2O}$　$<$
+
+（3）$0.45+0.5a$　$150a$
+
+（4）增大　减小
+
+### 审题指导
+
+本题的关键在于图像分析。题图的横坐标是温度，纵坐标是各气态物种的 $\lg n$，$\lg n$ 越大，气态物种的物质的量越大。已知反应Ⅱ的平衡常数 $K=\dfrac{c^4(\mathrm{H_2O})}{c^4(\mathrm{H_2})}=10^8$，故平衡时始终满足 $\dfrac{c(\mathrm{H_2O})}{c(\mathrm{H_2})}=100$，则 $\dfrac{n(\mathrm{H_2O})}{n(\mathrm{H_2})}=100$，可得 $\lg n(\mathrm{H_2O})-\lg n(\mathrm{H_2})=2$，故 $\mathrm{H_2O}$ 和 $\mathrm{H_2}$ 对应曲线的变化趋势相同，且相同温度下 $\lg n$ 的差值为 $2$，所以乙线所示物种为 $\mathrm{H_2O}$，丁线所示物种为 $\mathrm{H_2}$。平衡时，$\mathrm{H}$ 原子存在于 $\mathrm{H_2、H_2O}$ 和 $\mathrm{H_2S}$ 中，由题图可知，随着温度升高，$\mathrm{H_2}$ 和 $\mathrm{H_2O}$ 的物质的量均增大，则根据 $\mathrm{H}$ 原子守恒，$\mathrm{H_2S}$ 的物质的量应减小，故甲线所示物种为 $\mathrm{H_2S}$，则丙线所示物种为 $\mathrm{SO_2}$。
+
+[图：纵坐标为 $\lg n$，横坐标为温度 $T$，向右增大，标出 $T_1、T_2$。$\mathrm{S_2}$ 曲线随温度升高而下降；甲为 $\mathrm{H_2S}$，随温度升高而下降；乙为 $\mathrm{H_2O}$，丙为 $\mathrm{SO_2}$，丁为 $\mathrm{H_2}$，均随温度升高而上升。$T_1$ 时乙、丙相交于 $\lg n=-2$，丁对应 $\lg n=-4$。]
+
+**解析** （1）根据盖斯定律，（1）中所给反应可由反应Ⅰ和Ⅱ相加得到，所以 $\Delta H=\Delta H_1+\Delta H_2$。
+
+（2）由前述分析可知，乙线所示物种为 $\mathrm{H_2O}$。由题图可知，随着温度升高，$\mathrm{H_2S}$ 的物质的量减小，说明反应Ⅲ平衡逆向移动，故 $\Delta H_3<0$。
+
+<!-- page 98 -->
+
+（3）由题给信息可知，$T_1$ 温度下，体系达平衡时，$n(\mathrm{H_2})=a\ \mathrm{mol}$，$\mathrm{H_2O}$ 和 $\mathrm{SO_2}$ 的物质的量相等，由前述分析可知 $n(\mathrm{H_2O})=100n(\mathrm{H_2})$，故 $n(\mathrm{H_2O})=n(\mathrm{SO_2})=100a\ \mathrm{mol}$。根据 $\mathrm{H}$ 原子守恒，$0.1\ \mathrm{mol}\times2=n(\mathrm{H_2})\times2+n(\mathrm{H_2O})\times2+n(\mathrm{H_2S})\times2$，代入 $n(\mathrm{H_2})$ 和 $n(\mathrm{H_2O})$，可得 $n(\mathrm{H_2S})=(0.1-101a)\ \mathrm{mol}$。起始时投入 $1\ \mathrm{mol}\ \mathrm{CaS}$ 和 $1\ \mathrm{mol}\ \mathrm{SO_2}$，故体系中 $\mathrm{S}$ 原子的物质的量为 $1\ \mathrm{mol}+1\ \mathrm{mol}=2\ \mathrm{mol}$，$\mathrm{Ca}$ 原子的物质的量为 $1\ \mathrm{mol}$，根据 $\mathrm{Ca}$ 原子守恒，平衡时 $n(\mathrm{CaS})+n(\mathrm{CaSO_4})=1\ \mathrm{mol}$，则固体中含有 $1\ \mathrm{mol}\ \mathrm{S}$ 原子，因此平衡时气体中含有 $2\ \mathrm{mol}-1\ \mathrm{mol}=1\ \mathrm{mol}\ \mathrm{S}$ 原子，则 $1\ \mathrm{mol}=n(\mathrm{SO_2})+n(\mathrm{S_2})\times2+n(\mathrm{H_2S})$，代入 $n(\mathrm{SO_2})$ 和 $n(\mathrm{H_2S})$，可得 $n(\mathrm{S_2})=(0.45+0.5a)\ \mathrm{mol}$。根据 $\mathrm{O}$ 原子守恒，$1\ \mathrm{mol}\times2=n(\mathrm{SO_2})\times2+n(\mathrm{H_2O})+n(\mathrm{CaSO_4})\times4$，代入 $n(\mathrm{SO_2})$ 和 $n(\mathrm{H_2O})$，可得 $n(\mathrm{CaSO_4})=(0.5-75a)\ \mathrm{mol}$，则 $n(\mathrm{CaS})=1\ \mathrm{mol}-n(\mathrm{CaSO_4})=(0.5+75a)\ \mathrm{mol}$，故 $n(\mathrm{CaS})-n(\mathrm{CaSO_4})=(0.5+75a)\ \mathrm{mol}-(0.5-75a)\ \mathrm{mol}=150a\ \mathrm{mol}$。
+
+（4）反应Ⅰ＋反应Ⅱ－反应Ⅲ×2 可得 $\mathrm{2H_2S(g)\rightleftharpoons2H_2(g)+S_2(g)}$，其平衡常数 $K=\dfrac{c^2(\mathrm{H_2})\cdot c(\mathrm{S_2})}{c^2(\mathrm{H_2S})}=\left[\dfrac{c(\mathrm{H_2})}{c(\mathrm{H_2S})}\right]^2\times c(\mathrm{S_2})$。已知压缩容器体积增大压强，$\mathrm{S_2}$ 产率增大，则 $c(\mathrm{S_2})$ 增大，而 $K$ 不变，所以 $\dfrac{c(\mathrm{H_2})}{c(\mathrm{H_2S})}$ 减小，故 $\dfrac{n(\mathrm{H_2S})}{n(\mathrm{H_2})}$ 增大。反应Ⅲ是气体分子数减小的反应，增大压强，反应Ⅲ平衡正向移动，$n(\mathrm{H_2S})$ 增大，根据 $\mathrm{H}$ 原子守恒，$n(\mathrm{H_2})+n(\mathrm{H_2O})+n(\mathrm{H_2S})=0.1\ \mathrm{mol}$，且 $n(\mathrm{H_2O})=100n(\mathrm{H_2})$，故 $n(\mathrm{H_2S})$ 增大时 $n(\mathrm{H_2O})$ 和 $n(\mathrm{H_2})$ 均减小。
+
+# 第十章 水溶液中的离子反应与平衡
+
+## 第1节 弱电解质的电离平衡
+
+### 五年高考
+
+**1.C**　滴定时应始终注视锥形瓶中溶液颜色变化，A 不正确；配制溶液时容量瓶不必干燥，B 不正确；温度对醋酸的电离度也会产生影响，应控制变量，C 正确；醋酸溶液中醋酸的电离度 $\alpha=\dfrac{c(\mathrm{CH_3COO^-})}{c_{\text{起始}}(\mathrm{CH_3COOH})}\times100\%$，D 不正确。
+
+### 回归教材　鲁科版选必1第3章第2节
+
+弱电解质在水中的电离达到平衡状态时，已电离的溶质的分子数占原有溶质分子总数（包括已电离的和未电离的）的百分率称为电离度，通常用 $\alpha$ 表示。
+
+$\alpha=\dfrac{\text{已电离的溶质分子数}}{\text{原有溶质分子总数}}\times100\%$
+
+**2.D**　A 项，类比 $\mathrm{NH_3\cdot H_2O}$ 的电离平衡可知，$\mathrm{R_3N}$ 在水中存在平衡：$\mathrm{R_3N+H_2O\rightleftharpoons R_3NH^++OH^-}$，正确；B 项，根据甲酸的电离平衡 $\mathrm{HCOOH\rightleftharpoons H^++HCOO^-}$，$K_a=\dfrac{c(\mathrm{H^+})\cdot c(\mathrm{HCOO^-})}{c(\mathrm{HCOOH})}=1.8\times10^{-4}$，$\mathrm{pH}=5$ 即 $c(\mathrm{H^+})=10^{-5}\ \mathrm{mol\cdot L^{-1}}$，代入计算得 $\dfrac{c(\mathrm{HCOO^-})}{c(\mathrm{HCOOH})}=18$，正确；C 项，废水初始 $\mathrm{pH}<2.4$ 时，随 $\mathrm{pH}$ 下降，$\mathrm{H^+}$ 浓度增大，甲酸的电离平衡逆向移动，电离度减小，甲酸的电离被抑制，$\mathrm{HCOO^-}$ 浓度减小，则可与 $\mathrm{R_3NH^+}$ 作用的 $\mathrm{HCOO^-}$ 数目减少，使回收率降低，与题图相符，正确；D 项，由平衡 $\mathrm{R_3N+H_2O\rightleftharpoons R_3NH^++OH^-}$ 知，$\mathrm{pH}$ 较高时，$\mathrm{OH^-}$ 浓度增大，平衡逆向移动，离子交换树脂活性成分主要以 $\mathrm{R_3N}$ 形态存在，故被吸附的 $\mathrm{HCOO^-}$ 较少，回收率较低，错误。
+
+**3.B**
+
+### 图像分析
+
+[图：横坐标为 $\mathrm{pH}$，范围为 $0$～$8$；纵坐标为 $c/(\mathrm{mol\cdot L^{-1}})$，范围为 $0$～$0.100$。M 为 $c(\mathrm{HF})$—$\mathrm{pH}$ 曲线，随 $\mathrm{pH}$ 增大而下降；N 为 $c(\mathrm{F^-})$—$\mathrm{pH}$ 曲线，随 $\mathrm{pH}$ 增大而上升；P 为 $c(\mathrm{HF_2^-})$—$\mathrm{pH}$ 曲线，先上升后下降。$\mathrm{pH}=4$ 时，三条曲线上分别标出 $(4,0.0110)$、$(4,0.0800)$、$(4,0.0045)$。]
+
+**解析** 已知 $\mathrm{HF}$ 的水溶液中存在平衡：$\mathrm{HF}\overset{K_1}{\rightleftharpoons}\mathrm{H^++F^-}$，当溶液的 $\mathrm{pH}$ 增大时，$c(\mathrm{H^+})$ 减小，该平衡正向移动，$c(\mathrm{HF})$ 减小，$c(\mathrm{F^-})$ 增大，所以 M、N 分别为 $c(\mathrm{HF})$～$\mathrm{pH}$、$c(\mathrm{F^-})$～$\mathrm{pH}$ 关系曲线，A 错误；由题图可知，$\mathrm{pH}=4$ 时，$c(\mathrm{H^+})=0.0001\ \mathrm{mol\cdot L^{-1}}$，$c(\mathrm{HF})=0.0110\ \mathrm{mol\cdot L^{-1}}$，$c(\mathrm{F^-})=0.0800\ \mathrm{mol\cdot L^{-1}}$，$c(\mathrm{HF_2^-})=0.0045\ \mathrm{mol\cdot L^{-1}}$，则 $K_1=\dfrac{c(\mathrm{H^+})c(\mathrm{F^-})}{c(\mathrm{HF})}=\dfrac{0.0001\times0.0800}{0.0110}\approx7\times10^{-4}$，$K_2=\dfrac{c(\mathrm{HF_2^-})}{c(\mathrm{HF})c(\mathrm{F^-})}=\dfrac{0.0045}{0.0110\times0.0800}\approx5$，B 正确；$c_{\text{总}}(\mathrm{HF})=$ 所有含氟物质所贡献的氟原子浓度 $=c(\mathrm{F^-})+c(\mathrm{HF})+2c(\mathrm{HF_2^-})$，C 错误；已知 $c_{\text{总}}(\mathrm{HF})$ 为 $0.100\ \mathrm{mol\cdot L^{-1}}$，则溶液 $\mathrm{pH}>1$，此时溶液 $\mathrm{pH}=1$，说明向 $\mathrm{HF}$ 的水溶液中加入了其他酸，根据电荷守恒，可知 $c(\mathrm{H^+})=c(\mathrm{F^-})+c(\mathrm{HF_2^-})+c(\mathrm{OH^-})+c(\text{其他酸的阴离子})\times\text{阴离子所带负电荷数}$，则 $c(\mathrm{H^+})\ne c(\mathrm{F^-})+c(\mathrm{HF_2^-})+c(\mathrm{OH^-})$，D 错误。
+
+**4.D**
+
+[图：横坐标为 $\mathrm{pH}$，范围为 $0.0$～$6.0$；纵坐标为 $\delta$，范围为 $0.0$～$1.0$。图中有 $\delta(\mathrm{CHCl_2COOH})$、$\delta(\mathrm{CHCl_2COO^-})$、$\delta(\mathrm{CH_2ClCOOH})$、$\delta(\mathrm{CH_2ClCOO^-})$ 四条曲线；两条酸的分布分数曲线下降，两条酸根的分布分数曲线上升。M 标在 $\delta(\mathrm{CH_2ClCOO^-})$ 曲线上。标出 a 点、b$(2.08,0.85)$、c$(2.08,0.15)$、d 点。]
+
+<!-- page 99 -->
+
+$\mathrm{Cl}$ 的电负性大于 $\mathrm{H}$ 的电负性，则 $\mathrm{-CHCl_2}$ 的极性大于 $\mathrm{-CH_2Cl}$ 的极性，导致 $\mathrm{CHCl_2COOH}$ 的酸性大于 $\mathrm{CH_2ClCOOH}$ 的酸性，则相同条件下 $\mathrm{CHCl_2COOH}$ 溶液中的 $\delta(\mathrm{CHCl_2COO^-})$ 大于 $\mathrm{CH_2ClCOOH}$ 溶液中的 $\delta(\mathrm{CH_2ClCOO^-})$，则曲线 M 表示 $\delta(\mathrm{CH_2ClCOO^-})$～$\mathrm{pH}$ 的变化关系，A 错误。由于 $\mathrm{CH_2ClCOOH}$ 与 $\mathrm{CHCl_2COOH}$ 均为弱酸，当初始浓度为 $0.10\ \mathrm{mol\cdot L^{-1}}$ 时，$\mathrm{pH}>1$，而 a 点溶液的 $\mathrm{pH}=1$，故需外加酸使 $\mathrm{pH}$ 减小，题给关系式中缺少外加酸中阴离子的电荷浓度，B 错误。$K_a(\mathrm{CH_2ClCOOH})=\dfrac{c(\mathrm{CH_2ClCOO^-})\cdot c(\mathrm{H^+})}{c(\mathrm{CH_2ClCOOH})}$，根据上图 d 点可知，$\mathrm{pH}=2.8$ 时，$c(\mathrm{CH_2ClCOOH})=c(\mathrm{CH_2ClCOO^-})$，则 $K_a(\mathrm{CH_2ClCOOH})=c(\mathrm{H^+})=10^{-2.8}$，C 错误。$\mathrm{pH}=2.08$ 时，$\delta(\mathrm{CHCl_2COO^-})=0.85$，$\delta(\mathrm{CH_2ClCOO^-})=0.15$，则 $\mathrm{CH_2ClCOOH}$ 与 $\mathrm{CHCl_2COOH}$ 的电离度之比为 $0.15:0.85$，D 正确。
+
+### 三年模拟
+
+**5.A**　$\mathrm{NH_4^+}$ 水解促进水的电离，$\mathrm{CH_3COOH}$ 电离抑制水的电离，故两份溶液中水的电离程度不同，A 项错误。稀释时 $\mathrm{CH_3COOH}$ 的电离程度增大，故溶液中离子总物质的量增大，B 项正确。$\mathrm{CH_3COOH}$ 的浓度越大，其电离度越小，$\mathrm{CH_3COOH}$ 的电离度：$0.2\ \mathrm{mol\cdot L^{-1}}\ \mathrm{CH_3COOH}$ 溶液 $<0.1\ \mathrm{mol\cdot L^{-1}}\ \mathrm{CH_3COOH}$ 溶液，故两者电离度之比小于 $1:1$，C 项正确。由电荷守恒可得 $c(\mathrm{Na^+})+c(\mathrm{H^+})=c(\mathrm{CH_3COO^-})+c(\mathrm{OH^-})$，由元素守恒可得 $2c(\mathrm{Na^+})=c(\mathrm{CH_3COO^-})+c(\mathrm{CH_3COOH})$，联立两式消去 $c(\mathrm{Na^+})$，整理得 $c(\mathrm{CH_3COO^-})-c(\mathrm{CH_3COOH})=2[c(\mathrm{H^+})-c(\mathrm{OH^-})]$，D 项正确。
+
+**6.D**　A 项，$\mathrm{pH}=4$ 即 $c(\mathrm{H^+})=10^{-4}\ \mathrm{mol\cdot L^{-1}}$，已知苹果酸为二元弱酸，在水溶液中部分电离，故该溶液中苹果酸的浓度大于 $10^{-4}\ \mathrm{mol\cdot L^{-1}}\times\dfrac12=5\times10^{-5}\ \mathrm{mol\cdot L^{-1}}$，错误。B 项，根据电荷守恒可知，$c(\mathrm{H^+})=c(\mathrm{OH^-})+c(\mathrm{HMA^-})+2c(\mathrm{MA^{2-}})$，错误。C 项，加水稀释能促进苹果酸的电离，使苹果酸电离度增大，但溶液酸性减弱，$\mathrm{pH}$ 增大，错误。D 项，$K_{a_2}=\dfrac{c(\mathrm{MA^{2-}})c(\mathrm{H^+})}{c(\mathrm{HMA^-})}$，可得 $\dfrac{c(\mathrm{H^+})}{c(\mathrm{HMA^-})}=\dfrac{K_{a_2}}{c(\mathrm{MA^{2-}})}$，加水稀释时 $c(\mathrm{MA^{2-}})$ 减小，故 $\dfrac{c(\mathrm{H^+})}{c(\mathrm{HMA^-})}$ 增大，正确。
+
+**7.B**　$\mathrm{HCl}$ 是强酸，$\mathrm{CH_3COOH}$ 是弱酸，等 $\mathrm{pH}$、等体积的二者的溶液稀释相同的倍数时，$\mathrm{pH}$ 的变化量：强酸 $>$ 弱酸，故曲线Ⅱ代表 $\mathrm{CH_3COOH}$ 溶液的稀释过程，A 错误。酸对水的电离起抑制作用，b 点酸性强，对水的电离的抑制程度大，即水的电离程度小，B 正确。从 b 点到 d 点，$\mathrm{pH}$ 增大，$c(\mathrm{H^+})$ 减小，$c(\mathrm{OH^-})$ 增大，C 错误。$K_w$ 只与温度有关，温度不变，$K_w$ 不变，D 错误。
+
+**8.B**　溶液 A 中 $\mathrm{NH_4^+}$ 的浓度大，对水的电离的促进程度大（或溶液 B 的 $\mathrm{pH}$ 大于溶液 A，$\mathrm{OH^-}$ 对水的电离的抑制程度大），故水的电离程度：溶液 A $>$ 溶液 B，A 错误；溶液 A 的 $\mathrm{pH}=7.0$，$c(\mathrm{OH^-})=10^{-7}\ \mathrm{mol/L}$，$c_{\text{总}}(\mathrm{NH_3\cdot H_2O})=c(\mathrm{NH_3\cdot H_2O})+c(\mathrm{NH_4^+})=c(\mathrm{NH_3\cdot H_2O})+\dfrac{K_b(\mathrm{NH_3\cdot H_2O})\times c(\mathrm{NH_3\cdot H_2O})}{c(\mathrm{OH^-})}=c(\mathrm{NH_3\cdot H_2O})+\dfrac{1.0\times10^{-5}\times c(\mathrm{NH_3\cdot H_2O})}{10^{-7}}=101c(\mathrm{NH_3\cdot H_2O})$，B 正确；向溶液 A 中通入一定量 $\mathrm{NH_3}$ 后溶液 A 中 $\mathrm{NH_3\cdot H_2O}$ 的浓度增大，根据题意可知隔膜允许 $\mathrm{NH_3\cdot H_2O}$ 通过，则未电离的 $\mathrm{NH_3\cdot H_2O}$ 能穿过隔膜进入溶液 B 中，导致溶液 B 中 $\mathrm{NH_3\cdot H_2O}$ 浓度增大，$\mathrm{NH_3\cdot H_2O}$ 的电离平衡正向移动，$\mathrm{OH^-}$ 浓度增大，$\mathrm{pH}$ 增大，C 错误；假设隔膜两侧溶液 A、B 的体积均为 $V\ \mathrm{L}$，未混合前溶液 A、B 中 $c(\mathrm{OH^-})$ 分别为 $10^{-7}\ \mathrm{mol/L}$、$10^{-3}\ \mathrm{mol/L}$，撤去隔膜使溶液 A 与溶液 B 充分混合，若 $\mathrm{NH_3\cdot H_2O}$ 的电离平衡不发生移动，混合后的溶液中 $c(\mathrm{OH^-})=\dfrac{10^{-7}V+10^{-3}V}{2V}\ \mathrm{mol/L}\approx\dfrac{10^{-3}}2\ \mathrm{mol/L}$，$\mathrm{pOH}=-\lg c(\mathrm{OH^-})=-\lg\dfrac{10^{-3}}2=3+0.3=3.3$，$\mathrm{pH}=10.7$，但在混合过程中 $\mathrm{NH_3\cdot H_2O}$ 的电离平衡会发生移动，故所得溶液的 $\mathrm{pH}\ne10.7$，D 错误。
+
+**9.答案**　$7.6\times10^{-8}$　酸
+
+**解析** 类比第一步电离可知第二步电离为 $\mathrm{N_2H_5^++H_2O\rightleftharpoons N_2H_6^{2+}+OH^-}$，$K_{b_2}=\dfrac{c(\mathrm{N_2H_6^{2+}})\cdot c(\mathrm{OH^-})}{c(\mathrm{N_2H_5^+})}$，溶液呈中性，则 $c(\mathrm{OH^-})=1.0\times10^{-7}\ \mathrm{mol\cdot L^{-1}}$，则 $\dfrac{c(\mathrm{N_2H_6^{2+}})}{c(\mathrm{N_2H_5^+})}=\dfrac{K_{b_2}}{c(\mathrm{OH^-})}=7.6\times10^{-8}$。$V\ \mathrm{mL}\ a\ \mathrm{mol\cdot L^{-1}}\ \mathrm{N_2H_4}$ 水溶液与 $1.5V\ \mathrm{mL}\ a\ \mathrm{mol\cdot L^{-1}}$ 盐酸依次发生反应 $\mathrm{N_2H_4+HCl=N_2H_5Cl}$、$\mathrm{N_2H_5Cl+HCl=N_2H_6Cl_2}$，所得溶液中的溶质为等物质的量的 $\mathrm{N_2H_5Cl}$ 和 $\mathrm{N_2H_6Cl_2}$，$\mathrm{N_2H_5Cl}$ 的水解常数 $K_h=\dfrac{K_w}{K_{b_1}}=\dfrac{1.0\times10^{-14}}{3.0\times10^{-6}}\approx3.3\times10^{-9}$，其电离常数 $K_{b_2}=7.6\times10^{-15}$，$K_h>K_{b_2}$，说明 $\mathrm{N_2H_5Cl}$ 的水解程度大于电离程度，$\mathrm{N_2H_5Cl}$ 和 $\mathrm{N_2H_6Cl_2}$ 水解使溶液呈酸性。
+
+## 第2节 溶液的酸碱性 酸碱中和滴定
+
+### 五年高考
+
+**1.D**　A 项，向容量瓶中加水时应用玻璃棒引流，错误。B 项，润洗滴定管时应倾斜着转动滴定管，使液体润湿全部滴定管内壁，错误。C 项，使用酸式滴定管时用左手控制活塞，拇指在管前，食指和中指在管后，手指略微弯曲，轻轻向内扣住活塞，手心空握以免碰到活塞使其松动漏出溶液；摇动锥形瓶时应手持锥形瓶的颈部，错误。D 项，读数时视线与凹液面的最低处相平，正确。
+
+**2.C**　容量瓶检漏时，应先向容量瓶中注入水并塞上瓶塞，倒置，若瓶口处不漏水，正立容量瓶，再将瓶塞旋转 $180^\circ$，倒置，若瓶口处仍不漏水，则说明容量瓶密封性良好，A 项错误。滴入半滴标准溶液，使锥形瓶中溶液变色，且半分钟内不恢复原来的颜色，才能判定达滴定终点，B 项错误。滴定读数时，应单手捏住滴定管上端无刻度处，使滴定管自然垂直，再进行读数，C 项正确、D 项错误。

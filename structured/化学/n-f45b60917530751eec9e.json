@@ -1,0 +1,298 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-0f698e5134bb36d75c0d"
+      ],
+      "text": "特殊物质中元素或原子团的化合价：$\\mathrm{NaN_3}$ 中含有 $\\mathrm{N_3^-}$，$\\mathrm{N_3^-}$ 整体显 $-1$ 价；$\\mathrm{Li_2NH}$、$\\mathrm{LiNH_2}$、$\\mathrm{AlN}$ 中 $\\mathrm{N}$ 显 $-3$ 价；$\\mathrm{HCN}$ 中 $\\mathrm{C}$ 显 $+2$ 价、$\\mathrm{N}$ 显 $-3$ 价；$\\mathrm{Si_3N_4}$ 中 $\\mathrm{Si}$ 显 $+4$ 价、$\\mathrm{N}$ 显 $-3$ 价；$\\mathrm{FeO_4^{n-}}$ 中 $\\mathrm{Fe}$ 显 $+(8-n)$ 价。",
+      "title": "特殊物质中的化合价",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-35d37866256c2101a60d"
+      ],
+      "text": "氧化剂和还原剂得、失电子总数相等，化合价升高总数＝化合价降低总数。",
+      "title": "得失电子守恒",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-35d37866256c2101a60d"
+      ],
+      "text": "离子反应前后，阴、阳离子所带电荷总数相等。",
+      "title": "电荷守恒",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-35d37866256c2101a60d"
+      ],
+      "text": "反应前后原子的种类和数目不变。",
+      "title": "原子守恒",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-0f698e5134bb36d75c0d"
+      ],
+      "text": "化合物中各元素正、负化合价的代数和为 $0$。",
+      "title": "化合物中化合价代数和",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-51f03ec528be5491629b"
+      ],
+      "text": "依次进行：①标变价，标明反应前后化合价发生变化的元素的化合价；②求总数，通过求最小公倍数使化合价升降总数相等；③定计量数，确定氧化剂、还原剂、还原产物、氧化产物的化学计量数，利用观察法确定其他物质的化学计量数；④查守恒，检查原子、电荷、得失电子是否守恒。",
+      "title": "氧化还原反应方程式的配平步骤",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-0f698e5134bb36d75c0d"
+      ],
+      "text": "氧化剂、还原剂中某元素化合价全部变化时，一般从反应物着手配平。",
+      "title": "正向配平法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-0f698e5134bb36d75c0d"
+      ],
+      "text": "自身氧化还原反应（包括分解、歧化），以及某元素化合价部分变化时，一般从生成物着手配平。",
+      "title": "逆向配平法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-0f698e5134bb36d75c0d"
+      ],
+      "text": "先使元素化合价升降总数相等，再根据电荷守恒和溶液酸碱性，补 $\\mathrm{H^+}$ 或 $\\mathrm{OH^-}$。",
+      "title": "缺项配平法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-0f698e5134bb36d75c0d"
+      ],
+      "text": "按原文给定的有机物中氢元素化合价为 $+1$、氧元素化合价为 $-2$，再根据化合物中各元素正、负化合价的代数和为 $0$，计算碳元素的化合价。原文示例：$\\mathrm{C_2H_5OH}$ 中碳元素的化合价为 $-2$。",
+      "title": "有机化合物中碳元素化合价的判定",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-31aa0465894df463cec6"
+      ],
+      "text": "先写出完整的氧化还原反应方程式，再根据各物质的化学计量数、单线桥（或双线桥）上的电子数目列出比例关系进行计算。原文以 $2\\mathrm{Na_2O_2}+2\\mathrm{CO_2}=2\\mathrm{Na_2CO_3}+\\mathrm{O_2}$ 为例，给出关系式 $\\mathrm{CO_2}\\sim\\mathrm{e^-}$。",
+      "title": "根据方程式与电子数列比例计算",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-a5afcbfee84afbc418fd"
+      ],
+      "text": "①找出氧化剂、还原剂、还原产物和氧化产物；②找准一个原子或离子的得失电子数，注意化学式中变价粒子的个数；③列出等式：$n(\\text{氧化剂})\\times\\text{变价原子个数}\\times\\text{化合价变化值（高价－低价）}=n(\\text{还原剂})\\times\\text{变价原子个数}\\times\\text{化合价变化值（高价－低价）}$。得失电子守恒是氧化还原滴定实验数据处理和电化学相关计算的依据；利用该方法，只需找出反应过程中始态和终态物质的关系式即可求解。",
+      "title": "得失电子守恒计算法",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-35d37866256c2101a60d",
+        "n-51f03ec528be5491629b"
+      ],
+      "from": "l1",
+      "to": "m1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-35d37866256c2101a60d",
+        "n-51f03ec528be5491629b"
+      ],
+      "from": "l2",
+      "to": "m1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-35d37866256c2101a60d",
+        "n-51f03ec528be5491629b"
+      ],
+      "from": "l3",
+      "to": "m1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0f698e5134bb36d75c0d"
+      ],
+      "from": "l1",
+      "to": "m4",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0f698e5134bb36d75c0d"
+      ],
+      "from": "l2",
+      "to": "m4",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0f698e5134bb36d75c0d"
+      ],
+      "from": "l4",
+      "to": "m5",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a5afcbfee84afbc418fd"
+      ],
+      "from": "l1",
+      "to": "m7",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-027ad6624d7fb706cb34",
+        "n-51f03ec528be5491629b"
+      ],
+      "from": "n-027ad6624d7fb706cb34",
+      "to": "m1",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-027ad6624d7fb706cb34",
+        "n-0f698e5134bb36d75c0d"
+      ],
+      "from": "n-027ad6624d7fb706cb34",
+      "to": "m2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-027ad6624d7fb706cb34",
+        "n-0f698e5134bb36d75c0d"
+      ],
+      "from": "n-027ad6624d7fb706cb34",
+      "to": "m3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-027ad6624d7fb706cb34",
+        "n-0f698e5134bb36d75c0d"
+      ],
+      "from": "n-027ad6624d7fb706cb34",
+      "to": "m4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e35ab452bd964e0e223e",
+        "n-31aa0465894df463cec6"
+      ],
+      "from": "n-e35ab452bd964e0e223e",
+      "to": "m6",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e35ab452bd964e0e223e",
+        "n-a5afcbfee84afbc418fd"
+      ],
+      "from": "n-e35ab452bd964e0e223e",
+      "to": "m7",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7271640c02543b48ff0d",
+        "n-51f03ec528be5491629b"
+      ],
+      "from": "n-7271640c02543b48ff0d",
+      "to": "m1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6bce769ebcd1f100b615",
+        "n-0f698e5134bb36d75c0d"
+      ],
+      "from": "n-6bce769ebcd1f100b615",
+      "to": "m4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a2f85a021dce966904a1",
+        "n-0f698e5134bb36d75c0d"
+      ],
+      "from": "n-a2f85a021dce966904a1",
+      "to": "m4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-01e4da7b494e667b4e56",
+        "n-a5afcbfee84afbc418fd"
+      ],
+      "from": "n-01e4da7b494e667b4e56",
+      "to": "m7",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a2f85a021dce966904a1",
+        "n-a5afcbfee84afbc418fd"
+      ],
+      "from": "n-a2f85a021dce966904a1",
+      "to": "m7",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-f45b60917530751eec9e",
+  "source_digest": "b334a22abd0fd0d931ea18d76144074b9e2382f065fbd724e3826663eb5d44e2",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

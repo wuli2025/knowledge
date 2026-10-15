@@ -1,0 +1,137 @@
+<!-- page 55 -->
+
+第三步煅烧时$\mathrm{MgCl_2\cdot 6H_2O}$发生反应，由于$\mathrm{Mg^{2+}}$发生水解，最终有$\mathrm{MgO}$和$\mathrm{HCl}$生成；第四步水浸，钠盐、钾盐与$\mathrm{MgSO_4}$溶解，$\mathrm{MgO}$难溶，大部分$\mathrm{Mg^{2+}}$被除去；第五步精制Ⅰ加入生石灰，生石灰与水反应生成$\mathrm{Ca(OH)_2}$，引入$\mathrm{Ca^{2+}}$和$\mathrm{OH^-}$，与$\mathrm{SO_4^{2-}}$和$\mathrm{Mg^{2+}}$分别反应生成$\mathrm{CaSO_4}$沉淀和$\mathrm{Mg(OH)_2}$沉淀从而除去$\mathrm{SO_4^{2-}}$和$\mathrm{Mg^{2+}}$；第六步精制Ⅱ加入纯碱除去第五步精制Ⅰ引入的过量$\mathrm{Ca^{2+}}$，生成$\mathrm{CaCO_3}$沉淀；第七步操作X加入盐酸可除去第五步精制Ⅰ引入的$\mathrm{OH^-}$和第六步精制Ⅱ引入的$\mathrm{CO_3^{2-}}$；第八步浓缩析出$\mathrm{NaCl}$；第九步加入饱和$\mathrm{Na_2CO_3}$溶液，发生反应：$\mathrm{2LiCl+Na_2CO_3\longrightarrow Li_2CO_3\downarrow+2NaCl}$，制得$\mathrm{Li_2CO_3}$。
+
+**解析**　（1）已知$\mathrm{[B_4O_5(OH)_4]^{2-}}$水解生成等物质的量浓度的$\mathrm{B(OH)_3}$和$\mathrm{[B(OH)_4]^-}$，根据$\mathrm{B}$原子守恒，$1\ \mathrm{mol}$ $\mathrm{[B_4O_5(OH)_4]^{2-}}$水解生成$2\ \mathrm{mol}$ $\mathrm{B(OH)_3}$和$2\ \mathrm{mol}$ $\mathrm{[B(OH)_4]^-}$，再根据$\mathrm{H}$、$\mathrm{O}$原子守恒，可知水解需要$5\ \mathrm{mol}$ $\mathrm{H_2O}$，故水解反应的离子方程式为$\mathrm{[B_4O_5(OH)_4]^{2-}+5H_2O\rightleftharpoons 2B(OH)_3+2[B(OH)_4]^-}$。硼砂溶液中存在平衡$\mathrm{B(OH)_3+H_2O\rightleftharpoons H^++[B(OH)_4]^-}$，$K_{\mathrm a}=\dfrac{c(\mathrm{[B(OH)_4]^-})\cdot c(\mathrm{H^+})}{c(\mathrm{B(OH)_3})}$，由$c(\mathrm{B(OH)_3})=c(\mathrm{[B(OH)_4]^-})$可得$K_{\mathrm a}=c(\mathrm{H^+})$，故$\mathrm{pH}=-\lg K_{\mathrm a}=9.24$。
+
+（2）由前述分析可知精制Ⅰ过程中加入生石灰是为了除去溶液中的$\mathrm{SO_4^{2-}}$和$\mathrm{Mg^{2+}}$，滤渣Ⅰ为$\mathrm{CaSO_4}$、$\mathrm{Mg(OH)_2}$。$K_{\mathrm{sp}}(\mathrm{Li_2CO_3})=c^2(\mathrm{Li^+})\cdot c(\mathrm{CO_3^{2-}})=2.2\times10^{-2}$，$c(\mathrm{Li^+})=2.0\ \mathrm{mol\cdot L^{-1}}$，计算可得$c(\mathrm{CO_3^{2-}})=5.5\times10^{-3}\ \mathrm{mol\cdot L^{-1}}$，故应控制$c(\mathrm{CO_3^{2-}})<5.5\times10^{-3}\ \mathrm{mol\cdot L^{-1}}$以防止$\mathrm{Li_2CO_3}$析出；若脱硼后直接进行精制Ⅰ，缺少了第一段煅烧除镁的过程，只能在第二段精制Ⅰ过程中加入生石灰除去$\mathrm{Mg^{2+}}$，且需要中和过量的盐酸，故$\mathrm{CaO}$用量增加，除$\mathrm{Ca^{2+}}$所用的$\mathrm{Na_2CO_3}$用量也增加。
+
+（3）精制Ⅰ为了除去$\mathrm{SO_4^{2-}}$和$\mathrm{Mg^{2+}}$，需要加入过量的$\mathrm{CaO}$，因此精制Ⅱ加入纯碱是为了除去精制Ⅰ引入的$\mathrm{Ca^{2+}}$；精制Ⅱ为了除去$\mathrm{Ca^{2+}}$，需要加入过量的$\mathrm{Na_2CO_3}$，此时溶液中含有$\mathrm{Na^+}$、$\mathrm{Li^+}$、$\mathrm{Cl^-}$、$\mathrm{CO_3^{2-}}$和精制Ⅰ引入的$\mathrm{OH^-}$，而由浓缩和沉锂步骤，可知最终溶液中只有$\mathrm{Na^+}$、$\mathrm{Li^+}$和$\mathrm{Cl^-}$，所以操作X应除去$\mathrm{CO_3^{2-}}$和$\mathrm{OH^-}$且不引入其他杂质，故选择的试剂为盐酸；若不进行该操作而直接浓缩，会使溶液中$\mathrm{CO_3^{2-}}$浓度增大，结合溶解度与温度的关系图，可知$\mathrm{Li_2CO_3}$的溶解度远小于$\mathrm{LiCl}$，直接浓缩会使$\mathrm{Li_2CO_3}$与$\mathrm{NaCl}$一同析出，造成沉锂步骤制得的$\mathrm{Li_2CO_3}$减少。
+
+### 易错警示
+
+在除杂实验过程中，为了确保杂质完全除去，需要加入过量试剂，与此同时又会引入新的杂质，这就需要在之后的步骤中加入合适的试剂除去新引入的杂质，排除对后续实验操作的干扰。
+
+# 非金属及其化合物
+
+## 第1节　硅及其化合物　无机非金属材料
+
+### 五年高考
+
+**1.C**　C项，石英的主要成分为$\mathrm{SiO_2}$，错误。D项，$\mathrm{{}^{133}_{55}Cs}$中$133$为质量数，$55$为质子数，正确。
+
+**2.C**　青花瓷经过高温烧制而成，则不会生成单质钴，A项错误。青花瓷表面的釉为无机物，B项错误。青花瓷呈现青蓝色，不能确定铁元素的具体存在形式，D项错误。
+
+### 回归教材　人教版必修二第五章第三节
+
+陶瓷是以黏土（主要成分为含水的铝硅酸盐）为主要原料，经高温烧结而成的。
+
+**3.B**　$\mathrm{SiO_2}$是酸性氧化物，可与$\mathrm{NaOH}$溶液反应生成$\mathrm{Na_2SiO_3}$和$\mathrm{H_2O}$，A正确；盐酸参与的反应为$\mathrm{MgO+2HCl\longrightarrow MgCl_2+H_2O}$，该反应是非氧化还原反应，盐酸体现酸性，B错误；$\mathrm{SiO_2}$和$\mathrm{Mg}$在$650\ ^\circ\mathrm{C}$下发生反应得到$\mathrm{MgO}$和纳米$\mathrm{Si}$，反应的化学方程式为$\mathrm{SiO_2+2Mg}\xrightarrow{650\ ^\circ\mathrm{C}}\mathrm{Si+2MgO}$，D正确。
+
+**4.B**　高纯硅的制备主要涉及以下反应：$\mathrm{SiO_2+2C}\xrightarrow{1\,800\sim2\,000\ ^\circ\mathrm{C}}\mathrm{Si}\text{（粗）}+\mathrm{2CO}\uparrow$、$\mathrm{Si+3HCl}\xrightarrow{300\ ^\circ\mathrm{C}}\mathrm{SiHCl_3+H_2}$、$\mathrm{SiHCl_3+H_2}\xrightarrow{1\,100\ ^\circ\mathrm{C}}\mathrm{Si+3HCl}$，由此可知A、D正确。因为$\mathrm{Si}$和$\mathrm{H_2}$在高温下会与氧气反应，$\mathrm{SiHCl_3}$易水解，所以原料气$\mathrm{HCl}$和$\mathrm{H_2}$要充分去除氧气和水，C正确。高纯硅的结构和金刚石相似，$1\ \mathrm{mol}$ $\mathrm{Si}$中含有$2\ \mathrm{mol}$ $\mathrm{Si—Si}$键，数目约为$2\times6.02\times10^{23}$，B错误。
+
+### 回归教材　人教版必修二第五章第三节
+
+高纯硅的制备：
+
+[图：石英砂与焦炭在$1\,800\sim2\,000\ ^\circ\mathrm{C}$下反应得到粗硅；粗硅与$\mathrm{HCl}$在$300\ ^\circ\mathrm{C}$下反应得到$\mathrm{SiHCl_3}$；$\mathrm{SiHCl_3}$与$\mathrm{H_2}$在$1\,100\ ^\circ\mathrm{C}$下反应得到高纯硅。]
+
+$\mathrm{SiO_2+2C}\xrightarrow{1\,800\sim2\,000\ ^\circ\mathrm{C}}\mathrm{Si+2CO}\uparrow$
+
+$\mathrm{Si+3HCl}\xrightarrow{300\ ^\circ\mathrm{C}}\mathrm{SiHCl_3+H_2}$
+
+$\mathrm{SiHCl_3+H_2}\xrightarrow{1\,100\ ^\circ\mathrm{C}}\mathrm{Si+3HCl}$
+
+### 三年模拟
+
+**5.B**　氮化铝晶圆属于新型无机非金属材料，A错误。青瓷载体的主要成分是硅酸盐，C错误。牙膏中添加氟化物可使牙齿中的羟基磷灰石转化为氟磷灰石，反应过程中元素的化合价未发生变化，属于非氧化还原反应，D错误。
+
+**6.D**　石墨质软，可用作润滑剂，与其导电性无关，A项错误。单晶硅用作半导体材料是因为其有良好的半导体性能，与硬度无关，B项错误。$\mathrm{HF}$能与$\mathrm{SiO_2}$反应，故氢氟酸可以用于刻蚀玻璃，与弱酸性无关，C项错误。$\mathrm{ClO_2}$具有强氧化性，可以使蛋白质变性，故可用于自来水消毒，D项正确。
+
+**7.D**　$\mathrm{SiO_2}$与$\mathrm{C}$的反应、$\mathrm{Si}$与$\mathrm{Cl_2}$的反应、$\mathrm{SiCl_4}$与$\mathrm{H_2}$的反应均有元素化合价的变化，属于氧化还原反应，A项错误。光导纤维的主要成分是$\mathrm{SiO_2}$，不是硅酸盐，B项错误。普通玻璃属于非晶体，C项错误。$\mathrm{CaCO_3}$能溶于盐酸生成$\mathrm{CaCl_2}$、$\mathrm{H_2O}$和$\mathrm{CO_2}$，而$\mathrm{SiO_2}$不与盐酸反应且难溶于水，故可用盐酸除去石英砂中的少量$\mathrm{CaCO_3}$，D项正确。
+
+<!-- page 56 -->
+
+## 第2节　卤族元素　海水资源的开发利用
+
+### 五年高考
+
+**1.B**　$\mathrm{Cl_2}$通入冷的$\mathrm{NaOH}$溶液中反应生成$\mathrm{NaCl}$和$\mathrm{NaClO}$，$\mathrm{NaClO}$是漂白液的有效成分，A正确。$\mathrm{ClO^-}$水解的离子方程式为$\mathrm{ClO^-+H_2O\rightleftharpoons HClO+OH^-}$，溶液呈碱性，B错误。漂白液中$\mathrm{ClO^-}$水解生成的$\mathrm{HClO}$有强氧化性，可以消毒，通入$\mathrm{CO_2}$后发生反应$\mathrm{ClO^-+CO_2+H_2O\longrightarrow HClO+HCO_3^-}$，$c(\mathrm{HClO})$增大，漂白液消毒能力增强，C正确。$\mathrm{HClO}$见光易分解，$\mathrm{NaClO}$属于盐，较稳定，D正确。
+
+**2.A**　A项，缺少加热装置，错误；B项，$\mathrm{Cl_2}$中的$\mathrm{HCl}$可被饱和食盐水吸收，$\mathrm{Cl_2}$中的$\mathrm{H_2O}$可被无水$\mathrm{CaCl_2}$吸收，正确；C项，$\mathrm{Cl_2}$的密度比空气大，用向上排空气法收集，正确；D项，$\mathrm{H_2}$在$\mathrm{Cl_2}$中安静地燃烧，发出苍白色火焰，生成的$\mathrm{HCl}$在空气中与水蒸气结合，呈现雾状，此反应体现$\mathrm{Cl_2}$的氧化性，正确。
+
+### 回归教材　人教版必修一第二章第二节
+
+在空气中点燃$\mathrm{H_2}$，然后把导管缓慢伸入盛满$\mathrm{Cl_2}$的集气瓶中（装置图同本题D项），可以看到，纯净的$\mathrm{H_2}$在$\mathrm{Cl_2}$中安静地燃烧，发出苍白色火焰。反应生成的气体是$\mathrm{HCl}$，它在空气中与水蒸气结合，呈现雾状。
+
+**3.D**　A项，$\mathrm{NaI}$固体中的$\mathrm{I^-}$会被浓硫酸氧化为$\mathrm{I_2}$，故不可用$\mathrm{NaI}$固体与浓硫酸反应制备$\mathrm{HI}$气体，错误。B项，$\mathrm{BaCO_3}$能与盐酸反应生成可溶的$\mathrm{BaCl_2}$，$\mathrm{Ba^{2+}}$有毒，故$\mathrm{BaCO_3}$不可代替$\mathrm{BaSO_4}$作“钡餐”，错误。C项，盐酸和$\mathrm{NaOH}$溶液的中和反应是放热反应，错误。D项，$\mathrm{H_2O}$和$\mathrm{H_2S}$均为分子晶体，$\mathrm{H_2O}$存在分子间氢键，故$\mathrm{H_2O}$的沸点高于$\mathrm{H_2S}$；同理，$\mathrm{HF}$和$\mathrm{HCl}$均为分子晶体，$\mathrm{HF}$存在分子间氢键，故$\mathrm{HF}$的沸点高于$\mathrm{HCl}$，正确。
+
+### 知识归纳
+
+$\mathrm{NaCl}$固体与浓硫酸反应制备$\mathrm{HCl}$气体，利用的是“难挥发性酸制易挥发性酸”的原理，化学方程式为$\mathrm{NaCl+H_2SO_4}\text{（浓）}\xrightarrow{\Delta}\mathrm{NaHSO_4+HCl}\uparrow$。
+
+### 回归教材　人教版选修1第三章第四节练习与应用
+
+医学上常用$\mathrm{BaSO_4}$作X射线透视肠胃的内服药剂，俗称“钡餐”。$\mathrm{BaCO_3}$和$\mathrm{BaSO_4}$都是难溶电解质，二者的溶度积相差不大。那么，能否用$\mathrm{BaCO_3}$代替$\mathrm{BaSO_4}$作“钡餐”？请说明原因。
+
+答案：不能。$\mathrm{BaCO_3}$在水中存在沉淀溶解平衡：$\mathrm{BaCO_3(s)\rightleftharpoons Ba^{2+}(aq)+CO_3^{2-}(aq)}$，胃酸的主要成分是盐酸，盐酸与$\mathrm{CO_3^{2-}}$反应，$c(\mathrm{CO_3^{2-}})$减小，使上述平衡向正反应方向移动，$c(\mathrm{Ba^{2+}})$增大，导致人体中毒。
+
+**4.C**　淀粉遇$\mathrm{I_2}$变蓝，溶液由无色变为蓝色是由于生成$\mathrm{I_2}$，溶液由蓝色变为无色则是由于$\mathrm{I_2}$转化为化合态，A、B项正确；溶液变为无色是由于$\mathrm{I_2}$被消耗，$\mathrm{H_2O_2}$不起漂白作用，C项错误；淀粉遇$\mathrm{I_2}$变蓝，淀粉可以作指示剂，D项正确。
+
+**5.A**　往碘的$\mathrm{CCl_4}$溶液中加入等体积浓$\mathrm{KI}$溶液，$\mathrm{CCl_4}$中溶解的$\mathrm{I_2}$可以和$\mathrm{I^-}$发生可逆反应：$\mathrm{I_2+I^-\rightleftharpoons I_3^-}$，由下层紫红色变为浅粉红色及上层呈棕黄色可得，大部分$\mathrm{I_2}$从$\mathrm{CCl_4}$中进入浓$\mathrm{KI}$溶液中，说明碘在浓$\mathrm{KI}$溶液中的溶解能力大于在$\mathrm{CCl_4}$中的溶解能力，A正确；$\mathrm{NaClO}$溶液具有漂白性，不能用$\mathrm{pH}$试纸测其$\mathrm{pH}$，B错误；实验方案中$\mathrm{AgNO_3}$溶液是过量的，滴加$\mathrm{KI}$溶液肯定会产生黄色沉淀，不能比较$\mathrm{AgI}$和$\mathrm{AgCl}$溶解度的大小，C错误；滴加$\mathrm{AgNO_3}$溶液产生白色沉淀，说明有$\mathrm{HCl}$产生，淀粉$\mathrm{KI}$溶液变蓝不能说明溶液中一定有$\mathrm{Cl_2}$，也可能是$\mathrm{HClO}$氧化$\mathrm{KI}$生成了$\mathrm{I_2}$，故不能说明氯气与水的反应存在限度，D错误。
+
+### 回归教材　人教版选必2第二章第三节
+
+向紫红色的碘的四氯化碳溶液中加入$1\ \mathrm{mL}$浓碘化钾（$\mathrm{KI}$）水溶液，振荡试管，溶液紫色变浅，这是由于在水溶液里可发生如下反应：$\mathrm{I_2+I^-\rightleftharpoons I_3^-}$。
+
+**6.B**　向含$\mathrm{I_2}$的$\mathrm{CCl_4}$废液中加入足量$\mathrm{Na_2CO_3}$溶液充分反应后，生成易溶于水的$\mathrm{NaI}$和$\mathrm{NaIO_3}$，溶液分层，上下两层均为无色，上层为含$\mathrm{NaI}$和$\mathrm{NaIO_3}$的混合溶液，下层为$\mathrm{CCl_4}$，A项正确；步骤Ⅰ后得到$\mathrm{CCl_4}$和溶液A，则步骤Ⅰ为分液，需要用到分液漏斗，$\mathrm{CCl_4}$的密度比水大，从分液漏斗下口放出，上口倒出溶液A，B项错误；溶液A中加入试剂X后得到溶液B和粗$\mathrm{I_2}$，则试剂X可为硫酸，C项正确；$\mathrm{I_2}$易升华，提纯粗$\mathrm{I_2}$可以加热使$\mathrm{I_2}$升华，从而与难升华杂质分离，D项正确。
+
+### 回归教材　鲁科版必修二第1章微项目
+
+用反萃取法将碘单质从碘的四氯化碳溶液中提取出来：
+
+[图：碘的四氯化碳溶液加入浓$\mathrm{NaOH}$溶液，振荡、静置、分液，分得水层（含$\mathrm{I^-}$、$\mathrm{IO_3^-}$）和四氯化碳；水层加入$45\%$的$\mathrm{H_2SO_4}$溶液，得到含$\mathrm{I_2}$的悬浊液；过滤得到固态碘单质。]
+
+### 三年模拟
+
+**7.C**　海水蒸发得到粗盐和母液，粗盐通过精制得到精盐，电解饱和食盐水得到$\mathrm{H_2}$、$\mathrm{Cl_2}$和$\mathrm{NaOH}$；母液中加入$\mathrm{Ca(OH)_2}$，反应生成$\mathrm{Mg(OH)_2}$沉淀，$\mathrm{Mg(OH)_2}$与盐酸反应后经过蒸发浓缩、冷却结晶得到$\mathrm{MgCl_2\cdot6H_2O}$，$\mathrm{MgCl_2\cdot6H_2O}$在$\mathrm{HCl}$气流中加热生成无水$\mathrm{MgCl_2}$；$\mathrm{NaBr}$与$\mathrm{Cl_2}$反应生成$\mathrm{Br_2}$，用热空气将$\mathrm{Br_2}$吹出，再用$\mathrm{SO_2}$水溶液吸收，将溴蒸气转化为$\mathrm{Br^-}$，$\mathrm{Br^-}$被$\mathrm{Cl_2}$氧化得到高浓度的$\mathrm{Br_2}$。过程①中$\mathrm{BaCl_2}$必须在$\mathrm{Na_2CO_3}$之前加入，否则无法除去过量的$\mathrm{Ba^{2+}}$，此外还需要加入$\mathrm{NaOH}$除去$\mathrm{Mg^{2+}}$，A错误。已知$\mathrm{MgCl_2\cdot6H_2O}$受热生成$\mathrm{Mg(OH)Cl}$和$\mathrm{HCl}$气体等，故过程③需要在$\mathrm{HCl}$气流中加热，使$\mathrm{MgCl_2\cdot6H_2O}$失去结晶水生成无水$\mathrm{MgCl_2}$，B错误。过程⑤的反应为$\mathrm{Br_2+SO_2+2H_2O\longrightarrow 2HBr+H_2SO_4}$，生成两种强酸，C正确。未指明是否为标准状况，无法计算消耗$\mathrm{Cl_2}$的体积，D错误。
+
+**8.C**　浓盐酸与$\mathrm{KMnO_4}$在常温下反应制备$\mathrm{Cl_2}$，无需酒精灯加热，A项正确。装置乙中的饱和食盐水可除$\mathrm{Cl_2}$中的杂质$\mathrm{HCl}$，若关闭止水夹，$\mathrm{Cl_2}$在装置乙中积累，压强增大，将饱和食盐水压入长颈漏斗，可实现$\mathrm{Cl_2}$的贮存，B项正确。$\mathrm{Cl_2}$通入$\mathrm{NaBr}$溶液中可置换出$\mathrm{Br_2}$，打开装置丙中分液漏斗的活塞使适量液体流入锥形瓶中，$\mathrm{Br_2}$能与$\mathrm{KI}$反应置换出$\mathrm{I_2}$，振荡锥形瓶后$\mathrm{I_2}$被苯萃取，苯的密度小于水的密度，分层后上层为苯层且呈紫红色，下层为水层，C项错误。若$\mathrm{Cl_2}$过量，流入锥形瓶中的溶液
+
+<!-- page 57 -->
+
+会含有$\mathrm{Br_2}$和$\mathrm{Cl_2}$，两者均能与$\mathrm{KI}$反应置换出$\mathrm{I_2}$，故此时无法证明溴与碘的非金属性强弱，D项正确。
+
+**9.C**　在氧化还原反应中，氧化性：氧化剂$>$氧化产物；由反应③可知氧化性：$\mathrm{Cl_2>IO_3^-}$，由反应④可知氧化性：$\mathrm{IO_3^->I_2}$，故氧化性：$\mathrm{Cl_2>IO_3^->I_2}$，A错误。过量的$\mathrm{NaHSO_3}$会进一步将$\mathrm{I_2}$还原为$\mathrm{I^-}$，从而减少$\mathrm{I_2}$的产量，B错误。刚开始滴入淀粉$\mathrm{KI}$溶液时，过量的$\mathrm{Cl_2}$将$\mathrm{I^-}$氧化为$\mathrm{IO_3^-}$，$\mathrm{Cl_2}$被消耗，溶液黄绿色变浅；$\mathrm{Cl_2}$完全反应后，继续滴入淀粉$\mathrm{KI}$溶液，$\mathrm{I^-}$与$\mathrm{IO_3^-}$发生反应④生成$\mathrm{I_2}$，淀粉遇$\mathrm{I_2}$变蓝，C正确。反应②、④的离子方程式分别为$\mathrm{2IO_3^-+5HSO_3^-\longrightarrow 5SO_4^{2-}+I_2+H_2O+3H^+}$、$\mathrm{IO_3^-+5I^-+6H^+\longrightarrow 3I_2+3H_2O}$，产生等量的$\mathrm{I_2}$时反应④消耗的$\mathrm{H^+}$与反应②产生的$\mathrm{H^+}$的量不相等，D错误。
+
+### 易错警示
+
+通过增加反应物的量来增加生成物的产量时，要考虑生成物是否会进一步发生反应。
+
+**10.C**　“氧化1”的主要反应为$\mathrm{Cl_2}$将$\mathrm{I^-}$氧化为$\mathrm{I_n^-}$，$\mathrm{Cl_2}$被还原为$\mathrm{Cl^-}$，题给离子方程式符合电荷守恒和原子守恒，A正确。通过离子交换树脂的吸附和解吸能达到富集碘元素的目的，B正确。“氧化1”中$\mathrm{Cl_2}$将$\mathrm{I^-}$氧化为$\mathrm{I_n^-}$，“还原”中$\mathrm{Na_2SO_3}$又将$\mathrm{I_n^-}$还原为$\mathrm{I^-}$，故$\mathrm{I^-}$在总反应前后未发生变化，可看作是$\mathrm{Cl_2}$与$\mathrm{Na_2SO_3}$发生反应，$\mathrm{Cl_2}$转化为$\mathrm{Cl^-}$，$\mathrm{SO_3^{2-}}$转化为$\mathrm{SO_4^{2-}}$，根据得失电子守恒可得关系式：$\mathrm{Cl_2\sim 2e^-\sim Na_2SO_3}$，故理论上参加反应的$n(\mathrm{Cl_2}):n(\mathrm{Na_2SO_3})=1:1$，C项错误。离子交换树脂再生时释放出$\mathrm{I^-}$，“氧化2”中$\mathrm{KClO_3}$将$\mathrm{I^-}$氧化为$\mathrm{I_2}$，$\mathrm{I_2}$易升华，鼓入热空气可促进$\mathrm{I_2}$升华并被带出，D项正确。
+
+### 拓展分析
+
+$\mathrm{I_n^-}$的生成可看作是$\mathrm{Cl_2}$先将$\mathrm{I^-}$氧化为$\mathrm{I_2}$，$\mathrm{I_2}$再与其余的$\mathrm{I^-}$结合得到$\mathrm{I_n^-}$，故$\mathrm{I_n^-}$具有类似$\mathrm{I_2}$的氧化性，能将$\mathrm{Na_2SO_3}$氧化为$\mathrm{Na_2SO_4}$。
+
+**11.BD**　装置①用于制取$\mathrm{Cl_2}$，装置②、③中盛装的试剂依次是饱和食盐水、浓硫酸，分别用于除去$\mathrm{HCl}$和水蒸气（避免水蒸气在⑤中冷凝），装置④中发生反应：$\mathrm{HgO+2Cl_2\longrightarrow HgCl_2+Cl_2O}$，红色粉末$\mathrm{HgO}$逐渐变为白色粉末$\mathrm{HgCl_2}$，A项错误。已知$\mathrm{Cl_2O}$与有机物接触时会发生剧烈反应，故装置④中用铝箔包裹橡胶塞，防止$\mathrm{Cl_2O}$与橡胶接触发生反应，B项正确。装置④中水浴温度高于$\mathrm{Cl_2O}$的沸点，生成的$\mathrm{Cl_2O}$为气体并进入装置⑤，装置⑤中冷却装置的温度低于$\mathrm{Cl_2O}$的沸点，高于$\mathrm{Cl_2}$的沸点，故$\mathrm{Cl_2O}$在装置⑤中液化，从装置⑥逸出的气体为空气及过量的$\mathrm{Cl_2}$，C项错误。已知高浓度的$\mathrm{Cl_2O}$不稳定，易爆炸，通入干燥空气可将生成的$\mathrm{Cl_2O}$稀释，防止发生爆炸，D项正确。
+
+## 第3节　硫及其化合物
+
+### 五年高考
+
+**1.C**　A项，过程①中蔗糖（$\mathrm{C_{12}H_{22}O_{11}}$）脱水变成碳单质，体现了浓硫酸的脱水性，正确；B项，过程②中碳与浓硫酸发生反应：$\mathrm{C+2H_2SO_4}\text{（浓）}\xrightarrow{\Delta}\mathrm{CO_2}\uparrow+\mathrm{2SO_2}\uparrow+\mathrm{2H_2O}$，产生大量的$\mathrm{CO_2}$、$\mathrm{SO_2}$气体，使固体体积膨胀，正确；C项，过程中产生了$\mathrm{SO_2}$，其能使品红溶液褪色，体现的是浓硫酸的强氧化性，没有体现浓硫酸的酸性，不正确；D项，蔗糖与浓硫酸发生了化学反应，所以发生了化学键的断裂，正确。
+
+### 知识归纳
+
+蔗糖与浓硫酸作用的过程中，主要发生的反应有$\mathrm{C_{12}H_{22}O_{11}}\xrightarrow{\text{浓}\mathrm{H_2SO_4}}\mathrm{12C+11H_2O}$、$\mathrm{C+2H_2SO_4}\text{（浓）}\xrightarrow{\Delta}\mathrm{CO_2}\uparrow+\mathrm{2SO_2}\uparrow+\mathrm{2H_2O}$，分别体现了浓硫酸的脱水性和强氧化性。
+
+**2.C**　A项，Ⅰ中试管内反应的离子方程式为$\mathrm{S_2O_3^{2-}+2H^+\longrightarrow S}\downarrow+\mathrm{SO_2}\uparrow+\mathrm{H_2O}$，$\mathrm{S_2O_3^{2-}}$既是氧化剂也是还原剂，反应前后氢元素的化合价未发生变化，故不能体现$\mathrm{H^+}$的氧化性，错误。B项，Ⅱ中品红溶液褪色，体现$\mathrm{SO_2}$的漂白性，错误。C项，Ⅲ中$\mathrm{SO_2}$与$\mathrm{Na_2S}$发生归中反应生成$\mathrm{S}$，故Ⅰ和Ⅲ的试管中均出现黄色浑浊现象，正确。D项，撤掉水浴，温度降低，Ⅰ中生成$\mathrm{SO_2}$的反应速率减小，使得Ⅳ中$\mathrm{SO_2}$与$\mathrm{NaOH}$的反应速率减小，红色褪去慢，错误。
+
+**3.B**　A项，$\mathrm{Cu}$与浓硫酸反应，除了体现$\mathrm{H_2SO_4}$的酸性外，还体现其强氧化性，错误；B项，a处变红是因为$\mathrm{SO_2}$与水反应生成亚硫酸，说明$\mathrm{SO_2}$是酸性氧化物，正确；C项，b处褪色说明$\mathrm{SO_2}$具有漂白性，c处褪色说明$\mathrm{SO_2}$具有还原性，错误；D项，反应所生成的水变成水蒸气挥发或被浓硫酸吸收，所以未生成无水$\mathrm{CuSO_4}$，并不能说明反应中无水生成，错误。
+
+**4.D**　$\mathrm{Cl_2}$不能在自然界中转化为$\mathrm{NaClO}$，$\mathrm{Cl_2}$和$\mathrm{H_2O}$反应生成$\mathrm{HClO}$和$\mathrm{HCl}$，不能直接生成$\mathrm{NaClO}$，A项错误；$\mathrm{S}$在自然界中存在转化$\mathrm{SO_2}\xrightarrow{\mathrm{O_2+H_2O}}\mathrm{H_2SO_4}\xrightarrow{\mathrm{CaCO_3}}\mathrm{CaSO_4}$，但$\mathrm{CaSO_4}$不能在自然界中转化为$\mathrm{SO_2}$，$\mathrm{SO_2}$和$\mathrm{H_2O}$反应不能直接生成$\mathrm{H_2SO_4}$，B项错误；$\mathrm{Fe_2O_3}$不能在自然界中转化为$\mathrm{Fe(OH)_3}$，$\mathrm{Fe_2O_3}$和$\mathrm{H_2O}$不能反应，C项错误；在自然界中存在转化：$\mathrm{CO_2}\xrightarrow{\mathrm{H_2O}}\mathrm{H_2CO_3}\xrightarrow{\mathrm{CaCO_3}}\mathrm{Ca(HCO_3)_2}\xrightarrow{\Delta}\mathrm{CO_2}$，且$\mathrm{CO_2}$和水反应可以直接生成$\mathrm{H_2CO_3}$，D项正确。
+
+**5.D**　G、J均为无色气体，J具有漂白性，则J为$\mathrm{SO_2}$，进而推出G为$\mathrm{H_2S}$，H为$\mathrm{S}$，K为$\mathrm{SO_3}$；$\mathrm{SO_2}$与少量$\mathrm{NaOH}$反应生成M，则M为$\mathrm{NaHSO_3}$，$\mathrm{SO_2}$与足量$\mathrm{NaOH}$反应生成N，则N为$\mathrm{Na_2SO_3}$，N被$\mathrm{O_2}$氧化生成L，则L为$\mathrm{Na_2SO_4}$。$\mathrm{H_2S}$和$\mathrm{SO_3}$均为酸性气体，都能与$\mathrm{NaOH}$溶液反应，A正确；$\mathrm{S}$、$\mathrm{Na_2SO_3}$中硫元素均为中间价态，既具有氧化性也具有还原性，B正确；由于$\mathrm{HSO_3^-}$可以电离，$\mathrm{SO_3^{2-}}$可以水解，则$\mathrm{NaHSO_3}$和$\mathrm{Na_2SO_3}$溶液中含有的离子均为$\mathrm{Na^+}$、$\mathrm{SO_3^{2-}}$、$\mathrm{HSO_3^-}$、$\mathrm{H^+}$和$\mathrm{OH^-}$，C正确；$\mathrm{H_2S}$与$\mathrm{SO_2}$反应生成$\mathrm{S}$和$\mathrm{H_2O}$，$1\ \mathrm{mol}$ $\mathrm{H_2S}$转化为$\mathrm{S}$转移电子数为$2N_{\mathrm A}$，D错误。
+
+**6.B**　制取$\mathrm{NaHSO_3}$需通入足量的$\mathrm{SO_2}$，发生反应$\mathrm{2SO_2+Na_2CO_3+H_2O\longrightarrow 2NaHSO_3+CO_2}$，A项正确；母液中含有$\mathrm{H_2SO_3}$，若母液中含有$\mathrm{NaHCO_3}$，会和$\mathrm{H_2SO_3}$反应，B项错误；温

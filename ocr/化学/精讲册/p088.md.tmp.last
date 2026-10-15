@@ -1,0 +1,231 @@
+<!-- page 88 -->
+
+# 考法突破13 反应速率常数的应用
+
+## 一、必备知识
+
+### 1.反应速率常数的含义 [2024 山东 T15AB，2023 山东 T20（2）]
+
+大多数化学反应都是分几步完成的，其中的每一步反应称为基元反应。假设基元反应为 $a\mathrm{A(g)}+b\mathrm{B(g)}\longrightarrow c\mathrm{C(g)}+d\mathrm{D(g)}$，其速率可表示为 $v=kc^a(\mathrm{A})\cdot c^b(\mathrm{B})$，式中的 $k$ 称为反应速率常数（或速率常数）。$k$ 与浓度无关，但受温度、催化剂、固体表面性质等因素的影响。
+
+### 2.基元反应的速率方程
+
+基元反应 $a\mathrm{A(g)}+b\mathrm{B(g)}\rightleftharpoons c\mathrm{C(g)}+d\mathrm{D(g)}$ 的速率方程可写为 $v_{\text{正}}=k_{\text{正}}c^a(\mathrm{A})\cdot c^b(\mathrm{B})$，$v_{\text{逆}}=k_{\text{逆}}c^c(\mathrm{C})\cdot c^d(\mathrm{D})$（$k_{\text{正}}$ 为正反应的速率常数，$k_{\text{逆}}$ 为逆反应的速率常数）。基元反应的反应速率与反应物浓度以其化学计量数为指数的幂的乘积成正比。有时也可用物质的量分数或分压代替浓度来表达速率方程。
+
+### 3.复杂反应的速率方程
+
+许多化学反应不是基元反应，而是由两个或多个基元反应组成的复杂反应。假设反应 $\mathrm{A_2+B\longrightarrow A_2B}$ 是由两个基元反应组成的：
+
+第一步　$\mathrm{A_2\longrightarrow 2A\boldsymbol{\cdot}}$　慢反应
+
+第二步　$2\mathrm{A\boldsymbol{\cdot}}+\mathrm{B}\longrightarrow\mathrm{A_2B}$　快反应
+
+对于总反应来说，决定反应速率的步骤是最慢的一个基元反应，故总反应的速率方程是 $v=kc(\mathrm{A_2})$，而不是 $v=kc(\mathrm{A_2})\cdot c(\mathrm{B})$。
+
+### 4.速率常数与化学平衡常数的关系
+
+一定温度下，对于基元反应 $a\mathrm{A(g)}+b\mathrm{B(g)}\rightleftharpoons c\mathrm{C(g)}+d\mathrm{D(g)}$，$v_{\text{正}}=k_{\text{正}}\cdot c^a(\mathrm{A})\cdot c^b(\mathrm{B})$，$v_{\text{逆}}=k_{\text{逆}}\cdot c^c(\mathrm{C})\cdot c^d(\mathrm{D})$，平衡时 $v_{\text{正}}=v_{\text{逆}}$，则 $k_{\text{正}}\cdot c^a(\mathrm{A})\cdot c^b(\mathrm{B})=k_{\text{逆}}\cdot c^c(\mathrm{C})\cdot c^d(\mathrm{D})$，$\dfrac{k_{\text{正}}}{k_{\text{逆}}}=\dfrac{c^c(\mathrm{C})\cdot c^d(\mathrm{D})}{c^a(\mathrm{A})\cdot c^b(\mathrm{B})}=K$。
+
+## 二、解题思路
+
+- 实验探究
+  - 浓度变量、速率数值 → 速率方程（含 $k$、$c$）
+- 改变外界因素
+  - → 速率方程（含 $k$、$c$）
+  - → 速率的变化
+- 速率方程（含 $k$、$c$）
+  - 通过 $v_{\text{正}}=v_{\text{逆}}$ → 化学平衡常数
+  - → 速率的变化
+- $k_{\text{正}}$、$k_{\text{逆}}$ 换算 → 化学平衡常数
+
+## 即练即清
+
+答案 P321
+
+### 典例
+
+（2024 届山东烟台、德州、东营一模，20 节选）
+
+氢气和碳氧化物反应生成甲烷，有利于实现碳循环利用，涉及反应如下：
+
+反应Ⅰ：$\mathrm{CO(g)+3H_2(g)\rightleftharpoons CH_4(g)+H_2O(g)}$
+
+$\Delta H_1=-206.2\ \mathrm{kJ\cdot mol^{-1}}$
+
+反应Ⅱ：$\mathrm{CO(g)+H_2O(g)\rightleftharpoons CO_2(g)+H_2(g)}$
+
+$\Delta H_2$
+
+反应Ⅲ：$\mathrm{CO_2(g)+4H_2(g)\rightleftharpoons CH_4(g)+2H_2O(g)}$　$\Delta H_3=-165.0\ \mathrm{kJ\cdot mol^{-1}}$
+
+回答下列问题：
+
+（1）$\Delta H_2=$________ $\mathrm{kJ\cdot mol^{-1}}$。
+
+（2）已知反应Ⅱ的速率方程为 $v_{\text{正}}=k_{\text{正}}\cdot p(\mathrm{CO})\cdot p(\mathrm{H_2O})$，$v_{\text{逆}}=k_{\text{逆}}\cdot p(\mathrm{CO_2})\cdot p(\mathrm{H_2})$，其中 $k_{\text{正}}$、$k_{\text{逆}}$ 分别为正、逆反应的速率常数。如图（$\lg k$ 表示速率常数的对数，$\dfrac{1}{T}$ 表示温度的倒数）所示 $\mathrm{a}$、$\mathrm{b}$、$\mathrm{c}$、$\mathrm{d}$ 四条斜线中，有两条分别表示 $\lg k_{\text{正}}$、$\lg k_{\text{逆}}$ 随 $\dfrac{1}{T}$ 的变化关系，则能表示 $\lg k_{\text{逆}}$ 随 $\dfrac{1}{T}$ 的变化关系的斜线________（填标号）。
+
+[图：纵轴为 $\lg k$，横轴为 $\dfrac{1}{T}/\mathrm{K^{-1}}$，原点标为 $O$。四条直线交于同一点，该点横坐标为 $\dfrac{1}{T_1}$。直线 $\mathrm{a}$、$\mathrm{b}$ 斜率为正，$\mathrm{a}$ 更陡；直线 $\mathrm{c}$、$\mathrm{d}$ 斜率为负，$\mathrm{d}$ 更陡。]
+
+### 变式1 竞争反应的速率常数的比较
+
+（不定项）
+
+（2024 届山东淄博三模，14）某密闭容器中发生以
+
+<!-- page 89 -->
+
+下两个反应：① $\mathrm{X(g)+Y(g)\rightleftharpoons M(g)+Q(g)}$　$K_1$；② $\mathrm{X(g)+Y(g)\rightleftharpoons N(g)+Q(g)}$　$K_2$。反应①的正反应速率 $v_1(\text{正})=k_1\cdot c(\mathrm{X})\cdot c(\mathrm{Y})$，反应②的正反应速率 $v_2(\text{正})=k_2\cdot c(\mathrm{X})\cdot c(\mathrm{Y})$，其中 $k_1$、$k_2$ 为速率常数。某温度下，体系中生成物浓度随时间变化的关系如图所示。下列说法正确的是（　　）
+
+[图：纵轴为 $c/(\mathrm{mol\cdot L^{-1}})$，刻度为 $1$～$8$；横轴为 $t/\mathrm{s}$，刻度为 $0$～$10$。三条曲线均从原点出发；$c(\mathrm{Q})$ 持续增大，约在 $8\ \mathrm{s}$ 达到 $7\ \mathrm{mol\cdot L^{-1}}$ 后保持不变；$c(\mathrm{N})$ 持续增大，约在 $8\ \mathrm{s}$ 达到 $5\ \mathrm{mol\cdot L^{-1}}$ 后保持不变；$c(\mathrm{M})$ 先增大，约在 $4\ \mathrm{s}$ 达到峰值，随后减小，约在 $8\ \mathrm{s}$ 达到 $2\ \mathrm{mol\cdot L^{-1}}$ 后保持不变。$c(\mathrm{M})$ 与 $c(\mathrm{N})$ 在 $6\ \mathrm{s}$ 时相交，浓度均为 $3\ \mathrm{mol\cdot L^{-1}}$。]
+
+A.反应①的活化能大于反应②
+
+B.$10\ \mathrm{s}$ 时，正反应速率 $v_1(\text{正})>v_2(\text{正})$
+
+C.$0\sim6\ \mathrm{s}$ 内，$\mathrm{X}$ 的平均反应速率 $\bar v(\mathrm{X})=0.5\ \mathrm{mol\cdot L^{-1}\cdot s^{-1}}$
+
+D.该温度时，$\dfrac{K_1}{K_2}=\dfrac{2}{5}$
+
+### 变式2 阿伦尼乌斯公式的应用，速率常数与平衡常数的关系
+
+（2024 届山东菏泽二模，19 节选）$\mathrm{CH_4}$ 还原 $\mathrm{CO_2}$ 是实现“双碳”经济的有效途径之一，涉及反应之一如下：
+
+Ⅰ：$\mathrm{CH_4(g)+CO_2(g)\rightleftharpoons 2CO(g)+2H_2(g)}$
+
+$\Delta H_1=+248.3\ \mathrm{kJ\cdot mol^{-1}}$
+
+（3）反应Ⅰ的正、逆反应速率方程为 $v_{\text{正}}=k_{\text{正}}\cdot c(\mathrm{CH_4})\cdot c(\mathrm{CO_2})$，$v_{\text{逆}}=k_{\text{逆}}\cdot c^2(\mathrm{CO})\cdot c^2(\mathrm{H_2})$，$k_{\text{正}}$、$k_{\text{逆}}$ 符合阿伦尼乌斯公式 $R\ln k=-\dfrac{E_{\mathrm a}}{T}+C$（$E_{\mathrm a}$ 为活化能，$T$ 为温度，$R$、$C$ 为常数），实验测得 $k_{\text{正}}$ 的实验数据如图所示，则正反应的活化能 $E_{\mathrm a}=$________ $\mathrm{kJ\cdot mol^{-1}}$，升高温度 $R\ln\dfrac{k_{\text{正}}}{k_{\text{逆}}}$ 的值________（填“增大”“减小”或“不变”）。
+
+[图：纵轴为 $R\ln k/(\mathrm{J\cdot mol^{-1}\cdot K^{-1}})$，横轴为 $\dfrac{1}{T}/(10^{-3}\ \mathrm{K^{-1}})$。直线向右下方倾斜，其上标出两点 $(8.2,80)$、$(8.4,20)$。]
+
+针对训练 《精练册》P237
+
+# 第4节 化学反应的方向与调控
+
+## 知识清单
+
+## 一、化学反应的方向
+
+### 1.化学反应进行方向的判据
+
+- 焓判据
+  - 放热过程中体系能量降低，$\Delta H<0$，具有自发进行的倾向，但有些吸热反应也可以自发进行，故焓变只是影响反应方向的一种因素。
+- 熵判据
+  - ①熵的大小：同种物质，熵值大小的顺序为气态＞液态＞固态。
+  - ②熵判据：体系的混乱度增加（即熵增），$\Delta S>0$，反应有自发进行的倾向，但有些熵减过程也能自发进行，故熵变只是影响反应方向的一种因素。
+- 复合判据
+  - $\Delta G=\Delta H-T\Delta S>0$，反应不能自发进行。
+  - $\Delta G=\Delta H-T\Delta S=0$，反应达到平衡状态。
+  - $\Delta G=\Delta H-T\Delta S<0$，反应能自发进行。
+
+### 2.焓变、熵变和温度对化学反应方向的影响
+
+| $\Delta H$ | $\Delta S$ | $\Delta H-T\Delta S$ | 反应情况 |
+|---|---|---|---|
+| $-$ | $+$ | 永远是负值 | 在任何温度下均能自发进行 |
+| $+$ | $-$ | 永远是正值 | 在任何温度下均不能自发进行 |
+
+续表
+
+| $\Delta H$ | $\Delta S$ | $\Delta H-T\Delta S$ | 反应情况 |
+|---|---|---|---|
+| $+$ | $+$ | 低温为正；高温为负 | 低温时不能自发进行；高温时能自发进行 |
+| $-$ | $-$ | 低温为负；高温为正 | 低温时能自发进行；高温时不能自发进行 |
+
+## 二、化学反应的调控
+
+### 1.化工生产适宜条件的一般原则
+
+（1）化学反应速率：既不能太慢，也不能太快。
+
+（2）化学平衡：要考虑外界条件对平衡转化率和反应速率的影响是否一致。
+
+（3）原料的利用率：选用易得、廉价原料或增大其用量，提高不易得、高价原料的利用率。
+
+（4）实际生产能力：考虑设备承受高温、高压的能力等。
+
+（5）催化剂活性：注意催化剂的活性受温度等条件的影响。
+
+<!-- page 90 -->
+
+### 2.控制反应条件的基本措施
+
+（1）控制反应速率的措施：通过改变反应体系的温度、溶液的浓度、气体的压强（或浓度）、固体的表面积以及使用催化剂等途径调控反应速率和单位时间内的转化率。
+
+（2）提高平衡转化率的措施：通过改变可逆反应体系的温度、溶液的浓度、气体的压强（或浓度）等来改变可逆反应的限度，从而提高平衡转化率。
+
+### 3.合成氨反应的调控
+
+（1）反应原理：$\mathrm{N_2(g)+3H_2(g)\rightleftharpoons 2NH_3(g)}$
+
+$\Delta H=-92.4\ \mathrm{kJ\cdot mol^{-1}}$。
+
+（2）反应特点：可逆，正反应放热且气体分子数减小。
+
+（3）反应条件的选择
+
+①投料比：$n(\mathrm{N_2}):n(\mathrm{H_2})$ 略大于 $1:3$。
+
+②压强：$10\sim30\ \mathrm{MPa}$。
+
+解释：从平衡移动的角度考虑，压强越大越有利于氨气的合成，但考虑到增大压强对设备的要求也提高，故采用 $10\sim30\ \mathrm{MPa}$。
+
+③温度：$400\sim500\ ^\circ\mathrm{C}$。
+
+解释：从平衡移动的角度考虑，温度越高越不利于氨气的合成，但考虑到反应的速率和催化剂的活性，故采用 $400\sim500\ ^\circ\mathrm{C}$。
+
+④催化剂：铁触媒。
+
+### 注意
+
+为防止催化剂中毒，原料气必须净化除去杂质。
+
+## 即练即清
+
+答案 P322
+
+1.二氧化碳加氢制甲醇的总反应可表示为 $\mathrm{CO_2(g)+3H_2(g)\rightleftharpoons CH_3OH(g)+H_2O(g)}$。
+
+（1）该反应一般认为通过如下步骤实现：
+
+① $\mathrm{CO_2(g)+H_2(g)\rightleftharpoons CO(g)+H_2O(g)}$
+
+$\Delta H=+41\ \mathrm{kJ\cdot mol^{-1}}$
+
+② $\mathrm{CO(g)+2H_2(g)\rightleftharpoons CH_3OH(g)}$　$\Delta H=-90\ \mathrm{kJ\cdot mol^{-1}}$
+
+总反应的 $\Delta H=$________ $\mathrm{kJ\cdot mol^{-1}}$。
+
+（2）根据以上信息判断 $\mathrm{CO_2}$ 与 $\mathrm{H_2}$ 制取甲醇的反应在________（填字母）条件下可自发进行。
+
+A.高温
+
+B.低温
+
+C.任何温度
+
+2.我国科学家研发出一种新型双温催化剂 $\mathrm{Fe-TiO}_{2-x}\mathrm{H}_y$，该催化剂催化 $\mathrm{N_2}$ 和 $\mathrm{H_2}$ 合成 $\mathrm{NH_3}$（反应体系温度为 $495\ ^\circ\mathrm{C}$）的原理如图所示，下列分析错误的是（　　）
+
+[图：热 $\mathrm{Fe}$ 冷 $\mathrm{Ti}$ 双温催化。光照射向由黑色球和白色球组成的催化剂结构，图例标明黑色球为热 $\mathrm{Fe}$（$547\ ^\circ\mathrm{C}$），白色球为冷 $\mathrm{Ti}$（$415\ ^\circ\mathrm{C}$）。$\dfrac{1}{2}\mathrm{N_2}$ 在热 $\mathrm{Fe}$ 处转化为 $\mathrm{N}$，$\dfrac{3}{2}\mathrm{H_2}$ 在冷 $\mathrm{Ti}$ 处形成 $\mathrm{H}$，最后生成 $\mathrm{NH_3}$。]
+
+A.“热 $\mathrm{Fe}$”上的变化属于焓增、熵增的变化
+
+B.“热 $\mathrm{Fe}$”有利于 $\mathrm{N_2}$ 快速转化为 $\mathrm{N}$
+
+C.“冷 $\mathrm{Ti}$”低于体系温度，有利于提高合成氨的反应速率
+
+D.该催化剂能较好地解决传统合成氨工艺中存在的反应速率和平衡产率的矛盾
+
+3.近年来，科学家研究了乙醇催化合成乙酸乙酯新方法：$2\mathrm{C_2H_5OH(g)}\rightleftharpoons\mathrm{CH_3COOC_2H_5(g)}+2\mathrm{H_2(g)}$，在常压下反应，冷凝收集，测得常温下液态收集物中主要产物的质量分数与反应温度的关系如图所示。关于该方法，下列推测不合理的是（　　）
+
+[图：纵轴为质量分数，标有 $0$、$0.10$、$0.20$、$0.30$、$0.40$；横轴为温度/$^\circ\mathrm{C}$，标有 $200$、$225$、$250$、$275$、$300$、$325$。图例：实心圆为乙酸乙酯，空心圆为乙醛，实心三角为乙醚，实心方块为乙酸。乙酸乙酯质量分数随温度升高先增大，在约 $300\ ^\circ\mathrm{C}$ 达到最大值约 $0.40$，随后减小；乙醛质量分数先增大后减小，在约 $260\sim275\ ^\circ\mathrm{C}$ 附近达到最大值约 $0.20$；乙醚在较高温度下明显增多；乙酸质量分数较低，随温度升高缓慢增大。]
+
+A.减小体系压强，有利于提高乙醇的平衡转化率
+
+B.反应温度不宜超过 $300\ ^\circ\mathrm{C}$
+
+C.乙醛是反应中的催化剂
+
+D.该工艺除了产生乙醚、乙酸外，还可能产生乙烯等副产物
+
+针对训练 《精练册》P240

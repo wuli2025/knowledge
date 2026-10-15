@@ -1,0 +1,656 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-33c5ee0a574532971ab0",
+        "n-42a7991c826b00f1ac9d"
+      ],
+      "text": "氯气是黄绿色、有刺激性气味的有毒气体，密度比空气大，可溶于水；$25\\ ℃$ 时，$1$ 体积水可溶解 $2$ 体积氯气。",
+      "title": "氯气的物理性质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-ddbaf01bbf261fc91c5a"
+      ],
+      "text": "新制氯水含 $\\mathrm{Cl_2}$、$\\mathrm{HClO}$、$\\mathrm{H_2O}$、$\\mathrm{H^+}$、$\\mathrm{Cl^-}$、$\\mathrm{ClO^-}$、$\\mathrm{OH^-}$，即三分子四离子。",
+      "title": "新制氯水的成分",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-e4ebf24b7dbfbd482974"
+      ],
+      "text": "次氯酸的结构表示为 $\\mathrm{H—O—Cl}$，具有弱酸性，酸性弱于 $\\mathrm{H_2CO_3}$；具有强氧化性（漂白性）和不稳定性。光照分解：$\\mathrm{2HClO\\xrightarrow{光照}2HCl+O_2\\uparrow}$。",
+      "title": "次氯酸",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-4be1708ff9b771d1356b"
+      ],
+      "text": "漂白液的有效成分是 $\\mathrm{NaClO}$。向 $\\mathrm{NaClO}$ 溶液中滴加酚酞试剂，先变红后褪色。",
+      "title": "漂白液",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-4be1708ff9b771d1356b"
+      ],
+      "text": "漂白粉的主要成分是 $\\mathrm{CaCl_2}$ 和 $\\mathrm{Ca(ClO)_2}$，有效成分是 $\\mathrm{Ca(ClO)_2}$。",
+      "title": "漂白粉",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-09f9c0a01dffd563ef3a"
+      ],
+      "text": "氯元素的“价—类”二维图以化合价为纵轴、物质类别为横轴。$+7$ 价对应酸 $\\mathrm{HClO_4}$、盐 $\\mathrm{NaClO_4}$；$+5$ 价对应酸 $\\mathrm{HClO_3}$、盐 $\\mathrm{NaClO_3}$；$+3$ 价对应酸 $\\mathrm{HClO_2}$、盐 $\\mathrm{NaClO_2}$；$+1$ 价对应酸 $\\mathrm{HClO}$、盐 $\\mathrm{NaClO}$ 和 $\\mathrm{Ca(ClO)_2}$；$0$ 价对应单质 $\\mathrm{Cl_2}$；$-1$ 价对应氢化物 $\\mathrm{HCl}$、盐 $\\mathrm{NaCl}$ 和 $\\mathrm{FeCl_3}$。",
+      "title": "氯元素的价态与物质类别",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c7",
+      "source_node_ids": [
+        "n-ccd3f32e12f46fb99952"
+      ],
+      "text": "氟元素无正价，非金属性最强。$\\mathrm{HF}$ 是弱酸，能腐蚀玻璃；在 $\\mathrm{HX}$ 中，$\\mathrm{HF}$ 因存在分子间氢键而沸点最高。",
+      "title": "氟及氟化氢的特殊性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c8",
+      "source_node_ids": [
+        "n-ccd3f32e12f46fb99952"
+      ],
+      "text": "$\\mathrm{Br_2}$ 是深红棕色液体，易挥发。",
+      "title": "溴的物理性质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c9",
+      "source_node_ids": [
+        "n-ccd3f32e12f46fb99952"
+      ],
+      "text": "淀粉遇 $\\mathrm{I_2}$ 变蓝；$\\mathrm{I_2}$ 加热时易升华。",
+      "title": "碘的特征性质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c10",
+      "source_node_ids": [
+        "n-e5f569c04c713e76df4a"
+      ],
+      "text": "由两种卤素互相结合而成的物质叫卤素互化物，如 $\\mathrm{IBr}$、$\\mathrm{ICl}$、$\\mathrm{BrF_3}$、$\\mathrm{ClF_3}$ 等。",
+      "title": "卤素互化物",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c11",
+      "source_node_ids": [
+        "n-e5f569c04c713e76df4a"
+      ],
+      "text": "有些由多原子分子构成的物质与卤素单质性质相似，其阴离子与卤素阴离子性质相似，这类物质称为拟卤素，如氰［$\\mathrm{(CN)_2}$］、硫氰［$\\mathrm{(SCN)_2}$］、氧氰［$\\mathrm{(OCN)_2}$］等。",
+      "title": "拟卤素",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-42a7991c826b00f1ac9d"
+      ],
+      "text": "$\\mathrm{Cl_2}$ 与 $\\mathrm{H_2}$ 反应生成 $\\mathrm{HCl}$，出现苍白色火焰；与 $\\mathrm{Na}$ 反应生成 $\\mathrm{NaCl}$，出现白烟；与 $\\mathrm{Cu}$ 反应生成 $\\mathrm{CuCl_2}$；与 $\\mathrm{Fe}$ 反应生成 $\\mathrm{FeCl_3}$。氯气与变价金属反应时，一般生成高价金属氯化物。",
+      "title": "氯气与氢气、金属的反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-42a7991c826b00f1ac9d",
+        "n-ddbaf01bbf261fc91c5a"
+      ],
+      "text": "$\\mathrm{Cl_2}$ 具有氧化性，能与 $\\mathrm{I^-}$、$\\mathrm{Br^-}$、$\\mathrm{Fe^{2+}}$ 等还原性物质反应，分别生成 $\\mathrm{Cl^-+I_2}$、$\\mathrm{Cl^-+Br_2}$、$\\mathrm{Cl^-+Fe^{3+}}$。",
+      "title": "氯气对还原性离子的氧化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-42a7991c826b00f1ac9d"
+      ],
+      "text": "$\\mathrm{Cl_2}$ 与 $\\mathrm{H_2O}$ 发生歧化反应，生成 $\\mathrm{HCl+HClO}$。",
+      "title": "氯气与水的反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-ddbaf01bbf261fc91c5a"
+      ],
+      "text": "新制氯水的性质是所含微粒性质的综合：$\\mathrm{Cl_2}$ 能氧化 $\\mathrm{I^-}$、$\\mathrm{Fe^{2+}}$、$\\mathrm{Br^-}$ 等；$\\mathrm{Cl^-}$ 遇 $\\mathrm{AgNO_3}$ 溶液产生白色沉淀；$\\mathrm{HClO}$ 在光照下分解产生气泡，并能使湿润的有色布条或品红溶液褪色；$\\mathrm{H^+}$ 与活泼金属、碳酸盐反应产生气泡；$\\mathrm{HClO}$ 与 $\\mathrm{H^+}$ 共同作用，使紫色石蕊溶液先变红后褪色。",
+      "title": "氯水中微粒与性质的对应关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-ddbaf01bbf261fc91c5a"
+      ],
+      "text": "氯水中起漂白作用的是 $\\mathrm{HClO}$，干燥的 $\\mathrm{Cl_2}$ 没有漂白性。氯水久置后变为稀盐酸。",
+      "title": "氯水的漂白作用与久置变化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-4be1708ff9b771d1356b"
+      ],
+      "text": "漂白粉失效涉及反应：$\\mathrm{Ca(ClO)_2+H_2O+CO_2=CaCO_3+2HClO}$，$\\mathrm{2HClO\\xrightarrow{光照}2HCl+O_2\\uparrow}$。",
+      "title": "漂白粉的失效原因",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-132bcf8ba6404c37374b"
+      ],
+      "text": "氯气与碱的歧化产物随条件改变。稀碱、常温：$\\mathrm{Cl_2+2OH^-=Cl^-+ClO^-+H_2O}$；浓碱、加热：$\\mathrm{3Cl_2+6OH^-(浓)\\xrightarrow{\\Delta}5Cl^-+ClO_3^-+3H_2O}$。其中氯元素由 $0$ 价转变为 $-1$ 价和 $+1$ 价或 $+5$ 价。",
+      "title": "氯气在碱性条件下的歧化反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-132bcf8ba6404c37374b"
+      ],
+      "text": "酸性条件下，$\\mathrm{Cl^-}$ 与 $\\mathrm{ClO^-}$ 或 $\\mathrm{ClO_3^-}$ 归中生成 $\\mathrm{Cl_2}$。$\\mathrm{NaClO}$ 与 $\\mathrm{NaCl}$：$\\mathrm{2H^++Cl^-+ClO^-=Cl_2\\uparrow+H_2O}$；$\\mathrm{KClO_3}$ 与 $\\mathrm{KCl}$：$\\mathrm{5Cl^-+ClO_3^-+6H^+=3Cl_2\\uparrow+3H_2O}$。",
+      "title": "氯的化合物在酸性条件下的归中反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-132bcf8ba6404c37374b"
+      ],
+      "text": "一般来说，氯及其化合物间的转化中，歧化反应需要碱性环境，归中反应需要酸性环境。",
+      "title": "氯的歧化、归中反应与环境的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-8026cd5caa82e1f10905"
+      ],
+      "text": "卤素单质都能与大多数金属反应生成金属卤化物，如与铁反应生成 $\\mathrm{FeX_3}$，但 $\\mathrm{I_2}$ 除外，生成 $\\mathrm{FeI_2}$；都能与 $\\mathrm{H_2}$ 反应生成 $\\mathrm{HX}$；能与 $\\mathrm{H_2O}$ 或碱发生歧化反应，但 $\\mathrm{F_2}$ 除外。",
+      "title": "卤素单质化学性质的相似性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l11",
+      "source_node_ids": [
+        "n-0b9e1e161b70daaccb58"
+      ],
+      "text": "按 $\\mathrm{F_2}$、$\\mathrm{Cl_2}$、$\\mathrm{Br_2}$、$\\mathrm{I_2}$ 的顺序，颜色逐渐加深，熔、沸点逐渐升高，密度逐渐增大。",
+      "title": "卤素单质物理性质的递变性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l12",
+      "source_node_ids": [
+        "n-0b9e1e161b70daaccb58"
+      ],
+      "text": "按 $\\mathrm{F_2}$、$\\mathrm{Cl_2}$、$\\mathrm{Br_2}$、$\\mathrm{I_2}$ 的顺序，单质氧化性逐渐减弱，与 $\\mathrm{H_2}$ 反应越来越困难；相应 $\\mathrm{X^-}$ 的还原性逐渐增强。",
+      "title": "卤素氧化性与卤素离子还原性的递变性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l13",
+      "source_node_ids": [
+        "n-ccd3f32e12f46fb99952"
+      ],
+      "text": "氟与水反应：$\\mathrm{2F_2+2H_2O=4HF+O_2}$。",
+      "title": "氟与水的特殊反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l14",
+      "source_node_ids": [
+        "n-ccd3f32e12f46fb99952"
+      ],
+      "text": "碘与硫代硫酸根的反应：$\\mathrm{I_2+2S_2O_3^{2-}=2I^-+S_4O_6^{2-}}$。",
+      "title": "碘与硫代硫酸根的反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l15",
+      "source_node_ids": [
+        "n-e5f569c04c713e76df4a"
+      ],
+      "text": "卤素互化物中，非金属性弱的元素显正价，如 $\\mathrm{ICl}$ 中 $\\mathrm{I}$ 显 $+1$ 价、$\\mathrm{Cl}$ 显 $-1$ 价。",
+      "title": "卤素互化物中元素的化合价",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l16",
+      "source_node_ids": [
+        "n-e5f569c04c713e76df4a"
+      ],
+      "text": "卤素互化物与卤素单质的性质相似，有较强的氧化性，能与金属反应，如 $\\mathrm{2Mg+2IBr=MgBr_2+MgI_2}$。卤素互化物与水或碱的反应一般属于非氧化还原反应，如 $\\mathrm{IBr+H_2O=HIO+HBr}$、$\\mathrm{IBr+2NaOH=NaIO+NaBr+H_2O}$。",
+      "title": "卤素互化物的化学性质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l17",
+      "source_node_ids": [
+        "n-09f9c0a01dffd563ef3a"
+      ],
+      "text": "“价—类”二维图列出的转化关系为：$\\mathrm{HClO\\rightarrow HCl}$、$\\mathrm{HClO\\rightarrow NaClO}$、$\\mathrm{Ca(ClO)_2\\rightarrow HClO}$、$\\mathrm{Cl_2\\rightarrow NaClO}$、$\\mathrm{Cl_2\\rightarrow Ca(ClO)_2}$、$\\mathrm{Cl_2\\rightarrow NaCl}$、$\\mathrm{Cl_2\\rightarrow FeCl_3}$、$\\mathrm{HCl\\rightarrow NaCl}$。该图未逐项注明转化条件。",
+      "title": "氯及其化合物的转化关系",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-5e27a81788f9fc78ef9a"
+      ],
+      "text": "以 $\\mathrm{MnO_2}$ 和浓盐酸为原料，加热制取氯气：$\\mathrm{MnO_2+4HCl(浓)\\xrightarrow{\\Delta}MnCl_2+Cl_2\\uparrow+2H_2O}$。发生装置中，分液漏斗盛浓盐酸，烧瓶内放 $\\mathrm{MnO_2}$，用酒精灯加热。也可用 $\\mathrm{KMnO_4}$、$\\mathrm{KClO_3}$、$\\mathrm{Ca(ClO)_2}$ 等固体与浓盐酸在常温下反应制得 $\\mathrm{Cl_2}$。",
+      "title": "实验室制取氯气",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-5e27a81788f9fc78ef9a"
+      ],
+      "text": "实验室制取的氯气依次通过饱和食盐水除 $\\mathrm{HCl}$、通过浓硫酸除 $\\mathrm{H_2O}$，进入集气瓶收集，最后通入 $\\mathrm{NaOH}$ 溶液吸收尾气。",
+      "title": "氯气的净化、收集与尾气吸收",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-4be1708ff9b771d1356b"
+      ],
+      "text": "将 $\\mathrm{Cl_2}$ 通入 $\\mathrm{NaOH}$ 溶液中制备漂白液：$\\mathrm{Cl_2+2NaOH=NaCl+NaClO+H_2O}$。",
+      "title": "漂白液的制备",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-4be1708ff9b771d1356b"
+      ],
+      "text": "将 $\\mathrm{Cl_2}$ 通入冷的石灰乳中制备漂白粉：$\\mathrm{2Cl_2+2Ca(OH)_2=CaCl_2+Ca(ClO)_2+2H_2O}$。",
+      "title": "漂白粉的制备",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-ddbaf01bbf261fc91c5a"
+      ],
+      "text": "氯水、次氯酸盐溶液具有漂白性，不能用 $\\mathrm{pH}$ 试纸测定其 $\\mathrm{pH}$。",
+      "title": "氯水及次氯酸盐溶液的测量限制",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-1beb0d3a3f1d373f4b1a"
+      ],
+      "text": "向未知液中滴加 $\\mathrm{AgNO_3}$ 溶液和稀硝酸；若生成白色沉淀，则有 $\\mathrm{Cl^-}$；若生成浅黄色沉淀，则有 $\\mathrm{Br^-}$；若生成黄色沉淀，则有 $\\mathrm{I^-}$。",
+      "title": "沉淀法检验卤素离子",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-1beb0d3a3f1d373f4b1a"
+      ],
+      "text": "向无色未知液中加入适量新制饱和氯水振荡后，加入 $\\mathrm{CCl_4}$ 振荡；有机层呈红棕色或橙红色，说明未知液中有 $\\mathrm{Br^-}$；有机层呈紫色，说明未知液中有 $\\mathrm{I^-}$。",
+      "title": "置换—萃取法检验溴离子、碘离子",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-1beb0d3a3f1d373f4b1a"
+      ],
+      "text": "向未知液中先加入淀粉溶液，溶液不变蓝，再加入适量新制饱和氯水或过氧化氢溶液，振荡后溶液变蓝，说明有 $\\mathrm{I^-}$。",
+      "title": "氧化—淀粉法检验碘离子",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m9",
+      "source_node_ids": [
+        "n-ccd3f32e12f46fb99952"
+      ],
+      "text": "$\\mathrm{HF}$ 能腐蚀玻璃，应保存在铅制器皿或塑料瓶中；$\\mathrm{Br_2}$ 应水封保存，不能用橡胶塞。",
+      "title": "氟化氢与溴的保存",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m10",
+      "source_node_ids": [
+        "n-e5f569c04c713e76df4a"
+      ],
+      "text": "解答有关拟卤素的题目时可采用换元法，如把 $\\mathrm{(SCN)_2}$ 当作 $\\mathrm{X_2}$，把 $\\mathrm{SCN^-}$ 当作 $\\mathrm{X^-}$。",
+      "title": "拟卤素问题的换元法",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m11",
+      "source_node_ids": [
+        "n-f40a4b9325df14bb15af"
+      ],
+      "text": "海水制得粗盐，精制成饱和食盐水后电解。原文流程将 $\\mathrm{Cl_2}$ 标在阳极，将 $\\mathrm{H_2、NaOH}$ 标在阴极。反应原理：$\\mathrm{2NaCl+2H_2O}\\xrightarrow{\\text{电解}}\\mathrm{2NaOH+H_2\\uparrow+Cl_2\\uparrow}$。",
+      "title": "氯碱工业流程与原理",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m12",
+      "source_node_ids": [
+        "n-43f14425181eed760806"
+      ],
+      "text": "海水提取粗盐后得到苦卤，经硫酸酸化、氯气置换得到含 $\\mathrm{Br_2}$ 的溶液，用热空气吹出 $\\mathrm{Br_2}$；再用 $\\mathrm{SO_2}$ 吸收，吸收液经 $\\mathrm{Cl_2}$ 氧化后蒸馏，溴蒸气冷凝得到液溴。反应依次为：$\\mathrm{Cl_2+2Br^-=2Cl^-+Br_2}$；$\\mathrm{Br_2+SO_2+2H_2O=H_2SO_4+2HBr}$；$\\mathrm{2HBr+Cl_2=2HCl+Br_2}$。",
+      "title": "海水提溴流程与原理",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m13",
+      "source_node_ids": [
+        "n-e371de6a2e93cfac5277"
+      ],
+      "text": "将干海带灼烧成海带灰，浸泡后过滤，得到含 $\\mathrm{I^-}$ 的溶液；加入 $\\mathrm{H_2O_2}$ 和稀硫酸得到含 $\\mathrm{I_2}$ 的溶液；加 $\\mathrm{CCl_4}$ 萃取、分液，得到 $\\mathrm{I_2}$ 的 $\\mathrm{CCl_4}$ 溶液，再经蒸馏得到单质碘。",
+      "title": "海带提碘流程",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m14",
+      "source_node_ids": [
+        "n-e371de6a2e93cfac5277"
+      ],
+      "text": "从 $\\mathrm{I_2}$ 的有机溶液中分离晶体碘的一种方法是：用 $\\mathrm{NaOH}$ 溶液反萃取得到 $\\mathrm{NaI、NaIO_3}$ 溶液，再酸化发生归中反应，经过滤得到晶体碘。",
+      "title": "反萃取、酸化法分离晶体碘",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-ddbaf01bbf261fc91c5a"
+      ],
+      "from": "c2",
+      "to": "c3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ddbaf01bbf261fc91c5a"
+      ],
+      "from": "c2",
+      "to": "l4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ddbaf01bbf261fc91c5a"
+      ],
+      "from": "c3",
+      "to": "l5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ddbaf01bbf261fc91c5a"
+      ],
+      "from": "l4",
+      "to": "l2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4be1708ff9b771d1356b"
+      ],
+      "from": "c5",
+      "to": "l6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4be1708ff9b771d1356b",
+        "n-e4ebf24b7dbfbd482974"
+      ],
+      "from": "l6",
+      "to": "c3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-09f9c0a01dffd563ef3a"
+      ],
+      "from": "c6",
+      "to": "l17",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-132bcf8ba6404c37374b"
+      ],
+      "from": "l7",
+      "to": "l9",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-132bcf8ba6404c37374b"
+      ],
+      "from": "l8",
+      "to": "l9",
+      "type": "适用条件",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e5f569c04c713e76df4a"
+      ],
+      "from": "c10",
+      "to": "l15",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e5f569c04c713e76df4a"
+      ],
+      "from": "c10",
+      "to": "l16",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e5f569c04c713e76df4a"
+      ],
+      "from": "m10",
+      "to": "c11",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5e27a81788f9fc78ef9a"
+      ],
+      "from": "m1",
+      "to": "m2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4be1708ff9b771d1356b"
+      ],
+      "from": "m3",
+      "to": "c4",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4be1708ff9b771d1356b"
+      ],
+      "from": "m4",
+      "to": "c5",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4be1708ff9b771d1356b",
+        "n-132bcf8ba6404c37374b"
+      ],
+      "from": "m3",
+      "to": "l7",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4be1708ff9b771d1356b",
+        "n-132bcf8ba6404c37374b"
+      ],
+      "from": "m4",
+      "to": "l7",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ddbaf01bbf261fc91c5a"
+      ],
+      "from": "m5",
+      "to": "l5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1beb0d3a3f1d373f4b1a",
+        "n-42a7991c826b00f1ac9d"
+      ],
+      "from": "m7",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1beb0d3a3f1d373f4b1a",
+        "n-ccd3f32e12f46fb99952"
+      ],
+      "from": "m8",
+      "to": "c9",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ccd3f32e12f46fb99952"
+      ],
+      "from": "m9",
+      "to": "c7",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ccd3f32e12f46fb99952"
+      ],
+      "from": "m9",
+      "to": "c8",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-43f14425181eed760806",
+        "n-42a7991c826b00f1ac9d"
+      ],
+      "from": "m12",
+      "to": "l2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e371de6a2e93cfac5277"
+      ],
+      "from": "m13",
+      "to": "m14",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4f3fde416ddf62917ce3",
+        "n-ddbaf01bbf261fc91c5a"
+      ],
+      "from": "n-4f3fde416ddf62917ce3",
+      "to": "l5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d5a9ccb2a4814648ac7e",
+        "n-43f14425181eed760806"
+      ],
+      "from": "n-d5a9ccb2a4814648ac7e",
+      "to": "m12",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-540463f2d7eeeefd8a6e",
+        "n-e371de6a2e93cfac5277"
+      ],
+      "from": "n-540463f2d7eeeefd8a6e",
+      "to": "m13",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-540463f2d7eeeefd8a6e",
+        "n-e371de6a2e93cfac5277"
+      ],
+      "from": "n-540463f2d7eeeefd8a6e",
+      "to": "m14",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-a38d07b3e5d3ef55f3c4",
+  "source_digest": "56dc4ecc8c8116abff14797b206a83a09fcbdc41a047dc00344b993d1b6fc95f",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

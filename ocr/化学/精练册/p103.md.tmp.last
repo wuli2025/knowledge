@@ -1,0 +1,187 @@
+<!-- page 103 -->
+
+# 考法突破15　溶液中微粒浓度关系判断
+
+## 五年高考
+
+答案 P408
+
+**1.★★★（2025 广东，12，4分）** $\mathrm{CuCl}$ 微溶于水，但在 $\mathrm{Cl^-}$ 浓度较高的溶液中因形成 $\mathrm{[CuCl_2]^-}$ 和 $\mathrm{[CuCl_3]^{2-}}$ 而溶解，将适量 $\mathrm{CuCl}$ 完全溶于盐酸，得到含 $\mathrm{[CuCl_2]^-}$ 和 $\mathrm{[CuCl_3]^{2-}}$ 的溶液，下列叙述正确的是（　　）
+
+A. 加水稀释，$\mathrm{[CuCl_3]^{2-}}$ 浓度一定下降
+
+B. 向溶液中加入少量 $\mathrm{NaCl}$ 固体，$\mathrm{[CuCl_2]^-}$ 浓度一定上升
+
+C. $\mathrm{H[CuCl_2]}$ 的电离方程式为 $\mathrm{H[CuCl_2]}=\mathrm{H^++Cu^++2Cl^-}$
+
+D. 体系中，$c(\mathrm{Cu^+})+c(\mathrm{H^+})=c(\mathrm{Cl^-})+c(\mathrm{[CuCl_2]^-})+c(\mathrm{[CuCl_3]^{2-}})+c(\mathrm{OH^-})$
+
+**2.★★★（2025 江苏，12，3分）** 室温下，有色金属冶炼废渣（含 $\mathrm{Cu、Ni、Si}$ 等的氧化物）用过量的较浓 $\mathrm{H_2SO_4}$ 溶液酸浸后，提取铜和镍的过程如图所示。
+
+[图：浸取液进入“提铜”步骤，加入 $\mathrm{NaHSO_3}$ 溶液，分离得到 $\mathrm{Cu}$；提铜后的溶液进入“沉镍”步骤，加入 $\mathrm{(NH_4)_2C_2O_4}$ 溶液，得到 $\mathrm{NiC_2O_4}$。]
+
+已知：$K_{\mathrm a}(\mathrm{HSO_4^-})=1.2\times10^{-2}$，$K_{\mathrm{a}_1}(\mathrm{H_2SO_3})=1.2\times10^{-2}$，$K_{\mathrm{a}_2}(\mathrm{H_2SO_3})=6.0\times10^{-8}$。下列说法正确的是（　　）
+
+A. 较浓 $\mathrm{H_2SO_4}$ 溶液中：$c(\mathrm{H^+})=2c(\mathrm{SO_4^{2-}})+c(\mathrm{OH^-})$
+
+B. $\mathrm{NaHSO_3}$ 溶液中：$2\mathrm{HSO_3^-}\rightleftharpoons\mathrm{SO_3^{2-}}+\mathrm{H_2SO_3}$ 的平衡常数 $K=5.0\times10^{-6}$
+
+C. $\mathrm{(NH_4)_2C_2O_4}$ 溶液中：$c(\mathrm{NH_3\cdot H_2O})+c(\mathrm{OH^-})=c(\mathrm{H_2C_2O_4})+c(\mathrm{HC_2O_4^-})+c(\mathrm{H^+})$
+
+D. “提铜”和“沉镍”后的两份滤液中：$c_{\text{提铜}}(\mathrm{Na^+})=c_{\text{沉镍}}(\mathrm{Na^+})$
+
+**3.★★★（2024 安徽，13，3分）** 环境保护工程师研究利用 $\mathrm{Na_2S}$、$\mathrm{FeS}$ 和 $\mathrm{H_2S}$ 处理水样中的 $\mathrm{Cd^{2+}}$。
+
+已知 $25\ ℃$ 时，$\mathrm{H_2S}$ 饱和溶液浓度约为 $0.1\ \mathrm{mol\cdot L^{-1}}$；$K_{\mathrm{a}_1}(\mathrm{H_2S})=10^{-6.97}$，$K_{\mathrm{a}_2}(\mathrm{H_2S})=10^{-12.90}$，$K_{\mathrm{sp}}(\mathrm{FeS})=10^{-17.20}$，$K_{\mathrm{sp}}(\mathrm{CdS})=10^{-26.10}$。
+
+下列说法错误的是（　　）
+
+A. $\mathrm{Na_2S}$ 溶液中：$c(\mathrm{H^+})+c(\mathrm{Na^+})=c(\mathrm{OH^-})+c(\mathrm{HS^-})+2c(\mathrm{S^{2-}})$
+
+B. $0.01\ \mathrm{mol\cdot L^{-1}}$ $\mathrm{Na_2S}$ 溶液中：$c(\mathrm{Na^+})>c(\mathrm{S^{2-}})>c(\mathrm{OH^-})>c(\mathrm{HS^-})$
+
+C. 向 $c(\mathrm{Cd^{2+}})=0.01\ \mathrm{mol\cdot L^{-1}}$ 的溶液中加入 $\mathrm{FeS}$，可使 $c(\mathrm{Cd^{2+}})<10^{-8}\ \mathrm{mol\cdot L^{-1}}$
+
+D. 向 $c(\mathrm{Cd^{2+}})=0.01\ \mathrm{mol\cdot L^{-1}}$ 的溶液中通入 $\mathrm{H_2S}$ 气体至饱和，所得溶液中：$c(\mathrm{H^+})>c(\mathrm{Cd^{2+}})$
+
+**4.★★★（2024 湖南，13，3分）** 常温下 $K_{\mathrm a}(\mathrm{HCOOH})=1.8\times10^{-4}$，向 $20\ \mathrm{mL}$ $0.10\ \mathrm{mol\cdot L^{-1}}$ $\mathrm{NaOH}$ 溶液中缓慢滴入相同浓度的 $\mathrm{HCOOH}$ 溶液，混合溶液中某两种离子的浓度随加入 $\mathrm{HCOOH}$ 溶液体积的变化关系如图所示，下列说法错误的是（　　）
+
+[图：横轴为 $V(\mathrm{HCOOH})/\mathrm{mL}$，标有 $5、10、15、20$；纵轴为 $c/(\mathrm{mol\cdot L^{-1}})$，标有 $0、0.05、0.10$。一条曲线从 $(0,0.10)$ 向右下降，在 $20\ \mathrm{mL}$ 附近接近横轴；另一条曲线从原点向右上升，两曲线交于 $V=10\ \mathrm{mL}$ 处的 M 点。上升曲线上 $V=20\ \mathrm{mL}$ 处标为 N 点，浓度略低于 $0.05\ \mathrm{mol\cdot L^{-1}}$。]
+
+A. 水的电离程度：$\mathrm{M<N}$
+
+B. M 点：$2c(\mathrm{OH^-})=c(\mathrm{Na^+})+c(\mathrm{H^+})$
+
+C. 当 $V(\mathrm{HCOOH})=10\ \mathrm{mL}$ 时，$c(\mathrm{OH^-})=c(\mathrm{H^+})+2c(\mathrm{HCOOH})+c(\mathrm{HCOO^-})$
+
+D. N 点：$c(\mathrm{Na^+})>c(\mathrm{HCOO^-})>c(\mathrm{OH^-})>c(\mathrm{H^+})>c(\mathrm{HCOOH})$
+
+**5.★★★（2025 湖南，13，3分）** 草酸广泛应用于食品、药品等领域。常温下，通过下列实验探究了草酸的性质：
+
+实验1：向 $10\ \mathrm{mL}$ $0.2\ \mathrm{mol\cdot L^{-1}}$ $\mathrm{H_2C_2O_4}$ 溶液中滴入一定量 $0.2\ \mathrm{mol\cdot L^{-1}}$ $\mathrm{KOH}$ 溶液。混合溶液的 $\mathrm{pH}$ 与 $\lg X$［$X=\dfrac{c(\mathrm{HC_2O_4^-})}{c(\mathrm{H_2C_2O_4})}$ 或 $\dfrac{c(\mathrm{C_2O_4^{2-}})}{c(\mathrm{HC_2O_4^-})}$］的关系如图所示。
+
+[图：横轴为 $\lg X$，纵轴为 $\mathrm{pH}$。两条平行的向右上方倾斜的直线分别与纵轴交于 $3.8$ 和 $1.2$，向左延长的虚线分别与横轴交于 $-3.8$ 和 $-1.2$；原点标为 $0$。]
+
+<!-- page 104 -->
+
+实验2：向 $10\ \mathrm{mL}$ $0.2\ \mathrm{mol\cdot L^{-1}}$ $\mathrm{H_2C_2O_4}$ 溶液中加入 $10\ \mathrm{mL}$ $0.2\ \mathrm{mol\cdot L^{-1}}$ $\mathrm{BaCl_2}$ 溶液。
+
+已知：$25\ ℃$ 时，$K_{\mathrm{sp}}(\mathrm{BaC_2O_4})=10^{-7.6}$。混合后溶液体积变化忽略不计。
+
+下列说法错误的是（　　）
+
+A. 实验1，当溶液中 $c(\mathrm{H_2C_2O_4})=c(\mathrm{C_2O_4^{2-}})$ 时，$\mathrm{pH}=2.5$
+
+B. 实验1，当溶液呈中性时：$c(\mathrm{C_2O_4^{2-}})>c(\mathrm{HC_2O_4^-})>c(\mathrm{H_2C_2O_4})$
+
+C. 实验2，溶液中有沉淀生成
+
+D. 实验2，溶液中存在：$2c(\mathrm{Ba^{2+}})+c(\mathrm{H^+})=c(\mathrm{Cl^-})+c(\mathrm{HC_2O_4^-})+2c(\mathrm{C_2O_4^{2-}})$
+
+## 三年模拟
+
+答案 P409
+
+**6.★★（2026 届山东德州期中，6 改编）** 正盐 $\mathrm{NaH_2PO_2}$ 与 $\mathrm{AgNO_3}$ 在碱性环境中发生反应可用于化学镀银：$\mathrm{H_2PO_2^-}+\mathrm{Ag^+}+\mathrm{OH^-}\longrightarrow\mathrm{PO_4^{3-}}+\mathrm{Ag}\downarrow+\mathrm{H_2O}$（未配平）。设 $N_{\mathrm A}$ 为阿伏加德罗常数的值，下列说法错误的是（　　）
+
+A. 理论上 $54\ \mathrm g$ $\mathrm{Ag^+}$ 被还原时，转移的电子数为 $0.5N_{\mathrm A}$
+
+B. $1\ \mathrm L$ $\mathrm{Na_3PO_4}$ 溶液中 $c(\mathrm{PO_4^{3-}})=1\ \mathrm{mol\cdot L^{-1}}$，则 $\mathrm{Na^+}$ 的数目大于 $3N_{\mathrm A}$
+
+C. $\mathrm{NaH_2PO_2}$ 溶液中存在关系式：$c(\mathrm{Na^+})=c(\mathrm{H_3PO_2})+c(\mathrm{H_2PO_2^-})+c(\mathrm{HPO_2^{2-}})+c(\mathrm{PO_2^{3-}})$
+
+D. 常温下，等浓度的 $\mathrm{NaH_2PO_2}$ 溶液和 $\mathrm{Na_3PO_4}$ 溶液后者 $\mathrm{pH}$ 大，则 $K_{\mathrm a}(\mathrm{H_3PO_2})>K_{\mathrm{a}_3}(\mathrm{H_3PO_4})$
+
+**7.★★★《不定项》（2025 届山东滕州一中开学考，15）** 电位滴定法是一种利用电极电位变化来判断滴定终点的方法，用盐酸滴定某 $\mathrm{Na_2A}$ 溶液，$\mathrm{pH}$ 曲线与电位滴定曲线如图所示。
+
+[图：横轴为 $V(\mathrm{HCl})/\mathrm{mL}$，刻度为 $0～7$；左纵轴为 $U/\mathrm{mV}$，标有 $-250、-150、-50、50、150、250$；右纵轴为 $\mathrm{pH}$，标有 $2、4、6、8、10、12$。虚线为随盐酸加入而下降的 $\mathrm{pH}$ 曲线；实线为有两个峰的电位滴定曲线，峰分别位于约 $3\ \mathrm{mL}$ 和 $6\ \mathrm{mL}$。图中标有 a 点（$\mathrm{pH}=8.4$）及 b 点，b 点位于约 $6\ \mathrm{mL}$ 处的下降虚线上。]
+
+已知：$K_{\mathrm{a}_1}(\mathrm{H_2A})=10^{-7.35}$，$K_{\mathrm{a}_2}(\mathrm{H_2A})=10^{-10.34}$。
+
+下列说法正确的是（　　）
+
+A. a 点溶液中存在：$c(\mathrm{H^+})+c(\mathrm{HA^-})+2c(\mathrm{H_2A})=c(\mathrm{OH^-})$
+
+B. a 点溶液中：$\dfrac{c(\mathrm{H_2A})}{c(\mathrm{A^{2-}})}=10^{0.89}$
+
+C. 浓度相等的 $\mathrm{H_2A}$ 和 $\mathrm{NaHA}$ 的混合溶液中：$c(\mathrm{H_2A})>c(\mathrm{HA^-})$
+
+D. b 点溶液中存在：$c(\mathrm{Na^+})+c(\mathrm{H^+})=c(\mathrm{HA^-})+c(\mathrm{A^{2-}})+c(\mathrm{OH^-})+c(\mathrm{Cl^-})$
+
+**8.★★★《不定项》（2025 届山东潍坊开学考，14）** 亚砷酸（$\mathrm{H_3AsO_3}$）常用于治疗白血病，在溶液中存在多种微粒形态，常温下，其各种微粒的物质的量分数与溶液 $\mathrm{pH}$ 的关系如图所示。亚砷酸的三级电离常数分别为 $K_1、K_2、K_3$。下列说法正确的是（　　）
+
+[图：横轴为 $\mathrm{pH}$，刻度为 $0、2、4、6、8、10、12、14$；纵轴为物质的量分数，刻度为 $0.0～1.0$。$\mathrm{H_3AsO_3}$ 的分数在低 $\mathrm{pH}$ 时接近 $1$，随后下降；$\mathrm{H_2AsO_3^-}$ 的分数先升后降，在 $\mathrm{pH}$ 约为 $11$ 时达到峰值；$\mathrm{HAsO_3^{2-}}$ 的分数在 $\mathrm{pH}$ 约为 $13$ 时达到峰值；$\mathrm{AsO_3^{3-}}$ 的分数在高 $\mathrm{pH}$ 区域随 $\mathrm{pH}$ 升高而增大。各曲线旁标有对应微粒名称。]
+
+A. $\dfrac{n(\mathrm{H_3AsO_3})}{n(\mathrm{H_2AsO_3^-})}=1$ 时溶液显碱性
+
+B. $\dfrac{K_1}{K_2}>\dfrac{K_2}{K_3}$
+
+C. $\mathrm{pH}=13$ 时，溶液中 $c(\mathrm{H_2AsO_3^-})+2c(\mathrm{HAsO_3^{2-}})+3c(\mathrm{AsO_3^{3-}})+c(\mathrm{OH^-})=c(\mathrm{H^+})$
+
+D. $\mathrm{pH}=14$ 时，$c(\mathrm{AsO_3^{3-}})>c(\mathrm{HAsO_3^{2-}})>c(\mathrm{H_2AsO_3^-})>c(\mathrm{OH^-})$
+
+**9.★★★（2025 届山东潍坊期中，10）** 常温下，$0.1\ \mathrm{mol\cdot L^{-1}}$ $\mathrm{NH_4A}$ 溶液中 $\mathrm{A^-、HA、NH_4^+、NH_3\cdot H_2O}$ 四种微粒的 $\mathrm{pX}=-\lg c(\mathrm X)$ 随 $\mathrm{pH}$ 的变化（加入 $\mathrm{HCl}$ 或 $\mathrm{NaOH}$）关系如图所示（忽略 $\mathrm{NH_3\cdot H_2O}$ 分解及溶液体积变化）。已知：x 点和 y 点的坐标分别为 $(3.75,1.3)$、$(9.25,1.3)$。
+
+下列说法正确的是（　　）
+
+[图：横轴为 $\mathrm{pH}$，刻度为 $0、2、4、6、8、10、12、14$；纵轴为 $\mathrm{pX}$，由上向下从 $0$ 增至 $14$。四条曲线标为①②③④。①在左侧由较大的 $\mathrm{pX}$ 值向右上方趋近 $\mathrm{pX}=1$，与另一条曲线交于 x 点；②从左下方向右上方延伸并趋近 $\mathrm{pX}=1$，与③交于 y 点；③经过 y 点后向右下方延伸；④经过 x 点后向右下方延伸。②与④交于 z 点。]
+
+A. 曲线①表示 $\mathrm{pNH_3\cdot H_2O}$ 随 $\mathrm{pH}$ 的变化
+
+B. $K_{\mathrm a}(\mathrm{HA})<K_{\mathrm b}(\mathrm{NH_3\cdot H_2O})$
+
+C. $\mathrm{pH}=7$ 时，$c(\mathrm{A^-})=c(\mathrm{NH_4^+})$
+
+D. z 点时，$c(\mathrm{A^-})=c(\mathrm{NH_4^+})>c(\mathrm{H^+})>c(\mathrm{OH^-})$
+
+<!-- page 105 -->
+
+# 微专题4　溶液中离子平衡图像分析
+
+答案 P410
+
+## 考向1　中和滴定图像与分布系数图像相结合
+
+**1.★★《不定项》（2026 届山东青岛期初调研，15）** 常温下，用 $0.1000\ \mathrm{mol\cdot L^{-1}}$ $\mathrm{NaOH}$ 溶液滴定一定体积未知浓度的一元弱酸 $\mathrm{HA}$ 溶液，过程中溶液 $\mathrm{pH}$ 与滴定分数 $a$［$a=\dfrac{n(\text{滴定剂})}{n(\text{被滴定组分})}$］的关系如图甲，溶液中微粒的分布分数 $\delta(\mathrm{HA})$、$\delta(\mathrm{A^-})$ 与 $\mathrm{pH}$ 的关系如图乙。下列说法正确的是（　　）
+
+[图甲：横轴为滴定分数 $a$，标有 $0.50、1.00、1.50、2.00$；纵轴为 $\mathrm{pH}$，标有 $0、2、4、6、8、10、12$。滴定曲线从酸性区域上升，在 $a=1.00$ 附近发生突跃，随后趋于平缓。M 点位于 $a=0.50$ 处，N 点位于 $a=1.00$ 处；两点均有向坐标轴作出的虚线。]
+
+[图乙：横轴为 $\mathrm{pH}$，刻度为 $3～7$；纵轴为分布分数 $\delta$，标有 $0、0.2、0.4、0.6、0.8$。一条曲线随 $\mathrm{pH}$ 增大从接近 $1$ 降至接近 $0$，另一条从接近 $0$ 升至接近 $1$，交点标为 $\mathrm O(4.77,0.50)$，有向两坐标轴作出的虚线。]
+
+A. 可用石蕊作指示剂判断该酸碱中和滴定的终点
+
+B. O 点为该酸碱中和滴定终点的溶液状态
+
+C. M 点溶液：$2c(\mathrm{Na^+})=c(\mathrm{HA})+c(\mathrm{A^-})$
+
+D. 水的电离程度：$\mathrm{O>N}$
+
+**2.★★★（2025 甘肃，14，3分）** 氨基乙酸（$\mathrm{NH_2CH_2COOH}$）是结构最简单的氨基酸分子，其分子在水溶液中存在如下平衡：
+
+$\mathrm{{}^{+}NH_3CH_2COOH}\overset{\mathrm{p}K_1=2.4}{\rightleftharpoons}\mathrm{{}^{+}NH_3CH_2COO^{-}}\overset{\mathrm{p}K_2=9.6}{\rightleftharpoons}\mathrm{NH_2CH_2COO^{-}}$
+
+在 $25\ ℃$ 时，其分布分数 $\delta$［如 $\delta(\mathrm{NH_2CH_2COO^-})=\dfrac{c(\mathrm{NH_2CH_2COO^-})}{c(\mathrm{{}^{+}NH_3CH_2COOH})+c(\mathrm{{}^{+}NH_3CH_2COO^-})+c(\mathrm{NH_2CH_2COO^-})}$］与溶液 $\mathrm{pH}$ 关系如图中上部所示。在 $100\ \mathrm{mL}$ $0.01\ \mathrm{mol/L}$ $\mathrm{{}^{+}NH_3CH_2COOH\cdot Cl^-}$ 溶液中逐滴滴入 $0.1\ \mathrm{mol/L}$ $\mathrm{NaOH}$ 溶液，溶液 $\mathrm{pH}$ 与 $\mathrm{NaOH}$ 溶液滴入体积的变化关系如图中下部所示。下列说法错误的是（　　）
+
+[图：上、下两图共用横轴 $\mathrm{pH}$，刻度为 $0、2、4、6、8、10、12$。上图纵轴为分布分数 $\delta$，刻度为 $0～1$；曲线Ⅰ从低 $\mathrm{pH}$ 时接近 $1$ 随 $\mathrm{pH}$ 增大下降至接近 $0$，中间微粒的曲线先升至接近 $1$ 再下降，第三条曲线在高 $\mathrm{pH}$ 区域上升至接近 $1$，右侧两曲线的交点标为 a。下图纵轴为 $\mathrm{NaOH}$ 溶液滴入体积$/\mathrm{mL}$，由上向下标有 $0、5、10、15、20、25、30$；曲线上标有 b 点，位于约 $(6,10)$，c 点位于滴入体积约 $20\ \mathrm{mL}$ 处。]
+
+A. 曲线Ⅰ对应的离子是 $\mathrm{{}^{+}NH_3CH_2COOH}$
+
+B. a 点处对应的 $\mathrm{pH}$ 为 $9.6$
+
+C. b 点处 $c(\mathrm{{}^{+}NH_3CH_2COOH})=c(\mathrm{NH_2CH_2COO^-})$
+
+D. c 点处 $2c(\mathrm{{}^{+}NH_3CH_2COOH})+c(\mathrm{{}^{+}NH_3CH_2COO^-})+c(\mathrm{H^+})=c(\mathrm{OH^-})$
+
+## 考向2　沉淀溶解平衡图像
+
+**3.★★★（2025 届山东省实验中学三诊，9）** 秦俑彩绘中含有白色的 $\mathrm{PbCO_3}$ 和黄色的 $\mathrm{PbI_2}$。常温下，$\mathrm{PbCO_3}$ 和 $\mathrm{PbI_2}$ 在不同溶液中分别达到沉淀溶解平衡时 $\mathrm{pM}$（铅离子浓度的负对数）与 $\mathrm{pR}$（$\mathrm{CO_3^{2-}}$ 或 $\mathrm{I^-}$ 浓度的负对数）的关系如图所示。下列说法正确的是（　　）
+
+[图：横轴为 $\mathrm{pR}$，纵轴为 $\mathrm{pM}$。直线 $\mathrm{L_1}$ 较陡，与纵轴交于 $8$，与横轴交于 $4$；直线 $\mathrm{L_2}$ 与纵轴、横轴均交于 $13.1$。横轴还标有 $0、3、6、9、12、15$，纵轴还标有 $3、6、9、12、15$。X 点位于两直线之间，约在 $\mathrm{pR}=7$、$\mathrm{pM}=4$ 处。]
+
+A. $\mathrm{L_1}$ 表示 $\mathrm{PbCO_3}$ 达到沉淀溶解平衡时 $\mathrm{pM}$ 与 $\mathrm{pR}$ 的关系
+
+B. 在 $1\ \mathrm{mol/L}$ $\mathrm{KI}$ 溶液中，$\mathrm{PbI_2}$ 的溶解度为 $10^{-8}\ \mathrm{mol/L}$
+
+C. 对于 $\mathrm{PbCO_3}$，X 点：$v(\text{沉淀})<v(\text{溶解})$
+
+D. 向浓度均为 $0.1\ \mathrm{mol/L}$ 的 $\mathrm{Na_2CO_3}$、$\mathrm{NaI}$ 的混合溶液中滴入 $\mathrm{Pb(NO_3)_2}$ 溶液，先产生黄色沉淀

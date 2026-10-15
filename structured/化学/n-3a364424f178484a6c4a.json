@@ -1,0 +1,408 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-0c484951f20a21e43347"
+      ],
+      "text": "硅可作半导体材料，用于制造芯片、太阳能电池。",
+      "title": "硅的用途",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-60ef3a85e0ad1131c93a"
+      ],
+      "text": "二氧化硅的存在形式有石英、水晶、玛瑙、沙子等；常温下为固体，硬度大，熔、沸点高，不溶于水。",
+      "title": "二氧化硅的存在形式与物理性质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-60ef3a85e0ad1131c93a"
+      ],
+      "text": "二氧化硅是酸性氧化物；虽能与氢氟酸反应，但不能由此认为它是碱性氧化物或两性氧化物。",
+      "title": "二氧化硅的氧化物类别",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-60ef3a85e0ad1131c93a"
+      ],
+      "text": "二氧化硅可用于制造光导纤维、光学仪器等。",
+      "title": "二氧化硅的用途",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-d9a27dc4704642515aae"
+      ],
+      "text": "硅酸是难溶于水的白色胶状物质。",
+      "title": "硅酸的物理性质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-d9a27dc4704642515aae"
+      ],
+      "text": "硅酸干燥脱水后得到的硅胶可作催化剂载体、干燥剂等。",
+      "title": "硅胶的用途",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c7",
+      "source_node_ids": [
+        "n-fe61548d1a21ef3fe84d"
+      ],
+      "text": "硅酸钠（$\\mathrm{Na_2SiO_3}$）可溶于水，其水溶液俗称水玻璃，为无色黏稠液体，可作黏合剂、防火剂。",
+      "title": "硅酸钠与水玻璃",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c8",
+      "source_node_ids": [
+        "n-7b1c3e0aecb5a6a3ddfb"
+      ],
+      "text": "硅酸盐材料包括陶瓷、玻璃、水泥。",
+      "title": "硅酸盐材料",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c9",
+      "source_node_ids": [
+        "n-7b1c3e0aecb5a6a3ddfb"
+      ],
+      "text": "陶瓷的主要成分为硅酸盐，原料为黏土。",
+      "title": "陶瓷的主要成分与原料",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c10",
+      "source_node_ids": [
+        "n-7b1c3e0aecb5a6a3ddfb"
+      ],
+      "text": "玻璃的主要成分为 $\\mathrm{Na_2SiO_3}$、$\\mathrm{CaSiO_3}$、$\\mathrm{SiO_2}$，原料为纯碱、石灰石、石英砂。",
+      "title": "玻璃的主要成分与原料",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c11",
+      "source_node_ids": [
+        "n-7b1c3e0aecb5a6a3ddfb"
+      ],
+      "text": "水泥的主要成分为硅酸盐，原料为黏土、石灰石、石膏。",
+      "title": "水泥的主要成分与原料",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c12",
+      "source_node_ids": [
+        "n-b2c5490f5ce834521fc0"
+      ],
+      "text": "新型无机非金属材料包括硅、二氧化硅、新型陶瓷、碳纳米材料。",
+      "title": "新型无机非金属材料",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c13",
+      "source_node_ids": [
+        "n-b2c5490f5ce834521fc0"
+      ],
+      "text": "新型陶瓷包括高温结构陶瓷、压电陶瓷、透明陶瓷、超导陶瓷等。碳化硅（$\\mathrm{SiC}$）俗称金刚砂，硬度大、耐高温。",
+      "title": "新型陶瓷与碳化硅",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c14",
+      "source_node_ids": [
+        "n-b2c5490f5ce834521fc0"
+      ],
+      "text": "碳纳米材料包括富勒烯、碳纳米管、石墨烯等。",
+      "title": "碳纳米材料",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-60ef3a85e0ad1131c93a"
+      ],
+      "text": "二氧化硅具有酸性氧化物的性质：$\\mathrm{SiO_2+2NaOH=Na_2SiO_3+H_2O}$；$\\mathrm{SiO_2+CaO\\xrightarrow{高温}CaSiO_3}$。",
+      "title": "二氧化硅与碱及碱性氧化物的反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-60ef3a85e0ad1131c93a"
+      ],
+      "text": "二氧化硅能与氢氟酸反应，这是其特性：$\\mathrm{SiO_2+4HF=SiF_4\\uparrow+2H_2O}$。",
+      "title": "二氧化硅与氢氟酸的反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-d9a27dc4704642515aae"
+      ],
+      "text": "硅酸具有弱酸性，酸性弱于碳酸。",
+      "title": "硅酸的弱酸性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-d9a27dc4704642515aae"
+      ],
+      "text": "硅酸受热易分解：$\\mathrm{H_2SiO_3\\xrightarrow{\\Delta}SiO_2+H_2O}$。",
+      "title": "硅酸的热分解",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-7b1c3e0aecb5a6a3ddfb"
+      ],
+      "text": "玻璃生产原理：$\\mathrm{Na_2CO_3+SiO_2\\xrightarrow{高温}Na_2SiO_3+CO_2\\uparrow}$，$\\mathrm{CaCO_3+SiO_2\\xrightarrow{高温}CaSiO_3+CO_2\\uparrow}$。",
+      "title": "玻璃生产的反应原理",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-0c484951f20a21e43347"
+      ],
+      "text": "原文给出的制备过程为：$\\mathrm{SiO_2+2C\\xrightarrow{1800～2000\\ ℃}Si(粗硅)+2CO\\uparrow}$，$\\mathrm{Si+3HCl\\xrightarrow{300\\ ℃}SiHCl_3+H_2}$，$\\mathrm{SiHCl_3+H_2\\xrightarrow{1100\\ ℃}Si+3HCl}$。",
+      "title": "硅的制备",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-60ef3a85e0ad1131c93a"
+      ],
+      "text": "由于二氧化硅能与氢氧化钠反应，盛有碱性物质的试剂瓶要用橡胶塞，不能用玻璃塞。",
+      "title": "盛装碱性物质时瓶塞的选择",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-60ef3a85e0ad1131c93a"
+      ],
+      "text": "利用二氧化硅与氢氟酸的反应刻蚀玻璃：$\\mathrm{SiO_2+4HF=SiF_4\\uparrow+2H_2O}$。",
+      "title": "利用氢氟酸刻蚀玻璃",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-d9a27dc4704642515aae"
+      ],
+      "text": "根据硅酸的酸性弱于碳酸的性质制备硅酸：$\\mathrm{Na_2SiO_3+CO_2+H_2O=Na_2CO_3+H_2SiO_3\\downarrow}$。",
+      "title": "利用二氧化碳制备硅酸",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-60ef3a85e0ad1131c93a"
+      ],
+      "from": "c3",
+      "to": "l1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-60ef3a85e0ad1131c93a"
+      ],
+      "from": "c3",
+      "to": "l2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-60ef3a85e0ad1131c93a"
+      ],
+      "from": "l1",
+      "to": "m2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-60ef3a85e0ad1131c93a"
+      ],
+      "from": "l2",
+      "to": "m3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d9a27dc4704642515aae"
+      ],
+      "from": "l3",
+      "to": "m4",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7b1c3e0aecb5a6a3ddfb"
+      ],
+      "from": "c8",
+      "to": "c9",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7b1c3e0aecb5a6a3ddfb"
+      ],
+      "from": "c8",
+      "to": "c10",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7b1c3e0aecb5a6a3ddfb"
+      ],
+      "from": "c8",
+      "to": "c11",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7b1c3e0aecb5a6a3ddfb"
+      ],
+      "from": "c10",
+      "to": "l5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b2c5490f5ce834521fc0"
+      ],
+      "from": "c12",
+      "to": "n-0c484951f20a21e43347",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b2c5490f5ce834521fc0"
+      ],
+      "from": "c12",
+      "to": "n-60ef3a85e0ad1131c93a",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b2c5490f5ce834521fc0"
+      ],
+      "from": "c12",
+      "to": "c13",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-b2c5490f5ce834521fc0"
+      ],
+      "from": "c12",
+      "to": "c14",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6b59c3b772576941e94b",
+        "n-0c484951f20a21e43347"
+      ],
+      "from": "n-6b59c3b772576941e94b",
+      "to": "c1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6b59c3b772576941e94b",
+        "n-60ef3a85e0ad1131c93a"
+      ],
+      "from": "n-6b59c3b772576941e94b",
+      "to": "c4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-6b59c3b772576941e94b",
+        "n-7b1c3e0aecb5a6a3ddfb"
+      ],
+      "from": "n-6b59c3b772576941e94b",
+      "to": "c8",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d5b26cecde2906c24ecc",
+        "n-7b1c3e0aecb5a6a3ddfb"
+      ],
+      "from": "n-d5b26cecde2906c24ecc",
+      "to": "c9",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d5b26cecde2906c24ecc",
+        "n-60ef3a85e0ad1131c93a"
+      ],
+      "from": "n-d5b26cecde2906c24ecc",
+      "to": "c2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-eb0856cdc51cfb411034",
+        "n-60ef3a85e0ad1131c93a"
+      ],
+      "from": "n-eb0856cdc51cfb411034",
+      "to": "c4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-eb0856cdc51cfb411034",
+        "n-7b1c3e0aecb5a6a3ddfb"
+      ],
+      "from": "n-eb0856cdc51cfb411034",
+      "to": "c11",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-3a364424f178484a6c4a",
+  "source_digest": "38b443904cae10c93b8884ac652d3108dbdc65a0dfae5c3ba687e6b2d32f591e",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

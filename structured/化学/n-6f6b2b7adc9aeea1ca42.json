@@ -1,0 +1,508 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-4c30234a1936529b4411"
+      ],
+      "text": "中和滴定图像可表示溶液 $\\mathrm{pH}$ 随滴加溶液体积的变化。识别起点、中和一半点、中性点、恰好中和点和过量点对应的溶质，是分析图像的关键。",
+      "title": "中和滴定图像",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-659abc38710bb6fb6419"
+      ],
+      "text": "以一定温度下 $\\mathrm{BaSO_4}$ 体系为例，横、纵坐标分别为 $c(\\mathrm{SO_4^{2-}})/(\\mathrm{mol\\cdot L^{-1}})$ 和 $c(\\mathrm{Ba^{2+}})/(\\mathrm{mol\\cdot L^{-1}})$，沉淀溶解平衡曲线呈递减趋势，曲线上的点对应饱和溶液。",
+      "title": "沉淀溶解平衡图像",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-d797cec1a4a5ac58bbac"
+      ],
+      "text": "分布系数是各组分的平衡浓度占总浓度的分数。以 $\\mathrm{H_2A}$ 为例，$\\delta(\\mathrm X)=\\dfrac{c(\\mathrm X)}{c(\\mathrm{H_2A})+c(\\mathrm{HA^-})+c(\\mathrm{A^{2-}})}$。分布曲线以 $\\mathrm{pH}$ 为横坐标、分布系数为纵坐标。",
+      "title": "分布系数与分布曲线",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-2f798e828a6c91161ad2"
+      ],
+      "text": "配位平衡也称络合平衡，需要考虑配体浓度对各级配合物分布的影响。原文以 $\\mathrm{Cd^{2+}}$—$\\mathrm{CN^-}$ 体系为例，用含 $\\mathrm{Cd}$ 物种的分布系数 $\\delta$、平均配位数 $\\bar n$ 与 $\\lg c(\\mathrm{CN^-})$ 的关系表示配位平衡图像。",
+      "title": "配位平衡图像",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-d751c1b113df69657b2f"
+      ],
+      "text": "对数图像的坐标可表示浓度比值的对数，如 $\\lg\\dfrac{c(\\mathrm{HX^-})}{c(\\mathrm{H_2X})}$ 或 $\\mathrm{AG}=\\lg\\dfrac{c(\\mathrm{H^+})}{c(\\mathrm{OH^-})}$。负对数图像可采用 $\\mathrm{pH}=-\\lg c(\\mathrm{H^+})$、$\\mathrm{pOH}=-\\lg c(\\mathrm{OH^-})$ 或 $\\mathrm{pC}=-\\lg c(\\mathrm C)$。",
+      "title": "对数图像与负对数图像",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-d131f7ed1e092f54aa44"
+      ],
+      "text": "复合图像是在同一图像中集成两个或两个以上坐标系的图像，各坐标系可共用横轴或纵轴。",
+      "title": "复合图像",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-659abc38710bb6fb6419",
+        "n-0afd03df609e490b8db3"
+      ],
+      "text": "在原文以两种离子浓度为横、纵坐标的沉淀溶解平衡图像中，曲线上任意一点均达到平衡，$Q=K_{\\mathrm{sp}}$；曲线上方的点满足 $Q>K_{\\mathrm{sp}}$，有沉淀析出；曲线下方的点满足 $Q<K_{\\mathrm{sp}}$，为不饱和溶液，无沉淀析出。改用对数或负对数坐标后，直线上、下方所代表的意义可能变化。",
+      "title": "离子积与沉淀析出的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-0afd03df609e490b8db3"
+      ],
+      "text": "$K_{\\mathrm{sp}}$ 只受温度影响，在同一条沉淀溶解平衡曲线上的点，$K_{\\mathrm{sp}}$ 相同。",
+      "title": "溶度积与温度的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-d751c1b113df69657b2f",
+        "n-74e06d904932d188af2a"
+      ],
+      "text": "负对数数值越大，实际数值越小。$\\mathrm{pH}$ 越大，$c(\\mathrm{H^+})$ 越小；$\\mathrm{pOH}$ 越大，$c(\\mathrm{OH^-})$ 越小；$\\mathrm{pC}$ 越大，$c(\\mathrm C)$ 越小。",
+      "title": "负对数与实际浓度的反向变化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-d751c1b113df69657b2f"
+      ],
+      "text": "对于原文所列酸的电离关系，有 $\\lg\\dfrac{c(\\mathrm{HX^-})}{c(\\mathrm{H_2X})}=\\lg\\dfrac{K_{\\mathrm a}}{c(\\mathrm{H^+})}$。",
+      "title": "浓度比值对数与电离常数的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-d751c1b113df69657b2f"
+      ],
+      "text": "当 $\\mathrm{AG}=\\lg\\dfrac{c(\\mathrm{H^+})}{c(\\mathrm{OH^-})}$ 时，$\\mathrm{AG}$ 越大，酸性越强；中性时 $\\dfrac{c(\\mathrm{H^+})}{c(\\mathrm{OH^-})}=1$，$\\mathrm{AG}=0$。",
+      "title": "AG 与溶液酸性的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-2f798e828a6c91161ad2"
+      ],
+      "text": "在原文 $\\mathrm{Cd^{2+}}$—$\\mathrm{CN^-}$ 体系图像中，随着 $\\lg c(\\mathrm{CN^-})$ 增大，$\\mathrm{Cd^{2+}}$ 的分布系数下降，$\\mathrm{[Cd(CN)]^+}$、$\\mathrm{[Cd(CN)_2]}$、$\\mathrm{[Cd(CN)_3]^-}$ 的分布系数依次出现峰值，$\\mathrm{[Cd(CN)_4]^{2-}}$ 的分布系数上升，平均配位数 $\\bar n$ 由接近 $0$ 升至接近 $4$。",
+      "title": "配体浓度对镉配合物分布的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-74e06d904932d188af2a"
+      ],
+      "text": "原文 $\\mathrm{pOH}$—$\\mathrm{pH}$ 图像中，$\\mathrm Q$ 点横、纵坐标均为 $a$，代表中性溶液；同一直线上的 $\\mathrm M$ 点呈酸性，$\\mathrm N$ 点呈碱性。$\\mathrm M$、$\\mathrm Q$、$\\mathrm N$ 三点对应的 $K_{\\mathrm w}$ 相等，均为 $10^{-2a}$。",
+      "title": "pOH—pH 图像中的酸碱性与水的离子积",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-b7776a13f6e684bcbe9b"
+      ],
+      "text": "先看清横、纵坐标各自表示的量，再据此理解整个图像的含义。",
+      "title": "明确坐标轴的意义",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-4c32ff532d0e5346ca51"
+      ],
+      "text": "曲线趋势表示某物质某一参数的变化。通过分析曲线的变化趋势，判断参数变化的原因以及溶液中溶质的变化情况。",
+      "title": "分析曲线变化趋势",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-1890c2e7dbded0099f95"
+      ],
+      "text": "利用起点定性或定量判断酸、碱的相对强弱；利用反应一半点、中性点和恰好反应点确定各阶段反应物与生成物的量的关系，进而分析粒子浓度关系；利用交点处两个值相等的信息分析问题。",
+      "title": "提取特殊点信息",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-4c30234a1936529b4411"
+      ],
+      "text": "原文示例条件为常温下，将 $0.1\\ \\mathrm{mol\\cdot L^{-1}}$ $\\mathrm{NaOH}$ 溶液滴加到 $20\\ \\mathrm{mL}$ $0.1\\ \\mathrm{mol\\cdot L^{-1}}$ $\\mathrm{HA}$ 溶液中。起点 $\\mathrm{pH}>1$，据此判断 $\\mathrm{HA}$ 为弱酸。中和一半点的溶质为 $\\mathrm{NaA}$ 和 $\\mathrm{HA}$，且 $n(\\mathrm{NaA})=n(\\mathrm{HA})$，该例中 $\\mathrm{pH}<7$，$c(\\mathrm{A^-})>c(\\mathrm{Na^+})>c(\\mathrm{H^+})>c(\\mathrm{OH^-})$。中性点的溶质为 $\\mathrm{NaA}$ 和少量 $\\mathrm{HA}$，$c(\\mathrm{Na^+})=c(\\mathrm{A^-})>c(\\mathrm{H^+})=c(\\mathrm{OH^-})$。恰好中和点的溶质为 $\\mathrm{NaA}$，$\\mathrm{pH}>7$，$c(\\mathrm{Na^+})>c(\\mathrm{A^-})>c(\\mathrm{OH^-})>c(\\mathrm{H^+})$。过量一倍点的溶质为 $\\mathrm{NaA}$、$\\mathrm{NaOH}$，且 $n(\\mathrm{NaA})=n(\\mathrm{NaOH})$，$\\mathrm{pH}>7$，$c(\\mathrm{Na^+})>c(\\mathrm{OH^-})>c(\\mathrm{A^-})>c(\\mathrm{H^+})$。这些浓度关系对应本例给定条件。",
+      "title": "根据滴定关键点的溶质分析粒子浓度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m5",
+      "source_node_ids": [
+        "n-659abc38710bb6fb6419",
+        "n-0afd03df609e490b8db3"
+      ],
+      "text": "读取沉淀溶解平衡曲线上点的离子浓度，利用该点 $Q=K_{\\mathrm{sp}}$ 计算溶度积。原文 $\\mathrm{BaSO_4}$ 图像的 c 点横、纵坐标均为 $1\\times10^{-5}$，浓度单位为 $\\mathrm{mol\\cdot L^{-1}}$，故 $K_{\\mathrm{sp}}(\\mathrm{BaSO_4})=10^{-5}\\times10^{-5}=10^{-10}$。",
+      "title": "由沉淀溶解平衡曲线计算溶度积",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m6",
+      "source_node_ids": [
+        "n-d797cec1a4a5ac58bbac"
+      ],
+      "text": "先确定各分布曲线代表的微粒。原文中，$\\mathrm{CH_3COOH}$ 体系的 $\\delta_0$、$\\delta_1$ 分别对应 $\\mathrm{CH_3COOH}$、$\\mathrm{CH_3COO^-}$；$\\mathrm{H_2C_2O_4}$ 体系的 $\\delta_0$、$\\delta_1$、$\\delta_2$ 分别对应 $\\mathrm{H_2C_2O_4}$、$\\mathrm{HC_2O_4^-}$、$\\mathrm{C_2O_4^{2-}}$；$\\mathrm{H_3PO_4}$ 体系的 $\\delta_0$、$\\delta_1$、$\\delta_2$、$\\delta_3$ 分别对应 $\\mathrm{H_3PO_4}$、$\\mathrm{H_2PO_4^-}$、$\\mathrm{HPO_4^{2-}}$、$\\mathrm{PO_4^{3-}}$。",
+      "title": "识别分布曲线对应的微粒",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m7",
+      "source_node_ids": [
+        "n-5818c8d9ac0226f35d1a"
+      ],
+      "text": "用总浓度乘以某 $\\mathrm{pH}$ 下某微粒的分布系数，即可得到该 $\\mathrm{pH}$ 下该微粒的平衡浓度。",
+      "title": "由分布系数计算平衡浓度",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m8",
+      "source_node_ids": [
+        "n-c5247acd10025106c1cc"
+      ],
+      "text": "相邻分布曲线的交点对应两种微粒浓度相等，可代入相应电离常数表达式。以 $\\mathrm{H_2C_2O_4}$ 为例，$\\delta_0$ 与 $\\delta_1$ 交点满足 $c(\\mathrm{H_2C_2O_4})=c(\\mathrm{HC_2O_4^-})$，$\\mathrm{pH}=1.2$，由 $K_{\\mathrm{a}_1}=\\dfrac{c(\\mathrm{HC_2O_4^-})\\cdot c(\\mathrm{H^+})}{c(\\mathrm{H_2C_2O_4})}$ 得 $K_{\\mathrm{a}_1}=c(\\mathrm{H^+})=10^{-1.2}$。同理，利用 $\\delta_1$ 与 $\\delta_2$ 的交点，得 $K_{\\mathrm{a}_2}=\\dfrac{c(\\mathrm{C_2O_4^{2-}})\\cdot c(\\mathrm{H^+})}{c(\\mathrm{HC_2O_4^-})}=c(\\mathrm{H^+})=10^{-4.2}$。",
+      "title": "利用相邻分布曲线交点计算电离常数",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m9",
+      "source_node_ids": [
+        "n-9393115bbfefd3686425"
+      ],
+      "text": "以 $\\mathrm{H_2C_2O_4}$ 为例，在 $\\delta_0$ 与 $\\delta_2$ 的交点，$c(\\mathrm{H_2C_2O_4})=c(\\mathrm{C_2O_4^{2-}})$。将两级电离常数相乘：$K_{\\mathrm{a}_1}\\cdot K_{\\mathrm{a}_2}=\\dfrac{c(\\mathrm{HC_2O_4^-})\\cdot c(\\mathrm{H^+})}{c(\\mathrm{H_2C_2O_4})}\\times\\dfrac{c(\\mathrm{C_2O_4^{2-}})\\cdot c(\\mathrm{H^+})}{c(\\mathrm{HC_2O_4^-})}=c^2(\\mathrm{H^+})$，得到 $c(\\mathrm{H^+})=\\sqrt{K_{\\mathrm{a}_1}\\cdot K_{\\mathrm{a}_2}}=10^{-2.7}\\ \\mathrm{mol\\cdot L^{-1}}$，故该点 $\\mathrm{pH}=2.7$。",
+      "title": "利用非相邻分布曲线交点计算 pH",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m10",
+      "source_node_ids": [
+        "n-fcf4f7c51bbca9c8f9f6"
+      ],
+      "text": "分布系数图像以 $\\mathrm{pH}$ 为横坐标，需要外加酸或碱调节 $\\mathrm{pH}$。书写某点对应的电荷守恒式时，不要忽略外加酸中的阴离子或外加碱中的阳离子的浓度项。",
+      "title": "分布图像中电荷守恒式的书写",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m11",
+      "source_node_ids": [
+        "n-2f798e828a6c91161ad2"
+      ],
+      "text": "利用相邻配位物种分布曲线交点处浓度相等的信息，计算各级配位平衡常数。原文中，当 $\\delta(\\mathrm{Cd^{2+}})=\\delta\\{\\mathrm{[Cd(CN)]^+}\\}$，即 $c(\\mathrm{Cd^{2+}})=c\\{\\mathrm{[Cd(CN)]^+}\\}$ 时，$\\lg c(\\mathrm{CN^-})\\approx-5.5$。对于 $\\mathrm{Cd^{2+}+CN^-\\rightleftharpoons[Cd(CN)]^+}$，有 $K=\\dfrac{c\\{\\mathrm{[Cd(CN)]^+}\\}}{c(\\mathrm{Cd^{2+}})\\cdot c(\\mathrm{CN^-})}=\\dfrac{1}{c(\\mathrm{CN^-})}\\approx10^{5.5}$。",
+      "title": "利用配位分布曲线交点计算平衡常数",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m12",
+      "source_node_ids": [
+        "n-74e06d904932d188af2a"
+      ],
+      "text": "先判断图像属于对数图像还是负对数图像，再确定坐标表示浓度对数还是浓度比值对数。关注特殊点：$\\lg\\dfrac{c(\\mathrm A)}{c(\\mathrm B)}=0$ 时，$c(\\mathrm A)=c(\\mathrm B)$；$\\lg c(\\mathrm D)=0$ 时，$c(\\mathrm D)=1\\ \\mathrm{mol\\cdot L^{-1}}$。同时关注 $\\mathrm{pH}=7$ 的点和交点。",
+      "title": "对数图像的判读步骤",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m13",
+      "source_node_ids": [
+        "n-d131f7ed1e092f54aa44"
+      ],
+      "text": "根据共用坐标轴所表示量的变化，与不同坐标轴对应量之间的变化关系，区分各条曲线。原文氨水滴入稀硫酸的图像共用横轴氨水体积：曲线①先增大后减小，对应温度变化；曲线②逐渐增大，并在滴入 $20\\ \\mathrm{mL}$ 氨水时出现突变，对应溶液 $\\mathrm{pH}$ 变化。",
+      "title": "区分复合图像中的曲线与坐标系",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-4c30234a1936529b4411"
+      ],
+      "from": "m4",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-4c30234a1936529b4411",
+        "n-1890c2e7dbded0099f95"
+      ],
+      "from": "m4",
+      "to": "m3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-659abc38710bb6fb6419",
+        "n-0afd03df609e490b8db3"
+      ],
+      "from": "l1",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0afd03df609e490b8db3"
+      ],
+      "from": "l2",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-659abc38710bb6fb6419"
+      ],
+      "from": "m5",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d797cec1a4a5ac58bbac"
+      ],
+      "from": "m6",
+      "to": "c3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d797cec1a4a5ac58bbac",
+        "n-5818c8d9ac0226f35d1a"
+      ],
+      "from": "m7",
+      "to": "c3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c5247acd10025106c1cc"
+      ],
+      "from": "m8",
+      "to": "c3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9393115bbfefd3686425"
+      ],
+      "from": "m9",
+      "to": "c3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-fcf4f7c51bbca9c8f9f6"
+      ],
+      "from": "m10",
+      "to": "c3",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2f798e828a6c91161ad2"
+      ],
+      "from": "l6",
+      "to": "c4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2f798e828a6c91161ad2"
+      ],
+      "from": "m11",
+      "to": "c4",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-2f798e828a6c91161ad2"
+      ],
+      "from": "m11",
+      "to": "m8",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d751c1b113df69657b2f"
+      ],
+      "from": "l3",
+      "to": "c5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d751c1b113df69657b2f"
+      ],
+      "from": "l4",
+      "to": "c5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d751c1b113df69657b2f"
+      ],
+      "from": "l5",
+      "to": "c5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-74e06d904932d188af2a"
+      ],
+      "from": "m12",
+      "to": "c5",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-74e06d904932d188af2a"
+      ],
+      "from": "m12",
+      "to": "l3",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-74e06d904932d188af2a",
+        "n-d751c1b113df69657b2f"
+      ],
+      "from": "l7",
+      "to": "c5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d131f7ed1e092f54aa44"
+      ],
+      "from": "m13",
+      "to": "c6",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d131f7ed1e092f54aa44",
+        "n-4c32ff532d0e5346ca51"
+      ],
+      "from": "m13",
+      "to": "m2",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-fc1612855760618631de"
+      ],
+      "from": "n-fc1612855760618631de",
+      "to": "c1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-286b7ceb2351f304f495"
+      ],
+      "from": "n-286b7ceb2351f304f495",
+      "to": "c3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-08f8ca0a2d549259ff4d"
+      ],
+      "from": "n-08f8ca0a2d549259ff4d",
+      "to": "c4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5eb77ab85e1cac298e5c"
+      ],
+      "from": "n-5eb77ab85e1cac298e5c",
+      "to": "c2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5eb77ab85e1cac298e5c"
+      ],
+      "from": "n-5eb77ab85e1cac298e5c",
+      "to": "c5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-cb8a9ad537f409a066b3"
+      ],
+      "from": "n-cb8a9ad537f409a066b3",
+      "to": "c4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-cb8a9ad537f409a066b3"
+      ],
+      "from": "n-cb8a9ad537f409a066b3",
+      "to": "c5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-6f6b2b7adc9aeea1ca42",
+  "source_digest": "bd427bcf25383cf1adae1461fe651d63df43b92a244242dcfdfc006d0347ecff",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

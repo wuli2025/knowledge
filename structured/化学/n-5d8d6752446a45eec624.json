@@ -1,0 +1,242 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-49f5426d087e35f3cd8a"
+      ],
+      "text": "反应历程曲线图以能量为纵轴、反应过程为横轴，可呈现反应物、中间体、过渡态和生成物的能量及反应步骤。",
+      "title": "反应历程曲线图",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-49f5426d087e35f3cd8a"
+      ],
+      "text": "决速步是决定整个反应速率的步骤。原文指出，多步反应中活化能最大的那一步是决速步。",
+      "title": "决速步",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-7b57dd47bfa7fc37c393"
+      ],
+      "text": "能垒图中，过渡态左侧相邻物质“爬坡”至过渡态所需的能量称为能垒。所给图的相对能量单位为 $\\mathrm{kJ\\cdot mol^{-1}}$。",
+      "title": "能垒",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-aeefe32f74bbdfc2415b"
+      ],
+      "text": "在循环图分析中，先参加反应，又在后续反应中生成的物质为催化剂，具有“有进有出”的特征。",
+      "title": "循环机理中的催化剂",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-aeefe32f74bbdfc2415b",
+        "n-49f5426d087e35f3cd8a"
+      ],
+      "text": "中间产物先在反应中生成，随后又被消耗。多步反应曲线中，某一步的产物可作为总反应的中间产物。",
+      "title": "中间产物",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-49f5426d087e35f3cd8a"
+      ],
+      "text": "反应的吸热或放热取决于始态反应物与终态生成物能量的相对大小：终态能量高于始态时为吸热反应，终态能量低于始态时为放热反应。",
+      "title": "始态与终态能量决定吸放热",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-49f5426d087e35f3cd8a"
+      ],
+      "text": "通过能量高低判断物质稳定性时，能量越低，物质越稳定。",
+      "title": "能量与稳定性的关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-49f5426d087e35f3cd8a",
+        "n-7b57dd47bfa7fc37c393"
+      ],
+      "text": "原文指出，多步反应中活化能最大的步骤为慢反应，决定总反应速率；在能垒图中，最大能垒对应的步骤为决速步。",
+      "title": "多步反应的决速步判据",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-49f5426d087e35f3cd8a"
+      ],
+      "text": "在原文图式二的无催化剂路径中，$E_1$ 为正反应的活化能，$E_2$ 为逆反应的活化能，$(E_1-E_2)$ 为此反应的焓变（$\\Delta H$）。",
+      "title": "正逆反应活化能与焓变",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-49f5426d087e35f3cd8a"
+      ],
+      "text": "催化剂降低活化能，但不改变 $\\Delta H$。原文图式二中，有催化剂时总反应分成两个反应步骤。",
+      "title": "催化剂对活化能和焓变的影响",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-49f5426d087e35f3cd8a"
+      ],
+      "text": "分析曲线图时，先识别起点的反应物、各步之间的中间体和终点的生成物，再分别比较每一步及总反应的始态与终态能量，判断各步及总反应的吸热或放热。",
+      "title": "分步分析反应历程曲线",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-7b57dd47bfa7fc37c393"
+      ],
+      "text": "对每个过渡态，以其左侧相邻物质为起点，比较“爬坡”到该过渡态所需的能量；最大能垒对应的步骤即为决速步。",
+      "title": "按相邻起点比较能垒",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-aeefe32f74bbdfc2415b"
+      ],
+      "text": "分析循环图时，重点判断反应物、生成物、催化剂和中间产物。一般来说，通过箭头进入循环且“只进不出”的是反应物；通过箭头离开循环且“只出不进”的是生成物。",
+      "title": "按箭头进出识别反应物和生成物",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-aeefe32f74bbdfc2415b"
+      ],
+      "text": "结合循环中的反应顺序判断：先参加反应、后续又生成的是催化剂；先生成、随后又消耗的是中间产物。",
+      "title": "按生成与消耗顺序区分催化剂和中间产物",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-49f5426d087e35f3cd8a"
+      ],
+      "from": "l1",
+      "to": "m1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-49f5426d087e35f3cd8a"
+      ],
+      "from": "m1",
+      "to": "c1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-49f5426d087e35f3cd8a"
+      ],
+      "from": "c5",
+      "to": "m1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-49f5426d087e35f3cd8a",
+        "n-7b57dd47bfa7fc37c393"
+      ],
+      "from": "l3",
+      "to": "c2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7b57dd47bfa7fc37c393"
+      ],
+      "from": "c3",
+      "to": "m2",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7b57dd47bfa7fc37c393"
+      ],
+      "from": "l3",
+      "to": "m2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-7b57dd47bfa7fc37c393"
+      ],
+      "from": "m2",
+      "to": "c2",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-aeefe32f74bbdfc2415b"
+      ],
+      "from": "m4",
+      "to": "c4",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-aeefe32f74bbdfc2415b"
+      ],
+      "from": "m4",
+      "to": "c5",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-aeefe32f74bbdfc2415b"
+      ],
+      "from": "m3",
+      "to": "m4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-49f5426d087e35f3cd8a"
+      ],
+      "from": "l4",
+      "to": "l5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-5d8d6752446a45eec624",
+  "source_digest": "7ed5f46a98b19189bdd805d60339f6b60819e47fd180eb5f6262624fd941880d",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

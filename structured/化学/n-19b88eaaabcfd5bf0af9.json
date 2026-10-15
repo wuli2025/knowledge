@@ -1,0 +1,531 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-5b81296c8813e3110aeb"
+      ],
+      "text": "醇是羟基与烃基或苯环侧链上的碳原子相连的化合物。官能团为羟基（$\\mathrm{-OH}$）；饱和一元醇的通式为 $\\mathrm{C_nH_{2n+1}OH}$。",
+      "title": "醇的结构与官能团",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-d14af772e1d56f47854d"
+      ],
+      "text": "酚是羟基与苯环直接相连而形成的化合物。最简单的酚为苯酚，其分子式为 $\\mathrm{C_6H_6O}$，结构简式为 $\\mathrm{C_6H_5OH}$，官能团为 $\\mathrm{-OH}$。",
+      "title": "酚与苯酚的结构",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-025a1fc1703a0f364fad"
+      ],
+      "text": "纯净的苯酚是无色晶体，易溶于乙醇等有机溶剂；常温下在水中的溶解度不大，温度高于 $65\\ ^\\circ\\mathrm{C}$ 时能与水混溶。",
+      "title": "苯酚的物理性质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-0beefc2caf0860336ded"
+      ],
+      "text": "乙醇 $\\mathrm{CH_3CH_2OH}$ 中，$\\mathrm{O-H}$ 键标为 a，$\\mathrm{C-O}$ 键标为 b，与羟基相连碳原子上的 $\\mathrm{C-H}$ 键标为 c，相邻甲基上的 $\\mathrm{C-H}$ 键标为 d。后续断键位置均按此标记。",
+      "title": "乙醇分子的反应断键位置",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-cb83c29cb28b1872dc27"
+      ],
+      "text": "饱和一元醇随分子中碳原子数增加，沸点逐渐升高；醇分子中羟基数越多，分子间形成的氢键越多，沸点越高；相对分子质量相近时，醇的沸点远远高于烷烃。",
+      "title": "醇的沸点变化规律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-cb83c29cb28b1872dc27"
+      ],
+      "text": "甲醇、乙醇、丙醇均可与水互溶，原因是醇分子与水分子之间形成氢键。醇在水中的溶解度一般随分子中碳原子数增加而减小。",
+      "title": "醇的水溶性规律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-0beefc2caf0860336ded"
+      ],
+      "text": "乙醇分子中，$\\mathrm{O}$ 原子有较强的吸电子能力，使 a、b 处共价键极性较强，更容易断裂而发生取代反应；c、d 处也被活化，易发生催化氧化反应和消去反应。",
+      "title": "乙醇结构对反应活性的影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-0beefc2caf0860336ded"
+      ],
+      "text": "乙醇与金属钠反应：$\\mathrm{2C_2H_5OH+2Na\\longrightarrow 2C_2H_5ONa+H_2\\uparrow}$。a 处断键。",
+      "title": "乙醇与金属钠反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-0beefc2caf0860336ded"
+      ],
+      "text": "乙醇与浓氢溴酸加热反应：$\\mathrm{C_2H_5OH+HBr}\\xrightarrow{\\Delta}\\mathrm{C_2H_5Br+H_2O}$。b 处断键。",
+      "title": "乙醇与浓氢溴酸反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-0beefc2caf0860336ded"
+      ],
+      "text": "乙醇在浓硫酸、$140\\ ^\\circ\\mathrm{C}$ 条件下发生分子间脱水：$\\mathrm{2C_2H_5OH}\\xrightarrow[\\ 140\\ ^\\circ\\mathrm{C}\\ ]{\\text{浓硫酸}}\\mathrm{C_2H_5OC_2H_5+H_2O}$。a、b 处断键。",
+      "title": "乙醇的分子间脱水",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-0beefc2caf0860336ded"
+      ],
+      "text": "乙醇在浓硫酸、$170\\ ^\\circ\\mathrm{C}$ 条件下发生消去反应：$\\mathrm{C_2H_5OH}\\xrightarrow[\\ 170\\ ^\\circ\\mathrm{C}\\ ]{\\text{浓硫酸}}\\mathrm{CH_2=CH_2\\uparrow+H_2O}$。b、d 处断键。",
+      "title": "乙醇的消去反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-0beefc2caf0860336ded"
+      ],
+      "text": "乙醇与乙酸在浓硫酸、加热条件下发生酯化反应：$\\mathrm{CH_3COOH+C_2H_5OH}\\underset{\\Delta}{\\overset{\\text{浓硫酸}}{\\rightleftharpoons}}\\mathrm{CH_3COOC_2H_5+H_2O}$。乙醇的 a 处断键。",
+      "title": "乙醇的酯化反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-0beefc2caf0860336ded"
+      ],
+      "text": "乙醇在铜或银催化、加热条件下被氧化：$\\mathrm{2C_2H_5OH+O_2}\\xrightarrow[\\Delta]{\\mathrm{Cu/Ag}}\\mathrm{2CH_3CHO+2H_2O}$。a、c 处断键。",
+      "title": "乙醇的催化氧化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-0beefc2caf0860336ded"
+      ],
+      "text": "乙醇能被酸性高锰酸钾溶液或酸性重铬酸钾溶液氧化为乙酸。",
+      "title": "乙醇与强氧化剂反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l11",
+      "source_node_ids": [
+        "n-c0380b8421cd1ba0ed4e"
+      ],
+      "text": "没有 $\\beta\\text{-}\\mathrm{H}$ 的醇不能发生消去反应，例如 $\\mathrm{CH_3OH}$、$\\mathrm{C_6H_5CH_2OH}$。",
+      "title": "醇发生消去反应的结构限制",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l12",
+      "source_node_ids": [
+        "n-c0380b8421cd1ba0ed4e"
+      ],
+      "text": "醇的催化氧化与 $\\alpha\\text{-}\\mathrm{H}$ 个数有关：有2～3个时生成醛，如 $\\mathrm{R-CH_2OH\\longrightarrow R-CHO}$；有1个时生成酮，如 $\\mathrm{R-CH(OH)-R'\\longrightarrow R-C(=O)-R'}$；无 $\\alpha\\text{-}\\mathrm{H}$ 时不能被催化氧化，如 $\\mathrm{(CH_3)_3C-OH}$。",
+      "title": "醇的催化氧化规律",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l13",
+      "source_node_ids": [
+        "n-d836a7566f814de004d3"
+      ],
+      "text": "由于苯环对羟基的影响，酚羟基比醇羟基活泼；由于羟基对苯环的影响，苯酚中苯环上的氢原子比苯中的氢原子活泼。",
+      "title": "苯酚中苯环与羟基的相互影响",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l14",
+      "source_node_ids": [
+        "n-d836a7566f814de004d3"
+      ],
+      "text": "苯酚俗称石炭酸，具有弱酸性，酸性很弱，不能使紫色石蕊溶液变红。电离式：$\\mathrm{C_6H_5OH\\rightleftharpoons H^++C_6H_5O^-}$。",
+      "title": "苯酚的弱酸性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l15",
+      "source_node_ids": [
+        "n-d836a7566f814de004d3"
+      ],
+      "text": "苯酚与钠反应：$\\mathrm{2C_6H_5OH+2Na\\longrightarrow 2C_6H_5ONa+H_2\\uparrow}$。苯酚与氢氧化钠反应：$\\mathrm{C_6H_5OH+NaOH\\longrightarrow C_6H_5ONa+H_2O}$。",
+      "title": "苯酚与钠、氢氧化钠反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l16",
+      "source_node_ids": [
+        "n-d836a7566f814de004d3"
+      ],
+      "text": "苯酚与浓溴水发生取代反应：$\\mathrm{C_6H_5OH+3Br_2\\longrightarrow C_6H_2Br_3OH\\downarrow+3HBr}$。生成物为2，4，6-三溴苯酚，三个溴原子分别位于羟基的两个邻位和一个对位。",
+      "title": "苯酚与浓溴水的取代反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l17",
+      "source_node_ids": [
+        "n-d836a7566f814de004d3"
+      ],
+      "text": "苯酚在镍催化、加热条件下与氢气发生加成反应，生成环己醇：$\\mathrm{C_6H_5OH+3H_2}\\xrightarrow[\\Delta]{\\mathrm{Ni}}\\mathrm{C_6H_{11}OH}$。",
+      "title": "苯酚的加氢反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l18",
+      "source_node_ids": [
+        "n-d836a7566f814de004d3"
+      ],
+      "text": "苯酚遇 $\\mathrm{FeCl_3}$ 溶液显紫色。",
+      "title": "苯酚的显色反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l19",
+      "source_node_ids": [
+        "n-d836a7566f814de004d3",
+        "n-025a1fc1703a0f364fad"
+      ],
+      "text": "苯酚易被 $\\mathrm{O_2}$、酸性 $\\mathrm{KMnO_4}$ 溶液氧化。久置苯酚呈粉红色，是部分苯酚被空气中的氧气氧化所致。",
+      "title": "苯酚的氧化反应与久置变色",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l20",
+      "source_node_ids": [
+        "n-d836a7566f814de004d3"
+      ],
+      "text": "酸性强弱：$\\mathrm{H_2CO_3}$＞苯酚＞$\\mathrm{HCO_3^-}$。反应 $\\mathrm{C_6H_5ONa+CO_2+H_2O\\longrightarrow C_6H_5OH+NaHCO_3}$ 不能生成 $\\mathrm{Na_2CO_3}$；反应 $\\mathrm{C_6H_5OH+Na_2CO_3\\longrightarrow C_6H_5ONa+NaHCO_3}$ 不能生成 $\\mathrm{CO_2}$。",
+      "title": "苯酚与碳酸体系的酸性关系",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l21",
+      "source_node_ids": [
+        "n-9ba781824836e5877896"
+      ],
+      "text": "醇羟基表现为中性，酚羟基和羧基表现为弱酸性。氢原子活泼性按醇羟基、酚羟基、羧基的顺序逐渐增强。",
+      "title": "醇羟基、酚羟基和羧基中氢的活性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l22",
+      "source_node_ids": [
+        "n-9ba781824836e5877896"
+      ],
+      "text": "醇羟基、酚羟基、羧基均能与 $\\mathrm{Na}$ 反应，分别生成醇钠、酚钠、羧酸钠，并生成 $\\mathrm{H_2}$。与 $\\mathrm{NaOH}$ 反应时，醇羟基不反应，酚羟基生成酚钠和水，羧基生成羧酸钠和水。",
+      "title": "三类基团与钠、氢氧化钠的反应比较",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l23",
+      "source_node_ids": [
+        "n-9ba781824836e5877896"
+      ],
+      "text": "与 $\\mathrm{Na_2CO_3}$ 反应时，醇羟基不反应，酚羟基生成酚钠和 $\\mathrm{NaHCO_3}$，羧基在羧酸过量时生成羧酸钠、$\\mathrm{CO_2}$、$\\mathrm{H_2O}$。与 $\\mathrm{NaHCO_3}$ 反应时，醇羟基和酚羟基不反应，羧基生成羧酸钠、$\\mathrm{CO_2}$、$\\mathrm{H_2O}$。",
+      "title": "三类基团与碳酸钠、碳酸氢钠的反应比较",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-5b81296c8813e3110aeb",
+        "n-d14af772e1d56f47854d"
+      ],
+      "text": "根据羟基连接的位置区分醇与酚：羟基与苯环直接相连时属于酚；羟基与苯环侧链上的碳原子相连时属于醇。",
+      "title": "根据羟基连接位置区分醇和酚",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-c0380b8421cd1ba0ed4e"
+      ],
+      "text": "判断醇能否发生消去反应时，检查是否有 $\\beta\\text{-}\\mathrm{H}$；没有 $\\beta\\text{-}\\mathrm{H}$ 的醇不能发生消去反应。",
+      "title": "用氢原子位置判断消去反应的结构限制",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-c0380b8421cd1ba0ed4e"
+      ],
+      "text": "判断醇的催化氧化情况时，检查 $\\alpha\\text{-}\\mathrm{H}$ 个数：2～3个时生成醛，1个时生成酮，无 $\\alpha\\text{-}\\mathrm{H}$ 时不能被催化氧化。",
+      "title": "按氢原子个数判断醇的催化氧化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-d836a7566f814de004d3"
+      ],
+      "text": "利用苯酚遇 $\\mathrm{FeCl_3}$ 溶液显紫色的反应检验酚羟基。",
+      "title": "利用显色反应检验酚羟基",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-5b81296c8813e3110aeb",
+        "n-d14af772e1d56f47854d"
+      ],
+      "from": "c1",
+      "to": "m1",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-5b81296c8813e3110aeb",
+        "n-d14af772e1d56f47854d"
+      ],
+      "from": "c2",
+      "to": "m1",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0beefc2caf0860336ded"
+      ],
+      "from": "c4",
+      "to": "l3",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0beefc2caf0860336ded"
+      ],
+      "from": "c4",
+      "to": "l4",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0beefc2caf0860336ded"
+      ],
+      "from": "c4",
+      "to": "l5",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0beefc2caf0860336ded"
+      ],
+      "from": "c4",
+      "to": "l6",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0beefc2caf0860336ded"
+      ],
+      "from": "c4",
+      "to": "l7",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0beefc2caf0860336ded"
+      ],
+      "from": "c4",
+      "to": "l8",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-0beefc2caf0860336ded"
+      ],
+      "from": "c4",
+      "to": "l9",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c0380b8421cd1ba0ed4e"
+      ],
+      "from": "m2",
+      "to": "l11",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c0380b8421cd1ba0ed4e"
+      ],
+      "from": "m3",
+      "to": "l12",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d836a7566f814de004d3"
+      ],
+      "from": "l13",
+      "to": "l14",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d836a7566f814de004d3"
+      ],
+      "from": "l13",
+      "to": "l16",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d836a7566f814de004d3"
+      ],
+      "from": "l14",
+      "to": "l20",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d836a7566f814de004d3"
+      ],
+      "from": "m4",
+      "to": "l18",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9ba781824836e5877896"
+      ],
+      "from": "l21",
+      "to": "l22",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9ba781824836e5877896"
+      ],
+      "from": "l21",
+      "to": "l23",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9d401dc51217ba58ab8a",
+        "n-c0380b8421cd1ba0ed4e"
+      ],
+      "from": "n-9d401dc51217ba58ab8a",
+      "to": "m2",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9d401dc51217ba58ab8a",
+        "n-c0380b8421cd1ba0ed4e"
+      ],
+      "from": "n-9d401dc51217ba58ab8a",
+      "to": "m3",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-c9efb3c594b4d908dd32",
+        "n-9ba781824836e5877896"
+      ],
+      "from": "n-c9efb3c594b4d908dd32",
+      "to": "l22",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9c8affba1b06fd98bf5e",
+        "n-5b81296c8813e3110aeb",
+        "n-d14af772e1d56f47854d"
+      ],
+      "from": "n-9c8affba1b06fd98bf5e",
+      "to": "m1",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9c8affba1b06fd98bf5e",
+        "n-d836a7566f814de004d3"
+      ],
+      "from": "n-9c8affba1b06fd98bf5e",
+      "to": "l16",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-9c8affba1b06fd98bf5e",
+        "n-9ba781824836e5877896"
+      ],
+      "from": "n-9c8affba1b06fd98bf5e",
+      "to": "l22",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-af47b781d7c8ab593a5f",
+        "n-d836a7566f814de004d3"
+      ],
+      "from": "n-af47b781d7c8ab593a5f",
+      "to": "l16",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-af47b781d7c8ab593a5f",
+        "n-d836a7566f814de004d3"
+      ],
+      "from": "n-af47b781d7c8ab593a5f",
+      "to": "l19",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-19b88eaaabcfd5bf0af9",
+  "source_digest": "bd84df0a5f1cd6f3c9fe170b5f9d180a3db10a437d24694112f1a75feb927f34",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}

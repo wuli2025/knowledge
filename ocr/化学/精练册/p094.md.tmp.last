@@ -1,0 +1,174 @@
+<!-- page 94 -->
+
+注：含碳生成物选择性$=\dfrac{\text{含碳生成物的物质的量}}{\mathrm{MgCO_3}\text{转化的物质的量}}\times100\%$
+
+①表示$\mathrm{CH_4}$选择性的曲线是________（填字母）。
+
+②点$\mathrm{M}$温度下，反应Ⅱ的$K_p=$________$\mathrm{(kPa)^{-2}}$（列出计算式即可）。
+
+③在$550\ ℃$下达到平衡时，$n(\mathrm{CO})=$________$\mathrm{mol}$。$500～600\ ℃$，随温度升高$\mathrm{H_2}$平衡转化率下降的原因可能是________________________________。
+
+## 考向5　复杂气固反应体系分析
+
+5. ★★★（2024 山东，20节选）水煤气是$\mathrm{H_2}$的主要来源，研究$\mathrm{CaO}$对$\mathrm{C-H_2O}$体系制$\mathrm{H_2}$的影响，涉及主要反应如下：
+
+$\mathrm{C(s)+H_2O(g)\rightleftharpoons CO(g)+H_2(g)}$　（Ⅰ）
+
+$\Delta H_1>0$
+
+$\mathrm{CO(g)+H_2O(g)\rightleftharpoons CO_2(g)+H_2(g)}$　（Ⅱ）
+
+$\Delta H_2<0$
+
+$\mathrm{CaO(s)+CO_2(g)\rightleftharpoons CaCO_3(s)}$　（Ⅲ）　$\Delta H_3<0$
+
+回答下列问题：
+
+（2）压力$p$下，$\mathrm{C-H_2O-CaO}$体系达平衡后，图示温度范围内$\mathrm{C(s)}$已完全反应，$\mathrm{CaCO_3(s)}$在$T_1$温度时完全分解。气相中$\mathrm{CO}$、$\mathrm{CO_2}$和$\mathrm{H_2}$摩尔分数随温度的变化关系如图所示，则$a$线对应物种为________（填化学式）。当温度高于$T_1$时，随温度升高$c$线对应物种摩尔分数逐渐降低的原因是________________________________。
+
+[图：纵轴为摩尔分数，标有$0$、$0.05$、$0.15$、$0.50$；横轴为温度$T$，向右增大，标出$T_0$、$T_1$。曲线$a$随温度升高而下降，经过$T_0$处的$0.50$，在$T_1$之后缓慢下降；曲线$b$从接近$0$逐渐上升，经过$T_0$处的$0.15$，在$T_1$之后缓慢上升；曲线$c$从接近$0$上升，经过$T_0$处的$0.05$，在$T_1$附近达到较大值后缓慢下降。]
+
+（3）压力$p$下，温度为$T_0$时，图示三种气体的摩尔分数分别为$0.50$、$0.15$、$0.05$，则反应$\mathrm{CO(g)+H_2O(g)\rightleftharpoons CO_2(g)+H_2(g)}$的平衡常数$K_p=$________；此时气体总物质的量为$4.0\ \mathrm{mol}$，则$\mathrm{CaCO_3(s)}$的物质的量为________$\mathrm{mol}$；若向平衡体系中通入少量$\mathrm{CO_2(g)}$，重新达平衡后，分压$p(\mathrm{CO_2})$将________（填“增大”“减小”或“不变”），$p(\mathrm{CO})$将________（填“增大”“减小”或“不变”）。
+
+6. ★★★（2025 山东，20，12分）利用$\mathrm{CaS}$循环再生可将燃煤尾气中的$\mathrm{SO_2}$转化生产单质硫，涉及的主要反应如下：
+
+Ⅰ．$\mathrm{CaS(s)+2SO_2(g)\rightleftharpoons CaSO_4(s)+S_2(g)}$
+
+$\Delta H_1$
+
+Ⅱ．$\mathrm{CaSO_4(s)+4H_2(g)\rightleftharpoons CaS(s)+4H_2O(g)}$
+
+$\Delta H_2$
+
+Ⅲ．$\mathrm{SO_2(g)+3H_2(g)\rightleftharpoons H_2S(g)+2H_2O(g)}$
+
+$\Delta H_3$
+
+恒容条件下，按$1\ \mathrm{mol}$ $\mathrm{CaS}$、$1\ \mathrm{mol}$ $\mathrm{SO_2}$和$0.1\ \mathrm{mol}$ $\mathrm{H_2}$投料反应。平衡体系中，各气态物种的$\lg n$随温度的变化关系如图所示，$n$为气态物种物质的量的值。
+
+已知：图示温度范围内反应Ⅱ平衡常数$K=10^8$基本不变。
+
+[图：纵轴为$\lg n$，标有$0$、$-1$、$-2$、$-3$、$-4$；横轴为$T$，向右增大，标出$T_1$、$T_2$。$\mathrm{S_2}$实线开始近乎水平，随后下降；甲虚线从约$-1$逐渐下降，在$T_2$处约为$-3$；乙虚线从约$-3$上升，在$T_1$处与丙相交于约$-2$，之后上升趋缓；丙虚线从约$-4$上升，经过$T_1$后继续上升并越过$\mathrm{S_2}$曲线；丁虚线位于最下方，随温度升高而上升，在$T_2$处与甲接近。]
+
+回答下列问题：
+
+（1）反应$\mathrm{4H_2(g)+2SO_2(g)\rightleftharpoons 4H_2O(g)+S_2(g)}$的焓变$\Delta H=$________（用含$\Delta H_1$、$\Delta H_2$的代数式表示）。
+
+（2）乙线所示物种为________（填化学式）。反应Ⅲ的焓变$\Delta H_3$________$0$（填“$>$”“$<$”或“$=$”）。
+
+（3）$T_1$温度下，体系达平衡时，乙线、丙线所示物种的物质的量相等，若丁线所示物种为$a\ \mathrm{mol}$，则$\mathrm{S_2}$为________$\mathrm{mol}$（用含$a$的代数式表示）；此时，$\mathrm{CaS}$与$\mathrm{CaSO_4}$物质的量的差值$n(\mathrm{CaS})-n(\mathrm{CaSO_4})=$________$\mathrm{mol}$（用含$a$的最简代数式表示）。
+
+（4）$T_2$温度下，体系达平衡后，压缩容器体积$\mathrm{S_2}$产率增大。与压缩前相比，重新达平衡时，$\mathrm{H_2S}$与$\mathrm{H_2}$物质的量之比$\dfrac{n(\mathrm{H_2S})}{n(\mathrm{H_2})}$________（填“增大”“减小”或“不变”），$\mathrm{H_2O}$物质的量$n(\mathrm{H_2O})$________（填“增大”“减小”或“不变”）。
+
+<!-- page 95 -->
+
+# 水溶液中的离子反应与平衡
+
+## 第1节　弱电解质的电离平衡
+
+### 五年高考
+
+答案 P402
+
+1. ★　必修1第3章第2节（2022 福建，5，4分）探究醋酸浓度与电离度（$\alpha$）关系的步骤如下。与相关步骤对应的操作或叙述正确的是（　　）
+
+| 选项 | 步骤 | 操作或叙述 |
+|---|---|---|
+| A | Ⅰ．用$\mathrm{NaOH}$标准溶液标定醋酸溶液浓度 | 滴定时应始终注视滴定管中的液面 |
+| B | Ⅱ．用标定后的溶液配制不同浓度的醋酸溶液 | 应使用干燥的容量瓶 |
+| C | Ⅲ．测定步骤Ⅱ中所得溶液的$\mathrm{pH}$ | 应在相同温度下测定 |
+| D | Ⅳ．计算不同浓度溶液中醋酸的电离度 | 计算式为$\alpha=\dfrac{c(\mathrm{H^+})}{c(\mathrm{CH_3COO^-})}\times100\%$ |
+
+2. ★★（2023 浙江1月选考，13，3分）甲酸（$\mathrm{HCOOH}$）是重要的化工原料。工业废水中的甲酸及其盐，通过离子交换树脂（含固体活性成分$\mathrm{R_3N}$，$\mathrm{R}$为烷基）因静电作用被吸附回收，其回收率（被吸附在树脂上甲酸根的物质的量分数）与废水初始$\mathrm{pH}$关系如图（已知甲酸$K_a=1.8\times10^{-4}$），下列说法不正确的是（　　）
+
+[图：纵轴为回收率/$\%$，从$0$到$70$；横轴为废水初始$\mathrm{pH}$，从$1$到$8$。曲线先升高，在$\mathrm{pH}=2.4$附近达到约$60\%$的最大值，随后下降，$\mathrm{pH}>5$后逐渐接近较低的平台。$\mathrm{pH}=2.4$处有竖直虚线。]
+
+A．活性成分$\mathrm{R_3N}$在水中存在平衡：$\mathrm{R_3N+H_2O\rightleftharpoons R_3NH^++OH^-}$
+
+B．$\mathrm{pH}=5$的废水中$c(\mathrm{HCOO^-}):c(\mathrm{HCOOH})=18$
+
+C．废水初始$\mathrm{pH}<2.4$，随$\mathrm{pH}$下降，甲酸的电离被抑制，与$\mathrm{R_3NH^+}$作用的$\mathrm{HCOO^-}$数目减少
+
+D．废水初始$\mathrm{pH}>5$，离子交换树脂活性成分主要以$\mathrm{R_3NH^+}$形态存在
+
+3. ★★★（2025 全国，13，6分）$\mathrm{HF}$总浓度$c_{\text{总}}(\mathrm{HF})$为$0.100\,0\ \mathrm{mol\cdot L^{-1}}$的水溶液中存在平衡：$\mathrm{HF}\overset{K_1}{\rightleftharpoons}\mathrm{H^++F^-}$、$\mathrm{HF+F^-}\overset{K_2}{\rightleftharpoons}\mathrm{HF_2^-}$。溶液中$c(\mathrm{HF})$、$c(\mathrm{HF_2^-})$、$c(\mathrm{F^-})$与$\mathrm{pH}$关系如下图所示。下列叙述正确的是（　　）
+
+[图：纵轴为$c/(\mathrm{mol\cdot L^{-1}})$，从$0$到$0.100$；横轴为$\mathrm{pH}$，从$0$到$8$。曲线$\mathrm{M}$从约$0.100$逐渐下降至接近$0$；曲线$\mathrm{N}$从接近$0$逐渐上升至约$0.100$；曲线$\mathrm{P}$先升后降，在$\mathrm{pH}$约为$3$时达到峰值。在$\mathrm{pH}=4$处标出$\mathrm{N}$上的点$(4,0.080\,0)$、$\mathrm{M}$上的点$(4,0.011\,0)$、$\mathrm{P}$上的点$(4,0.004\,5)$。]
+
+A．$\mathrm{M}$、$\mathrm{N}$分别为$c(\mathrm{HF})～\mathrm{pH}$、$c(\mathrm{HF_2^-})～\mathrm{pH}$关系曲线
+
+B．$K_1=\dfrac{c(\mathrm{H^+})c(\mathrm{F^-})}{c(\mathrm{HF})}\approx7\times10^{-4}$，$K_2=\dfrac{c(\mathrm{HF_2^-})}{c(\mathrm{HF})c(\mathrm{F^-})}\approx5$
+
+C．溶液中$c_{\text{总}}(\mathrm{HF})=c(\mathrm{F^-})+c(\mathrm{HF})+c(\mathrm{HF_2^-})$
+
+D．$\mathrm{pH}=1$的溶液中$c(\mathrm{H^+})=c(\mathrm{F^-})+c(\mathrm{HF_2^-})+c(\mathrm{OH^-})$
+
+4. ★★★（2024 新课标，13，6分）常温下$\mathrm{CH_2ClCOOH}$和$\mathrm{CHCl_2COOH}$的两种溶液中，分布系数$\delta$与$\mathrm{pH}$的变化关系如下图所示。［比如：$\delta(\mathrm{CH_2ClCOO^-})=\dfrac{c(\mathrm{CH_2ClCOO^-})}{c(\mathrm{CH_2ClCOOH})+c(\mathrm{CH_2ClCOO^-})}$］
+
+[图：纵轴为$\delta$，从$0.0$到$1.0$；横轴为$\mathrm{pH}$，从$0.0$到$6.0$。有两组互补的上升、下降曲线，一组在$\mathrm{pH}$约为$1.3$、$\delta=0.5$处相交，另一组在$\mathrm{pH}$约为$2.8$、$\delta=0.5$处相交。左侧下降曲线上标有$a$点；标出$b(2.08,0.85)$、$c(2.08,0.15)$；右侧上升曲线标为$\mathrm{M}$。]
+
+<!-- page 96 -->
+
+下列叙述正确的是（　　）
+
+A．曲线$\mathrm{M}$表示$\delta(\mathrm{CHCl_2COO^-})～\mathrm{pH}$的变化关系
+
+B．若酸的初始浓度为$0.10\ \mathrm{mol\cdot L^{-1}}$，则$a$点对应的溶液中有$c(\mathrm{H^+})=c(\mathrm{CHCl_2COO^-})+c(\mathrm{OH^-})$
+
+C．$\mathrm{CH_2ClCOOH}$的电离常数$K_a=10^{-1.3}$
+
+D．$\mathrm{pH}=2.08$时，$\dfrac{\text{电离度 }\alpha(\mathrm{CH_2ClCOOH})}{\text{电离度 }\alpha(\mathrm{CHCl_2COOH})}=\dfrac{0.15}{0.85}$
+
+### 三年模拟
+
+答案 P403
+
+5. ★★（2026届山东肥城开学考，7）醋酸是一种重要的化工产品，下列有关醋酸溶液的说法错误的是（　　）
+
+A．常温下，$\mathrm{pH}=4$的$\mathrm{NH_4Cl}$溶液和$\mathrm{pH}=4$的$\mathrm{CH_3COOH}$溶液中，水的电离程度相同
+
+B．向$0.1\ \mathrm{mol\cdot L^{-1}}$ $\mathrm{CH_3COOH}$溶液中加水稀释，溶液中离子总物质的量增大
+
+C．$0.2\ \mathrm{mol\cdot L^{-1}}$ $\mathrm{CH_3COOH}$溶液与$0.1\ \mathrm{mol\cdot L^{-1}}$ $\mathrm{CH_3COOH}$溶液中$\mathrm{CH_3COOH}$的电离度之比小于$1:1$
+
+D．浓度均为$0.1\ \mathrm{mol\cdot L^{-1}}$的$\mathrm{CH_3COOH}$溶液和$\mathrm{CH_3COONa}$溶液等体积混合后：$c(\mathrm{CH_3COO^-})-c(\mathrm{CH_3COOH})=2[c(\mathrm{H^+})-c(\mathrm{OH^-})]$
+
+6. ★★（2025届山东济南期末，9）苹果醋是现代健康饮品，苹果酸（$\mathrm{H_2MA}$，二元弱酸）是这种饮料的主要酸性物质之一。对于常温下$\mathrm{pH}=4$的苹果酸溶液，下列说法正确的是（　　）
+
+A．该溶液中苹果酸的浓度为$5\times10^{-5}\ \mathrm{mol\cdot L^{-1}}$
+
+B．$c(\mathrm{H^+})=c(\mathrm{OH^-})+c(\mathrm{HMA^-})+c(\mathrm{MA^{2-}})$
+
+C．加水稀释使苹果酸电离度增大，溶液$\mathrm{pH}$减小
+
+D．该溶液加水稀释的过程中$\dfrac{c(\mathrm{H^+})}{c(\mathrm{HMA^-})}$增大
+
+7. ★★（2025届陕西全台第一次质检，12）某温度下，将$\mathrm{pH}$和体积均相同的$\mathrm{HCl}$溶液和$\mathrm{CH_3COOH}$溶液分别加水稀释，其$\mathrm{pH}$随加水体积的变化如图所示。下列叙述正确的是（　　）
+
+[图：纵轴为$\mathrm{pH}$，横轴为加水体积。两条曲线均从纵轴上的$a$点出发，随加水体积增大而上升；曲线Ⅰ位于曲线Ⅱ上方。第一条竖直虚线分别交曲线Ⅱ、Ⅰ于$b$、$c$点；第二条竖直虚线分别交曲线Ⅱ、Ⅰ于$d$、$e$点。]
+
+A．曲线Ⅱ代表$\mathrm{HCl}$溶液的稀释过程
+
+B．溶液中水的电离程度：$b$点$<c$点
+
+C．从$b$点到$d$点，溶液中所有离子浓度均下降
+
+D．该温度下，$b$点$K_w$的数值比$e$点大
+
+8. ★★★（2025届山东滨州二模，10）常温下，某平衡体系如图，隔膜允许$\mathrm{NH_3\cdot H_2O}$通过，不允许$\mathrm{NH_4^+}$和$\mathrm{OH^-}$通过。设溶液中$c_{\text{总}}(\mathrm{NH_3\cdot H_2O})=c(\mathrm{NH_3\cdot H_2O})+c(\mathrm{NH_4^+})$，且隔膜两侧的溶液体积相同。
+
+已知：常温下$K_b(\mathrm{NH_3\cdot H_2O})=1.0\times10^{-5}$，$\lg2\approx0.3$。
+
+[图：容器中央有隔膜，左侧为溶液A，$\mathrm{pH}=7.0$，标有$\mathrm{NH_4^++OH^-\rightleftharpoons NH_3\cdot H_2O}$；右侧为溶液B，$\mathrm{pH}=11.0$，标有$\mathrm{NH_3\cdot H_2O\rightleftharpoons NH_4^++OH^-}$。隔膜两侧的$\mathrm{NH_3\cdot H_2O}$之间以双向箭头相连。]
+
+下列说法正确的是（　　）
+
+A．水的电离程度：溶液A$<$溶液B
+
+B．溶液A中：$c_{\text{总}}(\mathrm{NH_3\cdot H_2O})=101c(\mathrm{NH_3\cdot H_2O})$
+
+C．向溶液A中通入一定量$\mathrm{NH_3}$，重新平衡后，溶液B的$\mathrm{pH}$保持不变
+
+D．撤去隔膜使溶液A与溶液B充分混合，所得溶液的$\mathrm{pH}$约为$10.7$
+
+9. ★★（2026届山东德州期中，17节选）肼（$\mathrm{N_2H_4}$）为无色、具有强还原性的液体，沸点为$113.5\ ℃$，可用于除去锅炉水中的溶解氧。已知$\mathrm{N_2H_4}$为二元弱碱，常温下其电离常数$K_{b_1}=3.0\times10^{-6}$，$K_{b_2}=7.6\times10^{-15}$。$\mathrm{N_2H_4}$的性质与氨气相似，易溶于水，可发生两步电离过程，第一步电离过程为$\mathrm{N_2H_4+H_2O\rightleftharpoons N_2H_5^++OH^-}$。常温下向$V\ \mathrm{mL}$ $a\ \mathrm{mol\cdot L^{-1}}$ $\mathrm{N_2H_4}$水溶液中逐滴加入$a\ \mathrm{mol\cdot L^{-1}}$盐酸至溶液呈中性，此时$\dfrac{c(\mathrm{N_2H_6^{2+}})}{c(\mathrm{N_2H_5^+})}=$________；当加入$1.5V\ \mathrm{mL}$ $a\ \mathrm{mol\cdot L^{-1}}$盐酸时，溶液呈________性。

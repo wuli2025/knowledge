@@ -1,0 +1,715 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "source_node_ids": [
+        "n-1c56a15e4aacc5a5a9b5"
+      ],
+      "text": "从分子结构上看，糖类是多羟基醛、多羟基酮和它们的脱水缩合物。糖类分为单糖、低聚糖（包括二糖）和多糖。",
+      "title": "糖类的概念与分类",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c2",
+      "source_node_ids": [
+        "n-e2c86d679a448693deb5"
+      ],
+      "text": "葡萄糖属于单糖，分子式为 $\\mathrm{C_6H_{12}O_6}$，结构简式为 $\\mathrm{CH_2OH(CHOH)_4CHO}$，官能团为 $\\mathrm{-OH}$ 和 $\\mathrm{-CHO}$。",
+      "title": "葡萄糖的组成与结构",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c3",
+      "source_node_ids": [
+        "n-e2c86d679a448693deb5"
+      ],
+      "text": "果糖属于单糖，分子式为 $\\mathrm{C_6H_{12}O_6}$，结构简式为 $\\mathrm{CH_2OH(CHOH)_3COCH_2OH}$，官能团为 $\\mathrm{-OH}$ 和 $\\mathrm{-C(=O)-}$。葡萄糖与果糖互为同分异构体。",
+      "title": "果糖的组成与结构",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c4",
+      "source_node_ids": [
+        "n-e2c86d679a448693deb5"
+      ],
+      "text": "核糖和脱氧核糖属于戊糖，分别是 RNA 和 DNA 的重要组成部分。核糖的结构简式为 $\\mathrm{CH_2OH(CHOH)_3CHO}$，脱氧核糖的结构简式为 $\\mathrm{CH_2OH(CHOH)_2CH_2CHO}$。",
+      "title": "核糖与脱氧核糖",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c5",
+      "source_node_ids": [
+        "n-ee737ccb91bfd5825bee"
+      ],
+      "text": "蔗糖与麦芽糖属于二糖，分子式均为 $\\mathrm{C_{12}H_{22}O_{11}}$，互为同分异构体。蔗糖不含醛基；麦芽糖含有醛基，属于还原性糖。乳糖也是一种常见的二糖。",
+      "title": "二糖",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c6",
+      "source_node_ids": [
+        "n-637d447c62360dc5c11d"
+      ],
+      "text": "淀粉与纤维素属于多糖，均属于高分子，分子式均可表示为 $\\mathrm{(C_6H_{10}O_5)}_n$。由于 $n$ 值不确定，二者均属于混合物，且不互为同分异构体。",
+      "title": "淀粉与纤维素的组成",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c7",
+      "source_node_ids": [
+        "n-c20e41b2f744e179624f",
+        "n-dccb20bffb40b905a3e5"
+      ],
+      "text": "油脂属于酯类，是高级脂肪酸和甘油（丙三醇）生成的酯。常见高级脂肪酸有硬脂酸（$\\mathrm{C_{17}H_{35}COOH}$）、软脂酸（$\\mathrm{C_{15}H_{31}COOH}$）、油酸（$\\mathrm{C_{17}H_{33}COOH}$）等。油脂和高级脂肪酸均不属于高分子。油脂结构表示为 $\\begin{array}{rcl}\\mathrm{R{-}COOCH_2}\\\\ \\vert\\\\ \\mathrm{R'{-}COOCH}\\\\ \\vert\\\\ \\mathrm{R''{-}COOCH_2}\\end{array}$；其中两个竖直单键连接甘油骨架的三个碳原子。",
+      "title": "油脂的概念与结构",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c8",
+      "source_node_ids": [
+        "n-d66e7b57aa5d9b3aea2f"
+      ],
+      "text": "$\\alpha$—氨基酸通式为 $\\mathrm{R{-}CH(NH_2){-}COOH}$，官能团为氨基（$\\mathrm{-NH_2}$）和羧基（$\\mathrm{-COOH}$）。",
+      "title": "氨基酸的结构",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c9",
+      "source_node_ids": [
+        "n-71b103076766489e2287"
+      ],
+      "text": "蛋白质含有 $\\mathrm{C}$、$\\mathrm{H}$、$\\mathrm{O}$、$\\mathrm{N}$、$\\mathrm{S}$ 等元素，由氨基酸通过缩聚反应形成，属于天然有机高分子。",
+      "title": "蛋白质的组成与结构",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c10",
+      "source_node_ids": [
+        "n-71b103076766489e2287"
+      ],
+      "text": "向蛋白质溶液中加入某些浓的无机盐溶液，如 $\\mathrm{(NH_4)_2SO_4}$、$\\mathrm{Na_2SO_4}$ 溶液，可以使蛋白质的溶解度降低而析出。盐析是可逆过程，过程中没有发生化学变化。",
+      "title": "蛋白质的盐析",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c11",
+      "source_node_ids": [
+        "n-71b103076766489e2287"
+      ],
+      "text": "加热、紫外线、X 射线、强酸、强碱、重金属盐及一些有机物（甲醛、乙醇、苯甲酸等）会使蛋白质变性。变性属于不可逆过程，可用于杀菌消毒、保存动物标本等。",
+      "title": "蛋白质的变性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c12",
+      "source_node_ids": [
+        "n-e058e1a85e42424e972d"
+      ],
+      "text": "酶是一类由细胞产生的、对生物体内的化学反应具有催化作用的有机化合物，其中绝大多数属于蛋白质。",
+      "title": "酶",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c13",
+      "source_node_ids": [
+        "n-ad6c0f708c9ed84c1b0b"
+      ],
+      "text": "核酸的组成元素为 $\\mathrm{C、H、O、N、P}$，标志元素为 $\\mathrm{P}$。核酸包括 $\\mathrm{RNA}$ 和 $\\mathrm{DNA}$。",
+      "title": "核酸的组成与分类",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c14",
+      "source_node_ids": [
+        "n-ad6c0f708c9ed84c1b0b"
+      ],
+      "text": "核苷酸由 $1$ 个碱基分子、$1$ 个戊糖分子和 $1$ 个磷酸分子组成。脱氧核糖核苷酸和核糖核苷酸各有 $4$ 种。",
+      "title": "核苷酸",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c15",
+      "source_node_ids": [
+        "n-ad6c0f708c9ed84c1b0b"
+      ],
+      "text": "$\\mathrm{RNA}$ 一般为单链，单体为 $4$ 种核糖核苷酸，是“遗传信使”，参与遗传信息的传递和表达。",
+      "title": "RNA",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "c16",
+      "source_node_ids": [
+        "n-ad6c0f708c9ed84c1b0b"
+      ],
+      "text": "$\\mathrm{DNA}$ 一般为双链，单体为 $4$ 种脱氧核糖核苷酸，是遗传信息的储存物质。",
+      "title": "DNA",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "laws": [
+    {
+      "id": "l1",
+      "source_node_ids": [
+        "n-e2c86d679a448693deb5"
+      ],
+      "text": "葡萄糖具有还原性，能与新制 $\\mathrm{Cu(OH)_2}$ 和银氨溶液反应；能与 $\\mathrm{H_2}$ 发生加成反应生成己六醇；分子中含有醇羟基，能与羧酸发生酯化反应。",
+      "title": "葡萄糖的还原、加成与酯化反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l2",
+      "source_node_ids": [
+        "n-e2c86d679a448693deb5"
+      ],
+      "text": "葡萄糖在酒化酶作用下发酵生成乙醇：$\\mathrm{C_6H_{12}O_6}\\xrightarrow{\\text{酒化酶}}2\\mathrm{C_2H_5OH}+2\\mathrm{CO_2}\\uparrow$。",
+      "title": "葡萄糖发酵",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l3",
+      "source_node_ids": [
+        "n-ee737ccb91bfd5825bee"
+      ],
+      "text": "蔗糖与麦芽糖都能在酸或酶作用下水解。蔗糖水解生成葡萄糖和果糖：$\\underset{\\text{蔗糖}}{\\mathrm{C_{12}H_{22}O_{11}}}+\\mathrm{H_2O}\\xrightarrow{\\text{酸或酶}}\\underset{\\text{葡萄糖}}{\\mathrm{C_6H_{12}O_6}}+\\underset{\\text{果糖}}{\\mathrm{C_6H_{12}O_6}}$。麦芽糖水解生成葡萄糖：$\\underset{\\text{麦芽糖}}{\\mathrm{C_{12}H_{22}O_{11}}}+\\mathrm{H_2O}\\xrightarrow{\\text{酸或酶}}\\underset{\\text{葡萄糖}}{2\\mathrm{C_6H_{12}O_6}}$。",
+      "title": "蔗糖与麦芽糖的水解",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l4",
+      "source_node_ids": [
+        "n-637d447c62360dc5c11d"
+      ],
+      "text": "淀粉与纤维素均可发生酯化反应，不能被银氨溶液、新制 $\\mathrm{Cu(OH)_2}$ 氧化，水解反应的最终产物均为葡萄糖。$\\underset{\\text{淀粉}}{\\mathrm{(C_6H_{10}O_5)}_n}+n\\mathrm{H_2O}\\xrightarrow{\\text{酸或酶}}\\underset{\\text{葡萄糖}}{n\\mathrm{C_6H_{12}O_6}}$；$\\underset{\\text{纤维素}}{\\mathrm{(C_6H_{10}O_5)}_n}+n\\mathrm{H_2O}\\xrightarrow{\\text{酸或酶}}\\underset{\\text{葡萄糖}}{n\\mathrm{C_6H_{12}O_6}}$。",
+      "title": "淀粉与纤维素的化学性质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l5",
+      "source_node_ids": [
+        "n-637d447c62360dc5c11d"
+      ],
+      "text": "纤维素在人体中不能水解，不能为人体提供能量；食物中的纤维素可刺激肠道蠕动，有助于消化。",
+      "title": "纤维素在人体中的作用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l6",
+      "source_node_ids": [
+        "n-dccb20bffb40b905a3e5"
+      ],
+      "text": "油脂的氢化又称油脂的硬化，经氢化制得的油脂叫人造脂肪，也称硬化油。油酸甘油酯与 $\\mathrm{H_2}$ 在催化剂、加热条件下发生加成反应：$\\mathrm{C_3H_5(OCOC_{17}H_{33})_3}+3\\mathrm{H_2}\\xrightarrow[\\Delta]{\\text{催化剂}}\\mathrm{C_3H_5(OCOC_{17}H_{35})_3}$。",
+      "title": "油脂的氢化",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l7",
+      "source_node_ids": [
+        "n-dccb20bffb40b905a3e5"
+      ],
+      "text": "油脂在碱性条件下的水解反应称为皂化反应。硬脂酸甘油酯在碱性条件下加热水解：$\\mathrm{C_3H_5(OCOC_{17}H_{35})_3}+3\\mathrm{NaOH}\\xrightarrow{\\Delta}\\mathrm{CH_2OHCHOHCH_2OH}+3\\mathrm{C_{17}H_{35}COONa}$。",
+      "title": "油脂的皂化反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l8",
+      "source_node_ids": [
+        "n-dccb20bffb40b905a3e5"
+      ],
+      "text": "不饱和高级脂肪酸甘油酯含有碳碳双键，能使溴水或酸性高锰酸钾溶液褪色。",
+      "title": "不饱和高级脂肪酸甘油酯的性质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l9",
+      "source_node_ids": [
+        "n-d66e7b57aa5d9b3aea2f"
+      ],
+      "text": "氨基酸具有两性。甘氨酸与 $\\mathrm{HCl}$、$\\mathrm{NaOH}$ 反应的原文方程式分别为 $\\mathrm{H_2NCH_2COOH}+\\mathrm{HCl}\\longrightarrow\\mathrm{ClH_3NCH_2COOH}$、$\\mathrm{H_2NCH_2COOH}+\\mathrm{NaOH}\\longrightarrow\\mathrm{H_2NCH_2COONa}+\\mathrm{H_2O}$。【待核对】第一式产物的文字式与原图说明的结构表示需核对；原图说明在 $\\mathrm{CH_2}$ 下方标注相连的 $\\mathrm{NH_3Cl}$，此处保留原式。",
+      "title": "氨基酸的两性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l10",
+      "source_node_ids": [
+        "n-d66e7b57aa5d9b3aea2f"
+      ],
+      "text": "氨基酸分子间脱水缩合形成含有肽键的化合物。例如：$\\mathrm{CH_3CH(NH_2)COOH}+\\mathrm{H_2NCH(CH_3)COOH}\\longrightarrow\\mathrm{CH_3CH(NH_2)C(=O)NHCH(CH_3)COOH}+\\mathrm{H_2O}$。多种氨基酸通过肽键连接最终可形成蛋白质。两种氨基酸混合可以形成四种链状二肽。",
+      "title": "氨基酸的成肽反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l11",
+      "source_node_ids": [
+        "n-71b103076766489e2287"
+      ],
+      "text": "蛋白质在酸、碱或酶的作用下，最终水解生成氨基酸；蛋白质具有两性，能与酸或碱反应生成盐。",
+      "title": "蛋白质的水解与两性",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l12",
+      "source_node_ids": [
+        "n-71b103076766489e2287"
+      ],
+      "text": "含有苯环的蛋白质遇浓硝酸会有白色沉淀产生，加热后沉淀变黄。蛋白质灼烧时有烧焦羽毛气味。",
+      "title": "蛋白质的显色与灼烧反应",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l13",
+      "source_node_ids": [
+        "n-e058e1a85e42424e972d"
+      ],
+      "text": "酶的催化反应条件温和，具有高效性和专一性。",
+      "title": "酶的催化特点",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "l14",
+      "source_node_ids": [
+        "n-ad6c0f708c9ed84c1b0b"
+      ],
+      "text": "核苷酸分子间脱水，形成“磷酯键”，聚合形成核酸。【待核对】“磷酯键”为原文用词，保留待核对。",
+      "title": "核苷酸聚合形成核酸",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "methods": [
+    {
+      "id": "m1",
+      "source_node_ids": [
+        "n-637d447c62360dc5c11d"
+      ],
+      "text": "淀粉用稀硫酸催化水解后，分别检验水解液：一份加入碘水，观察现象 A；另一份加入 $\\mathrm{NaOH}$ 溶液至呈碱性，再加入银氨溶液，观察现象 B。A 为蓝色且 B 未产生银镜，判断淀粉未水解；A 为蓝色且 B 出现银镜，判断淀粉部分水解；A 不呈蓝色且 B 出现银镜，判断淀粉完全水解。检验淀粉应取水解液，不能取中和液，因为 $\\mathrm{I_2}$ 能与 $\\mathrm{NaOH}$ 溶液反应。",
+      "title": "淀粉水解程度的判断",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m2",
+      "source_node_ids": [
+        "n-637d447c62360dc5c11d"
+      ],
+      "text": "淀粉、蔗糖用稀硫酸催化水解后，检验其水解产物前应先加入 $\\mathrm{NaOH}$ 溶液至溶液呈碱性，因为银镜反应或葡萄糖与新制 $\\mathrm{Cu(OH)_2}$ 的反应必须在碱性条件下进行。",
+      "title": "淀粉、蔗糖水解产物检验的条件控制",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m3",
+      "source_node_ids": [
+        "n-71b103076766489e2287"
+      ],
+      "text": "利用盐析分离和提纯蛋白质：向蛋白质溶液中加入某些浓的无机盐溶液，如 $\\mathrm{(NH_4)_2SO_4}$、$\\mathrm{Na_2SO_4}$ 溶液，使蛋白质溶解度降低而析出。该过程可逆，未发生化学变化。",
+      "title": "盐析法分离和提纯蛋白质",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "id": "m4",
+      "source_node_ids": [
+        "n-71b103076766489e2287"
+      ],
+      "text": "利用显色反应检验含苯环的蛋白质：加入浓硝酸，产生白色沉淀，加热后沉淀变黄。适用范围为含苯环的蛋白质。",
+      "title": "含苯环蛋白质的检验",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "relations": [
+    {
+      "evidence_node_ids": [
+        "n-1c56a15e4aacc5a5a9b5",
+        "n-e2c86d679a448693deb5"
+      ],
+      "from": "c1",
+      "to": "c2",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1c56a15e4aacc5a5a9b5",
+        "n-e2c86d679a448693deb5"
+      ],
+      "from": "c1",
+      "to": "c3",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e2c86d679a448693deb5"
+      ],
+      "from": "c1",
+      "to": "c4",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1c56a15e4aacc5a5a9b5",
+        "n-ee737ccb91bfd5825bee"
+      ],
+      "from": "c1",
+      "to": "c5",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-1c56a15e4aacc5a5a9b5",
+        "n-637d447c62360dc5c11d"
+      ],
+      "from": "c1",
+      "to": "c6",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e2c86d679a448693deb5"
+      ],
+      "from": "c2",
+      "to": "c3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e2c86d679a448693deb5"
+      ],
+      "from": "c2",
+      "to": "l1",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e2c86d679a448693deb5"
+      ],
+      "from": "c2",
+      "to": "l2",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ee737ccb91bfd5825bee"
+      ],
+      "from": "c5",
+      "to": "l3",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-637d447c62360dc5c11d"
+      ],
+      "from": "c6",
+      "to": "l4",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-637d447c62360dc5c11d"
+      ],
+      "from": "c6",
+      "to": "l5",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-637d447c62360dc5c11d"
+      ],
+      "from": "m1",
+      "to": "l4",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-637d447c62360dc5c11d",
+        "n-e2c86d679a448693deb5"
+      ],
+      "from": "m1",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-637d447c62360dc5c11d"
+      ],
+      "from": "m2",
+      "to": "m1",
+      "type": "用于",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-637d447c62360dc5c11d",
+        "n-e2c86d679a448693deb5"
+      ],
+      "from": "m2",
+      "to": "l1",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-dccb20bffb40b905a3e5"
+      ],
+      "from": "c7",
+      "to": "l6",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-dccb20bffb40b905a3e5"
+      ],
+      "from": "c7",
+      "to": "l7",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-dccb20bffb40b905a3e5"
+      ],
+      "from": "c7",
+      "to": "l8",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d66e7b57aa5d9b3aea2f"
+      ],
+      "from": "c8",
+      "to": "l9",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d66e7b57aa5d9b3aea2f"
+      ],
+      "from": "c8",
+      "to": "l10",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d66e7b57aa5d9b3aea2f",
+        "n-71b103076766489e2287"
+      ],
+      "from": "c8",
+      "to": "c9",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-d66e7b57aa5d9b3aea2f"
+      ],
+      "from": "l10",
+      "to": "c9",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-71b103076766489e2287"
+      ],
+      "from": "c9",
+      "to": "c10",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-71b103076766489e2287"
+      ],
+      "from": "c9",
+      "to": "c11",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-71b103076766489e2287"
+      ],
+      "from": "c9",
+      "to": "l11",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-71b103076766489e2287"
+      ],
+      "from": "c9",
+      "to": "l12",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-71b103076766489e2287"
+      ],
+      "from": "m3",
+      "to": "c10",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-71b103076766489e2287"
+      ],
+      "from": "m4",
+      "to": "l12",
+      "type": "运用",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e058e1a85e42424e972d"
+      ],
+      "from": "c12",
+      "to": "c9",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e058e1a85e42424e972d"
+      ],
+      "from": "c12",
+      "to": "l13",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ad6c0f708c9ed84c1b0b"
+      ],
+      "from": "c13",
+      "to": "c15",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ad6c0f708c9ed84c1b0b"
+      ],
+      "from": "c13",
+      "to": "c16",
+      "type": "包含",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ad6c0f708c9ed84c1b0b"
+      ],
+      "from": "c14",
+      "to": "l14",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ad6c0f708c9ed84c1b0b"
+      ],
+      "from": "l14",
+      "to": "c13",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ad6c0f708c9ed84c1b0b"
+      ],
+      "from": "c14",
+      "to": "c15",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-ad6c0f708c9ed84c1b0b"
+      ],
+      "from": "c14",
+      "to": "c16",
+      "type": "前置知识",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e2c86d679a448693deb5"
+      ],
+      "from": "c4",
+      "to": "c15",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-e2c86d679a448693deb5"
+      ],
+      "from": "c4",
+      "to": "c16",
+      "type": "相关",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a8d6257483b87f739c83"
+      ],
+      "from": "n-a8d6257483b87f739c83",
+      "to": "l4",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a8d6257483b87f739c83"
+      ],
+      "from": "n-a8d6257483b87f739c83",
+      "to": "c5",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a8d6257483b87f739c83"
+      ],
+      "from": "n-a8d6257483b87f739c83",
+      "to": "c7",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a8d6257483b87f739c83"
+      ],
+      "from": "n-a8d6257483b87f739c83",
+      "to": "c9",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    },
+    {
+      "evidence_node_ids": [
+        "n-a8d6257483b87f739c83"
+      ],
+      "from": "n-a8d6257483b87f739c83",
+      "to": "c13",
+      "type": "考查",
+      "status": "机器整理（待核对）"
+    }
+  ],
+  "section_id": "n-ffcda9772586f2d1525d",
+  "source_digest": "855e5a5e4b1056a745a1029bb3772402de10c2f1a644031133c73a1e33467b01",
+  "subject": "化学",
+  "status": "机器整理（待核对）"
+}
